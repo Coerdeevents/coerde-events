@@ -1,0 +1,23 @@
+# Secrets / Credentials  -- NIEMALS committen
+.env
+.env.*
+*.key
+*.pem
+credentials*.json
+secrets*.json
+n8n-credentials*
+*.token
+
+# n8n lokale Daten
+.n8n/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs / Temp
+*.log
+tmp/
+node_modules/
