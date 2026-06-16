@@ -2,8 +2,8 @@
   "dataset": "coerde-events",
   "description": "Öffentliche Veranstaltungen in Münster-Coerde",
   "license": "CC-BY-4.0",
-  "generated_at": "2026-06-16T10:10:19.460Z",
-  "event_count": 55,
+  "generated_at": "2026-06-16T10:38:56.455Z",
+  "event_count": 56,
   "events": [
     {
       "event_id": "2026-06-16_1330_offene_beratungszeit_antidiskriminierungsarbeit_in_coerde_awo_coerde_mittendrin",
@@ -23,7 +23,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-06-17_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_awo_coerde_mittendrin",
@@ -43,7 +43,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-06-17_1800_heimat_remixed_musik_der_kulturen_iriba_brunnen_termine",
@@ -63,7 +63,7 @@
       "source_url": "https://www.iriba-brunnen.de/termine/",
       "source_id": "iriba_brunnen_termine",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-06-18_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mittendrin",
@@ -83,7 +83,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-06-19_0415_lesen_mit_kleinen_wesen_stadtbuecherei_coerde",
@@ -97,13 +97,13 @@
       "city": "Münster-Coerde",
       "organizer": "Stadtbücherei Münster",
       "category": "Lesung / Bildung / Stadtteil",
-      "short_description": "Vorlesestunde für Kleinkinder mit Eltern oder Tageseltern, altersgerechte Geschichten werden gemütlich vorgelesen.",
+      "short_description": "Anja Arica lädt Kleinkinder mit Eltern oder Tageseltern zum gemeinsamen Lesen ein. Die Kinder können gemütlich auf dem Schoß altersgerechte Geschichten erleben.",
       "status": "scheduled",
       "source_name": "Stadtbücherei Coerde – Veranstaltungen",
       "source_url": "https://www.stadt-muenster.de/buecherei/orte-und-oeffnungszeiten/coerde/veranstaltungen",
       "source_id": "stadtbuecherei_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-06-19_1530_projekt_madchen_starken_awo_coerde_mittendrin",
@@ -123,7 +123,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-06-20_1500_nachhilfeangebot_awo_coerde_mittendrin",
@@ -143,7 +143,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-06-21_1200_qi_gong_seminar_die_wandlungsphase_feuer_meerwiese_begegnungszentrum",
@@ -157,13 +157,13 @@
       "city": "Münster-Coerde",
       "organizer": "Volker Nowak-von der Way, Qi Gong – Lehrer",
       "category": "Stadtteil / Begegnung / Kultur",
-      "short_description": "Seminar mit Übungen zur Harmonisierung des Herzens nach Traditioneller Chinesischer Medizin, mit Bewegungs- und meditativen Übungen zur Förderung des Wohlbefindens.",
+      "short_description": "Seminar mit Übungen zur Harmonisierung des Herzens nach Traditioneller Chinesischer Medizin, mit Bewegungs- und meditativen Übungen zur Förderung des Qi-Flusses.",
       "status": "scheduled",
       "source_name": "Meerwiese – Begegnungszentrum Veranstaltungen",
       "source_url": "https://www.stadt-muenster.de/meerwiese/begegnungszentrum/veranstaltungen",
       "source_id": "meerwiese_begegnungszentrum",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-06-22_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_alter_werden_in_coerde_awo_coerde_mittendrin",
@@ -183,7 +183,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-06-23_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_coerde_mittendrin",
@@ -203,7 +203,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-06-24_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_awo_coerde_mittendrin",
@@ -223,7 +223,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-06-25_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mittendrin",
@@ -243,7 +243,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-06-26_1400_improkids_improvisations_theater_workshop_kulturinitiative_coerde",
@@ -257,13 +257,13 @@
       "city": "Münster-Coerde",
       "organizer": "DRK Jugendtreff Münster-Coerde",
       "category": "Kultur / Stadtteil / Ehrenamt",
-      "short_description": "| DRK Jugendtreff Münster-Coerde 01775250574 l .lie e r m te d Zum Kalender hinzufügen Google Kalender iCalendar Outlook 365 Outlook Live",
+      "short_description": "| DRK Jugendtreff Münster-Coerde 01775250574 ka liesn r r m enste de Zum Kalender hinzufügen Google Kalender iCalendar Outlook 365 Outlook Live",
       "status": "scheduled",
       "source_name": "Kulturinitiative Coerde",
       "source_url": "https://kulturinitiative-coerde.de/",
       "source_id": "kulturinitiative_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-06-26_1530_projekt_madchen_starken_awo_coerde_mittendrin",
@@ -283,7 +283,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-06-27_1500_nachhilfeangebot_awo_coerde_mittendrin",
@@ -303,7 +303,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-06-27_1800_stadtteilkonzert_meerwiese_theater",
@@ -323,7 +323,7 @@
       "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-06-28_1530_erwachsen_meerwiese_theater",
@@ -337,13 +337,13 @@
       "city": "Münster-Coerde",
       "organizer": "theater satt aus München",
       "category": "Theater / Kultur / Tanz / Kinderkultur",
-      "short_description": "Theaterstück von Veronika Wolff und Dominik Burki für alle ab 6 Jahren, präsentiert vom theater satt aus München.",
+      "short_description": "Theaterstück von Veronika Wolff und Dominik Burki für alle ab 6 Jahren, aufgeführt vom theater satt aus München.",
       "status": "scheduled",
       "source_name": "Meerwiese – Stücke und Termine",
       "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-06-29_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_alter_werden_in_coerde_awo_coerde_mittendrin",
@@ -363,7 +363,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-06-30_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_coerde_mittendrin",
@@ -383,7 +383,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-07-01_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_awo_coerde_mittendrin",
@@ -403,7 +403,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-07-02_1200_polizeisprechstunde_coerde_mittendrin_awo_coerde_mittendrin",
@@ -423,7 +423,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-07-03_1030_tanzxchange_freie_tanzszene_munster_open_class_improvisation_mit_leila_bakthali_meerwiese_begegnungszentrum",
@@ -437,13 +437,13 @@
       "city": "Münster-Coerde",
       "organizer": "Melanie López López, Tänzerin und Mitbegründerin des Kollektivergissmeinnicht",
       "category": "Stadtteil / Begegnung / Kultur",
-      "short_description": "Offene Tanzklasse mit Schwerpunkt Improvisation, Teil des TanzXchange-Projekts zur Förderung der Tanzszene in Münster.",
+      "short_description": "Offene Tanzklasse mit Schwerpunkt Improvisation, Teil des Engagements zur Förderung der Tanzszene in Münster.",
       "status": "scheduled",
       "source_name": "Meerwiese – Begegnungszentrum Veranstaltungen",
       "source_url": "https://www.stadt-muenster.de/meerwiese/begegnungszentrum/veranstaltungen",
       "source_id": "meerwiese_begegnungszentrum",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-07-03_1530_projekt_madchen_starken_awo_coerde_mittendrin",
@@ -463,7 +463,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-07-04_0930_gemeinsames_fruhstuck_awo_coerde_mittendrin",
@@ -483,7 +483,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-07-05_1330_a_taste_of_nature_workshop_wilde_fermente_eckels_kladde_events",
@@ -497,13 +497,13 @@
       "city": "Münster-Coerde",
       "organizer": "Eckels Kladde",
       "category": "Kultur / Musik / Stadtteil",
-      "short_description": "Workshop zur Herstellung wilder Fermente mit praktischen Anleitungen und Verkostung in Münster-Coerde.",
+      "short_description": "Workshop zur Herstellung und Verkostung von wilden Fermenten in Münster-Coerde.",
       "status": "scheduled",
       "source_name": "e.ssenz / Eckels Kladde – alle Kurse und Events",
       "source_url": "https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster",
       "source_id": "eckels_kladde_events",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-07-05_1530_spiel_zeit_yesterdays_meerwiese_theater",
@@ -523,7 +523,7 @@
       "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-07-05_1630_konzert_dreier_streicherensembles_der_westfalischen_schule_fur_musik_meerwiese_begegnungszentrum",
@@ -543,7 +543,7 @@
       "source_url": "https://www.stadt-muenster.de/meerwiese/begegnungszentrum/veranstaltungen",
       "source_id": "meerwiese_begegnungszentrum",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-07-06_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_alter_werden_in_coerde_awo_coerde_mittendrin",
@@ -563,7 +563,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-07-07_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_coerde_mittendrin",
@@ -583,7 +583,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-07-08_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_awo_coerde_mittendrin",
@@ -603,7 +603,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-07-09_1000_demokratissimo_eine_performative_kochshow_meerwiese_theater",
@@ -617,13 +617,13 @@
       "city": "Münster-Coerde",
       "organizer": "Fetter Fisch – Performance | Theater aus Münster",
       "category": "Theater / Kultur / Tanz / Kinderkultur",
-      "short_description": "Performative Kochshow für alle ab 10 Jahren, eine geschlossene Veranstaltung von Fetter Fisch – Performance aus Münster.",
+      "short_description": "Performative Kochshow für alle ab 10 Jahren, veranstaltet von Fetter Fisch – Performance aus Münster. Geschlossene Veranstaltung.",
       "status": "scheduled",
       "source_name": "Meerwiese – Stücke und Termine",
       "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-07-09_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mittendrin",
@@ -643,7 +643,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-07-10_1530_projekt_madchen_starken_awo_coerde_mittendrin",
@@ -663,7 +663,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-07-11_1400_coerdinale_das_kulturfest_im_stadtteil_kulturinitiative_coerde",
@@ -677,13 +677,13 @@
       "city": "Münster-Coerde",
       "organizer": "Kulturinitiative Coerde e. V.",
       "category": "Kultur / Stadtteil / Ehrenamt",
-      "short_description": "| Coerdinale – Das Kulturfest im Stadtteil kostenfrei Kulturinitiative Coerde e. V. Veranstalter-Website anzeigen i f k ltur-co d .d Zum Kalender hinzufügen Google Kalender iCalendar Outlook 365 Outlook Live",
+      "short_description": "| Coerdinale – Das Kulturfest im Stadtteil kostenfrei Kulturinitiative Coerde e. V. Veranstalter-Website anzeigen n o l u coe e Zum Kalender hinzufügen Google Kalender iCalendar Outlook 365 Outlook Live",
       "status": "scheduled",
       "source_name": "Kulturinitiative Coerde",
       "source_url": "https://kulturinitiative-coerde.de/",
       "source_id": "kulturinitiative_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-07-11_1500_nachhilfeangebot_awo_coerde_mittendrin",
@@ -703,7 +703,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-07-12_1530_spiel_zeit_was_fur_ein_theater_meerwiese_theater",
@@ -717,13 +717,13 @@
       "city": "Münster-Coerde",
       "organizer": "Meerwiesel Theaterkinderclub",
       "category": "Theater / Kultur / Tanz / Kinderkultur",
-      "short_description": "Eigenproduktion des Theaterkinderclub Meerwiesel für alle ab 8 Jahren.",
+      "short_description": "Eigenproduktion des Theaterkinderclubs Meerwiesel für alle ab 8 Jahren.",
       "status": "scheduled",
       "source_name": "Meerwiese – Stücke und Termine",
       "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-07-13_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_alter_werden_in_coerde_awo_coerde_mittendrin",
@@ -743,7 +743,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-07-14_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_coerde_mittendrin",
@@ -763,7 +763,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-07-17_0415_lesen_mit_kleinen_wesen_stadtbuecherei_coerde",
@@ -777,13 +777,13 @@
       "city": "Münster-Coerde",
       "organizer": "Stadtbücherei Münster",
       "category": "Lesung / Bildung / Stadtteil",
-      "short_description": "Vorlesestunde für Kleinkinder mit Eltern oder Tageseltern, altersgerechte Geschichten werden gemütlich vorgelesen.",
+      "short_description": "Anja Arica lädt Kleinkinder mit Eltern oder Tageseltern zum gemeinsamen Lesen ein. Die Kinder können gemütlich auf dem Schoß altersgerechte Geschichten erleben.",
       "status": "scheduled",
       "source_name": "Stadtbücherei Coerde – Veranstaltungen",
       "source_url": "https://www.stadt-muenster.de/buecherei/orte-und-oeffnungszeiten/coerde/veranstaltungen",
       "source_id": "stadtbuecherei_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-07-29_1700_burgerkurs_vom_patty_bis_zur_sauce_selbstgemacht_eckels_kladde_events",
@@ -797,13 +797,13 @@
       "city": "Münster-Coerde",
       "organizer": "Eckels Kladde",
       "category": "Kultur / Musik / Stadtteil",
-      "short_description": "Kochkurs zur Herstellung von Burgern inklusive Patties und Saucen, mit praktischen Tipps und Verkostung.",
+      "short_description": "Kochkurs zur Herstellung von Burgern inklusive Patties und Saucen in Münster-Coerde.",
       "status": "scheduled",
       "source_name": "e.ssenz / Eckels Kladde – alle Kurse und Events",
       "source_url": "https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster",
       "source_id": "eckels_kladde_events",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-08-26_1700_burgerkurs_vom_patty_bis_zur_sauce_selbstgemacht_eckels_kladde_events",
@@ -817,13 +817,13 @@
       "city": "Münster-Coerde",
       "organizer": "Eckels Kladde",
       "category": "Kultur / Musik / Stadtteil",
-      "short_description": "Kochkurs zur Herstellung von Burgern inklusive Patties und Saucen, mit praktischen Tipps und Verkostung.",
+      "short_description": "Kochkurs zur Herstellung von Burgern inklusive Patties und Saucen in Münster-Coerde.",
       "status": "scheduled",
       "source_name": "e.ssenz / Eckels Kladde – alle Kurse und Events",
       "source_url": "https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster",
       "source_id": "eckels_kladde_events",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-08-29_1500_abschlussfest_des_coerder_kinder_kultur_sommers_2026_initiative_chack_projekte",
@@ -837,13 +837,13 @@
       "city": "Münster-Coerde",
       "organizer": "Initiative ChaCK e.V.",
       "category": "",
-      "short_description": "Das Abschlussfest des Coerder-Kinder-Kultur-Sommers 2026 findet auf dem Hamannplatz statt. Die Kinder präsentieren die Ergebnisse der Sommerkurse in verschiedenen künstlerischen Disziplinen.",
+      "short_description": "Das Abschlussfest des Coerder-Kinder-Kultur-Sommers 2026 präsentiert die Ergebnisse der Sommerkurse für Kinder bis 12 Jahre. Das Fest findet auf dem Hamannplatz statt und bietet eine Gelegenheit, die kreativen Leistungen der Kinder zu feiern.",
       "status": "scheduled",
       "source_name": "Initiative ChaCK – Projekte",
       "source_url": "",
       "source_id": "initiative_chack_projekte",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-09-04_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwiese_begegnungszentrum",
@@ -863,7 +863,7 @@
       "source_url": "https://www.stadt-muenster.de/meerwiese/begegnungszentrum/veranstaltungen",
       "source_id": "meerwiese_begegnungszentrum",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-09-04_1900_die_lofoten_multimediale_prasentation_mit_3_gang_menu_eckels_kladde_events",
@@ -877,13 +877,13 @@
       "city": "Münster-Coerde",
       "organizer": "Eckels Kladde",
       "category": "Kultur / Musik / Stadtteil",
-      "short_description": "Multimediale Präsentation über die Lofoten mit einem einzigartigen 3-Gang-Menü in Münster-Coerde.",
+      "short_description": "Multimediale Präsentation mit einem einzigartigen 3-Gang-Menü in Münster-Coerde.",
       "status": "scheduled",
       "source_name": "e.ssenz / Eckels Kladde – alle Kurse und Events",
       "source_url": "https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster",
       "source_id": "eckels_kladde_events",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-09-05_1500_fest_der_vielfalt_iriba_brunnen_termine",
@@ -897,13 +897,13 @@
       "city": "Münster-Coerde",
       "organizer": "Iriba-Brunnen e.V.",
       "category": "Stadtteil / Begegnung / Engagement",
-      "short_description": "Fest zur Feier der kulturellen Vielfalt mit verschiedenen Aktivitäten und Begegnungen im Franziskushaus in Coerde.",
+      "short_description": "Fest zur Feier der kulturellen Vielfalt im Franziskushaus in Coerde mit verschiedenen Aktivitäten und Begegnungen.",
       "status": "scheduled",
       "source_name": "Iriba-Brunnen – Termine",
       "source_url": "https://www.iriba-brunnen.de/termine/",
       "source_id": "iriba_brunnen_termine",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-09-06_1200_qi_gong_seminar_die_wandlungsphase_metall_meerwiese_begegnungszentrum",
@@ -923,7 +923,7 @@
       "source_url": "https://www.stadt-muenster.de/meerwiese/begegnungszentrum/veranstaltungen",
       "source_id": "meerwiese_begegnungszentrum",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-09-18_1930_vorlese_cafe_im_september_auf_turkisch_deutsch_mit_musik_kulturinitiative_coerde",
@@ -943,11 +943,11 @@
       "source_url": "https://kulturinitiative-coerde.de/",
       "source_id": "kulturinitiative_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
-      "event_id": "2026-09-19_ganztag_6_rock_am_berg_festival_rock_am_berg",
-      "title": "6. Rock am Berg Festival",
+      "event_id": "2026-09-19_ganztag_6_rock_am_berg_jubilaum_rock_am_berg",
+      "title": "6. Rock am Berg Jubiläum",
       "start_date": "2026-09-19",
       "start_time": null,
       "end_date": "2026-09-19",
@@ -957,21 +957,21 @@
       "city": "Münster-Coerde",
       "organizer": "Rock am Berg Münster",
       "category": "Musik / Konzert / Stadtteil",
-      "short_description": "Das sechste Rock am Berg Festival findet in den Rieselfeldern von Münster statt. Alle Bands spielen ohne Gage, um Spenden für Menschen in Not zu generieren. Getränke und Speisen werden angeboten, der Erlös geht als Spende.",
+      "short_description": "Das sechste Rock am Berg Festival findet in den Rieselfeldern von Münster statt. Bands spielen ohne Gage, um Spenden für Menschen in Not zu sammeln. Für Verpflegung ist gesorgt, der Erlös wird gespendet.",
       "status": "scheduled",
       "source_name": "Rock am Berg",
       "source_url": "https://www.rockamberg-ms.de/",
       "source_id": "rock_am_berg",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-09-19_1400_osteuropa_seminar_nie_wieder_allein_meerwiese_begegnungszentrum",
       "title": "Osteuropa – Seminar: Nie wieder allein",
       "start_date": "2026-09-19",
       "start_time": "14:00",
-      "end_date": "2026-09-20",
-      "end_time": "14:00",
+      "end_date": "2026-09-19",
+      "end_time": "19:00",
       "location_name": "Begegnungszentrum Meerwiese",
       "address": "An der Meerwiese 25, 48157 Münster-Coerde",
       "city": "Münster-Coerde",
@@ -983,7 +983,27 @@
       "source_url": "https://www.stadt-muenster.de/meerwiese/begegnungszentrum/veranstaltungen",
       "source_id": "meerwiese_begegnungszentrum",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
+    },
+    {
+      "event_id": "2026-09-20_1000_osteuropa_seminar_nie_wieder_allein_meerwiese_begegnungszentrum",
+      "title": "Osteuropa – Seminar: Nie wieder allein",
+      "start_date": "2026-09-20",
+      "start_time": "10:00",
+      "end_date": "2026-09-20",
+      "end_time": "14:00",
+      "location_name": "Begegnungszentrum Meerwiese",
+      "address": "An der Meerwiese 25, 48157 Münster-Coerde",
+      "city": "Münster-Coerde",
+      "organizer": "Joachim Wieder, Experte Osteuropäische Geschichte und internationale Politik",
+      "category": "Stadtteil / Begegnung / Kultur",
+      "short_description": "Fortsetzung des Seminars zur Entwicklung eines neuen Gemeinsinns in osteuropäischen Gesellschaften mit Fokus auf friedliche Überwindung historischer Konflikte.",
+      "status": "scheduled",
+      "source_name": "Meerwiese – Begegnungszentrum Veranstaltungen",
+      "source_url": "https://www.stadt-muenster.de/meerwiese/begegnungszentrum/veranstaltungen",
+      "source_id": "meerwiese_begegnungszentrum",
+      "confidence": "0,9",
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-10-09_1130_ich_bin_mehr_als_mein_feed_workshop_fur_madchen_zu_social_media_essen_korpergefu_iriba_brunnen_termine",
@@ -997,13 +1017,13 @@
       "city": "Münster-Coerde",
       "organizer": "Iriba-Brunnen e.V.",
       "category": "Stadtteil / Begegnung / Engagement",
-      "short_description": "Workshop für Mädchen, der sich mit den Themen Social Media, Ernährung und Körperbewusstsein beschäftigt.",
+      "short_description": "Workshop für Mädchen zu den Themen Social Media, Ernährung und Körperbewusstsein im Franziskushaus in Coerde.",
       "status": "scheduled",
       "source_name": "Iriba-Brunnen – Termine",
       "source_url": "https://www.iriba-brunnen.de/termine/",
       "source_id": "iriba_brunnen_termine",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-10-10_1000_fachtagung_fruhkindliche_bildung_und_chancengleichheit_initiative_chack_fachtagung",
@@ -1023,7 +1043,7 @@
       "source_url": "",
       "source_id": "initiative_chack_fachtagung",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-11-06_1900_die_lofoten_multimediale_prasentation_mit_3_gang_menu_eckels_kladde_events",
@@ -1037,13 +1057,13 @@
       "city": "Münster-Coerde",
       "organizer": "Eckels Kladde",
       "category": "Kultur / Musik / Stadtteil",
-      "short_description": "Multimediale Präsentation über die Lofoten mit einem einzigartigen 3-Gang-Menü in Münster-Coerde.",
+      "short_description": "Multimediale Präsentation mit einem einzigartigen 3-Gang-Menü in Münster-Coerde.",
       "status": "scheduled",
       "source_name": "e.ssenz / Eckels Kladde – alle Kurse und Events",
       "source_url": "https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster",
       "source_id": "eckels_kladde_events",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-11-06_1930_vorlese_cafe_im_november_auf_russisch_deutsch_mit_musik_kulturinitiative_coerde",
@@ -1063,7 +1083,7 @@
       "source_url": "https://kulturinitiative-coerde.de/",
       "source_id": "kulturinitiative_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-11-20_0415_lesen_mit_kleinen_wesen_stadtbuecherei_coerde",
@@ -1077,13 +1097,13 @@
       "city": "Münster-Coerde",
       "organizer": "Stadtbücherei Münster",
       "category": "Lesung / Bildung / Stadtteil",
-      "short_description": "Vorlesestunde für Kleinkinder mit Eltern oder Tageseltern, altersgerechte Geschichten werden gemütlich vorgelesen.",
+      "short_description": "Anja Arica lädt Kleinkinder mit Eltern oder Tageseltern zum gemeinsamen Lesen ein. Die Kinder können gemütlich auf dem Schoß altersgerechte Geschichten erleben.",
       "status": "scheduled",
       "source_name": "Stadtbücherei Coerde – Veranstaltungen",
       "source_url": "https://www.stadt-muenster.de/buecherei/orte-und-oeffnungszeiten/coerde/veranstaltungen",
       "source_id": "stadtbuecherei_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     },
     {
       "event_id": "2026-12-18_0415_lesen_mit_kleinen_wesen_stadtbuecherei_coerde",
@@ -1097,13 +1117,13 @@
       "city": "Münster-Coerde",
       "organizer": "Stadtbücherei Münster",
       "category": "Lesung / Bildung / Stadtteil",
-      "short_description": "Vorlesestunde für Kleinkinder mit Eltern oder Tageseltern, altersgerechte Geschichten werden gemütlich vorgelesen.",
+      "short_description": "Anja Arica lädt Kleinkinder mit Eltern oder Tageseltern zum gemeinsamen Lesen ein. Die Kinder können gemütlich auf dem Schoß altersgerechte Geschichten erleben.",
       "status": "scheduled",
       "source_name": "Stadtbücherei Coerde – Veranstaltungen",
       "source_url": "https://www.stadt-muenster.de/buecherei/orte-und-oeffnungszeiten/coerde/veranstaltungen",
       "source_id": "stadtbuecherei_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-06-16T10:10:19.460Z"
+      "last_updated": "2026-06-16T10:38:56.455Z"
     }
   ]
 }
