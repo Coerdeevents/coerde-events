@@ -7,94 +7,67 @@ X-WR-CALNAME:Coerde Events
 X-WR-CALDESC:Öffentliche Veranstaltungen in Münster-Coerde
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:2026-06-24_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_mi
- grationsberatung_mbe@coerde-events
-DTSTAMP:20260618T195332Z
+UID:2026-06-24_0900_migrationsberatung_mbe_beratung_in_coerde_drk_munster_m
+ igrationsberatung_mbe@coerde-events
+DTSTAMP:20260618T201722Z
 DTSTART;TZID=Europe/Berlin:20260624T090000
 DTEND;TZID=Europe/Berlin:20260624T150000
-SUMMARY:Migrationsberatung (MBE) in Münster-Coerde
+SUMMARY:Migrationsberatung (MBE) - Beratung in Coerde
 LOCATION:DRK Münster – Migrationsberatung\, Hamannplatz 26/28\, 48157 Münst
  er-Coerde\, Münster-Coerde
-DESCRIPTION:Wöchentlich mittwochs findet am Standort Coerde eine Migrations
- beratung für erwachsene Neuzugewanderte ab 28 Jahren statt. Beratung zu In
- tegrationsprozessen\, Behördenangelegenheiten und weiteren Themen.\nVerans
- talter: Deutsches Rotes Kreuz Münster
+DESCRIPTION:Wöchentliches Beratungsangebot für erwachsene Neuzugewanderte a
+ b 28 Jahren mit Unterstützung bei Integrationsprozessen und Alltagsfragen 
+ in Coerde.\nVeranstalter: Deutsches Rotes Kreuz Münster\nQuelle: https://w
+ ww.drk-muenster.de/angebot/migrationsberatung.html
+URL:https://www.drk-muenster.de/angebot/migrationsberatung.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-07-01_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_mi
- grationsberatung_mbe@coerde-events
-DTSTAMP:20260618T195332Z
+UID:2026-07-01_0900_migrationsberatung_mbe_beratung_in_coerde_drk_munster_m
+ igrationsberatung_mbe@coerde-events
+DTSTAMP:20260618T201722Z
 DTSTART;TZID=Europe/Berlin:20260701T090000
 DTEND;TZID=Europe/Berlin:20260701T150000
-SUMMARY:Migrationsberatung (MBE) in Münster-Coerde
+SUMMARY:Migrationsberatung (MBE) - Beratung in Coerde
 LOCATION:DRK Münster – Migrationsberatung\, Hamannplatz 26/28\, 48157 Münst
  er-Coerde\, Münster-Coerde
-DESCRIPTION:Wöchentlich mittwochs findet am Standort Coerde eine Migrations
- beratung für erwachsene Neuzugewanderte ab 28 Jahren statt. Beratung zu In
- tegrationsprozessen\, Behördenangelegenheiten und weiteren Themen.\nVerans
- talter: Deutsches Rotes Kreuz Münster
+DESCRIPTION:Wöchentliches Beratungsangebot für erwachsene Neuzugewanderte a
+ b 28 Jahren mit Unterstützung bei Integrationsprozessen und Alltagsfragen 
+ in Coerde.\nVeranstalter: Deutsches Rotes Kreuz Münster\nQuelle: https://w
+ ww.drk-muenster.de/angebot/migrationsberatung.html
+URL:https://www.drk-muenster.de/angebot/migrationsberatung.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-07-05_1330_a_taste_of_nature_workshop_wilde_fermente_eckels_kladde
- _events@coerde-events
-DTSTAMP:20260618T195332Z
-DTSTART;TZID=Europe/Berlin:20260705T133000
-DTEND;TZID=Europe/Berlin:20260705T153000
-SUMMARY:A taste of:NATURE - Workshop - Wilde Fermente
-LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Workshop zum Thema wilde Fermente mit praktischen Anleitungen u
- nd Verkostungen in Münster-Coerde.\nVeranstalter: Eckels Kladde\nQuelle: h
- ttps://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster
-URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
- er
-CATEGORIES:Kultur / Musik / Stadtteil
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-08_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_mi
- grationsberatung_mbe@coerde-events
-DTSTAMP:20260618T195332Z
+UID:2026-07-08_0900_migrationsberatung_mbe_beratung_in_coerde_drk_munster_m
+ igrationsberatung_mbe@coerde-events
+DTSTAMP:20260618T201722Z
 DTSTART;TZID=Europe/Berlin:20260708T090000
 DTEND;TZID=Europe/Berlin:20260708T150000
-SUMMARY:Migrationsberatung (MBE) in Münster-Coerde
+SUMMARY:Migrationsberatung (MBE) - Beratung in Coerde
 LOCATION:DRK Münster – Migrationsberatung\, Hamannplatz 26/28\, 48157 Münst
  er-Coerde\, Münster-Coerde
-DESCRIPTION:Wöchentlich mittwochs findet am Standort Coerde eine Migrations
- beratung für erwachsene Neuzugewanderte ab 28 Jahren statt. Beratung zu In
- tegrationsprozessen\, Behördenangelegenheiten und weiteren Themen.\nVerans
- talter: Deutsches Rotes Kreuz Münster
+DESCRIPTION:Wöchentliches Beratungsangebot für erwachsene Neuzugewanderte a
+ b 28 Jahren mit Unterstützung bei Integrationsprozessen und Alltagsfragen 
+ in Coerde.\nVeranstalter: Deutsches Rotes Kreuz Münster\nQuelle: https://w
+ ww.drk-muenster.de/angebot/migrationsberatung.html
+URL:https://www.drk-muenster.de/angebot/migrationsberatung.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-07-15_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_mi
- grationsberatung_mbe@coerde-events
-DTSTAMP:20260618T195332Z
+UID:2026-07-15_0900_migrationsberatung_mbe_beratung_in_coerde_drk_munster_m
+ igrationsberatung_mbe@coerde-events
+DTSTAMP:20260618T201722Z
 DTSTART;TZID=Europe/Berlin:20260715T090000
 DTEND;TZID=Europe/Berlin:20260715T150000
-SUMMARY:Migrationsberatung (MBE) in Münster-Coerde
+SUMMARY:Migrationsberatung (MBE) - Beratung in Coerde
 LOCATION:DRK Münster – Migrationsberatung\, Hamannplatz 26/28\, 48157 Münst
  er-Coerde\, Münster-Coerde
-DESCRIPTION:Wöchentlich mittwochs findet am Standort Coerde eine Migrations
- beratung für erwachsene Neuzugewanderte ab 28 Jahren statt. Beratung zu In
- tegrationsprozessen\, Behördenangelegenheiten und weiteren Themen.\nVerans
- talter: Deutsches Rotes Kreuz Münster
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-10-10_1000_tagung_fruhkindliche_bildung_und_chancengleichheit_init
- iative_chack_fachtagung@coerde-events
-DTSTAMP:20260618T195332Z
-DTSTART;TZID=Europe/Berlin:20261010T100000
-DTEND;TZID=Europe/Berlin:20261010T153000
-SUMMARY:Tagung: Frühkindliche Bildung und Chancengleichheit
-LOCATION:Hörsaal F1\, Fürstenberghaus\, Domplatz 20-22\, Münster-Coerde\, M
- ünster-Coerde
-DESCRIPTION:Fachtagung mit internationalen Experten zu frühkindlicher Bildu
- ng und Chancengleichheit\, inklusive Vorträgen und Podiumsdiskussion zum T
- hema Kinderarmut. Teilnahme kostenlos und offen für alle Interessierten.\n
- Veranstalter: Initiative ChaCK e.V.
+DESCRIPTION:Wöchentliches Beratungsangebot für erwachsene Neuzugewanderte a
+ b 28 Jahren mit Unterstützung bei Integrationsprozessen und Alltagsfragen 
+ in Coerde.\nVeranstalter: Deutsches Rotes Kreuz Münster\nQuelle: https://w
+ ww.drk-muenster.de/angebot/migrationsberatung.html
+URL:https://www.drk-muenster.de/angebot/migrationsberatung.html
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
