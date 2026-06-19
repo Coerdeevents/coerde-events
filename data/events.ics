@@ -6,4 +6,82 @@ METHOD:PUBLISH
 X-WR-CALNAME:Coerde Events
 X-WR-CALDESC:Öffentliche Veranstaltungen in Münster-Coerde
 X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:2026-07-05_1330_a_taste_of_nature_workshop_wilde_fermente_eckels_kladde
+ _events@coerde-events
+DTSTAMP:20260619T073616Z
+DTSTART;TZID=Europe/Berlin:20260705T133000
+DTEND;TZID=Europe/Berlin:20260705T153000
+SUMMARY:A taste of:NATURE - Workshop - Wilde Fermente
+LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde
+DESCRIPTION:Workshop zum Thema wilde Fermente mit praktischen Anleitungen z
+ ur Fermentation in Münster.\nVeranstalter: Eckels Kladde\nQuelle: https://
+ www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster
+URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
+ er
+CATEGORIES:Kultur / Musik / Stadtteil
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-29_1700_burgerkurs_vom_patty_bis_zur_sauce_selbstgemacht_eckels
+ _kladde_events@coerde-events
+DTSTAMP:20260619T073616Z
+DTSTART;TZID=Europe/Berlin:20260729T170000
+DTEND;TZID=Europe/Berlin:20260729T220000
+SUMMARY:Burgerkurs - Vom Patty bis zur Sauce selbstgemacht
+LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde
+DESCRIPTION:Kurs zur Herstellung von Burgern inklusive Pattys und Saucen in
+  Münster.\nVeranstalter: Eckels Kladde\nQuelle: https://www.eckels-kladde.
+ de/collections/alle-kurse-und-events-in-munster
+URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
+ er
+CATEGORIES:Kultur / Musik / Stadtteil
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-26_1700_burgerkurs_vom_patty_bis_zur_sauce_selbstgemacht_eckels
+ _kladde_events@coerde-events
+DTSTAMP:20260619T073616Z
+DTSTART;TZID=Europe/Berlin:20260826T170000
+DTEND;TZID=Europe/Berlin:20260826T220000
+SUMMARY:Burgerkurs - Vom Patty bis zur Sauce selbstgemacht
+LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde
+DESCRIPTION:Kurs zur Herstellung von Burgern inklusive Pattys und Saucen in
+  Münster.\nVeranstalter: Eckels Kladde\nQuelle: https://www.eckels-kladde.
+ de/collections/alle-kurse-und-events-in-munster
+URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
+ er
+CATEGORIES:Kultur / Musik / Stadtteil
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-04_1900_die_lofoten_eckels_kladde_events@coerde-events
+DTSTAMP:20260619T073616Z
+DTSTART;TZID=Europe/Berlin:20260904T190000
+DTEND;TZID=Europe/Berlin:20260904T190000
+SUMMARY:Die Lofoten
+LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde
+DESCRIPTION:Multimediale Präsentation mit einem einzigartigen 3-Gang-Menü i
+ n Münster.\nVeranstalter: Eckels Kladde\nQuelle: https://www.eckels-kladde
+ .de/collections/alle-kurse-und-events-in-munster
+URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
+ er
+CATEGORIES:Kultur / Musik / Stadtteil
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-06_1900_die_lofoten_eckels_kladde_events@coerde-events
+DTSTAMP:20260619T073616Z
+DTSTART;TZID=Europe/Berlin:20261106T190000
+DTEND;TZID=Europe/Berlin:20261106T190000
+SUMMARY:Die Lofoten
+LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde
+DESCRIPTION:Multimediale Präsentation mit einem einzigartigen 3-Gang-Menü i
+ n Münster.\nVeranstalter: Eckels Kladde\nQuelle: https://www.eckels-kladde
+ .de/collections/alle-kurse-und-events-in-munster
+URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
+ er
+CATEGORIES:Kultur / Musik / Stadtteil
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
