@@ -6,20 +6,4 @@ METHOD:PUBLISH
 X-WR-CALNAME:Coerde Events
 X-WR-CALDESC:Öffentliche Veranstaltungen in Münster-Coerde
 X-WR-TIMEZONE:Europe/Berlin
-BEGIN:VEVENT
-UID:2026-07-05_1330_a_taste_of_nature_workshop_wilde_fermente_eckels_kladde
- _events@coerde-events
-DTSTAMP:20260619T060634Z
-DTSTART;TZID=Europe/Berlin:20260705T133000
-DTEND;TZID=Europe/Berlin:20260705T153000
-SUMMARY:A taste of:NATURE - Workshop - Wilde Fermente
-LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Workshop zum Thema wilde Fermente mit praktischen Anleitungen u
- nd Verkostungen in Münster-Coerde.\nVeranstalter: Eckels Kladde\nQuelle: h
- ttps://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster
-URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
- er
-CATEGORIES:Kultur / Musik / Stadtteil
-STATUS:CONFIRMED
-END:VEVENT
 END:VCALENDAR
