@@ -7,28 +7,188 @@ X-WR-CALNAME:Coerde Events
 X-WR-CALDESC:Öffentliche Veranstaltungen in Münster-Coerde
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:2026-06-19_0415_lesen_mit_kleinen_wesen_stadtbuecherei_coerde@coerde-ev
- ents
-DTSTAMP:20260619T163739Z
-DTSTART;TZID=Europe/Berlin:20260619T041500
-DTEND;TZID=Europe/Berlin:20260619T041500
-SUMMARY:Lesen mit kleinen Wesen
-LOCATION:Stadtbücherei Coerde\, Hamannplatz\, 48157 Münster\, Münster-Coerd
+UID:2026-06-21_1200_qi_gong_seminar_die_wandlungsphase_feuer_ubungen_zur_ha
+ rmonisierung_des_herzens_unknown_source@coerde-events
+DTSTAMP:20260620T120423Z
+DTSTART;TZID=Europe/Berlin:20260621T120000
+DTEND;TZID=Europe/Berlin:20260621T190000
+SUMMARY:Qi Gong-Seminar: Die Wandlungsphase Feuer – Übungen zur Harmonisier
+ ung des Herzens
+LOCATION:Begegnungszentrum und Theater in der Meerwiese\, Münster-Coerde
+DESCRIPTION:Nach der Traditionellen Chinesischen Medizin hängt Glück oder U
+ nglück von dem Zustand des Herzens\, der Emotionen ab. Ist mein Herz freie
+ r von belastenden Emotionen\, kann das Qi freier fließen und mir geht es b
+ esser. In diesem Seminar\, das in zwei Teilen unterrichtet wird\, soll es 
+ den Teilnehmenden leichter ums Herz werden. Der Körper wird mit Bewegungsü
+ bungen vorbereitet und in vielen stillen\, meditativen Übungen herangeführ
+ t\, Leichtigkeit spüren zu können. Vorkenntnisse sind nicht erforderli...\
+ nQuelle: https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termi
+ ne
+URL:https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-26_1930_vorlese_cafe_in_italienisch_und_deutsch_kulturinitiativ
+ e_coerde_kulturinitiative_coerde@coerde-events
+DTSTAMP:20260620T120423Z
+DTSTART;TZID=Europe/Berlin:20260626T193000
+DTEND;TZID=Europe/Berlin:20260626T193000
+SUMMARY:Vorlese-Café in Italienisch und Deutsch – Kulturinitiative Coerde
+LOCATION:Begegnungszentrum und Theater in der Meerwiese\, Münster-Coerde
+DESCRIPTION:Weitere Informationen zum (musikalischen) Programm dieser Ausga
+ be werden in Kürze hier bekannt gegeben. Muttersprachler*innen nehmen ihr 
+ Publikum mit auf eine Entdeckungsreise in andere Kulturen und literarische
+  Welten. Die Zuhörer*innen sind eingeladen\, dem Klang der fremden Worte\,
+  Texte oder Musik zu lauschen und sich von unbekannten Sprachmelodien verf
+ ühren zu lassen. Anschließend erfolgt die Übersetzung in die deutsche Spra
+ che. Alle Veranstaltungen werden musikalisch begleitet.\nVeranstalter: Kul
+ turinitiative Coerde e.V.\nQuelle: https://kulturinitiative-coerde.de/
+URL:https://kulturinitiative-coerde.de/
+CATEGORIES:Kultur / Stadtteil / Ehrenamt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-27_1800_stadtteilkonzert_sinfonieorchester_theater_munster_unkn
+ own_source@coerde-events
+DTSTAMP:20260620T120423Z
+DTSTART;TZID=Europe/Berlin:20260627T180000
+DTEND;TZID=Europe/Berlin:20260627T180000
+SUMMARY:Stadtteilkonzert – Sinfonieorchester Theater Münster
+LOCATION:Begegnungszentrum Meerwiese\, Münster-Coerde
+DESCRIPTION:Um sich von klassischer Musik bewegen und begeistern zu lassen\
+ , braucht es weder einen speziellen Ort noch eine steife Etikette oder ein
+ e besondere musikalische Vorbildung. Mit den Stadtteilkonzerten tritt das 
+ Sinfonieorchester Münster den Beweis an\, dass großartige Meisterwerke wie
+  Mozarts Jupitersinfonie\, Schumanns Frühlingssinfonie oder Strauss' Rosen
+ kavalier-Suite universell und unmittelbar zugänglich sind – auch da\, wo m
+ an es vielleicht am wenigsten erwartet! Ein Konzert im Stadtteil kan...\nQ
+ uelle: https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
+URL:https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-28_1530_erwachsen_theater_satt_aus_munchen_unknown_source@coerd
+ e-events
+DTSTAMP:20260620T120423Z
+DTSTART;TZID=Europe/Berlin:20260628T153000
+DTEND;TZID=Europe/Berlin:20260628T153000
+SUMMARY:Erwachsen?! – theater satt aus München
+LOCATION:Begegnungszentrum und Theater in der Meerwiese\, Münster-Coerde
+DESCRIPTION:ein Stück von Veronika Wolff und Dominik Burki für alle ab 6 Ja
+ hren Sieben Jahre lang stand er als der „Umwerfend sensationelle und großa
+ rtig komische Hans Göttmann“ auf allen Bühnen dieser Welt. Doch nachdem Ha
+ ns Göttmann in seinem ersten Abenteuer im Glück die Freiheit gesucht und g
+ efunden hat\, meint seine Mama\, dass es nun Zeit für ihn ist\, erwachsen 
+ zu werden. Er bekommt ein Paket mit allem\, was man fürs Erwachsenwerden b
+ raucht. Voller Vorfreude öffnet er das Paket und entdeckt darin eine...\nQ
+ uelle: https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
+URL:https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-03_1000_tanzxchange_freie_tanzszene_munster_open_class_unknown_
+ source@coerde-events
+DTSTAMP:20260620T120423Z
+DTSTART;TZID=Europe/Berlin:20260703T100000
+DTEND;TZID=Europe/Berlin:20260703T120000
+SUMMARY:TanzXchange – Freie Tanzszene Münster – OPEN CLASS
+LOCATION:Begegnungszentrum und Theater in der Meerwiese\, Münster-Coerde
+DESCRIPTION:Professionelle Tänzer*innen\, Tanzpädagog*innen\, Tanzvermittle
+ r*innen\, Choreograf*innen und Tanztherapeut*innen verbinden sich mit dem 
+ Ziel\, die Tanzszene Münsters aktiv mitzugestalten und zu verändern\, krea
+ tiven Austausch\, Weiterbildung und Trainingsmöglichkeiten zu schaffen und
+  einander zu inspirieren. Die vorhandenen\, etablierten Strukturen sollen 
+ ergänzt und erweitert werden\, sodass die Stadt Münster attraktiv für prof
+ essionelle Tanzschaffende wird. Ansprechpartnerin: Melanie López López\,..
+ .\nQuelle: https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-ter
+ mine
+URL:https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-05_1530_spiel_zeit_yesterdays_die_kleine_burgerbuhne_unknown_so
+ urce@coerde-events
+DTSTAMP:20260620T120423Z
+DTSTART;TZID=Europe/Berlin:20260705T153000
+DTEND;TZID=Europe/Berlin:20260705T163000
+SUMMARY:„SPIEL-ZEIT!“ Yesterdays – Die Kleine Bürgerbühne
+LOCATION:Begegnungszentrum und Theater in der Meerwiese\, Münster-Coerde
+DESCRIPTION:für alle von 8 - 88 Jahren Maya sitzt in ihrer privaten Hölle f
+ est: Auf einer Hochglanzparty mit lauter Leuten\, die sie nicht kennt und 
+ nicht kennen will. Um sie herum wird eifrig getanzt und gelacht\, und stän
+ dig werden Fotos oder Videos gemacht\, um sie auf jenen Social-Media-Kanäl
+ en hochzuladen\, auf denen Maya nicht ist oder nur ein paar wenige Followe
+ r hat. Maya hasst diese Typen. Sie kam nur her\, weil ihre beste Freundin 
+ Mini sie gebeten hat - die jetzt viel zu spät kommt und Maya sich mit...\n
+ Quelle: https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termin
  e
-DESCRIPTION:Anja Arica lädt Kleinkinder mit Eltern oder Tageseltern zum gem
- einsamen Lesen ein. Die Kinder sitzen gemütlich auf dem Schoß und hören al
- tersgerechte Geschichten.\nVeranstalter: Stadtbücherei Münster\nQuelle: ht
- tps://www.stadt-muenster.de/buecherei/orte-und-oeffnungszeiten/coerde/vera
- nstaltungen
-URL:https://www.stadt-muenster.de/buecherei/orte-und-oeffnungszeiten/coerde
- /veranstaltungen
-CATEGORIES:Lesung / Bildung / Stadtteil
+URL:https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-10_1400_coerdinale_das_kulturfest_im_stadtteil_unknown_source@c
+ oerde-events
+DTSTAMP:20260620T120423Z
+DTSTART;TZID=Europe/Berlin:20260710T140000
+DTEND;TZID=Europe/Berlin:20260710T230000
+SUMMARY:Coerdinale – Das Kulturfest im Stadtteil
+LOCATION:Auf der Wiese des Begegnungszentrum Meerwiese\, Münster-Coerde
+DESCRIPTION:Buntes Programm für die ganze Familie! Euch erwartet ein buntes
+  Programm für jedes Alter: Live-Musik\, Mitmach- aktionen\, Infostände von
+  Initiativen und Vereinen aus Coerde sowie kulinarische Angebote: Food-Tru
+ ck\, Popcorn\, Kuchen\, Getränke ... Bühnenprgramm: 14.00 Eröffnung Coerdi
+ nale 14.30 Corinna Bilke 15.00 Clown Fidelidad 16.15 Männermusik 18.00 Tan
+ te Emma 20.15 Home to Paris\nQuelle: https://www.stadt-muenster.de/meerwie
+ se/begegnungszentrum/veranstaltungen
+URL:https://www.stadt-muenster.de/meerwiese/begegnungszentrum/veranstaltung
+ en
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-11_1400_coerdinale_das_kulturfest_im_stadtteil_die_coerdinale_g
+ eht_in_die_vierte_runde_unknown_source@coerde-events
+DTSTAMP:20260620T120423Z
+DTSTART;TZID=Europe/Berlin:20260711T140000
+DTEND;TZID=Europe/Berlin:20260711T235900
+SUMMARY:COERDINALE – Das Kulturfest im Stadtteil – Die COERDINALE geht in d
+ ie vierte Runde.
+LOCATION:Begegnungszentrum und Theater in der Meerwiese\, Münster-Coerde
+DESCRIPTION:für alle von 0 – 99 Jahren Im Juli lädt die Kulturinitiative Co
+ erde erneut zum gemeinsamen Feiern\, Zuschauen und Mitmachen ein. Vom Nach
+ mittag bis in die Abendstunden hinein erwartet die Besucher*innen ein bunt
+ es Bühnenprogramm am Begegnungszentrum Meerwiese. Musik\, Workshops\, Akti
+ onen für Kinder sowie Stände von Initiativen und Vereinen aus Coerde laden
+  zum Verweilen ein. Dabei sendet das Live-Radio webradio-muenster.de direk
+ t von der Meerwiese. Food-Truck\, Popcorn\, Kuchen und Getränke sorge...\n
+ Quelle: https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termin
+ e
+URL:https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-12_1530_spiel_zeit_was_fur_ein_theater_eine_eigenproduktion_des
+ _theaterkinderclub_meerwi_unknown_source@coerde-events
+DTSTAMP:20260620T120423Z
+DTSTART;TZID=Europe/Berlin:20260712T153000
+DTEND;TZID=Europe/Berlin:20260712T163000
+SUMMARY:„SPIEL-ZEIT!“ Was für ein Theater – Eine Eigenproduktion des Theate
+ rkinderclub Meerwiesel
+LOCATION:Begegnungszentrum und Theater in der Meerwiese\, Münster-Coerde
+DESCRIPTION:Für alle ab acht Jahren Wohin soll die Reise gehen? Was proben 
+ wir eigentlich? Ich habe schon eine gute Idee für eine Figur…nee\, das pas
+ st doch nicht! Oder vielleicht doch? Was für ein Theater soll es denn nun 
+ werden? Die elf jungen Schauspieler*innen des Theaterkinderclub zeigen in 
+ dieser bunten Eigenpro-duktion „Was für ein Theater?“ mit viel Fantasie un
+ d Spielfreude\, wie sich Figuren\, Szenen und Geschichten entwickeln\, mit
+ einander verweben oder wieder fallen gelassen werden. Wo beginnt Fik...\nQ
+ uelle: https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
+URL:https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-17_0415_lesen_mit_kleinen_wesen_stadtbuecherei_coerde@coerde-ev
  ents
-DTSTAMP:20260619T163739Z
+DTSTAMP:20260620T120423Z
 DTSTART;TZID=Europe/Berlin:20260717T041500
 DTEND;TZID=Europe/Berlin:20260717T041500
 SUMMARY:Lesen mit kleinen Wesen
@@ -45,9 +205,23 @@ CATEGORIES:Lesung / Bildung / Stadtteil
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-07-17_1015_lesen_mit_kleinen_wesen_unknown_source@coerde-events
+DTSTAMP:20260620T120423Z
+DTSTART;TZID=Europe/Berlin:20260717T101500
+DTEND;TZID=Europe/Berlin:20260717T101500
+SUMMARY:Lesen mit kleinen Wesen
+LOCATION:Stadtteilbücherei Coerde\, Münster-Coerde
+DESCRIPTION:Anja Arica begrüßt Kleinkinder mit ihren Eltern oder Tageselter
+ n zum gemeinsamen Lesen. Gemütlich auf dem Schoß sitzend können die Kinder
+  altersgerechte Geschichten hören oder in Wimmelbüchern Entdeckungen mache
+ n. Bewegungslieder und Fingerspiele ergänzen den Lesespaß für die Kleinste
+ n. Für Kinder bis drei Jahre. Kindergruppen bitte anmelden.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-20_0415_lesen_mit_kleinen_wesen_stadtbuecherei_coerde@coerde-ev
  ents
-DTSTAMP:20260619T163739Z
+DTSTAMP:20260620T120423Z
 DTSTART;TZID=Europe/Berlin:20261120T041500
 DTEND;TZID=Europe/Berlin:20261120T041500
 SUMMARY:Lesen mit kleinen Wesen
@@ -66,7 +240,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18_0415_lesen_mit_kleinen_wesen_stadtbuecherei_coerde@coerde-ev
  ents
-DTSTAMP:20260619T163739Z
+DTSTAMP:20260620T120423Z
 DTSTART;TZID=Europe/Berlin:20261218T041500
 DTEND;TZID=Europe/Berlin:20261218T041500
 SUMMARY:Lesen mit kleinen Wesen
