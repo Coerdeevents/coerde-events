@@ -9,7 +9,7 @@ X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 UID:2026-07-03_1000_tanzxchange_freie_tanzszene_munster_open_class_unknown_
  source@coerde-events
-DTSTAMP:20260701T152159Z
+DTSTAMP:20260701T155048Z
 DTSTART;TZID=Europe/Berlin:20260703T100000
 DTEND;TZID=Europe/Berlin:20260703T120000
 SUMMARY:TanzXchange – Freie Tanzszene Münster – OPEN CLASS
@@ -29,7 +29,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-05_1300_the_taste_of_nature_naturlich_i_kunst_aktionstag_des_ku
  nstlerinnenforum_munsterl_unknown_source@coerde-events
-DTSTAMP:20260701T152159Z
+DTSTAMP:20260701T155048Z
 DTSTART;TZID=Europe/Berlin:20260705T130000
 DTEND;TZID=Europe/Berlin:20260705T190000
 SUMMARY:the taste of: NATURE – NATÜRLICH I KUNST - Aktionstag des Künstleri
@@ -45,43 +45,9 @@ DESCRIPTION:Direkte Begegnungen mit den Grundlagen unserer Ernährung im Wec
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-07-05_1330_a_taste_of_nature_workshop_wilde_fermente_eckels_kladde
- _events@coerde-events
-DTSTAMP:20260701T152159Z
-DTSTART;TZID=Europe/Berlin:20260705T133000
-DTEND;TZID=Europe/Berlin:20260705T153000
-SUMMARY:A taste of:NATURE - Workshop - Wilde Fermente
-LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde
-DESCRIPTION:Workshop zum Thema wilde Fermente mit praktischen Anleitungen z
- ur Fermentation.\nVeranstalter: Eckels Kladde\nQuelle: https://www.eckels-
- kladde.de/collections/alle-kurse-und-events-in-munster
-URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
- er
-CATEGORIES:Kultur / Musik / Stadtteil
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-11_1400_coerdinale_das_kulturfest_im_stadtteil_kulturinitiative
- _coerde@coerde-events
-DTSTAMP:20260701T152159Z
-DTSTART;TZID=Europe/Berlin:20260711T140000
-DTEND;TZID=Europe/Berlin:20260711T220000
-SUMMARY:Coerdinale – Das Kulturfest im Stadtteil
-LOCATION:Begegnungszentrum Meerwiese\, An der Meerwiese 25\, 48157\, Münste
- r\, Münster-Coerde
-DESCRIPTION:| Coerdinale – Das Kulturfest im Stadtteil kostenfrei Kulturini
- tiative Coerde e. V. Veranstalter-Website anzeigen i fo kul ur coerde d Zu
- m Kalender hinzufügen Google Kalender iCalendar Outlook 365 Outlook Live\n
- Veranstalter: Kulturinitiative Coerde e. V.\nQuelle: https://kulturinitiat
- ive-coerde.de/
-URL:https://kulturinitiative-coerde.de/
-CATEGORIES:Kultur / Stadtteil / Ehrenamt
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-07-11_1400_coerdinale_das_kulturfest_im_stadtteil_die_coerdinale_g
  eht_in_die_vierte_runde_unknown_source@coerde-events
-DTSTAMP:20260701T152159Z
+DTSTAMP:20260701T155048Z
 DTSTART;TZID=Europe/Berlin:20260711T140000
 DTEND;TZID=Europe/Berlin:20260711T235900
 SUMMARY:COERDINALE – Das Kulturfest im Stadtteil – Die COERDINALE geht in d
@@ -102,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-12_1530_spiel_zeit_was_fur_ein_theater_eine_eigenproduktion_des
  _theaterkinderclub_meerwi_unknown_source@coerde-events
-DTSTAMP:20260701T152159Z
+DTSTAMP:20260701T155048Z
 DTSTART;TZID=Europe/Berlin:20260712T153000
 DTEND;TZID=Europe/Berlin:20260712T163000
 SUMMARY:„SPIEL-ZEIT!“ Was für ein Theater – Eine Eigenproduktion des Theate
@@ -120,25 +86,9 @@ URL:https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-07-29_1700_burgerkurs_vom_patty_bis_zur_sauce_selbstgemacht_eckels
- _kladde_events@coerde-events
-DTSTAMP:20260701T152159Z
-DTSTART;TZID=Europe/Berlin:20260729T170000
-DTEND;TZID=Europe/Berlin:20260729T220000
-SUMMARY:Burgerkurs - Vom Patty bis zur Sauce selbstgemacht
-LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde
-DESCRIPTION:Kurs zur Herstellung von Burgern inklusive Pattys und Saucen.\n
- Veranstalter: Eckels Kladde\nQuelle: https://www.eckels-kladde.de/collecti
- ons/alle-kurse-und-events-in-munster
-URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
- er
-CATEGORIES:Kultur / Musik / Stadtteil
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-08-18_1500_bemal_deine_eigene_tasche_malaktion_unknown_source@coer
  de-events
-DTSTAMP:20260701T152159Z
+DTSTAMP:20260701T155048Z
 DTSTART;TZID=Europe/Berlin:20260818T150000
 DTEND;TZID=Europe/Berlin:20260818T170000
 SUMMARY:Bemal deine eigene Tasche – Malaktion
@@ -153,25 +103,9 @@ DESCRIPTION:Werde kreativ und gestalte deine ganz persönliche Stofftasche.
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-26_1700_burgerkurs_vom_patty_bis_zur_sauce_selbstgemacht_eckels
- _kladde_events@coerde-events
-DTSTAMP:20260701T152159Z
-DTSTART;TZID=Europe/Berlin:20260826T170000
-DTEND;TZID=Europe/Berlin:20260826T220000
-SUMMARY:Burgerkurs - Vom Patty bis zur Sauce selbstgemacht
-LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde
-DESCRIPTION:Kurs zur Herstellung von Burgern inklusive Pattys und Saucen.\n
- Veranstalter: Eckels Kladde\nQuelle: https://www.eckels-kladde.de/collecti
- ons/alle-kurse-und-events-in-munster
-URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
- er
-CATEGORIES:Kultur / Musik / Stadtteil
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-09-04_1000_tanzxchange_freie_tanzszene_munster_open_class_unknown_
  source@coerde-events
-DTSTAMP:20260701T152159Z
+DTSTAMP:20260701T155048Z
 DTSTART;TZID=Europe/Berlin:20260904T100000
 DTEND;TZID=Europe/Berlin:20260904T120000
 SUMMARY:TanzXchange – Freie Tanzszene Münster – OPEN CLASS
@@ -186,74 +120,6 @@ DESCRIPTION:Professionelle Tänzer*innen\, Tanzpädagog*innen\, Tanzvermittle
  .\nQuelle: https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-ter
  mine
 URL:https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-04_1900_die_lofoten_eckels_kladde_events@coerde-events
-DTSTAMP:20260701T152159Z
-DTSTART;TZID=Europe/Berlin:20260904T190000
-DTEND;TZID=Europe/Berlin:20260904T190000
-SUMMARY:Die Lofoten
-LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde
-DESCRIPTION:Multimediale Präsentation mit einem einzigartigen 3-Gang-Menü.\
- nVeranstalter: Eckels Kladde\nQuelle: https://www.eckels-kladde.de/collect
- ions/alle-kurse-und-events-in-munster
-URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
- er
-CATEGORIES:Kultur / Musik / Stadtteil
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-09-18_1930_vorlese_cafe_im_september_auf_turkisch_deutsch_mit_musi
- k_kulturinitiative_coerde@coerde-events
-DTSTAMP:20260701T152159Z
-DTSTART;TZID=Europe/Berlin:20260918T193000
-DTEND;TZID=Europe/Berlin:20260918T210000
-SUMMARY:Vorlese-Café im September auf Türkisch & Deutsch mit Musik
-LOCATION:Begegnungszentrum Meerwiese\, An der Meerwiese 25\, 48157\, Münste
- r\, Münster-Coerde
-DESCRIPTION:| Muttersprachler*innen nehmen ihr Publikum mit auf eine Entdec
- kungsreise in andere Kulturen und literarische Welten. Die Zuhörer*nnen si
- nd eingeladen\, dem Klang der fremden Wörter\, Texte oder Musik zu lausche
- n und sich von unbekannten Sprachmelodien verführen zu lassen. Anschließen
- d erfolgt die Übe\nVeranstalter: Kulturinitiative Coerde e. V.\nQuelle: ht
- tps://kulturinitiative-coerde.de/
-URL:https://kulturinitiative-coerde.de/
-CATEGORIES:Kultur / Stadtteil / Ehrenamt
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-06_1900_die_lofoten_eckels_kladde_events@coerde-events
-DTSTAMP:20260701T152159Z
-DTSTART;TZID=Europe/Berlin:20261106T190000
-DTEND;TZID=Europe/Berlin:20261106T190000
-SUMMARY:Die Lofoten
-LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde
-DESCRIPTION:Multimediale Präsentation mit einem einzigartigen 3-Gang-Menü.\
- nVeranstalter: Eckels Kladde\nQuelle: https://www.eckels-kladde.de/collect
- ions/alle-kurse-und-events-in-munster
-URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
- er
-CATEGORIES:Kultur / Musik / Stadtteil
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-06_1930_vorlese_cafe_im_november_auf_russisch_deutsch_mit_musik
- _kulturinitiative_coerde@coerde-events
-DTSTAMP:20260701T152159Z
-DTSTART;TZID=Europe/Berlin:20261106T193000
-DTEND;TZID=Europe/Berlin:20261106T210000
-SUMMARY:Vorlese-Café im November auf Russisch & Deutsch mit Musik
-LOCATION:Begegnungszentrum Meerwiese\, An der Meerwiese 25\, 48157\, Münste
- r\, Münster-Coerde
-DESCRIPTION:| Muttersprachler*innen nehmen ihr Publikum mit auf eine Entdec
- kungsreise in andere Kulturen und literarische Welten. Die Zuhörer*nnen si
- nd eingeladen\, dem Klang der fremden Wörter\, Texte oder Musik zu lausche
- n und sich von unbekannten Sprachmelodien verführen zu lassen. Anschließen
- d erfolgt die Übe\nVeranstalter: Kulturinitiative Coerde e. V.\nQuelle: ht
- tps://kulturinitiative-coerde.de/
-URL:https://kulturinitiative-coerde.de/
-CATEGORIES:Kultur / Stadtteil / Ehrenamt
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
