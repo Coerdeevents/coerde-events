@@ -2,8 +2,8 @@
   "dataset": "coerde-events",
   "description": "Öffentliche Veranstaltungen in Münster-Coerde",
   "license": "CC-BY-4.0",
-  "generated_at": "2026-07-01T18:22:31.473Z",
-  "event_count": 6,
+  "generated_at": "2026-07-01T18:42:50.777Z",
+  "event_count": 9,
   "events": [
     {
       "event_id": "2026-07-03_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwiese_theater",
@@ -23,7 +23,7 @@
       "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-07-01T18:22:31.473Z"
+      "last_updated": "2026-07-01T18:42:50.777Z"
     },
     {
       "event_id": "2026-07-05_1530_spiel_zeit_yesterdays_die_kleine_burgerbuhne_meerwiese_theater",
@@ -43,7 +43,27 @@
       "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-07-01T18:22:31.473Z"
+      "last_updated": "2026-07-01T18:42:50.777Z"
+    },
+    {
+      "event_id": "2026-07-11_1400_coerdinale_das_kulturfest_im_stadtteil_kulturinitiative_coerde",
+      "title": "Coerdinale – Das Kulturfest im Stadtteil",
+      "start_date": "2026-07-11",
+      "start_time": "14:00",
+      "end_date": "2026-07-11",
+      "end_time": "22:00",
+      "location_name": "Begegnungszentrum Meerwiese",
+      "address": "An der Meerwiese 25, 48157, Münster",
+      "city": "Münster-Coerde",
+      "organizer": "Kulturinitiative Coerde e. V.",
+      "category": "Kultur / Stadtteil / Ehrenamt",
+      "short_description": "| Coerdinale – Das Kulturfest im Stadtteil kostenfrei Kulturinitiative Coerde e. V. Veranstalter-Website anzeigen nf ku r co r e Zum Kalender hinzufügen Google Kalender iCalendar Outlook 365 Outlook Live",
+      "status": "scheduled",
+      "source_name": "Kulturinitiative Coerde",
+      "source_url": "https://kulturinitiative-coerde.de/",
+      "source_id": "kulturinitiative_coerde",
+      "confidence": "0,9",
+      "last_updated": "2026-07-01T18:42:50.777Z"
     },
     {
       "event_id": "2026-07-11_1400_coerdinale_das_kulturfest_im_stadtteil_die_coerdinale_geht_in_die_vierte_runde_meerwiese_theater",
@@ -63,7 +83,7 @@
       "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-07-01T18:22:31.473Z"
+      "last_updated": "2026-07-01T18:42:50.777Z"
     },
     {
       "event_id": "2026-07-12_1530_spiel_zeit_was_fur_ein_theater_eine_eigenproduktion_des_theaterkinderclub_meerwi_meerwiese_theater",
@@ -83,7 +103,7 @@
       "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-07-01T18:22:31.473Z"
+      "last_updated": "2026-07-01T18:42:50.777Z"
     },
     {
       "event_id": "2026-08-18_1500_bemal_deine_eigene_tasche_malaktion_stadtbuecherei_coerde",
@@ -103,7 +123,7 @@
       "source_url": "https://www.stadt-muenster.de/buecherei/orte-und-oeffnungszeiten/coerde/veranstaltungen",
       "source_id": "stadtbuecherei_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-01T18:22:31.473Z"
+      "last_updated": "2026-07-01T18:42:50.777Z"
     },
     {
       "event_id": "2026-09-04_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwiese_theater",
@@ -123,7 +143,47 @@
       "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-07-01T18:22:31.473Z"
+      "last_updated": "2026-07-01T18:42:50.777Z"
+    },
+    {
+      "event_id": "2026-09-18_1930_vorlese_cafe_im_september_auf_turkisch_deutsch_mit_musik_kulturinitiative_coerde",
+      "title": "Vorlese-Café im September auf Türkisch & Deutsch mit Musik",
+      "start_date": "2026-09-18",
+      "start_time": "19:30",
+      "end_date": "2026-09-18",
+      "end_time": "21:00",
+      "location_name": "Begegnungszentrum Meerwiese",
+      "address": "An der Meerwiese 25, 48157, Münster",
+      "city": "Münster-Coerde",
+      "organizer": "Kulturinitiative Coerde e. V.",
+      "category": "Kultur / Stadtteil / Ehrenamt",
+      "short_description": "| Muttersprachler*innen nehmen ihr Publikum mit auf eine Entdeckungsreise in andere Kulturen und literarische Welten. Die Zuhörer*nnen sind eingeladen, dem Klang der fremden Wörter, Texte oder Musik zu lauschen und sich von unbekannten Sprachmelodien verführen zu lassen. Anschließend erfolgt die Übe",
+      "status": "scheduled",
+      "source_name": "Kulturinitiative Coerde",
+      "source_url": "https://kulturinitiative-coerde.de/",
+      "source_id": "kulturinitiative_coerde",
+      "confidence": "0,9",
+      "last_updated": "2026-07-01T18:42:50.777Z"
+    },
+    {
+      "event_id": "2026-11-06_1930_vorlese_cafe_im_november_auf_russisch_deutsch_mit_musik_kulturinitiative_coerde",
+      "title": "Vorlese-Café im November auf Russisch & Deutsch mit Musik",
+      "start_date": "2026-11-06",
+      "start_time": "19:30",
+      "end_date": "2026-11-06",
+      "end_time": "21:00",
+      "location_name": "Begegnungszentrum Meerwiese",
+      "address": "An der Meerwiese 25, 48157, Münster",
+      "city": "Münster-Coerde",
+      "organizer": "Kulturinitiative Coerde e. V.",
+      "category": "Kultur / Stadtteil / Ehrenamt",
+      "short_description": "| Muttersprachler*innen nehmen ihr Publikum mit auf eine Entdeckungsreise in andere Kulturen und literarische Welten. Die Zuhörer*nnen sind eingeladen, dem Klang der fremden Wörter, Texte oder Musik zu lauschen und sich von unbekannten Sprachmelodien verführen zu lassen. Anschließend erfolgt die Übe",
+      "status": "scheduled",
+      "source_name": "Kulturinitiative Coerde",
+      "source_url": "https://kulturinitiative-coerde.de/",
+      "source_id": "kulturinitiative_coerde",
+      "confidence": "0,9",
+      "last_updated": "2026-07-01T18:42:50.777Z"
     }
   ]
 }
