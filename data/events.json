@@ -2,8 +2,8 @@
   "dataset": "coerde-events",
   "description": "Öffentliche Veranstaltungen in Münster-Coerde",
   "license": "CC-BY-4.0",
-  "generated_at": "2026-07-01T15:21:59.762Z",
-  "event_count": 14,
+  "generated_at": "2026-07-01T15:50:48.337Z",
+  "event_count": 6,
   "events": [
     {
       "event_id": "2026-07-03_1000_tanzxchange_freie_tanzszene_munster_open_class_unknown_source",
@@ -23,7 +23,7 @@
       "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-07-01T15:21:59.762Z"
+      "last_updated": "2026-07-01T15:50:48.337Z"
     },
     {
       "event_id": "2026-07-05_1300_the_taste_of_nature_naturlich_i_kunst_aktionstag_des_kunstlerinnenforum_munsterl_unknown_source",
@@ -43,47 +43,7 @@
       "source_url": "",
       "source_id": "unknown_source",
       "confidence": "0,9",
-      "last_updated": "2026-07-01T15:21:59.762Z"
-    },
-    {
-      "event_id": "2026-07-05_1330_a_taste_of_nature_workshop_wilde_fermente_eckels_kladde_events",
-      "title": "A taste of:NATURE - Workshop - Wilde Fermente",
-      "start_date": "2026-07-05",
-      "start_time": "13:30",
-      "end_date": "2026-07-05",
-      "end_time": "15:30",
-      "location_name": "Eckels Kladde",
-      "address": "Coermühle 50f",
-      "city": "Münster-Coerde",
-      "organizer": "Eckels Kladde",
-      "category": "Kultur / Musik / Stadtteil",
-      "short_description": "Workshop zum Thema wilde Fermente mit praktischen Anleitungen zur Fermentation.",
-      "status": "scheduled",
-      "source_name": "e.ssenz / Eckels Kladde – alle Kurse und Events",
-      "source_url": "https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster",
-      "source_id": "eckels_kladde_events",
-      "confidence": "0,9",
-      "last_updated": "2026-07-01T15:21:59.762Z"
-    },
-    {
-      "event_id": "2026-07-11_1400_coerdinale_das_kulturfest_im_stadtteil_kulturinitiative_coerde",
-      "title": "Coerdinale – Das Kulturfest im Stadtteil",
-      "start_date": "2026-07-11",
-      "start_time": "14:00",
-      "end_date": "2026-07-11",
-      "end_time": "22:00",
-      "location_name": "Begegnungszentrum Meerwiese",
-      "address": "An der Meerwiese 25, 48157, Münster",
-      "city": "Münster-Coerde",
-      "organizer": "Kulturinitiative Coerde e. V.",
-      "category": "Kultur / Stadtteil / Ehrenamt",
-      "short_description": "| Coerdinale – Das Kulturfest im Stadtteil kostenfrei Kulturinitiative Coerde e. V. Veranstalter-Website anzeigen i fo kul ur coerde d Zum Kalender hinzufügen Google Kalender iCalendar Outlook 365 Outlook Live",
-      "status": "scheduled",
-      "source_name": "Kulturinitiative Coerde",
-      "source_url": "https://kulturinitiative-coerde.de/",
-      "source_id": "kulturinitiative_coerde",
-      "confidence": "0,9",
-      "last_updated": "2026-07-01T15:21:59.762Z"
+      "last_updated": "2026-07-01T15:50:48.337Z"
     },
     {
       "event_id": "2026-07-11_1400_coerdinale_das_kulturfest_im_stadtteil_die_coerdinale_geht_in_die_vierte_runde_unknown_source",
@@ -103,7 +63,7 @@
       "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-07-01T15:21:59.762Z"
+      "last_updated": "2026-07-01T15:50:48.337Z"
     },
     {
       "event_id": "2026-07-12_1530_spiel_zeit_was_fur_ein_theater_eine_eigenproduktion_des_theaterkinderclub_meerwi_unknown_source",
@@ -123,27 +83,7 @@
       "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-07-01T15:21:59.762Z"
-    },
-    {
-      "event_id": "2026-07-29_1700_burgerkurs_vom_patty_bis_zur_sauce_selbstgemacht_eckels_kladde_events",
-      "title": "Burgerkurs - Vom Patty bis zur Sauce selbstgemacht",
-      "start_date": "2026-07-29",
-      "start_time": "17:00",
-      "end_date": "2026-07-29",
-      "end_time": "22:00",
-      "location_name": "Eckels Kladde",
-      "address": "Coermühle 50f",
-      "city": "Münster-Coerde",
-      "organizer": "Eckels Kladde",
-      "category": "Kultur / Musik / Stadtteil",
-      "short_description": "Kurs zur Herstellung von Burgern inklusive Pattys und Saucen.",
-      "status": "scheduled",
-      "source_name": "e.ssenz / Eckels Kladde – alle Kurse und Events",
-      "source_url": "https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster",
-      "source_id": "eckels_kladde_events",
-      "confidence": "0,9",
-      "last_updated": "2026-07-01T15:21:59.762Z"
+      "last_updated": "2026-07-01T15:50:48.337Z"
     },
     {
       "event_id": "2026-08-18_1500_bemal_deine_eigene_tasche_malaktion_unknown_source",
@@ -163,27 +103,7 @@
       "source_url": "",
       "source_id": "unknown_source",
       "confidence": "0,9",
-      "last_updated": "2026-07-01T15:21:59.762Z"
-    },
-    {
-      "event_id": "2026-08-26_1700_burgerkurs_vom_patty_bis_zur_sauce_selbstgemacht_eckels_kladde_events",
-      "title": "Burgerkurs - Vom Patty bis zur Sauce selbstgemacht",
-      "start_date": "2026-08-26",
-      "start_time": "17:00",
-      "end_date": "2026-08-26",
-      "end_time": "22:00",
-      "location_name": "Eckels Kladde",
-      "address": "Coermühle 50f",
-      "city": "Münster-Coerde",
-      "organizer": "Eckels Kladde",
-      "category": "Kultur / Musik / Stadtteil",
-      "short_description": "Kurs zur Herstellung von Burgern inklusive Pattys und Saucen.",
-      "status": "scheduled",
-      "source_name": "e.ssenz / Eckels Kladde – alle Kurse und Events",
-      "source_url": "https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster",
-      "source_id": "eckels_kladde_events",
-      "confidence": "0,9",
-      "last_updated": "2026-07-01T15:21:59.762Z"
+      "last_updated": "2026-07-01T15:50:48.337Z"
     },
     {
       "event_id": "2026-09-04_1000_tanzxchange_freie_tanzszene_munster_open_class_unknown_source",
@@ -203,87 +123,7 @@
       "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-07-01T15:21:59.762Z"
-    },
-    {
-      "event_id": "2026-09-04_1900_die_lofoten_eckels_kladde_events",
-      "title": "Die Lofoten",
-      "start_date": "2026-09-04",
-      "start_time": "19:00",
-      "end_date": "2026-09-04",
-      "end_time": null,
-      "location_name": "Eckels Kladde",
-      "address": "Coermühle 50f",
-      "city": "Münster-Coerde",
-      "organizer": "Eckels Kladde",
-      "category": "Kultur / Musik / Stadtteil",
-      "short_description": "Multimediale Präsentation mit einem einzigartigen 3-Gang-Menü.",
-      "status": "scheduled",
-      "source_name": "e.ssenz / Eckels Kladde – alle Kurse und Events",
-      "source_url": "https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster",
-      "source_id": "eckels_kladde_events",
-      "confidence": "0,9",
-      "last_updated": "2026-07-01T15:21:59.762Z"
-    },
-    {
-      "event_id": "2026-09-18_1930_vorlese_cafe_im_september_auf_turkisch_deutsch_mit_musik_kulturinitiative_coerde",
-      "title": "Vorlese-Café im September auf Türkisch & Deutsch mit Musik",
-      "start_date": "2026-09-18",
-      "start_time": "19:30",
-      "end_date": "2026-09-18",
-      "end_time": "21:00",
-      "location_name": "Begegnungszentrum Meerwiese",
-      "address": "An der Meerwiese 25, 48157, Münster",
-      "city": "Münster-Coerde",
-      "organizer": "Kulturinitiative Coerde e. V.",
-      "category": "Kultur / Stadtteil / Ehrenamt",
-      "short_description": "| Muttersprachler*innen nehmen ihr Publikum mit auf eine Entdeckungsreise in andere Kulturen und literarische Welten. Die Zuhörer*nnen sind eingeladen, dem Klang der fremden Wörter, Texte oder Musik zu lauschen und sich von unbekannten Sprachmelodien verführen zu lassen. Anschließend erfolgt die Übe",
-      "status": "scheduled",
-      "source_name": "Kulturinitiative Coerde",
-      "source_url": "https://kulturinitiative-coerde.de/",
-      "source_id": "kulturinitiative_coerde",
-      "confidence": "0,9",
-      "last_updated": "2026-07-01T15:21:59.762Z"
-    },
-    {
-      "event_id": "2026-11-06_1900_die_lofoten_eckels_kladde_events",
-      "title": "Die Lofoten",
-      "start_date": "2026-11-06",
-      "start_time": "19:00",
-      "end_date": "2026-11-06",
-      "end_time": null,
-      "location_name": "Eckels Kladde",
-      "address": "Coermühle 50f",
-      "city": "Münster-Coerde",
-      "organizer": "Eckels Kladde",
-      "category": "Kultur / Musik / Stadtteil",
-      "short_description": "Multimediale Präsentation mit einem einzigartigen 3-Gang-Menü.",
-      "status": "scheduled",
-      "source_name": "e.ssenz / Eckels Kladde – alle Kurse und Events",
-      "source_url": "https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster",
-      "source_id": "eckels_kladde_events",
-      "confidence": "0,9",
-      "last_updated": "2026-07-01T15:21:59.762Z"
-    },
-    {
-      "event_id": "2026-11-06_1930_vorlese_cafe_im_november_auf_russisch_deutsch_mit_musik_kulturinitiative_coerde",
-      "title": "Vorlese-Café im November auf Russisch & Deutsch mit Musik",
-      "start_date": "2026-11-06",
-      "start_time": "19:30",
-      "end_date": "2026-11-06",
-      "end_time": "21:00",
-      "location_name": "Begegnungszentrum Meerwiese",
-      "address": "An der Meerwiese 25, 48157, Münster",
-      "city": "Münster-Coerde",
-      "organizer": "Kulturinitiative Coerde e. V.",
-      "category": "Kultur / Stadtteil / Ehrenamt",
-      "short_description": "| Muttersprachler*innen nehmen ihr Publikum mit auf eine Entdeckungsreise in andere Kulturen und literarische Welten. Die Zuhörer*nnen sind eingeladen, dem Klang der fremden Wörter, Texte oder Musik zu lauschen und sich von unbekannten Sprachmelodien verführen zu lassen. Anschließend erfolgt die Übe",
-      "status": "scheduled",
-      "source_name": "Kulturinitiative Coerde",
-      "source_url": "https://kulturinitiative-coerde.de/",
-      "source_id": "kulturinitiative_coerde",
-      "confidence": "0,9",
-      "last_updated": "2026-07-01T15:21:59.762Z"
+      "last_updated": "2026-07-01T15:50:48.337Z"
     }
   ]
 }
