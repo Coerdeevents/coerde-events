@@ -7,533 +7,26 @@ X-WR-CALNAME:Coerde Events
 X-WR-CALDESC:Öffentliche Veranstaltungen in Münster-Coerde
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:2026-07-08_ganztag_glow_up_after_work_party_st_franziskus_startseite@co
- erde-events
-DTSTAMP:20260708T203829Z
-DTSTART;VALUE=DATE:20260708
-DTEND;VALUE=DATE:20260708
-SUMMARY:Glow-Up After Work Party
-LOCATION:Franziskushaus Coerde\, Schneidemühler Str. 23\, 48157 Münster-Coe
- rde\, Münster-Coerde
-DESCRIPTION:Abendveranstaltung mit stylischer Glow-Dekoration\, erfrischend
- en Drinks\, guter Musik und besonderen Lichteffekten zum Feiern und Entspa
- nnen nach der Arbeit.\nVeranstalter: Katholische Kirchengemeinde St. Franz
- iskus
-CATEGORIES:Kirche / Gottesdienst / Begegnung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-08_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_mi
- grationsberatung_mbe@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260708T090000
-DTEND;TZID=Europe/Berlin:20260708T150000
-SUMMARY:Migrationsberatung (MBE) in Münster-Coerde
-LOCATION:DRK Münster – Migrationsberatung\, Hamannplatz 26/28\, 48157 Münst
- er-Coerde\, Münster-Coerde
-DESCRIPTION:Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte 
- ab 28 Jahren mit Unterstützung in Integrationsprozessen\, behördlichen Ang
- elegenheiten und sozialer Teilhabe.\nVeranstalter: Deutsches Rotes Kreuz M
- ünster\nQuelle: https://www.drk-muenster.de/angebot/migrationsberatung.htm
- l
-URL:https://www.drk-muenster.de/angebot/migrationsberatung.html
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-08_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_a
- wo_coerde_mittendrin@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260708T100000
-DTEND;TZID=Europe/Berlin:20260708T120000
-SUMMARY:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615)
-LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
- de\, Münster-Coerde
-DESCRIPTION:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615): wöch
- entliches Angebot jeden Mittwoch im AWO Coerde mittendrin der AWO in Münst
- er-Coerde.\nVeranstalter: AWO Coerde mittendrin\nQuelle: https://www.awo-m
- sl-re.de/einrichtung/coerde-mittendrin
-URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
-CATEGORIES:Stadtteil / Begegnung / Beratung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-08_1300_wochentliche_offene_beratungszeit_empowerment_rassismus
- kritik_nachhaltigkeit_koo_iriba_brunnen_termine@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260708T130000
-DTEND;TZID=Europe/Berlin:20260708T150000
-SUMMARY:Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik /
-  Nachhaltigkeit & Kooperationen
-LOCATION:coerde mittendrin\, Königsberger Straße 8\, 48157 Münster\, Münste
- r-Coerde
-DESCRIPTION:Regelmäßige offene Beratungszeit zu Empowerment\, Rassismuskrit
- ik\, Nachhaltigkeit und Kooperationen.\nVeranstalter: Iriba-Brunnen e.V.\n
- Quelle: https://www.iriba-brunnen.de/termine/
-URL:https://www.iriba-brunnen.de/termine/
-CATEGORIES:Stadtteil / Begegnung / Engagement
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-08_1500_uberraschungsfilm_im_coerder_kino_andreas_kirchengemein
- de_startseite@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260708T150000
-DTEND;TZID=Europe/Berlin:20260708T150000
-SUMMARY:Überraschungsfilm im Coerder Kino
-LOCATION:Coerder Kino\, Münster-Coerde
-DESCRIPTION:Filmvorführung eines Überraschungsfilms im Coerder Kino am 8. J
- uli um 15:00 Uhr.\nVeranstalter: Ev. Andreas-Kirchengemeinde Münster-Coerd
- e\nQuelle: https://www.andreas-kirchengemeinde-muenster.de/
-URL:https://www.andreas-kirchengemeinde-muenster.de/
-CATEGORIES:Kirche / Stadtteil / Begegnung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-09_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mitten
- drin@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260709T110000
-DTEND;TZID=Europe/Berlin:20260709T130000
-SUMMARY:Offene Sprechstunde „coerde mittendrin“
-LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
- de\, Münster-Coerde
-DESCRIPTION:Offene Sprechstunde „coerde mittendrin“: wöchentliches Angebot 
- jeden Donnerstag im AWO Coerde mittendrin der AWO in Münster-Coerde.\nVera
- nstalter: AWO Coerde mittendrin\nQuelle: https://www.awo-msl-re.de/einrich
- tung/coerde-mittendrin
-URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
-CATEGORIES:Stadtteil / Begegnung / Beratung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-09_1900_zumba_in_coerde_ev_fabi_coerde@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260709T190000
-DTEND;TZID=Europe/Berlin:20260709T190000
-SUMMARY:Zumba in Coerde
-LOCATION:Hauptschule Coerde - Musikraum\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Wöchentlicher Zumba-Kurs in Coerde\, geeignet für alle Fitnessl
- evels\, ab dem 16. April 2026 jeweils donnerstags um 19 Uhr.\nVeranstalter
- : Ev. Familienbildungsstätte Münster\nQuelle: https://www.ev-fabi-ms.de/pr
- ogramm/fabi-vor-ort/kategorie/Coerde/23
-URL:https://www.ev-fabi-ms.de/programm/fabi-vor-ort/kategorie/Coerde/23
-CATEGORIES:Bildung / Familie / Stadtteil
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-10_0900_gemeinsames_fruhstuck_im_kirchenzentrum_andreas_kirchen
- gemeinde_startseite@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260710T090000
-DTEND;TZID=Europe/Berlin:20260710T090000
-SUMMARY:Gemeinsames Frühstück im Kirchenzentrum
-LOCATION:Andreas-Kirchengemeinde Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Gemeinsames Frühstück im Kirchenzentrum der Andreas-Kirchengeme
- inde Münster-Coerde am 10. Juli um 9:00 Uhr.\nVeranstalter: Ev. Andreas-Ki
- rchengemeinde Münster-Coerde\nQuelle: https://www.andreas-kirchengemeinde-
- muenster.de/
-URL:https://www.andreas-kirchengemeinde-muenster.de/
-CATEGORIES:Kirche / Stadtteil / Begegnung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-10_1630_madchenprojekt_gemeinsam_sichtbar_stark_madchen_aus_coe
- rde_gsmc_iriba_brunnen_termine@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260710T163000
-DTEND;TZID=Europe/Berlin:20260710T180000
-SUMMARY:Mädchenprojekt: Gemeinsam sichtbar & stark – Mädchen aus Coerde (GS
- MC)
-LOCATION:coerde mittendrin\, Königsberger Straße 8\, 48157 Münster\, Münste
- r-Coerde
-DESCRIPTION:Workshop für Mädchen aus Coerde zur Stärkung und Sichtbarkeit i
- n der Gemeinschaft.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https://www
- .iriba-brunnen.de/termine/
-URL:https://www.iriba-brunnen.de/termine/
-CATEGORIES:Stadtteil / Begegnung / Engagement
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-10_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mitt
- endrin@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260710T170000
-DTEND;TZID=Europe/Berlin:20260710T190000
-SUMMARY:Offener Spieletreff (2. & 4. Montag im Monat)
-LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
- de\, Münster-Coerde
-DESCRIPTION:Offener Spieletreff (2. & 4. Montag im Monat): wöchentliches An
- gebot jeden Freitag im AWO Coerde mittendrin der AWO in Münster-Coerde.\nV
- eranstalter: AWO Coerde mittendrin\nQuelle: https://www.awo-msl-re.de/einr
- ichtung/coerde-mittendrin
-URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
-CATEGORIES:Stadtteil / Begegnung / Beratung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-11_1400_coerdinale_das_kulturfest_im_stadtteil_kulturinitiative
- _coerde@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260711T140000
-DTEND;TZID=Europe/Berlin:20260711T220000
-SUMMARY:Coerdinale – Das Kulturfest im Stadtteil
-LOCATION:Begegnungszentrum Meerwiese\, An der Meerwiese 25\, 48157\, Münste
- r\, Münster-Coerde
-DESCRIPTION:| Coerdinale – Das Kulturfest im Stadtteil kostenfrei Kulturini
- tiative Coerde e. V. Veranstalter-Website anzeigen i fo kul r coer e d Zum
-  Kalender hinzufügen Google Kalender iCalendar Outlook 365 Outlook Live\nV
- eranstalter: Kulturinitiative Coerde e. V.\nQuelle: https://kulturinitiati
- ve-coerde.de/
-URL:https://kulturinitiative-coerde.de/
-CATEGORIES:Kultur / Stadtteil / Ehrenamt
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-11_1400_coerdinale_das_kulturfest_im_stadtteil_die_coerdinale_g
- eht_in_die_vierte_runde_meerwiese_theater@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260711T140000
-DTEND;TZID=Europe/Berlin:20260711T235900
-SUMMARY:COERDINALE – Das Kulturfest im Stadtteil – Die COERDINALE geht in d
- ie vierte Runde.
-LOCATION:Begegnungszentrum und Theater in der Meerwiese\, An der Meerwiese 
- 25\, Münster-Coerde
-DESCRIPTION:für alle von 0 – 99 Jahren Im Juli lädt die Kulturinitiative Co
- erde erneut zum gemeinsamen Feiern\, Zuschauen und Mitmachen ein. Vom Nach
- mittag bis in die Abendstunden hinein erwartet die Besucher*innen ein bunt
- es Bühnenprogramm am Begegnungszentrum Meerwiese. Musik\, Workshops\, Akti
- onen für Kinder sowie Stände von Initiativen und Vereinen aus Coerde laden
-  zum Verweilen ein. Dabei sendet das Live-Radio webradio-muenster.de direk
- t von der Meerwiese. Food-Truck\, Popcorn\, Kuchen und Getränke sorge...\n
- Veranstalter: Stadt Münster Veranstaltungskalender\nQuelle: https://www.st
- adt-muenster.de/meerwiese/theater/stuecke-und-termine
-URL:https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
-CATEGORIES:Theater / Kultur / Tanz / Kinderkultur
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-11_1500_nachhilfeangebot_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260711T150000
-DTEND;TZID=Europe/Berlin:20260711T170000
-SUMMARY:Nachhilfeangebot
-LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
- de\, Münster-Coerde
-DESCRIPTION:Nachhilfeangebot: wöchentliches Angebot jeden Samstag im AWO Co
- erde mittendrin der AWO in Münster-Coerde.\nVeranstalter: AWO Coerde mitte
- ndrin\nQuelle: https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
-URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
-CATEGORIES:Stadtteil / Begegnung / Beratung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-12_0930_gottesdienst_mit_taufe_andreas_kirchengemeinde_startsei
- te@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260712T093000
-DTEND;TZID=Europe/Berlin:20260712T093000
-SUMMARY:Gottesdienst mit Taufe
-LOCATION:Andreas-Kirchengemeinde Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Gottesdienst mit Taufe am zweiten Sonntag im Juli um 9:30 Uhr i
- n der Andreas-Kirchengemeinde Münster-Coerde.\nVeranstalter: Ev. Andreas-K
- irchengemeinde Münster-Coerde\nQuelle: https://www.andreas-kirchengemeinde
- -muenster.de/
-URL:https://www.andreas-kirchengemeinde-muenster.de/
-CATEGORIES:Kirche / Stadtteil / Begegnung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-12_1530_spiel_zeit_was_fur_ein_theater_eine_eigenproduktion_des
- _theaterkinderclub_meerwi_meerwiese_theater@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260712T153000
-DTEND;TZID=Europe/Berlin:20260712T163000
-SUMMARY:„SPIEL-ZEIT!“ Was für ein Theater – Eine Eigenproduktion des Theate
- rkinderclub Meerwiesel
-LOCATION:Begegnungszentrum und Theater in der Meerwiese\, An der Meerwiese 
- 25\, Münster-Coerde
-DESCRIPTION:Für alle ab acht Jahren Wohin soll die Reise gehen? Was proben 
- wir eigentlich? Ich habe schon eine gute Idee für eine Figur…nee\, das pas
- st doch nicht! Oder vielleicht doch? Was für ein Theater soll es denn nun 
- werden? Die elf jungen Schauspieler*innen des Theaterkinderclub zeigen in 
- dieser bunten Eigenpro-duktion „Was für ein Theater?“ mit viel Fantasie un
- d Spielfreude\, wie sich Figuren\, Szenen und Geschichten entwickeln\, mit
- einander verweben oder wieder fallen gelassen werden. Wo beginnt Fik...\nV
- eranstalter: Stadt Münster Veranstaltungskalender\nQuelle: https://www.sta
- dt-muenster.de/meerwiese/theater/stuecke-und-termine
-URL:https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
-CATEGORIES:Theater / Kultur / Tanz / Kinderkultur
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-13_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_al
- ter_werden_in_coerde_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260713T143000
-DTEND;TZID=Europe/Berlin:20260713T170000
-SUMMARY:Offener Spieletreff für Senior*innen / Doppelkopfrunde "Älter werde
- n in Coerde"
-LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
- de\, Münster-Coerde
-DESCRIPTION:Offener Spieletreff für Senior*innen / Doppelkopfrunde "Älter w
- erden in Coerde": wöchentliches Angebot jeden Montag im AWO Coerde mittend
- rin der AWO in Münster-Coerde.\nVeranstalter: AWO Coerde mittendrin\nQuell
- e: https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
-URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
-CATEGORIES:Stadtteil / Begegnung / Beratung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-14_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_
- coerde_mittendrin@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260714T110000
-DTEND;TZID=Europe/Berlin:20260714T140000
-SUMMARY:Kochprojekt „Gemeinsam am Herd – Rezepte ohne Grenzen“
-LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
- de\, Münster-Coerde
-DESCRIPTION:Kochprojekt „Gemeinsam am Herd – Rezepte ohne Grenzen“: wöchent
- liches Angebot jeden Dienstag im AWO Coerde mittendrin der AWO in Münster-
- Coerde.\nVeranstalter: AWO Coerde mittendrin\nQuelle: https://www.awo-msl-
- re.de/einrichtung/coerde-mittendrin
-URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
-CATEGORIES:Stadtteil / Begegnung / Beratung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-15_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_mi
- grationsberatung_mbe@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260715T090000
-DTEND;TZID=Europe/Berlin:20260715T150000
-SUMMARY:Migrationsberatung (MBE) in Münster-Coerde
-LOCATION:DRK Münster – Migrationsberatung\, Hamannplatz 26/28\, 48157 Münst
- er-Coerde\, Münster-Coerde
-DESCRIPTION:Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte 
- ab 28 Jahren mit Unterstützung in Integrationsprozessen\, behördlichen Ang
- elegenheiten und sozialer Teilhabe.\nVeranstalter: Deutsches Rotes Kreuz M
- ünster\nQuelle: https://www.drk-muenster.de/angebot/migrationsberatung.htm
- l
-URL:https://www.drk-muenster.de/angebot/migrationsberatung.html
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-15_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_a
- wo_coerde_mittendrin@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260715T100000
-DTEND;TZID=Europe/Berlin:20260715T120000
-SUMMARY:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615)
-LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
- de\, Münster-Coerde
-DESCRIPTION:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615): wöch
- entliches Angebot jeden Mittwoch im AWO Coerde mittendrin der AWO in Münst
- er-Coerde.\nVeranstalter: AWO Coerde mittendrin\nQuelle: https://www.awo-m
- sl-re.de/einrichtung/coerde-mittendrin
-URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
-CATEGORIES:Stadtteil / Begegnung / Beratung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-15_1300_wochentliche_offene_beratungszeit_empowerment_rassismus
- kritik_nachhaltigkeit_koo_iriba_brunnen_termine@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260715T130000
-DTEND;TZID=Europe/Berlin:20260715T150000
-SUMMARY:Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik /
-  Nachhaltigkeit & Kooperationen
-LOCATION:coerde mittendrin\, Königsberger Straße 8\, 48157 Münster\, Münste
- r-Coerde
-DESCRIPTION:Regelmäßige offene Beratungszeit zu Empowerment\, Rassismuskrit
- ik\, Nachhaltigkeit und Kooperationen.\nVeranstalter: Iriba-Brunnen e.V.\n
- Quelle: https://www.iriba-brunnen.de/termine/
-URL:https://www.iriba-brunnen.de/termine/
-CATEGORIES:Stadtteil / Begegnung / Engagement
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-15_1500_uberraschungsfilm_im_coerder_kino_andreas_kirchengemein
- de_startseite@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260715T150000
-DTEND;TZID=Europe/Berlin:20260715T150000
-SUMMARY:Überraschungsfilm im Coerder Kino
-LOCATION:Coerder Kino\, Münster-Coerde
-DESCRIPTION:Filmvorführung eines Überraschungsfilms im Coerder Kino am 15. 
- Juli um 15:00 Uhr.\nVeranstalter: Ev. Andreas-Kirchengemeinde Münster-Coer
- de\nQuelle: https://www.andreas-kirchengemeinde-muenster.de/
-URL:https://www.andreas-kirchengemeinde-muenster.de/
-CATEGORIES:Kirche / Stadtteil / Begegnung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-15_1800_heimat_remixed_musik_der_kulturen_iriba_brunnen_termine
- @coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260715T180000
-DTEND;TZID=Europe/Berlin:20260715T203000
-SUMMARY:Heimat remixed – Musik der Kulturen
-LOCATION:Franziskushaus in Coerde\, Schneidemühlerstr. 23\, 48157 Münster\,
-  Münster-Coerde
-DESCRIPTION:Musikalische Veranstaltung mit vielfältigen kulturellen Einflüs
- sen im Franziskushaus Coerde.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: h
- ttps://www.iriba-brunnen.de/termine/
-URL:https://www.iriba-brunnen.de/termine/
-CATEGORIES:Stadtteil / Begegnung / Engagement
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-16_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mitten
- drin@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260716T110000
-DTEND;TZID=Europe/Berlin:20260716T130000
-SUMMARY:Offene Sprechstunde „coerde mittendrin“
-LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
- de\, Münster-Coerde
-DESCRIPTION:Offene Sprechstunde „coerde mittendrin“: wöchentliches Angebot 
- jeden Donnerstag im AWO Coerde mittendrin der AWO in Münster-Coerde.\nVera
- nstalter: AWO Coerde mittendrin\nQuelle: https://www.awo-msl-re.de/einrich
- tung/coerde-mittendrin
-URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
-CATEGORIES:Stadtteil / Begegnung / Beratung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-16_1900_zumba_in_coerde_ev_fabi_coerde@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260716T190000
-DTEND;TZID=Europe/Berlin:20260716T190000
-SUMMARY:Zumba in Coerde
-LOCATION:Hauptschule Coerde - Musikraum\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Wöchentlicher Zumba-Kurs in Coerde\, geeignet für alle Fitnessl
- evels\, ab dem 16. April 2026 jeweils donnerstags um 19 Uhr.\nVeranstalter
- : Ev. Familienbildungsstätte Münster\nQuelle: https://www.ev-fabi-ms.de/pr
- ogramm/fabi-vor-ort/kategorie/Coerde/23
-URL:https://www.ev-fabi-ms.de/programm/fabi-vor-ort/kategorie/Coerde/23
-CATEGORIES:Bildung / Familie / Stadtteil
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-17_0900_gemeinsames_fruhstuck_im_kirchenzentrum_andreas_kirchen
- gemeinde_startseite@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260717T090000
-DTEND;TZID=Europe/Berlin:20260717T090000
-SUMMARY:Gemeinsames Frühstück im Kirchenzentrum
-LOCATION:Andreas-Kirchengemeinde Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Gemeinsames Frühstück im Kirchenzentrum der Andreas-Kirchengeme
- inde Münster-Coerde am 17. Juli um 9:00 Uhr.\nVeranstalter: Ev. Andreas-Ki
- rchengemeinde Münster-Coerde\nQuelle: https://www.andreas-kirchengemeinde-
- muenster.de/
-URL:https://www.andreas-kirchengemeinde-muenster.de/
-CATEGORIES:Kirche / Stadtteil / Begegnung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-17_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mitt
- endrin@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260717T170000
-DTEND;TZID=Europe/Berlin:20260717T190000
-SUMMARY:Offener Spieletreff (2. & 4. Montag im Monat)
-LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
- de\, Münster-Coerde
-DESCRIPTION:Offener Spieletreff (2. & 4. Montag im Monat): wöchentliches An
- gebot jeden Freitag im AWO Coerde mittendrin der AWO in Münster-Coerde.\nV
- eranstalter: AWO Coerde mittendrin\nQuelle: https://www.awo-msl-re.de/einr
- ichtung/coerde-mittendrin
-URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
-CATEGORIES:Stadtteil / Begegnung / Beratung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-18_1500_nachhilfeangebot_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260718T150000
-DTEND;TZID=Europe/Berlin:20260718T170000
-SUMMARY:Nachhilfeangebot
-LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
- de\, Münster-Coerde
-DESCRIPTION:Nachhilfeangebot: wöchentliches Angebot jeden Samstag im AWO Co
- erde mittendrin der AWO in Münster-Coerde.\nVeranstalter: AWO Coerde mitte
- ndrin\nQuelle: https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
-URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
-CATEGORIES:Stadtteil / Begegnung / Beratung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-19_1100_sommerkirche_gottesdienst_in_der_andreaskirche_andreas_
- kirchengemeinde_startseite@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260719T110000
-DTEND;TZID=Europe/Berlin:20260719T110000
-SUMMARY:Sommerkirche Gottesdienst in der Andreaskirche
-LOCATION:Andreaskirche\, Münster-Coerde
-DESCRIPTION:Gottesdienst der Sommerkirche in der Andreaskirche am 19. Juli 
- um 11:00 Uhr\, im zweiwöchigen Wechsel mit der Markuskirche.\nVeranstalter
- : Ev. Andreas-Kirchengemeinde Münster-Coerde\nQuelle: https://www.andreas-
- kirchengemeinde-muenster.de/
-URL:https://www.andreas-kirchengemeinde-muenster.de/
-CATEGORIES:Kirche / Stadtteil / Begegnung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-20_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_al
- ter_werden_in_coerde_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260720T143000
-DTEND;TZID=Europe/Berlin:20260720T170000
-SUMMARY:Offener Spieletreff für Senior*innen / Doppelkopfrunde "Älter werde
- n in Coerde"
-LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
- de\, Münster-Coerde
-DESCRIPTION:Offener Spieletreff für Senior*innen / Doppelkopfrunde "Älter w
- erden in Coerde": wöchentliches Angebot jeden Montag im AWO Coerde mittend
- rin der AWO in Münster-Coerde.\nVeranstalter: AWO Coerde mittendrin\nQuell
- e: https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
-URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
-CATEGORIES:Stadtteil / Begegnung / Beratung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-07-21_1330_offene_beratungszeit_antidiskriminierungsarbeit_in_coer
- de_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260721T133000
-DTEND;TZID=Europe/Berlin:20260721T143000
-SUMMARY:Offene Beratungszeit: Antidiskriminierungsarbeit in Coerde
-LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
- de\, Münster-Coerde
-DESCRIPTION:Offene Beratungszeit: Antidiskriminierungsarbeit in Coerde: mon
- atliches Angebot am dritten Dienstag im Monat im AWO Coerde mittendrin der
-  AWO in Münster-Coerde.\nVeranstalter: AWO Coerde mittendrin\nQuelle: http
- s://www.awo-msl-re.de/einrichtung/coerde-mittendrin
-URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
-CATEGORIES:Stadtteil / Begegnung / Beratung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-07-22_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_mi
  grationsberatung_mbe@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260722T090000
 DTEND;TZID=Europe/Berlin:20260722T150000
 SUMMARY:Migrationsberatung (MBE) in Münster-Coerde
 LOCATION:DRK Münster – Migrationsberatung\, Hamannplatz 26/28\, 48157 Münst
  er-Coerde\, Münster-Coerde
 DESCRIPTION:Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte 
- ab 28 Jahren mit Unterstützung in Integrationsprozessen\, behördlichen Ang
- elegenheiten und sozialer Teilhabe.\nVeranstalter: Deutsches Rotes Kreuz M
- ünster\nQuelle: https://www.drk-muenster.de/angebot/migrationsberatung.htm
- l
+ ab 28 Jahren mit vielfältiger Unterstützung zu Integrationsprozessen\, Beh
+ ördenangelegenheiten\, Ausbildung\, Familie und gesellschaftlicher Teilhab
+ e.\nVeranstalter: Deutsches Rotes Kreuz Münster\nQuelle: https://www.drk-m
+ uenster.de/angebot/migrationsberatung.html
 URL:https://www.drk-muenster.de/angebot/migrationsberatung.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-22_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_a
  wo_coerde_mittendrin@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260722T100000
 DTEND;TZID=Europe/Berlin:20260722T120000
 SUMMARY:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615)
@@ -548,26 +41,9 @@ CATEGORIES:Stadtteil / Begegnung / Beratung
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-07-22_1300_wochentliche_offene_beratungszeit_empowerment_rassismus
- kritik_nachhaltigkeit_koo_iriba_brunnen_termine@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260722T130000
-DTEND;TZID=Europe/Berlin:20260722T150000
-SUMMARY:Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik /
-  Nachhaltigkeit & Kooperationen
-LOCATION:coerde mittendrin\, Königsberger Straße 8\, 48157 Münster\, Münste
- r-Coerde
-DESCRIPTION:Regelmäßige offene Beratungszeit zu Empowerment\, Rassismuskrit
- ik\, Nachhaltigkeit und Kooperationen.\nVeranstalter: Iriba-Brunnen e.V.\n
- Quelle: https://www.iriba-brunnen.de/termine/
-URL:https://www.iriba-brunnen.de/termine/
-CATEGORIES:Stadtteil / Begegnung / Engagement
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-07-23_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mitten
  drin@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260723T110000
 DTEND;TZID=Europe/Berlin:20260723T130000
 SUMMARY:Offene Sprechstunde „coerde mittendrin“
@@ -582,24 +58,9 @@ CATEGORIES:Stadtteil / Begegnung / Beratung
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-07-23_1900_zumba_in_coerde_ev_fabi_coerde@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260723T190000
-DTEND;TZID=Europe/Berlin:20260723T190000
-SUMMARY:Zumba in Coerde
-LOCATION:Hauptschule Coerde - Musikraum\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Wöchentlicher Zumba-Kurs in Coerde\, geeignet für alle Fitnessl
- evels\, ab dem 16. April 2026 jeweils donnerstags um 19 Uhr.\nVeranstalter
- : Ev. Familienbildungsstätte Münster\nQuelle: https://www.ev-fabi-ms.de/pr
- ogramm/fabi-vor-ort/kategorie/Coerde/23
-URL:https://www.ev-fabi-ms.de/programm/fabi-vor-ort/kategorie/Coerde/23
-CATEGORIES:Bildung / Familie / Stadtteil
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-07-24_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mitt
  endrin@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260724T170000
 DTEND;TZID=Europe/Berlin:20260724T190000
 SUMMARY:Offener Spieletreff (2. & 4. Montag im Monat)
@@ -615,7 +76,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-25_1500_nachhilfeangebot_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260725T150000
 DTEND;TZID=Europe/Berlin:20260725T170000
 SUMMARY:Nachhilfeangebot
@@ -629,25 +90,41 @@ CATEGORIES:Stadtteil / Begegnung / Beratung
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-07-26_1100_sommerkirche_gottesdienst_in_der_markuskirche_andreas_k
- irchengemeinde_startseite@coerde-events
-DTSTAMP:20260708T203829Z
+UID:2026-07-26_1100_sommerkirche_in_der_markuskirche_andreas_kirchengemeind
+ e_startseite@coerde-events
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260726T110000
 DTEND;TZID=Europe/Berlin:20260726T110000
-SUMMARY:Sommerkirche Gottesdienst in der Markuskirche
+SUMMARY:Sommerkirche in der Markuskirche
 LOCATION:Markuskirche\, Münster-Coerde
-DESCRIPTION:Gottesdienst der Sommerkirche in der Markuskirche am 26. Juli u
- m 11:00 Uhr\, im zweiwöchigen Wechsel mit der Andreaskirche.\nVeranstalter
- : Ev. Andreas-Kirchengemeinde Münster-Coerde\nQuelle: https://www.andreas-
- kirchengemeinde-muenster.de/
+DESCRIPTION:Sommerkirche-Gottesdienst in der Markuskirche am 26. Juli 2026 
+ um 11:00 Uhr.\nVeranstalter: Ev. Andreas-Kirchengemeinde Münster-Coerde\nQ
+ uelle: https://www.andreas-kirchengemeinde-muenster.de/
 URL:https://www.andreas-kirchengemeinde-muenster.de/
 CATEGORIES:Kirche / Stadtteil / Begegnung
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-07-26_1200_faszination_feuer_kochen_in_und_an_der_flamme_trifft_du
+ tch_oven_kurs_eckels_kladde_events@coerde-events
+DTSTAMP:20260722T074423Z
+DTSTART;TZID=Europe/Berlin:20260726T120000
+DTEND;TZID=Europe/Berlin:20260726T180000
+SUMMARY:Faszination Feuer - Kochen in und an der Flamme trifft Dutch Oven K
+ urs
+LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde
+DESCRIPTION:Kochkurs rund um Feuer und Dutch Oven in Münster-Coerde.\nVeran
+ stalter: Eckels Kladde\nQuelle: https://www.eckels-kladde.de/collections/a
+ lle-kurse-und-events-in-munster
+URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
+ er
+CATEGORIES:Kultur / Musik / Stadtteil
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-07-27_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_al
  ter_werden_in_coerde_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260727T143000
 DTEND;TZID=Europe/Berlin:20260727T170000
 SUMMARY:Offener Spieletreff für Senior*innen / Doppelkopfrunde "Älter werde
@@ -665,7 +142,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-28_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_
  coerde_mittendrin@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260728T110000
 DTEND;TZID=Europe/Berlin:20260728T140000
 SUMMARY:Kochprojekt „Gemeinsam am Herd – Rezepte ohne Grenzen“
@@ -682,24 +159,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-29_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_mi
  grationsberatung_mbe@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260729T090000
 DTEND;TZID=Europe/Berlin:20260729T150000
 SUMMARY:Migrationsberatung (MBE) in Münster-Coerde
 LOCATION:DRK Münster – Migrationsberatung\, Hamannplatz 26/28\, 48157 Münst
  er-Coerde\, Münster-Coerde
 DESCRIPTION:Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte 
- ab 28 Jahren mit Unterstützung in Integrationsprozessen\, behördlichen Ang
- elegenheiten und sozialer Teilhabe.\nVeranstalter: Deutsches Rotes Kreuz M
- ünster\nQuelle: https://www.drk-muenster.de/angebot/migrationsberatung.htm
- l
+ ab 28 Jahren mit vielfältiger Unterstützung zu Integrationsprozessen\, Beh
+ ördenangelegenheiten\, Ausbildung\, Familie und gesellschaftlicher Teilhab
+ e.\nVeranstalter: Deutsches Rotes Kreuz Münster\nQuelle: https://www.drk-m
+ uenster.de/angebot/migrationsberatung.html
 URL:https://www.drk-muenster.de/angebot/migrationsberatung.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-29_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_a
  wo_coerde_mittendrin@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260729T100000
 DTEND;TZID=Europe/Berlin:20260729T120000
 SUMMARY:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615)
@@ -714,33 +191,16 @@ CATEGORIES:Stadtteil / Begegnung / Beratung
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-07-29_1300_wochentliche_offene_beratungszeit_empowerment_rassismus
- kritik_nachhaltigkeit_koo_iriba_brunnen_termine@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260729T130000
-DTEND;TZID=Europe/Berlin:20260729T150000
-SUMMARY:Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik /
-  Nachhaltigkeit & Kooperationen
-LOCATION:coerde mittendrin\, Königsberger Straße 8\, 48157 Münster\, Münste
- r-Coerde
-DESCRIPTION:Regelmäßige offene Beratungszeit zu Empowerment\, Rassismuskrit
- ik\, Nachhaltigkeit und Kooperationen.\nVeranstalter: Iriba-Brunnen e.V.\n
- Quelle: https://www.iriba-brunnen.de/termine/
-URL:https://www.iriba-brunnen.de/termine/
-CATEGORIES:Stadtteil / Begegnung / Engagement
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-07-29_1700_burgerkurs_vom_patty_bis_zur_sauce_selbstgemacht_eckels
  _kladde_events@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260729T170000
 DTEND;TZID=Europe/Berlin:20260729T220000
 SUMMARY:Burgerkurs - Vom Patty bis zur Sauce selbstgemacht
 LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde
-DESCRIPTION:Kurs zur Herstellung von Burgern inklusive Pattys und Saucen.\n
- Veranstalter: Eckels Kladde\nQuelle: https://www.eckels-kladde.de/collecti
- ons/alle-kurse-und-events-in-munster
+DESCRIPTION:Kurs zur Herstellung von Burgern inklusive Pattys und Saucen in
+  Münster-Coerde.\nVeranstalter: Eckels Kladde\nQuelle: https://www.eckels-
+ kladde.de/collections/alle-kurse-und-events-in-munster
 URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
  er
 CATEGORIES:Kultur / Musik / Stadtteil
@@ -749,7 +209,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-30_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mitten
  drin@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260730T110000
 DTEND;TZID=Europe/Berlin:20260730T130000
 SUMMARY:Offene Sprechstunde „coerde mittendrin“
@@ -764,24 +224,9 @@ CATEGORIES:Stadtteil / Begegnung / Beratung
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-07-30_1900_zumba_in_coerde_ev_fabi_coerde@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260730T190000
-DTEND;TZID=Europe/Berlin:20260730T190000
-SUMMARY:Zumba in Coerde
-LOCATION:Hauptschule Coerde - Musikraum\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Wöchentlicher Zumba-Kurs in Coerde\, geeignet für alle Fitnessl
- evels\, ab dem 16. April 2026 jeweils donnerstags um 19 Uhr.\nVeranstalter
- : Ev. Familienbildungsstätte Münster\nQuelle: https://www.ev-fabi-ms.de/pr
- ogramm/fabi-vor-ort/kategorie/Coerde/23
-URL:https://www.ev-fabi-ms.de/programm/fabi-vor-ort/kategorie/Coerde/23
-CATEGORIES:Bildung / Familie / Stadtteil
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-07-31_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mitt
  endrin@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260731T170000
 DTEND;TZID=Europe/Berlin:20260731T190000
 SUMMARY:Offener Spieletreff (2. & 4. Montag im Monat)
@@ -798,7 +243,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-01_0930_gemeinsames_fruhstuck_awo_coerde_mittendrin@coerde-even
  ts
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260801T093000
 DTEND;TZID=Europe/Berlin:20260801T113000
 SUMMARY:Gemeinsames Frühstück
@@ -813,17 +258,16 @@ CATEGORIES:Stadtteil / Begegnung / Beratung
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-02_1100_sommerkirche_gottesdienst_in_der_andreaskirche_andreas_
- kirchengemeinde_startseite@coerde-events
-DTSTAMP:20260708T203829Z
+UID:2026-08-02_1100_sommerkirche_in_der_andreaskirche_andreas_kirchengemein
+ de_startseite@coerde-events
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260802T110000
 DTEND;TZID=Europe/Berlin:20260802T110000
-SUMMARY:Sommerkirche Gottesdienst in der Andreaskirche
+SUMMARY:Sommerkirche in der Andreaskirche
 LOCATION:Andreaskirche\, Münster-Coerde
-DESCRIPTION:Gottesdienst der Sommerkirche in der Andreaskirche am 2. August
-  um 11:00 Uhr\, im zweiwöchigen Wechsel mit der Markuskirche.\nVeranstalte
- r: Ev. Andreas-Kirchengemeinde Münster-Coerde\nQuelle: https://www.andreas
- -kirchengemeinde-muenster.de/
+DESCRIPTION:Sommerkirche-Gottesdienst in der Andreaskirche am 2. August 202
+ 6 um 11:00 Uhr.\nVeranstalter: Ev. Andreas-Kirchengemeinde Münster-Coerde\
+ nQuelle: https://www.andreas-kirchengemeinde-muenster.de/
 URL:https://www.andreas-kirchengemeinde-muenster.de/
 CATEGORIES:Kirche / Stadtteil / Begegnung
 STATUS:CONFIRMED
@@ -831,7 +275,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-03_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_al
  ter_werden_in_coerde_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260803T143000
 DTEND;TZID=Europe/Berlin:20260803T170000
 SUMMARY:Offener Spieletreff für Senior*innen / Doppelkopfrunde "Älter werde
@@ -849,7 +293,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-04_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_
  coerde_mittendrin@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260804T110000
 DTEND;TZID=Europe/Berlin:20260804T140000
 SUMMARY:Kochprojekt „Gemeinsam am Herd – Rezepte ohne Grenzen“
@@ -866,24 +310,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-05_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_mi
  grationsberatung_mbe@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260805T090000
 DTEND;TZID=Europe/Berlin:20260805T150000
 SUMMARY:Migrationsberatung (MBE) in Münster-Coerde
 LOCATION:DRK Münster – Migrationsberatung\, Hamannplatz 26/28\, 48157 Münst
  er-Coerde\, Münster-Coerde
 DESCRIPTION:Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte 
- ab 28 Jahren mit Unterstützung in Integrationsprozessen\, behördlichen Ang
- elegenheiten und sozialer Teilhabe.\nVeranstalter: Deutsches Rotes Kreuz M
- ünster\nQuelle: https://www.drk-muenster.de/angebot/migrationsberatung.htm
- l
+ ab 28 Jahren mit vielfältiger Unterstützung zu Integrationsprozessen\, Beh
+ ördenangelegenheiten\, Ausbildung\, Familie und gesellschaftlicher Teilhab
+ e.\nVeranstalter: Deutsches Rotes Kreuz Münster\nQuelle: https://www.drk-m
+ uenster.de/angebot/migrationsberatung.html
 URL:https://www.drk-muenster.de/angebot/migrationsberatung.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-05_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_a
  wo_coerde_mittendrin@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260805T100000
 DTEND;TZID=Europe/Berlin:20260805T120000
 SUMMARY:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615)
@@ -898,58 +342,241 @@ CATEGORIES:Stadtteil / Begegnung / Beratung
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-05_1300_wochentliche_offene_beratungszeit_empowerment_rassismus
- kritik_nachhaltigkeit_koo_iriba_brunnen_termine@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260805T130000
-DTEND;TZID=Europe/Berlin:20260805T150000
-SUMMARY:Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik /
-  Nachhaltigkeit & Kooperationen
-LOCATION:coerde mittendrin\, Königsberger Straße 8\, 48157 Münster\, Münste
- r-Coerde
-DESCRIPTION:Regelmäßige offene Beratungszeit zu Empowerment\, Rassismuskrit
- ik\, Nachhaltigkeit und Kooperationen.\nVeranstalter: Iriba-Brunnen e.V.\n
- Quelle: https://www.iriba-brunnen.de/termine/
-URL:https://www.iriba-brunnen.de/termine/
-CATEGORIES:Stadtteil / Begegnung / Engagement
+UID:2026-08-06_1200_polizeisprechstunde_coerde_mittendrin_awo_coerde_mitten
+ drin@coerde-events
+DTSTAMP:20260722T074423Z
+DTSTART;TZID=Europe/Berlin:20260806T120000
+DTEND;TZID=Europe/Berlin:20260806T130000
+SUMMARY:Polizeisprechstunde „coerde-mittendrin“
+LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
+ de\, Münster-Coerde
+DESCRIPTION:Polizeisprechstunde „coerde-mittendrin“: monatliches Angebot am
+  ersten Donnerstag im Monat im AWO Coerde mittendrin der AWO in Münster-Co
+ erde.\nVeranstalter: AWO Coerde mittendrin\nQuelle: https://www.awo-msl-re
+ .de/einrichtung/coerde-mittendrin
+URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
+CATEGORIES:Stadtteil / Begegnung / Beratung
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-09_1100_sommerkirche_gottesdienst_in_der_markuskirche_andreas_k
- irchengemeinde_startseite@coerde-events
-DTSTAMP:20260708T203829Z
+UID:2026-08-07_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mitt
+ endrin@coerde-events
+DTSTAMP:20260722T074423Z
+DTSTART;TZID=Europe/Berlin:20260807T170000
+DTEND;TZID=Europe/Berlin:20260807T190000
+SUMMARY:Offener Spieletreff (2. & 4. Montag im Monat)
+LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
+ de\, Münster-Coerde
+DESCRIPTION:Offener Spieletreff (2. & 4. Montag im Monat): wöchentliches An
+ gebot jeden Freitag im AWO Coerde mittendrin der AWO in Münster-Coerde.\nV
+ eranstalter: AWO Coerde mittendrin\nQuelle: https://www.awo-msl-re.de/einr
+ ichtung/coerde-mittendrin
+URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
+CATEGORIES:Stadtteil / Begegnung / Beratung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-08_1500_nachhilfeangebot_awo_coerde_mittendrin@coerde-events
+DTSTAMP:20260722T074423Z
+DTSTART;TZID=Europe/Berlin:20260808T150000
+DTEND;TZID=Europe/Berlin:20260808T170000
+SUMMARY:Nachhilfeangebot
+LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
+ de\, Münster-Coerde
+DESCRIPTION:Nachhilfeangebot: wöchentliches Angebot jeden Samstag im AWO Co
+ erde mittendrin der AWO in Münster-Coerde.\nVeranstalter: AWO Coerde mitte
+ ndrin\nQuelle: https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
+URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
+CATEGORIES:Stadtteil / Begegnung / Beratung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-09_1100_sommerkirche_in_der_markuskirche_andreas_kirchengemeind
+ e_startseite@coerde-events
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260809T110000
 DTEND;TZID=Europe/Berlin:20260809T110000
-SUMMARY:Sommerkirche Gottesdienst in der Markuskirche
+SUMMARY:Sommerkirche in der Markuskirche
 LOCATION:Markuskirche\, Münster-Coerde
-DESCRIPTION:Gottesdienst der Sommerkirche in der Markuskirche am 9. August 
- um 11:00 Uhr\, im zweiwöchigen Wechsel mit der Andreaskirche.\nVeranstalte
- r: Ev. Andreas-Kirchengemeinde Münster-Coerde\nQuelle: https://www.andreas
- -kirchengemeinde-muenster.de/
+DESCRIPTION:Sommerkirche-Gottesdienst in der Markuskirche am 9. August 2026
+  um 11:00 Uhr.\nVeranstalter: Ev. Andreas-Kirchengemeinde Münster-Coerde\n
+ Quelle: https://www.andreas-kirchengemeinde-muenster.de/
 URL:https://www.andreas-kirchengemeinde-muenster.de/
 CATEGORIES:Kirche / Stadtteil / Begegnung
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-16_1100_sommerkirche_gottesdienst_in_der_andreaskirche_andreas_
- kirchengemeinde_startseite@coerde-events
-DTSTAMP:20260708T203829Z
+UID:2026-08-10_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_al
+ ter_werden_in_coerde_awo_coerde_mittendrin@coerde-events
+DTSTAMP:20260722T074423Z
+DTSTART;TZID=Europe/Berlin:20260810T143000
+DTEND;TZID=Europe/Berlin:20260810T170000
+SUMMARY:Offener Spieletreff für Senior*innen / Doppelkopfrunde "Älter werde
+ n in Coerde"
+LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
+ de\, Münster-Coerde
+DESCRIPTION:Offener Spieletreff für Senior*innen / Doppelkopfrunde "Älter w
+ erden in Coerde": wöchentliches Angebot jeden Montag im AWO Coerde mittend
+ rin der AWO in Münster-Coerde.\nVeranstalter: AWO Coerde mittendrin\nQuell
+ e: https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
+URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
+CATEGORIES:Stadtteil / Begegnung / Beratung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-11_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_
+ coerde_mittendrin@coerde-events
+DTSTAMP:20260722T074423Z
+DTSTART;TZID=Europe/Berlin:20260811T110000
+DTEND;TZID=Europe/Berlin:20260811T140000
+SUMMARY:Kochprojekt „Gemeinsam am Herd – Rezepte ohne Grenzen“
+LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
+ de\, Münster-Coerde
+DESCRIPTION:Kochprojekt „Gemeinsam am Herd – Rezepte ohne Grenzen“: wöchent
+ liches Angebot jeden Dienstag im AWO Coerde mittendrin der AWO in Münster-
+ Coerde.\nVeranstalter: AWO Coerde mittendrin\nQuelle: https://www.awo-msl-
+ re.de/einrichtung/coerde-mittendrin
+URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
+CATEGORIES:Stadtteil / Begegnung / Beratung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-12_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_mi
+ grationsberatung_mbe@coerde-events
+DTSTAMP:20260722T074423Z
+DTSTART;TZID=Europe/Berlin:20260812T090000
+DTEND;TZID=Europe/Berlin:20260812T150000
+SUMMARY:Migrationsberatung (MBE) in Münster-Coerde
+LOCATION:DRK Münster – Migrationsberatung\, Hamannplatz 26/28\, 48157 Münst
+ er-Coerde\, Münster-Coerde
+DESCRIPTION:Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte 
+ ab 28 Jahren mit vielfältiger Unterstützung zu Integrationsprozessen\, Beh
+ ördenangelegenheiten\, Ausbildung\, Familie und gesellschaftlicher Teilhab
+ e.\nVeranstalter: Deutsches Rotes Kreuz Münster\nQuelle: https://www.drk-m
+ uenster.de/angebot/migrationsberatung.html
+URL:https://www.drk-muenster.de/angebot/migrationsberatung.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-12_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_a
+ wo_coerde_mittendrin@coerde-events
+DTSTAMP:20260722T074423Z
+DTSTART;TZID=Europe/Berlin:20260812T100000
+DTEND;TZID=Europe/Berlin:20260812T120000
+SUMMARY:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615)
+LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
+ de\, Münster-Coerde
+DESCRIPTION:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615): wöch
+ entliches Angebot jeden Mittwoch im AWO Coerde mittendrin der AWO in Münst
+ er-Coerde.\nVeranstalter: AWO Coerde mittendrin\nQuelle: https://www.awo-m
+ sl-re.de/einrichtung/coerde-mittendrin
+URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
+CATEGORIES:Stadtteil / Begegnung / Beratung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-13_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mitten
+ drin@coerde-events
+DTSTAMP:20260722T074423Z
+DTSTART;TZID=Europe/Berlin:20260813T110000
+DTEND;TZID=Europe/Berlin:20260813T130000
+SUMMARY:Offene Sprechstunde „coerde mittendrin“
+LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
+ de\, Münster-Coerde
+DESCRIPTION:Offene Sprechstunde „coerde mittendrin“: wöchentliches Angebot 
+ jeden Donnerstag im AWO Coerde mittendrin der AWO in Münster-Coerde.\nVera
+ nstalter: AWO Coerde mittendrin\nQuelle: https://www.awo-msl-re.de/einrich
+ tung/coerde-mittendrin
+URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
+CATEGORIES:Stadtteil / Begegnung / Beratung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-14_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mitt
+ endrin@coerde-events
+DTSTAMP:20260722T074423Z
+DTSTART;TZID=Europe/Berlin:20260814T170000
+DTEND;TZID=Europe/Berlin:20260814T190000
+SUMMARY:Offener Spieletreff (2. & 4. Montag im Monat)
+LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
+ de\, Münster-Coerde
+DESCRIPTION:Offener Spieletreff (2. & 4. Montag im Monat): wöchentliches An
+ gebot jeden Freitag im AWO Coerde mittendrin der AWO in Münster-Coerde.\nV
+ eranstalter: AWO Coerde mittendrin\nQuelle: https://www.awo-msl-re.de/einr
+ ichtung/coerde-mittendrin
+URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
+CATEGORIES:Stadtteil / Begegnung / Beratung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-15_1500_nachhilfeangebot_awo_coerde_mittendrin@coerde-events
+DTSTAMP:20260722T074423Z
+DTSTART;TZID=Europe/Berlin:20260815T150000
+DTEND;TZID=Europe/Berlin:20260815T170000
+SUMMARY:Nachhilfeangebot
+LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
+ de\, Münster-Coerde
+DESCRIPTION:Nachhilfeangebot: wöchentliches Angebot jeden Samstag im AWO Co
+ erde mittendrin der AWO in Münster-Coerde.\nVeranstalter: AWO Coerde mitte
+ ndrin\nQuelle: https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
+URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
+CATEGORIES:Stadtteil / Begegnung / Beratung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-16_1100_sommerkirche_in_der_andreaskirche_andreas_kirchengemein
+ de_startseite@coerde-events
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260816T110000
 DTEND;TZID=Europe/Berlin:20260816T110000
-SUMMARY:Sommerkirche Gottesdienst in der Andreaskirche
+SUMMARY:Sommerkirche in der Andreaskirche
 LOCATION:Andreaskirche\, Münster-Coerde
-DESCRIPTION:Gottesdienst der Sommerkirche in der Andreaskirche am 16. Augus
- t um 11:00 Uhr\, im zweiwöchigen Wechsel mit der Markuskirche.\nVeranstalt
- er: Ev. Andreas-Kirchengemeinde Münster-Coerde\nQuelle: https://www.andrea
- s-kirchengemeinde-muenster.de/
+DESCRIPTION:Sommerkirche-Gottesdienst in der Andreaskirche am 16. August 20
+ 26 um 11:00 Uhr.\nVeranstalter: Ev. Andreas-Kirchengemeinde Münster-Coerde
+ \nQuelle: https://www.andreas-kirchengemeinde-muenster.de/
 URL:https://www.andreas-kirchengemeinde-muenster.de/
 CATEGORIES:Kirche / Stadtteil / Begegnung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-17_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_al
+ ter_werden_in_coerde_awo_coerde_mittendrin@coerde-events
+DTSTAMP:20260722T074423Z
+DTSTART;TZID=Europe/Berlin:20260817T143000
+DTEND;TZID=Europe/Berlin:20260817T170000
+SUMMARY:Offener Spieletreff für Senior*innen / Doppelkopfrunde "Älter werde
+ n in Coerde"
+LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
+ de\, Münster-Coerde
+DESCRIPTION:Offener Spieletreff für Senior*innen / Doppelkopfrunde "Älter w
+ erden in Coerde": wöchentliches Angebot jeden Montag im AWO Coerde mittend
+ rin der AWO in Münster-Coerde.\nVeranstalter: AWO Coerde mittendrin\nQuell
+ e: https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
+URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
+CATEGORIES:Stadtteil / Begegnung / Beratung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-18_1330_offene_beratungszeit_antidiskriminierungsarbeit_in_coer
+ de_awo_coerde_mittendrin@coerde-events
+DTSTAMP:20260722T074423Z
+DTSTART;TZID=Europe/Berlin:20260818T133000
+DTEND;TZID=Europe/Berlin:20260818T143000
+SUMMARY:Offene Beratungszeit: Antidiskriminierungsarbeit in Coerde
+LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
+ de\, Münster-Coerde
+DESCRIPTION:Offene Beratungszeit: Antidiskriminierungsarbeit in Coerde: mon
+ atliches Angebot am dritten Dienstag im Monat im AWO Coerde mittendrin der
+  AWO in Münster-Coerde.\nVeranstalter: AWO Coerde mittendrin\nQuelle: http
+ s://www.awo-msl-re.de/einrichtung/coerde-mittendrin
+URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
+CATEGORIES:Stadtteil / Begegnung / Beratung
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-18_1500_bemal_deine_eigene_tasche_malaktion_stadtbuecherei_coer
  de@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260818T150000
 DTEND;TZID=Europe/Berlin:20260818T170000
 SUMMARY:Bemal deine eigene Tasche – Malaktion
@@ -969,17 +596,50 @@ CATEGORIES:Lesung / Bildung / Stadtteil
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-23_1100_sommerkirche_gottesdienst_in_der_markuskirche_andreas_k
- irchengemeinde_startseite@coerde-events
-DTSTAMP:20260708T203829Z
+UID:2026-08-19_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_mi
+ grationsberatung_mbe@coerde-events
+DTSTAMP:20260722T074423Z
+DTSTART;TZID=Europe/Berlin:20260819T090000
+DTEND;TZID=Europe/Berlin:20260819T150000
+SUMMARY:Migrationsberatung (MBE) in Münster-Coerde
+LOCATION:DRK Münster – Migrationsberatung\, Hamannplatz 26/28\, 48157 Münst
+ er-Coerde\, Münster-Coerde
+DESCRIPTION:Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte 
+ ab 28 Jahren mit vielfältiger Unterstützung zu Integrationsprozessen\, Beh
+ ördenangelegenheiten\, Ausbildung\, Familie und gesellschaftlicher Teilhab
+ e.\nVeranstalter: Deutsches Rotes Kreuz Münster\nQuelle: https://www.drk-m
+ uenster.de/angebot/migrationsberatung.html
+URL:https://www.drk-muenster.de/angebot/migrationsberatung.html
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-19_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_a
+ wo_coerde_mittendrin@coerde-events
+DTSTAMP:20260722T074423Z
+DTSTART;TZID=Europe/Berlin:20260819T100000
+DTEND;TZID=Europe/Berlin:20260819T120000
+SUMMARY:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615)
+LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
+ de\, Münster-Coerde
+DESCRIPTION:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615): wöch
+ entliches Angebot jeden Mittwoch im AWO Coerde mittendrin der AWO in Münst
+ er-Coerde.\nVeranstalter: AWO Coerde mittendrin\nQuelle: https://www.awo-m
+ sl-re.de/einrichtung/coerde-mittendrin
+URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin
+CATEGORIES:Stadtteil / Begegnung / Beratung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-23_1100_sommerkirche_in_der_markuskirche_andreas_kirchengemeind
+ e_startseite@coerde-events
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260823T110000
 DTEND;TZID=Europe/Berlin:20260823T110000
-SUMMARY:Sommerkirche Gottesdienst in der Markuskirche
+SUMMARY:Sommerkirche in der Markuskirche
 LOCATION:Markuskirche\, Münster-Coerde
-DESCRIPTION:Gottesdienst der Sommerkirche in der Markuskirche am 23. August
-  um 11:00 Uhr\, im zweiwöchigen Wechsel mit der Andreaskirche.\nVeranstalt
- er: Ev. Andreas-Kirchengemeinde Münster-Coerde\nQuelle: https://www.andrea
- s-kirchengemeinde-muenster.de/
+DESCRIPTION:Sommerkirche-Gottesdienst in der Markuskirche am 23. August 202
+ 6 um 11:00 Uhr.\nVeranstalter: Ev. Andreas-Kirchengemeinde Münster-Coerde\
+ nQuelle: https://www.andreas-kirchengemeinde-muenster.de/
 URL:https://www.andreas-kirchengemeinde-muenster.de/
 CATEGORIES:Kirche / Stadtteil / Begegnung
 STATUS:CONFIRMED
@@ -987,14 +647,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-26_1700_burgerkurs_vom_patty_bis_zur_sauce_selbstgemacht_eckels
  _kladde_events@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260826T170000
 DTEND;TZID=Europe/Berlin:20260826T220000
 SUMMARY:Burgerkurs - Vom Patty bis zur Sauce selbstgemacht
 LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde
-DESCRIPTION:Kurs zur Herstellung von Burgern inklusive Pattys und Saucen.\n
- Veranstalter: Eckels Kladde\nQuelle: https://www.eckels-kladde.de/collecti
- ons/alle-kurse-und-events-in-munster
+DESCRIPTION:Kurs zur Herstellung von Burgern inklusive Pattys und Saucen in
+  Münster-Coerde.\nVeranstalter: Eckels Kladde\nQuelle: https://www.eckels-
+ kladde.de/collections/alle-kurse-und-events-in-munster
 URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
  er
 CATEGORIES:Kultur / Musik / Stadtteil
@@ -1003,28 +663,27 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-29_1500_abschlussfest_des_coerder_kinder_kultur_sommers_2026_in
  itiative_chack_projekte@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260829T150000
 DTEND;TZID=Europe/Berlin:20260829T150000
 SUMMARY:Abschlussfest des Coerder-Kinder-Kultur-Sommers 2026
 LOCATION:Hamannplatz\, Hamannplatz\, Münster-Coerde\, Münster-Coerde
 DESCRIPTION:Abschlussfest des Coerder-Kinder-Kultur-Sommers 2026 mit Präsen
- tationen der Kursteilnehmer auf dem Hamannplatz in Münster-Coerde.\nVerans
- talter: Initiative ChaCK e.V.
+ tationen der Kinder aus den Sommerkursen auf dem Hamannplatz in Münster-Co
+ erde.\nVeranstalter: Initiative ChaCK e.V.
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-30_1100_sommerkirche_gottesdienst_in_der_andreaskirche_andreas_
- kirchengemeinde_startseite@coerde-events
-DTSTAMP:20260708T203829Z
+UID:2026-08-30_1100_sommerkirche_in_der_andreaskirche_andreas_kirchengemein
+ de_startseite@coerde-events
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260830T110000
 DTEND;TZID=Europe/Berlin:20260830T110000
-SUMMARY:Sommerkirche Gottesdienst in der Andreaskirche
+SUMMARY:Sommerkirche in der Andreaskirche
 LOCATION:Andreaskirche\, Münster-Coerde
-DESCRIPTION:Gottesdienst der Sommerkirche in der Andreaskirche am 30. Augus
- t um 11:00 Uhr\, im zweiwöchigen Wechsel mit der Markuskirche.\nVeranstalt
- er: Ev. Andreas-Kirchengemeinde Münster-Coerde\nQuelle: https://www.andrea
- s-kirchengemeinde-muenster.de/
+DESCRIPTION:Sommerkirche-Gottesdienst in der Andreaskirche am 30. August 20
+ 26 um 11:00 Uhr.\nVeranstalter: Ev. Andreas-Kirchengemeinde Münster-Coerde
+ \nQuelle: https://www.andreas-kirchengemeinde-muenster.de/
 URL:https://www.andreas-kirchengemeinde-muenster.de/
 CATEGORIES:Kirche / Stadtteil / Begegnung
 STATUS:CONFIRMED
@@ -1032,7 +691,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwies
  e_theater@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260904T100000
 DTEND;TZID=Europe/Berlin:20260904T120000
 SUMMARY:TanzXchange – Freie Tanzszene Münster – OPEN CLASS
@@ -1053,39 +712,89 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04_1900_die_lofoten_eckels_kladde_events@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260904T190000
 DTEND;TZID=Europe/Berlin:20260904T190000
 SUMMARY:Die Lofoten
 LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde
-DESCRIPTION:Multimediale Präsentation mit einem einzigartigen 3-Gang-Menü.\
- nVeranstalter: Eckels Kladde\nQuelle: https://www.eckels-kladde.de/collect
- ions/alle-kurse-und-events-in-munster
+DESCRIPTION:Multimediale Präsentation mit einem einzigartigen 3-Gang-Menü i
+ n Münster-Coerde.\nVeranstalter: Eckels Kladde\nQuelle: https://www.eckels
+ -kladde.de/collections/alle-kurse-und-events-in-munster
 URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
  er
 CATEGORIES:Kultur / Musik / Stadtteil
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-05_1430_12_fest_der_vielfalt_iriba_brunnen_termine@coerde-event
- s
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20260905T143000
-DTEND;TZID=Europe/Berlin:20260905T210000
-SUMMARY:12. Fest der Vielfalt
-LOCATION:Franziskushaus in Coerde\, Schneidemühlerstr. 23\, 48157 Münster\,
-  Münster-Coerde
-DESCRIPTION:Vielfältiges Fest zur Feier der kulturellen Vielfalt im Franzis
- kushaus Coerde.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https://www.iri
- ba-brunnen.de/termine/
-URL:https://www.iriba-brunnen.de/termine/
-CATEGORIES:Stadtteil / Begegnung / Engagement
+UID:2026-09-06_1200_qi_gong_seminar_die_wandlungsphase_metall_ubungen_fur_d
+ ie_lunge_meerwiese_theater@coerde-events
+DTSTAMP:20260722T074423Z
+DTSTART;TZID=Europe/Berlin:20260906T120000
+DTEND;TZID=Europe/Berlin:20260906T190000
+SUMMARY:Qi Gong-Seminar: Die Wandlungsphase Metall – Übungen für die Lunge
+LOCATION:Begegnungszentrum und Theater in der Meerwiese\, An der Meerwiese 
+ 25\, Münster-Coerde
+DESCRIPTION:Der Goldene Drache gehört zur Wandlungsphase Metall und wird da
+ her auch als Metalldrache (Jin Long) bezeichnet. Ihn zu üben\, stärkt die 
+ Energie unserer Lungen. Dadurch kann unsere Lebenskraft und Vitalität im g
+ anzen Körper gekräftigt werden. Unsere Abwehrenergie (Wei Qi) wird verstär
+ kt und somit auch das Immunsystem und die Beziehung zwischen Körper und Ge
+ ist gestärkt\, wodurch das Körperbewusstsein entwickelt wird. In diesem Se
+ minar werden die Lunge stärkende Atemübungen und Selbstmassagetech...\nVer
+ anstalter: Stadt Münster Veranstaltungskalender\nQuelle: https://www.stadt
+ -muenster.de/meerwiese/theater/stuecke-und-termine
+URL:https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
+CATEGORIES:Theater / Kultur / Tanz / Kinderkultur
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-11_2000_splitter_and_be_julie_klos_aus_munster_meerwiese_theate
+ r@coerde-events
+DTSTAMP:20260722T074423Z
+DTSTART;TZID=Europe/Berlin:20260911T200000
+DTEND;TZID=Europe/Berlin:20260911T210000
+SUMMARY:Splitter and BE! – Julie Klos aus Münster
+LOCATION:Begegnungszentrum und Theater in der Meerwiese\, An der Meerwiese 
+ 25\, Münster-Coerde
+DESCRIPTION:für alle ab 14 Jahren und Erwachsene Das Musikstück aus den Hän
+ den der Schauspielerin und Regisseurin Nina Krücken vom echtzeit-theater\,
+  Münster. Im Coronajahr 2021 wurde das Stück noch unter Pandemie-Restrikti
+ onen uraufgeführt und ist seitdem regelmäßig zu sehen. Julie Klos spielt u
+ nd singt in 60 Minuten und zwölf unterschiedlichen Rollen über den Umgang 
+ mit äußeren Zwängen und der Suche nach Authentizität. Das Publikum wird da
+ bei selbst zum Akteur. Es geht mit auf die Reise durch Fragen und...\nVera
+ nstalter: Stadt Münster Veranstaltungskalender\nQuelle: https://www.stadt-
+ muenster.de/meerwiese/theater/stuecke-und-termine
+URL:https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
+CATEGORIES:Theater / Kultur / Tanz / Kinderkultur
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-13_1530_die_clown_fidelidad_solo_show_clown_fidelidad_aus_munst
+ er_meerwiese_theater@coerde-events
+DTSTAMP:20260722T074423Z
+DTSTART;TZID=Europe/Berlin:20260913T153000
+DTEND;TZID=Europe/Berlin:20260913T163000
+SUMMARY:Die Clown-fidelidad-Solo-Show – Clown fidelidad aus Münster
+LOCATION:Begegnungszentrum und Theater in der Meerwiese\, An der Meerwiese 
+ 25\, Münster-Coerde
+DESCRIPTION:Hereinspaziert\, nehmen Sie Platz! das Manegenprogramm für die 
+ ganze Familie Clown fidelidad schlüpft in die Rolle eines tollpatschigen A
+ krobaten\, er bezaubert seine staunenden Zuschauer als wilder Stier und st
+ olzer Matador\, inszeniert eine „klassische Corrida“\, wo Stier und Stierk
+ ämpfer lustigste Momente erleben\, er spielt\, verkleidet im schneeweißem 
+ Nachtgewand\, auf seiner Geige zum Mond\, der verzaubernd am Firmament ers
+ cheint und den Clown in eine traumreiche Nacht entführt\, und zum Ende er.
+ ..\nVeranstalter: Stadt Münster Veranstaltungskalender\nQuelle: https://ww
+ w.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
+URL:https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
+CATEGORIES:Theater / Kultur / Tanz / Kinderkultur
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18_1930_vorlese_cafe_im_september_auf_turkisch_deutsch_mit_musi
  k_kulturinitiative_coerde@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20260918T193000
 DTEND;TZID=Europe/Berlin:20260918T210000
 SUMMARY:Vorlese-Café im September auf Türkisch & Deutsch mit Musik
@@ -1103,43 +812,59 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19_ganztag_6_rock_am_berg_festival_rock_am_berg@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260919
 SUMMARY:6. Rock am Berg Festival
 LOCATION:Rieselfelder Münster\, Münster Westf.\, Münster-Coerde
 DESCRIPTION:Benefizkonzert mit mehreren Bands ohne Gage zur Unterstützung v
- on Menschen in Not Straßenmagazin draußen! e.V. in Münster und dem Münster
- land. Getränke und Speisen werden vor Ort angeboten.\nVeranstalter: Rock a
- m Berg Münster\nQuelle: https://www.rockamberg-ms.de/
+ on Menschen in Not in Münster und dem Münsterland. Getränke und Speisen we
+ rden angeboten\, Erlös wird gespendet.\nVeranstalter: Rock am Berg Münster
+ \nQuelle: https://www.rockamberg-ms.de/
 URL:https://www.rockamberg-ms.de/
 CATEGORIES:Musik / Konzert / Stadtteil
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-09_1130_ich_bin_mehr_als_mein_feed_workshop_fur_madchen_zu_soci
- al_media_essen_korpergefu_iriba_brunnen_termine@coerde-events
-DTSTAMP:20260708T203829Z
-DTSTART;TZID=Europe/Berlin:20261009T113000
-DTEND;TZID=Europe/Berlin:20261009T173000
-SUMMARY:„Ich bin mehr als mein Feed“ – Workshop für Mädchen zu Social Media
- \, Essen & Körpergefühl
-LOCATION:Iriba-Brunnen e.V.\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Workshop für Mädchen zu den Themen Social Media\, Ernährung und
-  Körperbewusstsein.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https://www
- .iriba-brunnen.de/termine/
-URL:https://www.iriba-brunnen.de/termine/
-CATEGORIES:Stadtteil / Begegnung / Engagement
+UID:2026-10-04_1200_faszination_feuer_kochen_in_und_an_der_flamme_trifft_du
+ tch_oven_kurs_eckels_kladde_events@coerde-events
+DTSTAMP:20260722T074423Z
+DTSTART;TZID=Europe/Berlin:20261004T120000
+DTEND;TZID=Europe/Berlin:20261004T180000
+SUMMARY:Faszination Feuer - Kochen in und an der Flamme trifft Dutch Oven K
+ urs
+LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde
+DESCRIPTION:Kochkurs rund um Feuer und Dutch Oven in Münster-Coerde.\nVeran
+ stalter: Eckels Kladde\nQuelle: https://www.eckels-kladde.de/collections/a
+ lle-kurse-und-events-in-munster
+URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
+ er
+CATEGORIES:Kultur / Musik / Stadtteil
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-10_ganztag_glow_up_after_work_party_st_franziskus_startseite@co
+ erde-events
+DTSTAMP:20260722T074423Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261010
+SUMMARY:Glow-Up After Work Party
+LOCATION:Franziskushaus Coerde\, Schneidemühler Str. 23\, 48157 Münster-Coe
+ rde\, Münster-Coerde
+DESCRIPTION:Abendveranstaltung mit stylischer Glow-Dekoration\, Lichteffekt
+ en\, erfrischenden Drinks\, Snacks und Musik zum Tanzen und Entspannen in 
+ Münster-Coerde.\nVeranstalter: Katholische Kirchengemeinde St. Franziskus
+CATEGORIES:Kirche / Gottesdienst / Begegnung
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10_1000_tagung_fruhkindliche_bildung_und_chancengleichheit_init
  iative_chack_fachtagung@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20261010T100000
 DTEND;TZID=Europe/Berlin:20261010T153000
 SUMMARY:Tagung: Frühkindliche Bildung und Chancengleichheit
-LOCATION:Hörsaal F1\, Fürstenberghaus\, Domplatz 20-22\, Münster-Coerde\, M
+LOCATION:Hörsaal F1 (Fürstenberghaus)\, Domplatz 20-22\, Münster-Coerde\, M
  ünster-Coerde
 DESCRIPTION:Fachtagung mit internationalen Wissenschaftlern und Experten zu
  m Thema Chancengleichheit und Kinderarmut. Vorträge und Podiumsdiskussion 
@@ -1149,14 +874,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06_1900_die_lofoten_eckels_kladde_events@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20261106T190000
 DTEND;TZID=Europe/Berlin:20261106T190000
 SUMMARY:Die Lofoten
 LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde
-DESCRIPTION:Multimediale Präsentation mit einem einzigartigen 3-Gang-Menü.\
- nVeranstalter: Eckels Kladde\nQuelle: https://www.eckels-kladde.de/collect
- ions/alle-kurse-und-events-in-munster
+DESCRIPTION:Multimediale Präsentation mit einem einzigartigen 3-Gang-Menü i
+ n Münster-Coerde.\nVeranstalter: Eckels Kladde\nQuelle: https://www.eckels
+ -kladde.de/collections/alle-kurse-und-events-in-munster
 URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
  er
 CATEGORIES:Kultur / Musik / Stadtteil
@@ -1165,7 +890,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06_1930_vorlese_cafe_im_november_auf_russisch_deutsch_mit_musik
  _kulturinitiative_coerde@coerde-events
-DTSTAMP:20260708T203829Z
+DTSTAMP:20260722T074423Z
 DTSTART;TZID=Europe/Berlin:20261106T193000
 DTEND;TZID=Europe/Berlin:20261106T210000
 SUMMARY:Vorlese-Café im November auf Russisch & Deutsch mit Musik
