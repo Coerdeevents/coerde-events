@@ -2,7 +2,7 @@
   "dataset": "coerde-events",
   "description": "Öffentliche Veranstaltungen in Münster-Coerde",
   "license": "CC-BY-4.0",
-  "generated_at": "2026-07-22T10:08:34.629Z",
+  "generated_at": "2026-07-22T12:23:39.293Z",
   "event_count": 265,
   "events": [
     {
@@ -17,13 +17,13 @@
       "city": "Münster-Coerde",
       "organizer": "Deutsches Rotes Kreuz Münster",
       "category": "",
-      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren, mit Unterstützung in Integrationsfragen und Alltagsangelegenheiten, mittwochs von 9 bis 15 Uhr in Coerde.",
+      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren mit vielfältiger Unterstützung zu Integrationsprozessen, Behördenangelegenheiten, Ausbildung, Arbeit und sozialer Teilhabe.",
       "status": "scheduled",
       "source_name": "DRK Münster – Migrationsberatung (MBE)",
       "source_url": "https://www.drk-muenster.de/angebot/migrationsberatung.html",
       "source_id": "drk_munster_migrationsberatung_mbe",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-07-29_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_migrationsberatung_mbe",
@@ -37,13 +37,13 @@
       "city": "Münster-Coerde",
       "organizer": "Deutsches Rotes Kreuz Münster",
       "category": "",
-      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren, mit Unterstützung in Integrationsfragen und Alltagsangelegenheiten, mittwochs von 9 bis 15 Uhr in Coerde.",
+      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren mit vielfältiger Unterstützung zu Integrationsprozessen, Behördenangelegenheiten, Ausbildung, Arbeit und sozialer Teilhabe.",
       "status": "scheduled",
       "source_name": "DRK Münster – Migrationsberatung (MBE)",
       "source_url": "https://www.drk-muenster.de/angebot/migrationsberatung.html",
       "source_id": "drk_munster_migrationsberatung_mbe",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-08-05_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_migrationsberatung_mbe",
@@ -57,13 +57,13 @@
       "city": "Münster-Coerde",
       "organizer": "Deutsches Rotes Kreuz Münster",
       "category": "",
-      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren, mit Unterstützung in Integrationsfragen und Alltagsangelegenheiten, mittwochs von 9 bis 15 Uhr in Coerde.",
+      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren mit vielfältiger Unterstützung zu Integrationsprozessen, Behördenangelegenheiten, Ausbildung, Arbeit und sozialer Teilhabe.",
       "status": "scheduled",
       "source_name": "DRK Münster – Migrationsberatung (MBE)",
       "source_url": "https://www.drk-muenster.de/angebot/migrationsberatung.html",
       "source_id": "drk_munster_migrationsberatung_mbe",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-08-12_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_migrationsberatung_mbe",
@@ -77,13 +77,13 @@
       "city": "Münster-Coerde",
       "organizer": "Deutsches Rotes Kreuz Münster",
       "category": "",
-      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren, mit Unterstützung in Integrationsfragen und Alltagsangelegenheiten, mittwochs von 9 bis 15 Uhr in Coerde.",
+      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren mit vielfältiger Unterstützung zu Integrationsprozessen, Behördenangelegenheiten, Ausbildung, Arbeit und sozialer Teilhabe.",
       "status": "scheduled",
       "source_name": "DRK Münster – Migrationsberatung (MBE)",
       "source_url": "https://www.drk-muenster.de/angebot/migrationsberatung.html",
       "source_id": "drk_munster_migrationsberatung_mbe",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-08-18_1500_bemal_deine_eigene_tasche_malaktion_stadtbuecherei_coerde",
@@ -103,7 +103,7 @@
       "source_url": "https://www.stadt-muenster.de/buecherei/orte-und-oeffnungszeiten/coerde/veranstaltungen",
       "source_id": "stadtbuecherei_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-08-19_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_migrationsberatung_mbe",
@@ -117,13 +117,13 @@
       "city": "Münster-Coerde",
       "organizer": "Deutsches Rotes Kreuz Münster",
       "category": "",
-      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren, mit Unterstützung in Integrationsfragen und Alltagsangelegenheiten, mittwochs von 9 bis 15 Uhr in Coerde.",
+      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren mit vielfältiger Unterstützung zu Integrationsprozessen, Behördenangelegenheiten, Ausbildung, Arbeit und sozialer Teilhabe.",
       "status": "scheduled",
       "source_name": "DRK Münster – Migrationsberatung (MBE)",
       "source_url": "https://www.drk-muenster.de/angebot/migrationsberatung.html",
       "source_id": "drk_munster_migrationsberatung_mbe",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-02_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -143,7 +143,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-02_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -163,7 +163,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-03_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kindern_ab_3_jahren_fbf_friedensstrasse_coerde",
@@ -183,7 +183,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-03_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_fbf_friedensstrasse_coerde",
@@ -203,7 +203,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-03_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -223,7 +223,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-04_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwiese_theater",
@@ -243,7 +243,7 @@
       "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-04_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -263,7 +263,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-04_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -283,7 +283,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-04_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -303,7 +303,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-06_1200_qi_gong_seminar_die_wandlungsphase_metall_ubungen_fur_die_lunge_meerwiese_theater",
@@ -323,7 +323,7 @@
       "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-07_0930_yoga_fur_senior_innen_fbf_friedensstrasse_coerde",
@@ -343,7 +343,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-07_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_fbf_friedensstrasse_coerde",
@@ -363,7 +363,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-07_1300_pilates_in_coerde_fbf_friedensstrasse_coerde",
@@ -383,7 +383,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-07_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -403,7 +403,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-07_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -423,7 +423,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-07_1730_pilates_in_coerde_fbf_friedensstrasse_coerde",
@@ -443,7 +443,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-07_1830_pilates_in_coerde_fbf_friedensstrasse_coerde",
@@ -463,7 +463,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-07_1830_yoga_in_rumphorst_fbf_friedensstrasse_coerde",
@@ -483,7 +483,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-07_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_fbf_friedensstrasse_coerde",
@@ -503,7 +503,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-08_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_awo_coerde_fbf_friedensstrasse_coerde",
@@ -523,7 +523,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-08_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -543,7 +543,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-08_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coerde_mittendrin_fbf_friedensstrasse_coerde",
@@ -563,7 +563,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-08_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rumphorst_fbf_friedensstrasse_coerde",
@@ -583,7 +583,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-08_1755_nia_reg_ndash_fitness_mit_groove_fbf_friedensstrasse_coerde",
@@ -603,7 +603,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-09_0930_qi_gong_energie_fur_den_tag_fbf_friedensstrasse_coerde",
@@ -623,7 +623,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-09_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -643,7 +643,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-09_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_fbf_friedensstrasse_coerde",
@@ -663,7 +663,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-09_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -683,7 +683,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-09_1900_bauchtanz_fur_frauen_fbf_friedensstrasse_coerde",
@@ -703,7 +703,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-10_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kindern_ab_3_jahren_fbf_friedensstrasse_coerde",
@@ -723,7 +723,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-10_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_fbf_friedensstrasse_coerde",
@@ -743,7 +743,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-10_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -763,7 +763,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-11_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -783,7 +783,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-11_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -803,7 +803,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-11_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -823,7 +823,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-11_2000_splitter_and_be_julie_klos_aus_munster_meerwiese_theater",
@@ -843,7 +843,7 @@
       "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-13_1530_die_clown_fidelidad_solo_show_clown_fidelidad_aus_munster_meerwiese_theater",
@@ -863,7 +863,7 @@
       "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-14_0930_yoga_fur_senior_innen_fbf_friedensstrasse_coerde",
@@ -883,7 +883,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-14_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_fbf_friedensstrasse_coerde",
@@ -903,7 +903,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-14_1300_pilates_in_coerde_fbf_friedensstrasse_coerde",
@@ -923,7 +923,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-14_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -943,7 +943,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-14_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -963,7 +963,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-14_1730_pilates_in_coerde_fbf_friedensstrasse_coerde",
@@ -983,7 +983,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-14_1830_pilates_in_coerde_fbf_friedensstrasse_coerde",
@@ -1003,7 +1003,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-14_1830_yoga_in_rumphorst_fbf_friedensstrasse_coerde",
@@ -1023,7 +1023,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-14_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_fbf_friedensstrasse_coerde",
@@ -1043,7 +1043,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-15_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_awo_coerde_fbf_friedensstrasse_coerde",
@@ -1063,7 +1063,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-15_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -1083,7 +1083,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-15_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coerde_mittendrin_fbf_friedensstrasse_coerde",
@@ -1103,7 +1103,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-15_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rumphorst_fbf_friedensstrasse_coerde",
@@ -1123,7 +1123,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-16_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -1143,7 +1143,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-16_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_fbf_friedensstrasse_coerde",
@@ -1163,7 +1163,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-16_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -1183,7 +1183,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-17_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kindern_ab_3_jahren_fbf_friedensstrasse_coerde",
@@ -1203,7 +1203,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-17_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_fbf_friedensstrasse_coerde",
@@ -1223,7 +1223,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-17_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -1243,7 +1243,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-18_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -1263,7 +1263,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-18_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -1283,7 +1283,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-18_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -1303,7 +1303,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-21_0930_yoga_fur_senior_innen_fbf_friedensstrasse_coerde",
@@ -1323,7 +1323,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-21_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_fbf_friedensstrasse_coerde",
@@ -1343,7 +1343,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-21_1300_pilates_in_coerde_fbf_friedensstrasse_coerde",
@@ -1363,7 +1363,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-21_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -1383,7 +1383,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-21_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -1403,7 +1403,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-21_1730_pilates_in_coerde_fbf_friedensstrasse_coerde",
@@ -1423,7 +1423,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-21_1830_pilates_in_coerde_fbf_friedensstrasse_coerde",
@@ -1443,7 +1443,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-21_1830_yoga_in_rumphorst_fbf_friedensstrasse_coerde",
@@ -1463,7 +1463,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-21_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_fbf_friedensstrasse_coerde",
@@ -1483,7 +1483,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-22_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_awo_coerde_fbf_friedensstrasse_coerde",
@@ -1503,7 +1503,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-22_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -1523,7 +1523,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-22_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coerde_mittendrin_fbf_friedensstrasse_coerde",
@@ -1543,7 +1543,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-22_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rumphorst_fbf_friedensstrasse_coerde",
@@ -1563,7 +1563,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-22_1755_nia_reg_ndash_fitness_mit_groove_fbf_friedensstrasse_coerde",
@@ -1583,7 +1583,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-23_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -1603,7 +1603,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-23_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_fbf_friedensstrasse_coerde",
@@ -1623,7 +1623,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-23_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -1643,7 +1643,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-24_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kindern_ab_3_jahren_fbf_friedensstrasse_coerde",
@@ -1663,7 +1663,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-24_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_fbf_friedensstrasse_coerde",
@@ -1683,7 +1683,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-24_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -1703,7 +1703,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-25_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -1723,7 +1723,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-25_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -1743,7 +1743,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-25_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -1763,7 +1763,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-28_0930_yoga_fur_senior_innen_fbf_friedensstrasse_coerde",
@@ -1783,7 +1783,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-28_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_fbf_friedensstrasse_coerde",
@@ -1803,7 +1803,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-28_1300_pilates_in_coerde_fbf_friedensstrasse_coerde",
@@ -1823,7 +1823,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-28_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -1843,7 +1843,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-28_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -1863,7 +1863,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-28_1730_pilates_in_coerde_fbf_friedensstrasse_coerde",
@@ -1883,7 +1883,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-28_1830_pilates_in_coerde_fbf_friedensstrasse_coerde",
@@ -1903,7 +1903,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-28_1830_yoga_in_rumphorst_fbf_friedensstrasse_coerde",
@@ -1923,7 +1923,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-28_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_fbf_friedensstrasse_coerde",
@@ -1943,7 +1943,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-29_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_awo_coerde_fbf_friedensstrasse_coerde",
@@ -1963,7 +1963,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-29_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -1983,7 +1983,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-29_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coerde_mittendrin_fbf_friedensstrasse_coerde",
@@ -2003,7 +2003,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-29_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rumphorst_fbf_friedensstrasse_coerde",
@@ -2023,7 +2023,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-29_1755_nia_reg_ndash_fitness_mit_groove_fbf_friedensstrasse_coerde",
@@ -2043,7 +2043,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-30_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -2063,7 +2063,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-30_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_fbf_friedensstrasse_coerde",
@@ -2083,7 +2083,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-09-30_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -2103,7 +2103,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-01_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_fbf_friedensstrasse_coerde",
@@ -2123,7 +2123,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-01_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -2143,7 +2143,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-02_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -2163,7 +2163,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-02_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -2183,7 +2183,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-02_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -2203,7 +2203,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-05_0930_yoga_fur_senior_innen_fbf_friedensstrasse_coerde",
@@ -2223,7 +2223,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-05_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_fbf_friedensstrasse_coerde",
@@ -2243,7 +2243,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-05_1300_pilates_in_coerde_fbf_friedensstrasse_coerde",
@@ -2263,7 +2263,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-05_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -2283,7 +2283,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-05_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -2303,7 +2303,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-05_1730_pilates_in_coerde_fbf_friedensstrasse_coerde",
@@ -2323,7 +2323,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-05_1830_pilates_in_coerde_fbf_friedensstrasse_coerde",
@@ -2343,7 +2343,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-05_1830_yoga_in_rumphorst_fbf_friedensstrasse_coerde",
@@ -2363,7 +2363,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-05_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_fbf_friedensstrasse_coerde",
@@ -2383,7 +2383,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-06_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_awo_coerde_fbf_friedensstrasse_coerde",
@@ -2403,7 +2403,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-06_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -2423,7 +2423,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-06_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coerde_mittendrin_fbf_friedensstrasse_coerde",
@@ -2443,7 +2443,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-06_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rumphorst_fbf_friedensstrasse_coerde",
@@ -2463,7 +2463,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-06_1755_nia_reg_ndash_fitness_mit_groove_fbf_friedensstrasse_coerde",
@@ -2483,7 +2483,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-07_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -2503,7 +2503,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-07_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_fbf_friedensstrasse_coerde",
@@ -2523,7 +2523,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-07_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -2543,7 +2543,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-07_1900_bauchtanz_fur_frauen_fbf_friedensstrasse_coerde",
@@ -2563,7 +2563,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-08_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kindern_ab_3_jahren_fbf_friedensstrasse_coerde",
@@ -2583,7 +2583,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-08_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_fbf_friedensstrasse_coerde",
@@ -2603,7 +2603,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-08_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -2623,7 +2623,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-09_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -2643,7 +2643,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-09_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -2663,7 +2663,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-09_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -2683,7 +2683,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-12_0930_yoga_fur_senior_innen_fbf_friedensstrasse_coerde",
@@ -2703,7 +2703,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-12_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_fbf_friedensstrasse_coerde",
@@ -2723,7 +2723,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-12_1300_pilates_in_coerde_fbf_friedensstrasse_coerde",
@@ -2743,7 +2743,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-12_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -2763,7 +2763,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-12_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -2783,7 +2783,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-12_1730_pilates_in_coerde_fbf_friedensstrasse_coerde",
@@ -2803,7 +2803,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-12_1830_pilates_in_coerde_fbf_friedensstrasse_coerde",
@@ -2823,7 +2823,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-12_1830_yoga_in_rumphorst_fbf_friedensstrasse_coerde",
@@ -2843,7 +2843,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-12_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_fbf_friedensstrasse_coerde",
@@ -2863,7 +2863,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-13_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_awo_coerde_fbf_friedensstrasse_coerde",
@@ -2883,7 +2883,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-13_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -2903,7 +2903,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-13_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coerde_mittendrin_fbf_friedensstrasse_coerde",
@@ -2923,7 +2923,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-13_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rumphorst_fbf_friedensstrasse_coerde",
@@ -2943,7 +2943,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-13_1755_nia_reg_ndash_fitness_mit_groove_fbf_friedensstrasse_coerde",
@@ -2963,7 +2963,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-14_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -2983,7 +2983,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-14_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_fbf_friedensstrasse_coerde",
@@ -3003,7 +3003,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-14_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -3023,7 +3023,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-15_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kindern_ab_3_jahren_fbf_friedensstrasse_coerde",
@@ -3043,7 +3043,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-15_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_fbf_friedensstrasse_coerde",
@@ -3063,7 +3063,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-15_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -3083,7 +3083,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-16_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -3103,7 +3103,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-16_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -3123,7 +3123,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-10-16_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -3143,7 +3143,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-02_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_fbf_friedensstrasse_coerde",
@@ -3163,7 +3163,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-02_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -3183,7 +3183,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-02_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -3203,7 +3203,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-02_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_fbf_friedensstrasse_coerde",
@@ -3223,7 +3223,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-03_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_awo_coerde_fbf_friedensstrasse_coerde",
@@ -3243,7 +3243,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-03_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -3263,7 +3263,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-03_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coerde_mittendrin_fbf_friedensstrasse_coerde",
@@ -3283,7 +3283,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-03_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rumphorst_fbf_friedensstrasse_coerde",
@@ -3303,7 +3303,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-03_1755_nia_reg_ndash_fitness_mit_groove_fbf_friedensstrasse_coerde",
@@ -3323,7 +3323,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-04_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -3343,7 +3343,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-04_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_fbf_friedensstrasse_coerde",
@@ -3363,7 +3363,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-05_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kindern_ab_3_jahren_fbf_friedensstrasse_coerde",
@@ -3383,7 +3383,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-05_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_fbf_friedensstrasse_coerde",
@@ -3403,7 +3403,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-05_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -3423,7 +3423,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-06_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -3443,7 +3443,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-06_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -3463,7 +3463,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-06_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -3483,7 +3483,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-09_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_fbf_friedensstrasse_coerde",
@@ -3503,7 +3503,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-09_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -3523,7 +3523,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-09_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -3543,7 +3543,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-09_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_fbf_friedensstrasse_coerde",
@@ -3563,7 +3563,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-10_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_awo_coerde_fbf_friedensstrasse_coerde",
@@ -3583,7 +3583,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-10_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -3603,7 +3603,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-10_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coerde_mittendrin_fbf_friedensstrasse_coerde",
@@ -3623,7 +3623,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-10_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rumphorst_fbf_friedensstrasse_coerde",
@@ -3643,7 +3643,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-10_1755_nia_reg_ndash_fitness_mit_groove_fbf_friedensstrasse_coerde",
@@ -3663,7 +3663,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-11_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -3683,7 +3683,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-11_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_fbf_friedensstrasse_coerde",
@@ -3703,7 +3703,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-12_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kindern_ab_3_jahren_fbf_friedensstrasse_coerde",
@@ -3723,7 +3723,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-12_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_fbf_friedensstrasse_coerde",
@@ -3743,7 +3743,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-12_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -3763,7 +3763,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-13_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -3783,7 +3783,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-13_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -3803,7 +3803,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-13_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -3823,7 +3823,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-16_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_fbf_friedensstrasse_coerde",
@@ -3843,7 +3843,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-16_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -3863,7 +3863,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-16_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -3883,7 +3883,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-16_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_fbf_friedensstrasse_coerde",
@@ -3903,7 +3903,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-17_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_awo_coerde_fbf_friedensstrasse_coerde",
@@ -3923,7 +3923,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-17_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -3943,7 +3943,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-17_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coerde_mittendrin_fbf_friedensstrasse_coerde",
@@ -3963,7 +3963,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-17_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rumphorst_fbf_friedensstrasse_coerde",
@@ -3983,7 +3983,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-17_1755_nia_reg_ndash_fitness_mit_groove_fbf_friedensstrasse_coerde",
@@ -4003,7 +4003,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-18_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -4023,7 +4023,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-18_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_fbf_friedensstrasse_coerde",
@@ -4043,7 +4043,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-19_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kindern_ab_3_jahren_fbf_friedensstrasse_coerde",
@@ -4063,7 +4063,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-19_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_fbf_friedensstrasse_coerde",
@@ -4083,7 +4083,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-19_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -4103,7 +4103,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-20_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -4123,7 +4123,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-20_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -4143,7 +4143,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-20_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -4163,7 +4163,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-23_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_fbf_friedensstrasse_coerde",
@@ -4183,7 +4183,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-23_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -4203,7 +4203,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-23_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -4223,7 +4223,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-23_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_fbf_friedensstrasse_coerde",
@@ -4243,7 +4243,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-24_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_awo_coerde_fbf_friedensstrasse_coerde",
@@ -4263,7 +4263,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-24_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -4283,7 +4283,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-24_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coerde_mittendrin_fbf_friedensstrasse_coerde",
@@ -4303,7 +4303,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-24_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rumphorst_fbf_friedensstrasse_coerde",
@@ -4323,7 +4323,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-25_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -4343,7 +4343,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-25_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_fbf_friedensstrasse_coerde",
@@ -4363,7 +4363,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-26_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kindern_ab_3_jahren_fbf_friedensstrasse_coerde",
@@ -4383,7 +4383,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-26_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_fbf_friedensstrasse_coerde",
@@ -4403,7 +4403,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-26_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -4423,7 +4423,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-27_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -4443,7 +4443,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-27_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -4463,7 +4463,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-27_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -4483,7 +4483,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-30_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_fbf_friedensstrasse_coerde",
@@ -4503,7 +4503,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-30_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -4523,7 +4523,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-30_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -4543,7 +4543,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-11-30_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_fbf_friedensstrasse_coerde",
@@ -4563,7 +4563,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-01_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_awo_coerde_fbf_friedensstrasse_coerde",
@@ -4583,7 +4583,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-01_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -4603,7 +4603,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-01_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coerde_mittendrin_fbf_friedensstrasse_coerde",
@@ -4623,7 +4623,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-01_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rumphorst_fbf_friedensstrasse_coerde",
@@ -4643,7 +4643,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-02_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -4663,7 +4663,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-02_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_fbf_friedensstrasse_coerde",
@@ -4683,7 +4683,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-03_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kindern_ab_3_jahren_fbf_friedensstrasse_coerde",
@@ -4703,7 +4703,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-03_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_fbf_friedensstrasse_coerde",
@@ -4723,7 +4723,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-03_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -4743,7 +4743,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-04_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -4763,7 +4763,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-04_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -4783,7 +4783,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-04_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -4803,7 +4803,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-07_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_fbf_friedensstrasse_coerde",
@@ -4823,7 +4823,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-07_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -4843,7 +4843,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-07_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -4863,7 +4863,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-07_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_fbf_friedensstrasse_coerde",
@@ -4883,7 +4883,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-08_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_awo_coerde_fbf_friedensstrasse_coerde",
@@ -4903,7 +4903,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-08_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -4923,7 +4923,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-08_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coerde_mittendrin_fbf_friedensstrasse_coerde",
@@ -4943,7 +4943,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-08_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rumphorst_fbf_friedensstrasse_coerde",
@@ -4963,7 +4963,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-08_1755_nia_reg_ndash_fitness_mit_groove_fbf_friedensstrasse_coerde",
@@ -4983,7 +4983,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-09_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -5003,7 +5003,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-09_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_fbf_friedensstrasse_coerde",
@@ -5023,7 +5023,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-10_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kindern_ab_3_jahren_fbf_friedensstrasse_coerde",
@@ -5043,7 +5043,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-10_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_fbf_friedensstrasse_coerde",
@@ -5063,7 +5063,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-10_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -5083,7 +5083,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-11_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -5103,7 +5103,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-11_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -5123,7 +5123,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-11_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_coerde",
@@ -5143,7 +5143,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-14_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_fbf_friedensstrasse_coerde",
@@ -5163,7 +5163,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-15_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_awo_coerde_fbf_friedensstrasse_coerde",
@@ -5183,7 +5183,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-15_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -5203,7 +5203,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-15_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coerde_mittendrin_fbf_friedensstrasse_coerde",
@@ -5223,7 +5223,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-16_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -5243,7 +5243,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-16_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_fbf_friedensstrasse_coerde",
@@ -5263,7 +5263,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-17_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kindern_ab_3_jahren_fbf_friedensstrasse_coerde",
@@ -5283,7 +5283,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     },
     {
       "event_id": "2026-12-17_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_fbf_friedensstrasse_coerde",
@@ -5303,7 +5303,7 @@
       "source_url": "",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-07-22T10:08:34.629Z"
+      "last_updated": "2026-07-22T12:23:39.293Z"
     }
   ]
 }
