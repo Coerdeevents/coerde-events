@@ -9,7 +9,7 @@ X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
 UID:2026-08-18_1500_bemal_deine_eigene_tasche_malaktion_stadtbuecherei_coer
  de@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260818T150000
 DTEND;TZID=Europe/Berlin:20260818T170000
 SUMMARY:Bemal deine eigene Tasche – Malaktion
@@ -21,15 +21,17 @@ DESCRIPTION:Werde kreativ und gestalte deine ganz persönliche Stofftasche.
  ng findet im Freien vor der Stadtteilbücherei Coerde statt und kann nur be
  i trockenem Wetter durchgeführt werden. Es ist keine Anmeldung erforderlic
  h. Für Kinder ab 5 Jahren.\nVeranstalter: Stadtbücherei Münster\nQuelle: h
- ttps://events-calendar.stadt-muenster.de/graphql
-URL:https://events-calendar.stadt-muenster.de/graphql
+ ttps://www.stadt-muenster.de/buecherei/orte-und-oeffnungszeiten/coerde/ver
+ anstaltungen
+URL:https://www.stadt-muenster.de/buecherei/orte-und-oeffnungszeiten/coerde
+ /veranstaltungen
 CATEGORIES:Lesung / Bildung / Stadtteil
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_frie
  densstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260902T140000
 DTEND;TZID=Europe/Berlin:20260902T170000
 SUMMARY:Sure Start Plus - Die Familienspielstunde Coerde
@@ -49,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260902T183000
 DTEND;TZID=Europe/Berlin:20260902T200000
 SUMMARY:Yoga An der Meerwiese
@@ -70,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-03_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kinde
  rn_ab_3_jahren_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260903T143000
 DTEND;TZID=Europe/Berlin:20260903T164500
 SUMMARY:Praktische Ernährungsbildung für Eltern mit ihren Kindern ab 3 Jahr
@@ -91,7 +93,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-03_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260903T160000
 DTEND;TZID=Europe/Berlin:20260903T173000
 SUMMARY:Caf&eacute\; für kleine und große Leute - Elternstart NRW
@@ -112,7 +114,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-03_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260903T160000
 DTEND;TZID=Europe/Berlin:20260903T170000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. An der Meerwie
@@ -134,7 +136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwies
  e_theater@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260904T100000
 DTEND;TZID=Europe/Berlin:20260904T120000
 SUMMARY:TanzXchange – Freie Tanzszene Münster – OPEN CLASS
@@ -147,16 +149,16 @@ DESCRIPTION:Professionelle Tänzer*innen\, Tanzpädagog*innen\, Tanzvermittle
   einander zu inspirieren. Die vorhandenen\, etablierten Strukturen sollen 
  ergänzt und erweitert werden\, sodass die Stadt Münster attraktiv für prof
  essionelle Tanzschaffende wird. Ansprechpartnerin: Melanie López López\,..
- .\nVeranstalter: Stadt Münster Veranstaltungskalender\nQuelle: https://eve
- nts-calendar.stadt-muenster.de/graphql
-URL:https://events-calendar.stadt-muenster.de/graphql
+ .\nVeranstalter: Stadt Münster Veranstaltungskalender\nQuelle: https://www
+ .stadt-muenster.de/meerwiese/theater/stuecke-und-termine
+URL:https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
 CATEGORIES:Theater / Kultur / Tanz / Kinderkultur
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260904T153000
 DTEND;TZID=Europe/Berlin:20260904T161500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -177,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260904T162000
 DTEND;TZID=Europe/Berlin:20260904T170500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -198,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260904T171000
 DTEND;TZID=Europe/Berlin:20260904T175500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -219,7 +221,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-06_1200_qi_gong_seminar_die_wandlungsphase_metall_ubungen_fur_d
  ie_lunge_meerwiese_theater@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260906T120000
 DTEND;TZID=Europe/Berlin:20260906T190000
 SUMMARY:Qi Gong-Seminar: Die Wandlungsphase Metall – Übungen für die Lunge
@@ -232,16 +234,16 @@ DESCRIPTION:Der Goldene Drache gehört zur Wandlungsphase Metall und wird da
  kt und somit auch das Immunsystem und die Beziehung zwischen Körper und Ge
  ist gestärkt\, wodurch das Körperbewusstsein entwickelt wird. In diesem Se
  minar werden die Lunge stärkende Atemübungen und Selbstmassagetech...\nVer
- anstalter: Stadt Münster Veranstaltungskalender\nQuelle: https://events-ca
- lendar.stadt-muenster.de/graphql
-URL:https://events-calendar.stadt-muenster.de/graphql
+ anstalter: Stadt Münster Veranstaltungskalender\nQuelle: https://www.stadt
+ -muenster.de/meerwiese/theater/stuecke-und-termine
+URL:https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
 CATEGORIES:Theater / Kultur / Tanz / Kinderkultur
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-07_0930_yoga_fur_senior_innen_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260907T093000
 DTEND;TZID=Europe/Berlin:20260907T103000
 SUMMARY:Yoga für Senior:innen
@@ -262,7 +264,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-07_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260907T100000
 DTEND;TZID=Europe/Berlin:20260907T113000
 SUMMARY:Griffbereit - mehrsprachige Eltern-Kind-Gruppe von 1-3 J.
@@ -283,7 +285,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-07_1300_pilates_in_coerde_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260907T130000
 DTEND;TZID=Europe/Berlin:20260907T140000
 SUMMARY:Pilates in Coerde
@@ -303,7 +305,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-07_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260907T154500
 DTEND;TZID=Europe/Berlin:20260907T163000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -324,7 +326,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-07_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260907T163500
 DTEND;TZID=Europe/Berlin:20260907T172000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -345,7 +347,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-07_1830_yoga_in_rumphorst_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260907T183000
 DTEND;TZID=Europe/Berlin:20260907T200000
 SUMMARY:Yoga in Rumphorst
@@ -366,7 +368,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-07_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260907T194500
 DTEND;TZID=Europe/Berlin:20260907T211500
 SUMMARY:Gesellschaftstänze für fortgeschrittene Anfänger:innen
@@ -387,7 +389,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_a
  wo_coerde_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260908T091500
 DTEND;TZID=Europe/Berlin:20260908T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen FZ AWO Coerde
@@ -408,7 +410,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260908T093000
 DTEND;TZID=Europe/Berlin:20260908T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -428,7 +430,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coe
  rde_mittendrin_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260908T160000
 DTEND;TZID=Europe/Berlin:20260908T180000
 SUMMARY:Deutsch für Migranten - alltagsnah Deutsch lernen AWO coerde mitten
@@ -450,7 +452,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rump
  horst_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260908T163000
 DTEND;TZID=Europe/Berlin:20260908T173000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. Rumphorst
@@ -471,7 +473,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08_1755_nia_reg_ndash_fitness_mit_groove_fbf_friedensstrasse_co
  erde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260908T175500
 DTEND;TZID=Europe/Berlin:20260908T185500
 SUMMARY:Nia&reg\; &ndash\; Fitness mit Groove
@@ -492,7 +494,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09_0930_qi_gong_energie_fur_den_tag_fbf_friedensstrasse_coerde@
  coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260909T093000
 DTEND;TZID=Europe/Berlin:20260909T110000
 SUMMARY:Qi Gong - Energie für den Tag
@@ -513,7 +515,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_frie
  densstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260909T140000
 DTEND;TZID=Europe/Berlin:20260909T170000
 SUMMARY:Sure Start Plus - Die Familienspielstunde Coerde
@@ -533,7 +535,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260909T143000
 DTEND;TZID=Europe/Berlin:20260909T173000
 SUMMARY:Lernspielgruppe für Eltern und Kinder in der Kitazeit
@@ -553,7 +555,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260909T183000
 DTEND;TZID=Europe/Berlin:20260909T200000
 SUMMARY:Yoga An der Meerwiese
@@ -574,7 +576,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09_1900_bauchtanz_fur_frauen_fbf_friedensstrasse_coerde@coerde-
  events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260909T190000
 DTEND;TZID=Europe/Berlin:20260909T210000
 SUMMARY:Bauchtanz für Frauen
@@ -595,7 +597,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260910T093000
 DTEND;TZID=Europe/Berlin:20260910T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -616,7 +618,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10_1430_komm_wir_sprechen_deutsch_fbf_friedensstrasse_coerde@co
  erde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260910T143000
 DTEND;TZID=Europe/Berlin:20260910T160000
 SUMMARY:Komm\, wir sprechen deutsch!
@@ -635,7 +637,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kinde
  rn_ab_3_jahren_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260910T143000
 DTEND;TZID=Europe/Berlin:20260910T164500
 SUMMARY:Praktische Ernährungsbildung für Eltern mit ihren Kindern ab 3 Jahr
@@ -656,7 +658,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260910T160000
 DTEND;TZID=Europe/Berlin:20260910T173000
 SUMMARY:Caf&eacute\; für kleine und große Leute - Elternstart NRW
@@ -677,7 +679,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260910T160000
 DTEND;TZID=Europe/Berlin:20260910T170000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. An der Meerwie
@@ -699,7 +701,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260911T153000
 DTEND;TZID=Europe/Berlin:20260911T161500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -720,7 +722,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260911T162000
 DTEND;TZID=Europe/Berlin:20260911T170500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -741,7 +743,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260911T171000
 DTEND;TZID=Europe/Berlin:20260911T175500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -762,7 +764,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11_2000_splitter_and_be_julie_klos_aus_munster_meerwiese_theate
  r@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260911T200000
 DTEND;TZID=Europe/Berlin:20260911T210000
 SUMMARY:Splitter and BE! – Julie Klos aus Münster
@@ -775,16 +777,16 @@ DESCRIPTION:für alle ab 14 Jahren und Erwachsene Das Musikstück aus den Hän
  nd singt in 60 Minuten und zwölf unterschiedlichen Rollen über den Umgang 
  mit äußeren Zwängen und der Suche nach Authentizität. Das Publikum wird da
  bei selbst zum Akteur. Es geht mit auf die Reise durch Fragen und...\nVera
- nstalter: Stadt Münster Veranstaltungskalender\nQuelle: https://events-cal
- endar.stadt-muenster.de/graphql
-URL:https://events-calendar.stadt-muenster.de/graphql
+ nstalter: Stadt Münster Veranstaltungskalender\nQuelle: https://www.stadt-
+ muenster.de/meerwiese/theater/stuecke-und-termine
+URL:https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
 CATEGORIES:Theater / Kultur / Tanz / Kinderkultur
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-13_1530_die_clown_fidelidad_solo_show_clown_fidelidad_aus_munst
  er_meerwiese_theater@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260913T153000
 DTEND;TZID=Europe/Berlin:20260913T163000
 SUMMARY:Die Clown-fidelidad-Solo-Show – Clown fidelidad aus Münster
@@ -797,16 +799,16 @@ DESCRIPTION:Hereinspaziert\, nehmen Sie Platz! das Manegenprogramm für die
  ämpfer lustigste Momente erleben\, er spielt\, verkleidet im schneeweißem 
  Nachtgewand\, auf seiner Geige zum Mond\, der verzaubernd am Firmament ers
  cheint und den Clown in eine traumreiche Nacht entführt\, und zum Ende er.
- ..\nVeranstalter: Stadt Münster Veranstaltungskalender\nQuelle: https://ev
- ents-calendar.stadt-muenster.de/graphql
-URL:https://events-calendar.stadt-muenster.de/graphql
+ ..\nVeranstalter: Stadt Münster Veranstaltungskalender\nQuelle: https://ww
+ w.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
+URL:https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine
 CATEGORIES:Theater / Kultur / Tanz / Kinderkultur
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14_0930_yoga_fur_senior_innen_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260914T093000
 DTEND;TZID=Europe/Berlin:20260914T103000
 SUMMARY:Yoga für Senior:innen
@@ -827,7 +829,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260914T100000
 DTEND;TZID=Europe/Berlin:20260914T113000
 SUMMARY:Griffbereit - mehrsprachige Eltern-Kind-Gruppe von 1-3 J.
@@ -848,7 +850,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14_1300_pilates_in_coerde_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260914T130000
 DTEND;TZID=Europe/Berlin:20260914T140000
 SUMMARY:Pilates in Coerde
@@ -868,7 +870,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260914T154500
 DTEND;TZID=Europe/Berlin:20260914T163000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -889,7 +891,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260914T163500
 DTEND;TZID=Europe/Berlin:20260914T172000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -910,7 +912,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14_1830_yoga_in_rumphorst_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260914T183000
 DTEND;TZID=Europe/Berlin:20260914T200000
 SUMMARY:Yoga in Rumphorst
@@ -931,7 +933,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260914T194500
 DTEND;TZID=Europe/Berlin:20260914T211500
 SUMMARY:Gesellschaftstänze für fortgeschrittene Anfänger:innen
@@ -952,7 +954,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_a
  wo_coerde_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260915T091500
 DTEND;TZID=Europe/Berlin:20260915T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen FZ AWO Coerde
@@ -973,7 +975,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260915T093000
 DTEND;TZID=Europe/Berlin:20260915T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -993,7 +995,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coe
  rde_mittendrin_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260915T160000
 DTEND;TZID=Europe/Berlin:20260915T180000
 SUMMARY:Deutsch für Migranten - alltagsnah Deutsch lernen AWO coerde mitten
@@ -1015,7 +1017,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rump
  horst_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260915T163000
 DTEND;TZID=Europe/Berlin:20260915T173000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. Rumphorst
@@ -1036,7 +1038,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_frie
  densstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260916T140000
 DTEND;TZID=Europe/Berlin:20260916T170000
 SUMMARY:Sure Start Plus - Die Familienspielstunde Coerde
@@ -1056,7 +1058,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260916T143000
 DTEND;TZID=Europe/Berlin:20260916T173000
 SUMMARY:Lernspielgruppe für Eltern und Kinder in der Kitazeit
@@ -1076,7 +1078,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260916T183000
 DTEND;TZID=Europe/Berlin:20260916T200000
 SUMMARY:Yoga An der Meerwiese
@@ -1097,7 +1099,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260917T093000
 DTEND;TZID=Europe/Berlin:20260917T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -1118,7 +1120,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17_1430_komm_wir_sprechen_deutsch_fbf_friedensstrasse_coerde@co
  erde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260917T143000
 DTEND;TZID=Europe/Berlin:20260917T160000
 SUMMARY:Komm\, wir sprechen deutsch!
@@ -1137,7 +1139,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kinde
  rn_ab_3_jahren_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260917T143000
 DTEND;TZID=Europe/Berlin:20260917T164500
 SUMMARY:Praktische Ernährungsbildung für Eltern mit ihren Kindern ab 3 Jahr
@@ -1158,7 +1160,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260917T160000
 DTEND;TZID=Europe/Berlin:20260917T173000
 SUMMARY:Caf&eacute\; für kleine und große Leute - Elternstart NRW
@@ -1179,7 +1181,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260917T160000
 DTEND;TZID=Europe/Berlin:20260917T170000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. An der Meerwie
@@ -1201,7 +1203,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260918T153000
 DTEND;TZID=Europe/Berlin:20260918T161500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -1222,7 +1224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260918T162000
 DTEND;TZID=Europe/Berlin:20260918T170500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -1243,7 +1245,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260918T171000
 DTEND;TZID=Europe/Berlin:20260918T175500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -1264,7 +1266,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21_0930_yoga_fur_senior_innen_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260921T093000
 DTEND;TZID=Europe/Berlin:20260921T103000
 SUMMARY:Yoga für Senior:innen
@@ -1285,7 +1287,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260921T100000
 DTEND;TZID=Europe/Berlin:20260921T113000
 SUMMARY:Griffbereit - mehrsprachige Eltern-Kind-Gruppe von 1-3 J.
@@ -1306,7 +1308,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21_1300_pilates_in_coerde_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260921T130000
 DTEND;TZID=Europe/Berlin:20260921T140000
 SUMMARY:Pilates in Coerde
@@ -1326,7 +1328,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260921T154500
 DTEND;TZID=Europe/Berlin:20260921T163000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -1347,7 +1349,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260921T163500
 DTEND;TZID=Europe/Berlin:20260921T172000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -1368,7 +1370,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21_1830_yoga_in_rumphorst_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260921T183000
 DTEND;TZID=Europe/Berlin:20260921T200000
 SUMMARY:Yoga in Rumphorst
@@ -1389,7 +1391,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-21_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260921T194500
 DTEND;TZID=Europe/Berlin:20260921T211500
 SUMMARY:Gesellschaftstänze für fortgeschrittene Anfänger:innen
@@ -1410,7 +1412,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_a
  wo_coerde_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260922T091500
 DTEND;TZID=Europe/Berlin:20260922T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen FZ AWO Coerde
@@ -1431,7 +1433,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260922T093000
 DTEND;TZID=Europe/Berlin:20260922T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -1451,7 +1453,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coe
  rde_mittendrin_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260922T160000
 DTEND;TZID=Europe/Berlin:20260922T180000
 SUMMARY:Deutsch für Migranten - alltagsnah Deutsch lernen AWO coerde mitten
@@ -1473,7 +1475,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rump
  horst_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260922T163000
 DTEND;TZID=Europe/Berlin:20260922T173000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. Rumphorst
@@ -1494,7 +1496,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22_1755_nia_reg_ndash_fitness_mit_groove_fbf_friedensstrasse_co
  erde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260922T175500
 DTEND;TZID=Europe/Berlin:20260922T185500
 SUMMARY:Nia&reg\; &ndash\; Fitness mit Groove
@@ -1515,7 +1517,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_frie
  densstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260923T140000
 DTEND;TZID=Europe/Berlin:20260923T170000
 SUMMARY:Sure Start Plus - Die Familienspielstunde Coerde
@@ -1535,7 +1537,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260923T143000
 DTEND;TZID=Europe/Berlin:20260923T173000
 SUMMARY:Lernspielgruppe für Eltern und Kinder in der Kitazeit
@@ -1555,7 +1557,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260923T183000
 DTEND;TZID=Europe/Berlin:20260923T200000
 SUMMARY:Yoga An der Meerwiese
@@ -1576,7 +1578,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260924T093000
 DTEND;TZID=Europe/Berlin:20260924T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -1597,7 +1599,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24_1430_komm_wir_sprechen_deutsch_fbf_friedensstrasse_coerde@co
  erde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260924T143000
 DTEND;TZID=Europe/Berlin:20260924T160000
 SUMMARY:Komm\, wir sprechen deutsch!
@@ -1616,7 +1618,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kinde
  rn_ab_3_jahren_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260924T143000
 DTEND;TZID=Europe/Berlin:20260924T164500
 SUMMARY:Praktische Ernährungsbildung für Eltern mit ihren Kindern ab 3 Jahr
@@ -1637,7 +1639,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260924T160000
 DTEND;TZID=Europe/Berlin:20260924T173000
 SUMMARY:Caf&eacute\; für kleine und große Leute - Elternstart NRW
@@ -1658,7 +1660,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260924T160000
 DTEND;TZID=Europe/Berlin:20260924T170000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. An der Meerwie
@@ -1680,7 +1682,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260925T153000
 DTEND;TZID=Europe/Berlin:20260925T161500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -1701,7 +1703,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260925T162000
 DTEND;TZID=Europe/Berlin:20260925T170500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -1722,7 +1724,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260925T171000
 DTEND;TZID=Europe/Berlin:20260925T175500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -1743,7 +1745,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28_0930_yoga_fur_senior_innen_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260928T093000
 DTEND;TZID=Europe/Berlin:20260928T103000
 SUMMARY:Yoga für Senior:innen
@@ -1764,7 +1766,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260928T100000
 DTEND;TZID=Europe/Berlin:20260928T113000
 SUMMARY:Griffbereit - mehrsprachige Eltern-Kind-Gruppe von 1-3 J.
@@ -1785,7 +1787,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28_1300_pilates_in_coerde_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260928T130000
 DTEND;TZID=Europe/Berlin:20260928T140000
 SUMMARY:Pilates in Coerde
@@ -1805,7 +1807,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260928T154500
 DTEND;TZID=Europe/Berlin:20260928T163000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -1826,7 +1828,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260928T163500
 DTEND;TZID=Europe/Berlin:20260928T172000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -1847,7 +1849,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28_1830_yoga_in_rumphorst_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260928T183000
 DTEND;TZID=Europe/Berlin:20260928T200000
 SUMMARY:Yoga in Rumphorst
@@ -1868,7 +1870,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260928T194500
 DTEND;TZID=Europe/Berlin:20260928T211500
 SUMMARY:Gesellschaftstänze für fortgeschrittene Anfänger:innen
@@ -1889,7 +1891,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_a
  wo_coerde_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260929T091500
 DTEND;TZID=Europe/Berlin:20260929T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen FZ AWO Coerde
@@ -1910,7 +1912,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260929T093000
 DTEND;TZID=Europe/Berlin:20260929T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -1930,7 +1932,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coe
  rde_mittendrin_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260929T160000
 DTEND;TZID=Europe/Berlin:20260929T180000
 SUMMARY:Deutsch für Migranten - alltagsnah Deutsch lernen AWO coerde mitten
@@ -1952,7 +1954,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rump
  horst_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260929T163000
 DTEND;TZID=Europe/Berlin:20260929T173000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. Rumphorst
@@ -1973,7 +1975,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29_1755_nia_reg_ndash_fitness_mit_groove_fbf_friedensstrasse_co
  erde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260929T175500
 DTEND;TZID=Europe/Berlin:20260929T185500
 SUMMARY:Nia&reg\; &ndash\; Fitness mit Groove
@@ -1994,7 +1996,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_frie
  densstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260930T140000
 DTEND;TZID=Europe/Berlin:20260930T170000
 SUMMARY:Sure Start Plus - Die Familienspielstunde Coerde
@@ -2014,7 +2016,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260930T143000
 DTEND;TZID=Europe/Berlin:20260930T173000
 SUMMARY:Lernspielgruppe für Eltern und Kinder in der Kitazeit
@@ -2034,7 +2036,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20260930T183000
 DTEND;TZID=Europe/Berlin:20260930T200000
 SUMMARY:Yoga An der Meerwiese
@@ -2055,7 +2057,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261001T093000
 DTEND;TZID=Europe/Berlin:20261001T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -2076,7 +2078,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01_1430_komm_wir_sprechen_deutsch_fbf_friedensstrasse_coerde@co
  erde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261001T143000
 DTEND;TZID=Europe/Berlin:20261001T160000
 SUMMARY:Komm\, wir sprechen deutsch!
@@ -2095,7 +2097,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261001T160000
 DTEND;TZID=Europe/Berlin:20261001T173000
 SUMMARY:Caf&eacute\; für kleine und große Leute - Elternstart NRW
@@ -2116,7 +2118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261001T160000
 DTEND;TZID=Europe/Berlin:20261001T170000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. An der Meerwie
@@ -2138,7 +2140,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261002T153000
 DTEND;TZID=Europe/Berlin:20261002T161500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -2159,7 +2161,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261002T162000
 DTEND;TZID=Europe/Berlin:20261002T170500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -2180,7 +2182,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261002T171000
 DTEND;TZID=Europe/Berlin:20261002T175500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -2201,7 +2203,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05_0930_yoga_fur_senior_innen_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261005T093000
 DTEND;TZID=Europe/Berlin:20261005T103000
 SUMMARY:Yoga für Senior:innen
@@ -2222,7 +2224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261005T100000
 DTEND;TZID=Europe/Berlin:20261005T113000
 SUMMARY:Griffbereit - mehrsprachige Eltern-Kind-Gruppe von 1-3 J.
@@ -2243,7 +2245,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05_1300_pilates_in_coerde_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261005T130000
 DTEND;TZID=Europe/Berlin:20261005T140000
 SUMMARY:Pilates in Coerde
@@ -2263,7 +2265,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261005T154500
 DTEND;TZID=Europe/Berlin:20261005T163000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -2284,7 +2286,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261005T163500
 DTEND;TZID=Europe/Berlin:20261005T172000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -2305,7 +2307,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05_1830_yoga_in_rumphorst_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261005T183000
 DTEND;TZID=Europe/Berlin:20261005T200000
 SUMMARY:Yoga in Rumphorst
@@ -2326,7 +2328,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-05_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261005T194500
 DTEND;TZID=Europe/Berlin:20261005T211500
 SUMMARY:Gesellschaftstänze für fortgeschrittene Anfänger:innen
@@ -2347,7 +2349,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_a
  wo_coerde_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261006T091500
 DTEND;TZID=Europe/Berlin:20261006T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen FZ AWO Coerde
@@ -2368,7 +2370,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261006T093000
 DTEND;TZID=Europe/Berlin:20261006T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -2388,7 +2390,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coe
  rde_mittendrin_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261006T160000
 DTEND;TZID=Europe/Berlin:20261006T180000
 SUMMARY:Deutsch für Migranten - alltagsnah Deutsch lernen AWO coerde mitten
@@ -2410,7 +2412,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rump
  horst_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261006T163000
 DTEND;TZID=Europe/Berlin:20261006T173000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. Rumphorst
@@ -2431,7 +2433,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-06_1755_nia_reg_ndash_fitness_mit_groove_fbf_friedensstrasse_co
  erde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261006T175500
 DTEND;TZID=Europe/Berlin:20261006T185500
 SUMMARY:Nia&reg\; &ndash\; Fitness mit Groove
@@ -2452,7 +2454,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_frie
  densstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261007T140000
 DTEND;TZID=Europe/Berlin:20261007T170000
 SUMMARY:Sure Start Plus - Die Familienspielstunde Coerde
@@ -2472,7 +2474,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261007T143000
 DTEND;TZID=Europe/Berlin:20261007T173000
 SUMMARY:Lernspielgruppe für Eltern und Kinder in der Kitazeit
@@ -2492,7 +2494,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261007T183000
 DTEND;TZID=Europe/Berlin:20261007T200000
 SUMMARY:Yoga An der Meerwiese
@@ -2513,7 +2515,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07_1900_bauchtanz_fur_frauen_fbf_friedensstrasse_coerde@coerde-
  events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261007T190000
 DTEND;TZID=Europe/Berlin:20261007T210000
 SUMMARY:Bauchtanz für Frauen
@@ -2534,7 +2536,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261008T093000
 DTEND;TZID=Europe/Berlin:20261008T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -2555,7 +2557,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08_1430_komm_wir_sprechen_deutsch_fbf_friedensstrasse_coerde@co
  erde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261008T143000
 DTEND;TZID=Europe/Berlin:20261008T160000
 SUMMARY:Komm\, wir sprechen deutsch!
@@ -2574,7 +2576,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kinde
  rn_ab_3_jahren_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261008T143000
 DTEND;TZID=Europe/Berlin:20261008T164500
 SUMMARY:Praktische Ernährungsbildung für Eltern mit ihren Kindern ab 3 Jahr
@@ -2595,7 +2597,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261008T160000
 DTEND;TZID=Europe/Berlin:20261008T173000
 SUMMARY:Caf&eacute\; für kleine und große Leute - Elternstart NRW
@@ -2616,7 +2618,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261008T160000
 DTEND;TZID=Europe/Berlin:20261008T170000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. An der Meerwie
@@ -2636,9 +2638,26 @@ CATEGORIES:Bildung / Familie / Stadtteil
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-09_ganztag_glow_up_after_work_party_st_franziskus_startseite@co
+ erde-events
+DTSTAMP:20260724T192940Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261009
+SUMMARY:Glow-Up After Work Party
+LOCATION:Franziskushaus Coerde\, Schneidemühler Str. 23\, 48157 Münster-Coe
+ rde\, Münster-Coerde
+DESCRIPTION:Abendveranstaltung mit stylischer Glow-Dekoration\, erfrischend
+ en Drinks\, guter Musik und besonderen Lichteffekten für einen unvergessli
+ chen Feierabend in Münster-Coerde.\nVeranstalter: Katholische Kirchengemei
+ nde St. Franziskus\nQuelle: https://awp-coerde.de/
+URL:https://awp-coerde.de/
+CATEGORIES:Kirche / Gottesdienst / Begegnung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-09_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261009T153000
 DTEND;TZID=Europe/Berlin:20261009T161500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -2659,7 +2678,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261009T162000
 DTEND;TZID=Europe/Berlin:20261009T170500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -2680,7 +2699,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261009T171000
 DTEND;TZID=Europe/Berlin:20261009T175500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -2701,7 +2720,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12_0930_yoga_fur_senior_innen_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261012T093000
 DTEND;TZID=Europe/Berlin:20261012T103000
 SUMMARY:Yoga für Senior:innen
@@ -2722,7 +2741,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261012T100000
 DTEND;TZID=Europe/Berlin:20261012T113000
 SUMMARY:Griffbereit - mehrsprachige Eltern-Kind-Gruppe von 1-3 J.
@@ -2743,7 +2762,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12_1300_pilates_in_coerde_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261012T130000
 DTEND;TZID=Europe/Berlin:20261012T140000
 SUMMARY:Pilates in Coerde
@@ -2763,7 +2782,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261012T154500
 DTEND;TZID=Europe/Berlin:20261012T163000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -2784,7 +2803,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261012T163500
 DTEND;TZID=Europe/Berlin:20261012T172000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -2805,7 +2824,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12_1830_yoga_in_rumphorst_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261012T183000
 DTEND;TZID=Europe/Berlin:20261012T200000
 SUMMARY:Yoga in Rumphorst
@@ -2826,7 +2845,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-12_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261012T194500
 DTEND;TZID=Europe/Berlin:20261012T211500
 SUMMARY:Gesellschaftstänze für fortgeschrittene Anfänger:innen
@@ -2847,7 +2866,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_a
  wo_coerde_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261013T091500
 DTEND;TZID=Europe/Berlin:20261013T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen FZ AWO Coerde
@@ -2868,7 +2887,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261013T093000
 DTEND;TZID=Europe/Berlin:20261013T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -2888,7 +2907,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coe
  rde_mittendrin_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261013T160000
 DTEND;TZID=Europe/Berlin:20261013T180000
 SUMMARY:Deutsch für Migranten - alltagsnah Deutsch lernen AWO coerde mitten
@@ -2910,7 +2929,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rump
  horst_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261013T163000
 DTEND;TZID=Europe/Berlin:20261013T173000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. Rumphorst
@@ -2931,7 +2950,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13_1755_nia_reg_ndash_fitness_mit_groove_fbf_friedensstrasse_co
  erde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261013T175500
 DTEND;TZID=Europe/Berlin:20261013T185500
 SUMMARY:Nia&reg\; &ndash\; Fitness mit Groove
@@ -2952,7 +2971,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_frie
  densstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261014T140000
 DTEND;TZID=Europe/Berlin:20261014T170000
 SUMMARY:Sure Start Plus - Die Familienspielstunde Coerde
@@ -2972,7 +2991,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261014T143000
 DTEND;TZID=Europe/Berlin:20261014T173000
 SUMMARY:Lernspielgruppe für Eltern und Kinder in der Kitazeit
@@ -2992,7 +3011,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261014T183000
 DTEND;TZID=Europe/Berlin:20261014T200000
 SUMMARY:Yoga An der Meerwiese
@@ -3013,7 +3032,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261015T093000
 DTEND;TZID=Europe/Berlin:20261015T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -3034,7 +3053,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15_1430_komm_wir_sprechen_deutsch_fbf_friedensstrasse_coerde@co
  erde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261015T143000
 DTEND;TZID=Europe/Berlin:20261015T160000
 SUMMARY:Komm\, wir sprechen deutsch!
@@ -3053,7 +3072,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kinde
  rn_ab_3_jahren_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261015T143000
 DTEND;TZID=Europe/Berlin:20261015T164500
 SUMMARY:Praktische Ernährungsbildung für Eltern mit ihren Kindern ab 3 Jahr
@@ -3074,7 +3093,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261015T160000
 DTEND;TZID=Europe/Berlin:20261015T173000
 SUMMARY:Caf&eacute\; für kleine und große Leute - Elternstart NRW
@@ -3095,7 +3114,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261015T160000
 DTEND;TZID=Europe/Berlin:20261015T170000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. An der Meerwie
@@ -3117,7 +3136,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261016T153000
 DTEND;TZID=Europe/Berlin:20261016T161500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -3138,7 +3157,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261016T162000
 DTEND;TZID=Europe/Berlin:20261016T170500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -3159,7 +3178,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-16_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261016T171000
 DTEND;TZID=Europe/Berlin:20261016T175500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -3180,7 +3199,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261102T100000
 DTEND;TZID=Europe/Berlin:20261102T113000
 SUMMARY:Griffbereit - mehrsprachige Eltern-Kind-Gruppe von 1-3 J.
@@ -3201,7 +3220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261102T154500
 DTEND;TZID=Europe/Berlin:20261102T163000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -3222,7 +3241,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261102T163500
 DTEND;TZID=Europe/Berlin:20261102T172000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -3243,7 +3262,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-02_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261102T194500
 DTEND;TZID=Europe/Berlin:20261102T211500
 SUMMARY:Gesellschaftstänze für fortgeschrittene Anfänger:innen
@@ -3264,7 +3283,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_a
  wo_coerde_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261103T091500
 DTEND;TZID=Europe/Berlin:20261103T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen FZ AWO Coerde
@@ -3285,7 +3304,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261103T093000
 DTEND;TZID=Europe/Berlin:20261103T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -3305,7 +3324,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coe
  rde_mittendrin_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261103T160000
 DTEND;TZID=Europe/Berlin:20261103T180000
 SUMMARY:Deutsch für Migranten - alltagsnah Deutsch lernen AWO coerde mitten
@@ -3327,7 +3346,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rump
  horst_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261103T163000
 DTEND;TZID=Europe/Berlin:20261103T173000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. Rumphorst
@@ -3348,7 +3367,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-03_1755_nia_reg_ndash_fitness_mit_groove_fbf_friedensstrasse_co
  erde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261103T175500
 DTEND;TZID=Europe/Berlin:20261103T185500
 SUMMARY:Nia&reg\; &ndash\; Fitness mit Groove
@@ -3369,7 +3388,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_frie
  densstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261104T140000
 DTEND;TZID=Europe/Berlin:20261104T170000
 SUMMARY:Sure Start Plus - Die Familienspielstunde Coerde
@@ -3389,7 +3408,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261104T143000
 DTEND;TZID=Europe/Berlin:20261104T173000
 SUMMARY:Lernspielgruppe für Eltern und Kinder in der Kitazeit
@@ -3409,7 +3428,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261105T093000
 DTEND;TZID=Europe/Berlin:20261105T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -3430,7 +3449,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05_1430_komm_wir_sprechen_deutsch_fbf_friedensstrasse_coerde@co
  erde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261105T143000
 DTEND;TZID=Europe/Berlin:20261105T160000
 SUMMARY:Komm\, wir sprechen deutsch!
@@ -3449,7 +3468,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kinde
  rn_ab_3_jahren_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261105T143000
 DTEND;TZID=Europe/Berlin:20261105T164500
 SUMMARY:Praktische Ernährungsbildung für Eltern mit ihren Kindern ab 3 Jahr
@@ -3470,7 +3489,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261105T160000
 DTEND;TZID=Europe/Berlin:20261105T173000
 SUMMARY:Caf&eacute\; für kleine und große Leute - Elternstart NRW
@@ -3491,7 +3510,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-05_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261105T160000
 DTEND;TZID=Europe/Berlin:20261105T170000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. An der Meerwie
@@ -3513,7 +3532,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261106T153000
 DTEND;TZID=Europe/Berlin:20261106T161500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -3534,7 +3553,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261106T162000
 DTEND;TZID=Europe/Berlin:20261106T170500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -3555,7 +3574,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261106T171000
 DTEND;TZID=Europe/Berlin:20261106T175500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -3576,7 +3595,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261109T100000
 DTEND;TZID=Europe/Berlin:20261109T113000
 SUMMARY:Griffbereit - mehrsprachige Eltern-Kind-Gruppe von 1-3 J.
@@ -3597,7 +3616,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261109T154500
 DTEND;TZID=Europe/Berlin:20261109T163000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -3618,7 +3637,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261109T163500
 DTEND;TZID=Europe/Berlin:20261109T172000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -3639,7 +3658,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-09_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261109T194500
 DTEND;TZID=Europe/Berlin:20261109T211500
 SUMMARY:Gesellschaftstänze für fortgeschrittene Anfänger:innen
@@ -3660,7 +3679,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_a
  wo_coerde_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261110T091500
 DTEND;TZID=Europe/Berlin:20261110T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen FZ AWO Coerde
@@ -3681,7 +3700,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261110T093000
 DTEND;TZID=Europe/Berlin:20261110T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -3701,7 +3720,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coe
  rde_mittendrin_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261110T160000
 DTEND;TZID=Europe/Berlin:20261110T180000
 SUMMARY:Deutsch für Migranten - alltagsnah Deutsch lernen AWO coerde mitten
@@ -3723,7 +3742,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rump
  horst_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261110T163000
 DTEND;TZID=Europe/Berlin:20261110T173000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. Rumphorst
@@ -3744,7 +3763,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-10_1755_nia_reg_ndash_fitness_mit_groove_fbf_friedensstrasse_co
  erde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261110T175500
 DTEND;TZID=Europe/Berlin:20261110T185500
 SUMMARY:Nia&reg\; &ndash\; Fitness mit Groove
@@ -3765,7 +3784,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_frie
  densstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261111T140000
 DTEND;TZID=Europe/Berlin:20261111T170000
 SUMMARY:Sure Start Plus - Die Familienspielstunde Coerde
@@ -3785,7 +3804,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261111T143000
 DTEND;TZID=Europe/Berlin:20261111T173000
 SUMMARY:Lernspielgruppe für Eltern und Kinder in der Kitazeit
@@ -3805,7 +3824,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261112T093000
 DTEND;TZID=Europe/Berlin:20261112T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -3826,7 +3845,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12_1430_komm_wir_sprechen_deutsch_fbf_friedensstrasse_coerde@co
  erde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261112T143000
 DTEND;TZID=Europe/Berlin:20261112T160000
 SUMMARY:Komm\, wir sprechen deutsch!
@@ -3845,7 +3864,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kinde
  rn_ab_3_jahren_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261112T143000
 DTEND;TZID=Europe/Berlin:20261112T164500
 SUMMARY:Praktische Ernährungsbildung für Eltern mit ihren Kindern ab 3 Jahr
@@ -3866,7 +3885,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261112T160000
 DTEND;TZID=Europe/Berlin:20261112T173000
 SUMMARY:Caf&eacute\; für kleine und große Leute - Elternstart NRW
@@ -3887,7 +3906,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261112T160000
 DTEND;TZID=Europe/Berlin:20261112T170000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. An der Meerwie
@@ -3909,7 +3928,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261113T153000
 DTEND;TZID=Europe/Berlin:20261113T161500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -3930,7 +3949,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261113T162000
 DTEND;TZID=Europe/Berlin:20261113T170500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -3951,7 +3970,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261113T171000
 DTEND;TZID=Europe/Berlin:20261113T175500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -3972,7 +3991,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261116T100000
 DTEND;TZID=Europe/Berlin:20261116T113000
 SUMMARY:Griffbereit - mehrsprachige Eltern-Kind-Gruppe von 1-3 J.
@@ -3993,7 +4012,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261116T154500
 DTEND;TZID=Europe/Berlin:20261116T163000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -4014,7 +4033,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261116T163500
 DTEND;TZID=Europe/Berlin:20261116T172000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -4035,7 +4054,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261116T194500
 DTEND;TZID=Europe/Berlin:20261116T211500
 SUMMARY:Gesellschaftstänze für fortgeschrittene Anfänger:innen
@@ -4056,7 +4075,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_a
  wo_coerde_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261117T091500
 DTEND;TZID=Europe/Berlin:20261117T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen FZ AWO Coerde
@@ -4077,7 +4096,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261117T093000
 DTEND;TZID=Europe/Berlin:20261117T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -4097,7 +4116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coe
  rde_mittendrin_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261117T160000
 DTEND;TZID=Europe/Berlin:20261117T180000
 SUMMARY:Deutsch für Migranten - alltagsnah Deutsch lernen AWO coerde mitten
@@ -4119,7 +4138,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rump
  horst_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261117T163000
 DTEND;TZID=Europe/Berlin:20261117T173000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. Rumphorst
@@ -4140,7 +4159,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17_1755_nia_reg_ndash_fitness_mit_groove_fbf_friedensstrasse_co
  erde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261117T175500
 DTEND;TZID=Europe/Berlin:20261117T185500
 SUMMARY:Nia&reg\; &ndash\; Fitness mit Groove
@@ -4161,7 +4180,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_frie
  densstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261118T140000
 DTEND;TZID=Europe/Berlin:20261118T170000
 SUMMARY:Sure Start Plus - Die Familienspielstunde Coerde
@@ -4181,7 +4200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261118T143000
 DTEND;TZID=Europe/Berlin:20261118T173000
 SUMMARY:Lernspielgruppe für Eltern und Kinder in der Kitazeit
@@ -4201,7 +4220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261119T093000
 DTEND;TZID=Europe/Berlin:20261119T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -4222,7 +4241,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19_1430_komm_wir_sprechen_deutsch_fbf_friedensstrasse_coerde@co
  erde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261119T143000
 DTEND;TZID=Europe/Berlin:20261119T160000
 SUMMARY:Komm\, wir sprechen deutsch!
@@ -4241,7 +4260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kinde
  rn_ab_3_jahren_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261119T143000
 DTEND;TZID=Europe/Berlin:20261119T164500
 SUMMARY:Praktische Ernährungsbildung für Eltern mit ihren Kindern ab 3 Jahr
@@ -4262,7 +4281,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261119T160000
 DTEND;TZID=Europe/Berlin:20261119T173000
 SUMMARY:Caf&eacute\; für kleine und große Leute - Elternstart NRW
@@ -4283,7 +4302,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261119T160000
 DTEND;TZID=Europe/Berlin:20261119T170000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. An der Meerwie
@@ -4305,7 +4324,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261120T153000
 DTEND;TZID=Europe/Berlin:20261120T161500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -4326,7 +4345,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261120T162000
 DTEND;TZID=Europe/Berlin:20261120T170500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -4347,7 +4366,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261120T171000
 DTEND;TZID=Europe/Berlin:20261120T175500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -4368,7 +4387,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261123T100000
 DTEND;TZID=Europe/Berlin:20261123T113000
 SUMMARY:Griffbereit - mehrsprachige Eltern-Kind-Gruppe von 1-3 J.
@@ -4389,7 +4408,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261123T154500
 DTEND;TZID=Europe/Berlin:20261123T163000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -4410,7 +4429,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261123T163500
 DTEND;TZID=Europe/Berlin:20261123T172000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -4431,7 +4450,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261123T194500
 DTEND;TZID=Europe/Berlin:20261123T211500
 SUMMARY:Gesellschaftstänze für fortgeschrittene Anfänger:innen
@@ -4452,7 +4471,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_a
  wo_coerde_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261124T091500
 DTEND;TZID=Europe/Berlin:20261124T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen FZ AWO Coerde
@@ -4473,7 +4492,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261124T093000
 DTEND;TZID=Europe/Berlin:20261124T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -4493,7 +4512,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coe
  rde_mittendrin_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261124T160000
 DTEND;TZID=Europe/Berlin:20261124T180000
 SUMMARY:Deutsch für Migranten - alltagsnah Deutsch lernen AWO coerde mitten
@@ -4515,7 +4534,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rump
  horst_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261124T163000
 DTEND;TZID=Europe/Berlin:20261124T173000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. Rumphorst
@@ -4536,7 +4555,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_frie
  densstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261125T140000
 DTEND;TZID=Europe/Berlin:20261125T170000
 SUMMARY:Sure Start Plus - Die Familienspielstunde Coerde
@@ -4556,7 +4575,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261125T143000
 DTEND;TZID=Europe/Berlin:20261125T173000
 SUMMARY:Lernspielgruppe für Eltern und Kinder in der Kitazeit
@@ -4576,7 +4595,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261126T093000
 DTEND;TZID=Europe/Berlin:20261126T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -4597,7 +4616,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26_1430_komm_wir_sprechen_deutsch_fbf_friedensstrasse_coerde@co
  erde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261126T143000
 DTEND;TZID=Europe/Berlin:20261126T160000
 SUMMARY:Komm\, wir sprechen deutsch!
@@ -4616,7 +4635,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kinde
  rn_ab_3_jahren_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261126T143000
 DTEND;TZID=Europe/Berlin:20261126T164500
 SUMMARY:Praktische Ernährungsbildung für Eltern mit ihren Kindern ab 3 Jahr
@@ -4637,7 +4656,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261126T160000
 DTEND;TZID=Europe/Berlin:20261126T173000
 SUMMARY:Caf&eacute\; für kleine und große Leute - Elternstart NRW
@@ -4658,7 +4677,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261126T160000
 DTEND;TZID=Europe/Berlin:20261126T170000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. An der Meerwie
@@ -4680,7 +4699,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261127T153000
 DTEND;TZID=Europe/Berlin:20261127T161500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -4701,7 +4720,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261127T162000
 DTEND;TZID=Europe/Berlin:20261127T170500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -4722,7 +4741,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261127T171000
 DTEND;TZID=Europe/Berlin:20261127T175500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -4743,7 +4762,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261130T100000
 DTEND;TZID=Europe/Berlin:20261130T113000
 SUMMARY:Griffbereit - mehrsprachige Eltern-Kind-Gruppe von 1-3 J.
@@ -4764,7 +4783,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261130T154500
 DTEND;TZID=Europe/Berlin:20261130T163000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -4785,7 +4804,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261130T163500
 DTEND;TZID=Europe/Berlin:20261130T172000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -4806,7 +4825,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261130T194500
 DTEND;TZID=Europe/Berlin:20261130T211500
 SUMMARY:Gesellschaftstänze für fortgeschrittene Anfänger:innen
@@ -4827,7 +4846,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_a
  wo_coerde_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261201T091500
 DTEND;TZID=Europe/Berlin:20261201T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen FZ AWO Coerde
@@ -4848,7 +4867,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261201T093000
 DTEND;TZID=Europe/Berlin:20261201T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -4868,7 +4887,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coe
  rde_mittendrin_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261201T160000
 DTEND;TZID=Europe/Berlin:20261201T180000
 SUMMARY:Deutsch für Migranten - alltagsnah Deutsch lernen AWO coerde mitten
@@ -4890,7 +4909,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rump
  horst_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261201T163000
 DTEND;TZID=Europe/Berlin:20261201T173000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. Rumphorst
@@ -4911,7 +4930,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_frie
  densstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261202T140000
 DTEND;TZID=Europe/Berlin:20261202T170000
 SUMMARY:Sure Start Plus - Die Familienspielstunde Coerde
@@ -4931,7 +4950,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261202T143000
 DTEND;TZID=Europe/Berlin:20261202T173000
 SUMMARY:Lernspielgruppe für Eltern und Kinder in der Kitazeit
@@ -4951,7 +4970,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261203T093000
 DTEND;TZID=Europe/Berlin:20261203T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -4972,7 +4991,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03_1430_komm_wir_sprechen_deutsch_fbf_friedensstrasse_coerde@co
  erde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261203T143000
 DTEND;TZID=Europe/Berlin:20261203T160000
 SUMMARY:Komm\, wir sprechen deutsch!
@@ -4991,7 +5010,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kinde
  rn_ab_3_jahren_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261203T143000
 DTEND;TZID=Europe/Berlin:20261203T164500
 SUMMARY:Praktische Ernährungsbildung für Eltern mit ihren Kindern ab 3 Jahr
@@ -5012,7 +5031,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261203T160000
 DTEND;TZID=Europe/Berlin:20261203T173000
 SUMMARY:Caf&eacute\; für kleine und große Leute - Elternstart NRW
@@ -5033,7 +5052,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261203T160000
 DTEND;TZID=Europe/Berlin:20261203T170000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. An der Meerwie
@@ -5055,7 +5074,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261204T153000
 DTEND;TZID=Europe/Berlin:20261204T161500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -5076,7 +5095,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261204T162000
 DTEND;TZID=Europe/Berlin:20261204T170500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -5097,7 +5116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261204T171000
 DTEND;TZID=Europe/Berlin:20261204T175500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -5118,7 +5137,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261207T100000
 DTEND;TZID=Europe/Berlin:20261207T113000
 SUMMARY:Griffbereit - mehrsprachige Eltern-Kind-Gruppe von 1-3 J.
@@ -5139,7 +5158,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07_1545_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261207T154500
 DTEND;TZID=Europe/Berlin:20261207T163000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -5160,7 +5179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07_1635_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261207T163500
 DTEND;TZID=Europe/Berlin:20261207T172000
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -5181,7 +5200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261207T194500
 DTEND;TZID=Europe/Berlin:20261207T211500
 SUMMARY:Gesellschaftstänze für fortgeschrittene Anfänger:innen
@@ -5202,7 +5221,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_a
  wo_coerde_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261208T091500
 DTEND;TZID=Europe/Berlin:20261208T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen FZ AWO Coerde
@@ -5223,7 +5242,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261208T093000
 DTEND;TZID=Europe/Berlin:20261208T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -5243,7 +5262,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coe
  rde_mittendrin_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261208T160000
 DTEND;TZID=Europe/Berlin:20261208T180000
 SUMMARY:Deutsch für Migranten - alltagsnah Deutsch lernen AWO coerde mitten
@@ -5265,7 +5284,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08_1630_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_rump
  horst_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261208T163000
 DTEND;TZID=Europe/Berlin:20261208T173000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. Rumphorst
@@ -5286,7 +5305,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08_1755_nia_reg_ndash_fitness_mit_groove_fbf_friedensstrasse_co
  erde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261208T175500
 DTEND;TZID=Europe/Berlin:20261208T185500
 SUMMARY:Nia&reg\; &ndash\; Fitness mit Groove
@@ -5307,7 +5326,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_frie
  densstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261209T140000
 DTEND;TZID=Europe/Berlin:20261209T170000
 SUMMARY:Sure Start Plus - Die Familienspielstunde Coerde
@@ -5327,7 +5346,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261209T143000
 DTEND;TZID=Europe/Berlin:20261209T173000
 SUMMARY:Lernspielgruppe für Eltern und Kinder in der Kitazeit
@@ -5347,7 +5366,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261210T093000
 DTEND;TZID=Europe/Berlin:20261210T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -5368,7 +5387,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10_1430_komm_wir_sprechen_deutsch_fbf_friedensstrasse_coerde@co
  erde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261210T143000
 DTEND;TZID=Europe/Berlin:20261210T160000
 SUMMARY:Komm\, wir sprechen deutsch!
@@ -5387,7 +5406,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kinde
  rn_ab_3_jahren_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261210T143000
 DTEND;TZID=Europe/Berlin:20261210T164500
 SUMMARY:Praktische Ernährungsbildung für Eltern mit ihren Kindern ab 3 Jahr
@@ -5408,7 +5427,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10_1600_caf_eacute_fur_kleine_und_grosse_leute_elternstart_nrw_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261210T160000
 DTEND;TZID=Europe/Berlin:20261210T173000
 SUMMARY:Caf&eacute\; für kleine und große Leute - Elternstart NRW
@@ -5429,7 +5448,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261210T160000
 DTEND;TZID=Europe/Berlin:20261210T170000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. An der Meerwie
@@ -5451,7 +5470,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11_1530_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261211T153000
 DTEND;TZID=Europe/Berlin:20261211T161500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -5472,7 +5491,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11_1620_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261211T162000
 DTEND;TZID=Europe/Berlin:20261211T170500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -5493,7 +5512,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11_1710_schwimmkurs_fur_kinder_ab_4_jahren_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261211T171000
 DTEND;TZID=Europe/Berlin:20261211T175500
 SUMMARY:Schwimmkurs für Kinder ab 4 Jahren
@@ -5514,7 +5533,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261214T100000
 DTEND;TZID=Europe/Berlin:20261214T113000
 SUMMARY:Griffbereit - mehrsprachige Eltern-Kind-Gruppe von 1-3 J.
@@ -5535,7 +5554,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_fz_a
  wo_coerde_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261215T091500
 DTEND;TZID=Europe/Berlin:20261215T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen FZ AWO Coerde
@@ -5556,7 +5575,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261215T093000
 DTEND;TZID=Europe/Berlin:20261215T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -5576,7 +5595,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15_1600_deutsch_fur_migranten_alltagsnah_deutsch_lernen_awo_coe
  rde_mittendrin_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261215T160000
 DTEND;TZID=Europe/Berlin:20261215T180000
 SUMMARY:Deutsch für Migranten - alltagsnah Deutsch lernen AWO coerde mitten
@@ -5598,7 +5617,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_frie
  densstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261216T140000
 DTEND;TZID=Europe/Berlin:20261216T170000
 SUMMARY:Sure Start Plus - Die Familienspielstunde Coerde
@@ -5618,7 +5637,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261216T143000
 DTEND;TZID=Europe/Berlin:20261216T173000
 SUMMARY:Lernspielgruppe für Eltern und Kinder in der Kitazeit
@@ -5638,7 +5657,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261217T093000
 DTEND;TZID=Europe/Berlin:20261217T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -5659,7 +5678,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17_1430_komm_wir_sprechen_deutsch_fbf_friedensstrasse_coerde@co
  erde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261217T143000
 DTEND;TZID=Europe/Berlin:20261217T160000
 SUMMARY:Komm\, wir sprechen deutsch!
@@ -5678,7 +5697,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kinde
  rn_ab_3_jahren_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260724T192345Z
+DTSTAMP:20260724T192940Z
 DTSTART;TZID=Europe/Berlin:20261217T143000
 DTEND;TZID=Europe/Berlin:20261217T164500
 SUMMARY:Praktische Ernährungsbildung für Eltern mit ihren Kindern ab 3 Jahr
