@@ -2,8 +2,8 @@
   "dataset": "coerde-events",
   "description": "Öffentliche Veranstaltungen in Münster-Coerde",
   "license": "CC-BY-4.0",
-  "generated_at": "2026-08-06T14:51:00.061Z",
-  "event_count": 262,
+  "generated_at": "2026-08-06T15:24:31.181Z",
+  "event_count": 272,
   "events": [
     {
       "event_id": "2026-08-06_1200_polizeisprechstunde_coerde_mittendrin_awo_coerde_mittendrin",
@@ -23,7 +23,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-07_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerde",
@@ -43,7 +43,7 @@
       "source_url": "https://initiative-chack.de/projekte/muetter-treff-coerde/",
       "source_id": "initiative_chack_mutter_treff_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-07_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mittendrin",
@@ -63,7 +63,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-08_1500_nachhilfeangebot_awo_coerde_mittendrin",
@@ -83,7 +83,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-09_1000_regenbogenfamilientreff_ein_offener_vernetzungs_u_spieletreff_fur_queere_eltern_fbf_friedensstrasse_coerde",
@@ -103,11 +103,11 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Regenbogenfamilientreff-offener-Vernetzungs--u-Spieletreff-fuer-queere-Eltern/2602-2645",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
-      "event_id": "2026-08-09_1100_sommerkirche_in_der_markuskirche_andreas_kirchengemeinde_startseite",
-      "title": "Sommerkirche in der Markuskirche",
+      "event_id": "2026-08-09_1100_gottesdienst_in_der_markuskirche_andreas_kirchengemeinde_startseite",
+      "title": "Gottesdienst in der Markuskirche",
       "start_date": "2026-08-09",
       "start_time": "11:00",
       "end_date": "2026-08-09",
@@ -117,13 +117,13 @@
       "city": "Münster-Coerde",
       "organizer": "Ev. Andreas-Kirchengemeinde Münster-Coerde",
       "category": "Kirche / Stadtteil / Begegnung",
-      "short_description": "Sommerkirche-Gottesdienst in der Markuskirche am 9. August 2026 um 11:00 Uhr.",
+      "short_description": "Gottesdienst in der Markuskirche im Rahmen der Sommerkirche um 11:00 Uhr.",
       "status": "scheduled",
       "source_name": "Ev. Andreas-Kirchengemeinde Münster-Coerde – Startseite",
       "source_url": "https://www.andreas-kirchengemeinde-muenster.de/",
       "source_id": "andreas_kirchengemeinde_startseite",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-10_1415_ruckbildungsgymnastik_beweglichkeit_und_starkung_hybrid_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -143,7 +143,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Hybrid-Kinderfoermoegl/2601-0403",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-10_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_alter_werden_in_coerde_awo_coerde_mittendrin",
@@ -163,7 +163,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-10_1530_ruckbildungsgymnastik_beweglichkeit_und_starkung_hybrid_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -183,7 +183,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Hybrid-Kinderfoermoegl/2601-0413",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-10_1700_vorbereitung_auf_die_geburt_fur_paare_fbf_friedensstrasse_coerde",
@@ -203,7 +203,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Vorbereitung-auf-die-Geburt-fuer-Paare/2601-0523",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-11_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_coerde_mittendrin",
@@ -223,7 +223,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-11_1800_yoga_in_der_schwangerschaft_hybrid_fbf_friedensstrasse_coerde",
@@ -243,7 +243,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-in-der-Schwangerschaft-Hybrid/2601-0107",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-12_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_migrationsberatung_mbe",
@@ -257,13 +257,13 @@
       "city": "Münster-Coerde",
       "organizer": "Deutsches Rotes Kreuz Münster",
       "category": "",
-      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren mit Unterstützung bei Integrationsprozessen, behördlichen Angelegenheiten und sozialer Teilhabe.",
+      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren, mit Unterstützung bei Integrationsprozessen, behördlichen Angelegenheiten und sozialer Teilhabe.",
       "status": "scheduled",
       "source_name": "DRK Münster – Migrationsberatung (MBE)",
       "source_url": "https://www.drk-muenster.de/angebot/migrationsberatung.html",
       "source_id": "drk_munster_migrationsberatung_mbe",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-12_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_awo_coerde_mittendrin",
@@ -283,7 +283,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-12_1700_vorbereitung_auf_die_geburt_fur_paare_fbf_friedensstrasse_coerde",
@@ -303,7 +303,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Vorbereitung-auf-die-Geburt-fuer-Paare/2601-0540",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-13_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mittendrin",
@@ -323,7 +323,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-14_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerde",
@@ -343,7 +343,7 @@
       "source_url": "https://initiative-chack.de/projekte/muetter-treff-coerde/",
       "source_id": "initiative_chack_mutter_treff_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-14_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mittendrin",
@@ -363,7 +363,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-15_1500_nachhilfeangebot_awo_coerde_mittendrin",
@@ -383,11 +383,11 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
-      "event_id": "2026-08-16_1100_sommerkirche_in_der_andreaskirche_andreas_kirchengemeinde_startseite",
-      "title": "Sommerkirche in der Andreaskirche",
+      "event_id": "2026-08-16_1100_gottesdienst_in_der_andreaskirche_andreas_kirchengemeinde_startseite",
+      "title": "Gottesdienst in der Andreaskirche",
       "start_date": "2026-08-16",
       "start_time": "11:00",
       "end_date": "2026-08-16",
@@ -397,13 +397,13 @@
       "city": "Münster-Coerde",
       "organizer": "Ev. Andreas-Kirchengemeinde Münster-Coerde",
       "category": "Kirche / Stadtteil / Begegnung",
-      "short_description": "Sommerkirche-Gottesdienst in der Andreaskirche am 16. August 2026 um 11:00 Uhr.",
+      "short_description": "Gottesdienst in der Andreaskirche im Rahmen der Sommerkirche um 11:00 Uhr.",
       "status": "scheduled",
       "source_name": "Ev. Andreas-Kirchengemeinde Münster-Coerde – Startseite",
       "source_url": "https://www.andreas-kirchengemeinde-muenster.de/",
       "source_id": "andreas_kirchengemeinde_startseite",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-17_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_fbf_friedensstrasse_coerde",
@@ -423,7 +423,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sommerwaldexpedition-Tieren-und-Pflanzen-auf-der-Spur/2602-3063",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-17_1000_vorbereitung_auf_die_geburt_fur_mutter_die_ein_weiteres_kind_erwarten_fbf_friedensstrasse_coerde",
@@ -443,7 +443,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Vorbereitung-auf-die-Geburt-fuer-Muetter-die-ein-weiteres-Kind-erwarten/2601-0633",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-17_1415_ruckbildungsgymnastik_beweglichkeit_und_starkung_hybrid_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -463,7 +463,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Hybrid-Kinderfoermoegl/2601-0403",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-17_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_alter_werden_in_coerde_awo_coerde_mittendrin",
@@ -483,7 +483,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-17_1530_ruckbildungsgymnastik_beweglichkeit_und_starkung_hybrid_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -503,7 +503,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Hybrid-Kinderfoermoegl/2601-0413",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-17_1700_vorbereitung_auf_die_geburt_fur_paare_fbf_friedensstrasse_coerde",
@@ -523,7 +523,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Vorbereitung-auf-die-Geburt-fuer-Paare/2601-0523",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-18_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_fbf_friedensstrasse_coerde",
@@ -543,7 +543,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sommerwaldexpedition-Tieren-und-Pflanzen-auf-der-Spur/2602-3063",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-18_1330_offene_beratungszeit_antidiskriminierungsarbeit_in_coerde_awo_coerde_mittendrin",
@@ -563,7 +563,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-18_1500_bemal_deine_eigene_tasche_malaktion_stadtbuecherei_coerde",
@@ -580,10 +580,10 @@
       "short_description": "Werde kreativ und gestalte deine ganz persönliche Stofftasche. Ob nach einer unserer Vorlagen oder mit einem eigenen Motiv – deiner Fantasie sind keine Grenzen gesetzt. Stofftaschen und Stifte werden kostenfrei von uns bereitgestellt, sodass du direkt loslegen kannst. Die Veranstaltung findet im Freien vor der Stadtteilbücherei Coerde statt und kann nur bei trockenem Wetter durchgeführt werden. Es ist keine Anmeldung erforderlich. Für Kinder ab 5 Jahren.",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/buecherei/orte-und-oeffnungszeiten/coerde/veranstaltungen",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2506/13803/bemal-deine-eigene-tasche-malaktion",
       "source_id": "stadtbuecherei_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-19_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_migrationsberatung_mbe",
@@ -597,13 +597,13 @@
       "city": "Münster-Coerde",
       "organizer": "Deutsches Rotes Kreuz Münster",
       "category": "",
-      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren mit Unterstützung bei Integrationsprozessen, behördlichen Angelegenheiten und sozialer Teilhabe.",
+      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren, mit Unterstützung bei Integrationsprozessen, behördlichen Angelegenheiten und sozialer Teilhabe.",
       "status": "scheduled",
       "source_name": "DRK Münster – Migrationsberatung (MBE)",
       "source_url": "https://www.drk-muenster.de/angebot/migrationsberatung.html",
       "source_id": "drk_munster_migrationsberatung_mbe",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-19_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_fbf_friedensstrasse_coerde",
@@ -623,7 +623,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sommerwaldexpedition-Tieren-und-Pflanzen-auf-der-Spur/2602-3063",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-19_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_awo_coerde_mittendrin",
@@ -643,7 +643,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-19_1700_vorbereitung_auf_die_geburt_fur_paare_fbf_friedensstrasse_coerde",
@@ -663,7 +663,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Vorbereitung-auf-die-Geburt-fuer-Paare/2601-0540",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-20_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_fbf_friedensstrasse_coerde",
@@ -683,7 +683,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sommerwaldexpedition-Tieren-und-Pflanzen-auf-der-Spur/2602-3063",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-20_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mittendrin",
@@ -703,7 +703,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-21_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_fbf_friedensstrasse_coerde",
@@ -723,7 +723,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sommerwaldexpedition-Tieren-und-Pflanzen-auf-der-Spur/2602-3063",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-21_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerde",
@@ -743,7 +743,7 @@
       "source_url": "https://initiative-chack.de/projekte/muetter-treff-coerde/",
       "source_id": "initiative_chack_mutter_treff_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-21_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mittendrin",
@@ -763,7 +763,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-22_1500_nachhilfeangebot_awo_coerde_mittendrin",
@@ -783,11 +783,11 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
-      "event_id": "2026-08-23_1100_sommerkirche_in_der_markuskirche_andreas_kirchengemeinde_startseite",
-      "title": "Sommerkirche in der Markuskirche",
+      "event_id": "2026-08-23_1100_gottesdienst_in_der_markuskirche_andreas_kirchengemeinde_startseite",
+      "title": "Gottesdienst in der Markuskirche",
       "start_date": "2026-08-23",
       "start_time": "11:00",
       "end_date": "2026-08-23",
@@ -797,13 +797,13 @@
       "city": "Münster-Coerde",
       "organizer": "Ev. Andreas-Kirchengemeinde Münster-Coerde",
       "category": "Kirche / Stadtteil / Begegnung",
-      "short_description": "Sommerkirche-Gottesdienst in der Markuskirche am 23. August 2026 um 11:00 Uhr.",
+      "short_description": "Gottesdienst in der Markuskirche im Rahmen der Sommerkirche um 11:00 Uhr.",
       "status": "scheduled",
       "source_name": "Ev. Andreas-Kirchengemeinde Münster-Coerde – Startseite",
       "source_url": "https://www.andreas-kirchengemeinde-muenster.de/",
       "source_id": "andreas_kirchengemeinde_startseite",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-24_0930_art_journaling_ferienkurs_fur_kids_von_10_15_jahren_fbf_friedensstrasse_coerde",
@@ -823,7 +823,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Art-Journaling-Ferienkurs-fuer-Kids-von-10-15-Jahren/2602-3066",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-24_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_fbf_friedensstrasse_coerde",
@@ -843,7 +843,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sommerwaldexpedition-Tieren-und-Pflanzen-auf-der-Spur/2602-3064",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-24_0930_waldabenteurer_unterwegs_kinder_von_6_10_jahren_fbf_friedensstrasse_coerde",
@@ -863,7 +863,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Waldabenteurer-unterwegs-Kinder-von-6-10-Jahren/2602-3061",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-24_1000_vorbereitung_auf_die_geburt_fur_mutter_die_ein_weiteres_kind_erwarten_fbf_friedensstrasse_coerde",
@@ -883,7 +883,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Vorbereitung-auf-die-Geburt-fuer-Muetter-die-ein-weiteres-Kind-erwarten/2601-0633",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-24_1415_ruckbildungsgymnastik_beweglichkeit_und_starkung_hybrid_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -903,7 +903,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Hybrid-Kinderfoermoegl/2601-0403",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-24_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_alter_werden_in_coerde_awo_coerde_mittendrin",
@@ -923,7 +923,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-24_1530_ruckbildungsgymnastik_beweglichkeit_und_starkung_hybrid_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -943,7 +943,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Hybrid-Kinderfoermoegl/2601-0413",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-24_1700_vorbereitung_auf_die_geburt_fur_paare_fbf_friedensstrasse_coerde",
@@ -963,7 +963,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Vorbereitung-auf-die-Geburt-fuer-Paare/2601-0523",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-25_0930_art_journaling_ferienkurs_fur_kids_von_10_15_jahren_fbf_friedensstrasse_coerde",
@@ -983,7 +983,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Art-Journaling-Ferienkurs-fuer-Kids-von-10-15-Jahren/2602-3066",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-25_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_fbf_friedensstrasse_coerde",
@@ -1003,7 +1003,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sommerwaldexpedition-Tieren-und-Pflanzen-auf-der-Spur/2602-3064",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-25_0930_waldabenteurer_unterwegs_kinder_von_6_10_jahren_fbf_friedensstrasse_coerde",
@@ -1023,7 +1023,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Waldabenteurer-unterwegs-Kinder-von-6-10-Jahren/2602-3061",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-25_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_coerde_mittendrin",
@@ -1043,7 +1043,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-25_1800_yoga_in_der_schwangerschaft_hybrid_fbf_friedensstrasse_coerde",
@@ -1063,7 +1063,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-in-der-Schwangerschaft-Hybrid/2601-0107",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-26_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_migrationsberatung_mbe",
@@ -1077,13 +1077,13 @@
       "city": "Münster-Coerde",
       "organizer": "Deutsches Rotes Kreuz Münster",
       "category": "",
-      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren mit Unterstützung bei Integrationsprozessen, behördlichen Angelegenheiten und sozialer Teilhabe.",
+      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren, mit Unterstützung bei Integrationsprozessen, behördlichen Angelegenheiten und sozialer Teilhabe.",
       "status": "scheduled",
       "source_name": "DRK Münster – Migrationsberatung (MBE)",
       "source_url": "https://www.drk-muenster.de/angebot/migrationsberatung.html",
       "source_id": "drk_munster_migrationsberatung_mbe",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-26_0930_art_journaling_ferienkurs_fur_kids_von_10_15_jahren_fbf_friedensstrasse_coerde",
@@ -1103,7 +1103,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Art-Journaling-Ferienkurs-fuer-Kids-von-10-15-Jahren/2602-3066",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-26_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_fbf_friedensstrasse_coerde",
@@ -1123,7 +1123,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sommerwaldexpedition-Tieren-und-Pflanzen-auf-der-Spur/2602-3064",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-26_0930_waldabenteurer_unterwegs_kinder_von_6_10_jahren_fbf_friedensstrasse_coerde",
@@ -1143,7 +1143,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Waldabenteurer-unterwegs-Kinder-von-6-10-Jahren/2602-3061",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-26_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_awo_coerde_mittendrin",
@@ -1163,7 +1163,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-26_1700_burgerkurs_vom_patty_bis_zur_sauce_selbstgemacht_eckels_kladde_events",
@@ -1177,13 +1177,13 @@
       "city": "Münster-Coerde",
       "organizer": "Eckels Kladde",
       "category": "Kultur / Musik / Stadtteil",
-      "short_description": "Kurs zur Herstellung von Burgern inklusive Pattys und Saucen, praxisnah und lecker.",
+      "short_description": "Kurs zur Herstellung von Burgern inklusive Pattys und Saucen. Praxisorientiertes Kochen in gemütlicher Atmosphäre.",
       "status": "scheduled",
       "source_name": "e.ssenz / Eckels Kladde – alle Kurse und Events",
       "source_url": "https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster/products/burgerkurs-vom-patty-bis-zur-sauce-selbstgemacht-26-08-2026-17-ca-22-uhr",
       "source_id": "eckels_kladde_events",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-26_1700_vorbereitung_auf_die_geburt_fur_paare_fbf_friedensstrasse_coerde",
@@ -1203,7 +1203,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Vorbereitung-auf-die-Geburt-fuer-Paare/2601-0540",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-27_0930_art_journaling_ferienkurs_fur_kids_von_10_15_jahren_fbf_friedensstrasse_coerde",
@@ -1223,7 +1223,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Art-Journaling-Ferienkurs-fuer-Kids-von-10-15-Jahren/2602-3066",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-27_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_fbf_friedensstrasse_coerde",
@@ -1243,7 +1243,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sommerwaldexpedition-Tieren-und-Pflanzen-auf-der-Spur/2602-3064",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-27_0930_waldabenteurer_unterwegs_kinder_von_6_10_jahren_fbf_friedensstrasse_coerde",
@@ -1263,7 +1263,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Waldabenteurer-unterwegs-Kinder-von-6-10-Jahren/2602-3061",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-27_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mittendrin",
@@ -1283,7 +1283,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-27_1215_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -1303,7 +1303,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Kinderfoerderung-moegl/2601-0424",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-27_1330_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -1323,7 +1323,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Kinderfoerderung-moegl/2601-0425",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-28_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_fbf_friedensstrasse_coerde",
@@ -1343,7 +1343,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sommerwaldexpedition-Tieren-und-Pflanzen-auf-der-Spur/2602-3064",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-28_0930_waldabenteurer_unterwegs_kinder_von_6_10_jahren_fbf_friedensstrasse_coerde",
@@ -1363,7 +1363,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Waldabenteurer-unterwegs-Kinder-von-6-10-Jahren/2602-3061",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-28_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerde",
@@ -1383,7 +1383,7 @@
       "source_url": "https://initiative-chack.de/projekte/muetter-treff-coerde/",
       "source_id": "initiative_chack_mutter_treff_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-28_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mittendrin",
@@ -1403,7 +1403,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-29_1500_nachhilfeangebot_awo_coerde_mittendrin",
@@ -1423,11 +1423,11 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
-      "event_id": "2026-08-30_1100_sommerkirche_in_der_andreaskirche_andreas_kirchengemeinde_startseite",
-      "title": "Sommerkirche in der Andreaskirche",
+      "event_id": "2026-08-30_1100_gottesdienst_in_der_andreaskirche_andreas_kirchengemeinde_startseite",
+      "title": "Gottesdienst in der Andreaskirche",
       "start_date": "2026-08-30",
       "start_time": "11:00",
       "end_date": "2026-08-30",
@@ -1437,13 +1437,13 @@
       "city": "Münster-Coerde",
       "organizer": "Ev. Andreas-Kirchengemeinde Münster-Coerde",
       "category": "Kirche / Stadtteil / Begegnung",
-      "short_description": "Sommerkirche-Gottesdienst in der Andreaskirche am 30. August 2026 um 11:00 Uhr.",
+      "short_description": "Gottesdienst in der Andreaskirche im Rahmen der Sommerkirche um 11:00 Uhr.",
       "status": "scheduled",
       "source_name": "Ev. Andreas-Kirchengemeinde Münster-Coerde – Startseite",
       "source_url": "https://www.andreas-kirchengemeinde-muenster.de/",
       "source_id": "andreas_kirchengemeinde_startseite",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-31_1000_vorbereitung_auf_die_geburt_fur_mutter_die_ein_weiteres_kind_erwarten_fbf_friedensstrasse_coerde",
@@ -1463,7 +1463,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Vorbereitung-auf-die-Geburt-fuer-Muetter-die-ein-weiteres-Kind-erwarten/2601-0633",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-08-31_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_alter_werden_in_coerde_awo_coerde_mittendrin",
@@ -1483,7 +1483,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-01_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_coerde_mittendrin",
@@ -1503,7 +1503,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-01_1800_yoga_in_der_schwangerschaft_hybrid_fbf_friedensstrasse_coerde",
@@ -1523,7 +1523,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-in-der-Schwangerschaft-Hybrid/2601-0108",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-02_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedensstrasse_coerde",
@@ -1543,7 +1543,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Baby-Kurs-Geb-JanFebr-2026-Hiltrup/2602-2259",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-02_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -1563,7 +1563,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2568",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-02_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_migrationsberatung_mbe",
@@ -1577,13 +1577,13 @@
       "city": "Münster-Coerde",
       "organizer": "Deutsches Rotes Kreuz Münster",
       "category": "",
-      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren mit Unterstützung bei Integrationsprozessen, behördlichen Angelegenheiten und sozialer Teilhabe.",
+      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren, mit Unterstützung bei Integrationsprozessen, behördlichen Angelegenheiten und sozialer Teilhabe.",
       "status": "scheduled",
       "source_name": "DRK Münster – Migrationsberatung (MBE)",
       "source_url": "https://www.drk-muenster.de/angebot/migrationsberatung.html",
       "source_id": "drk_munster_migrationsberatung_mbe",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-02_0915_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde",
@@ -1603,7 +1603,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-in-der-Schwangerschaft/2601-0220",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-02_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_awo_coerde_mittendrin",
@@ -1623,7 +1623,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-02_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -1643,7 +1643,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2569",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-02_1100_mama_baby_yoga_gemeinsam_entspannen_und_starken_fbf_friedensstrasse_coerde",
@@ -1663,7 +1663,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Mama-Baby-Yoga-gemeinsam-entspannen-und-staerken/2601-0570",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-02_1600_traumasensibles_yoga_nach_belastender_geburtserfahrung_fbf_friedensstrasse_coerde",
@@ -1683,7 +1683,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Traumasensibles-Yoga-nach-belastender-Geburtserfahrung/2601-0620",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-02_1745_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde",
@@ -1703,7 +1703,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-in-der-Schwangerschaft/2601-0222",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-02_1930_yoga_und_meditation_fur_frauen_nach_der_ruckbildung_fbf_friedensstrasse_coerde",
@@ -1723,7 +1723,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-und-Meditation-fuer-Frauen-nach-der-Rueckbildung/2601-0490",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-03_1200_polizeisprechstunde_coerde_mittendrin_awo_coerde_mittendrin",
@@ -1743,7 +1743,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-03_1215_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -1763,7 +1763,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Kinderfoerderung-moegl/2601-0424",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-03_1330_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -1783,7 +1783,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Kinderfoerderung-moegl/2601-0425",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-04_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwiese_theater",
@@ -1800,10 +1800,10 @@
       "short_description": "Professionelle Tänzer*innen, Tanzpädagog*innen, Tanzvermittler*innen, Choreograf*innen und Tanztherapeut*innen verbinden sich mit dem Ziel, die Tanzszene Münsters aktiv mitzugestalten und zu verändern, kreativen Austausch, Weiterbildung und Trainingsmöglichkeiten zu schaffen und einander zu inspirieren. Die vorhandenen, etablierten Strukturen sollen ergänzt und erweitert werden, sodass die Stadt Münster attraktiv für professionelle Tanzschaffende wird. Ansprechpartnerin: Melanie López López,...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1025/4561/tanzxchange-freie-tanzszene-muenster-open-class",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-04_1600_qualifizierung_zum_verfahrensbeistand_sect_158_famfg_fbf_friedensstrasse_coerde",
@@ -1823,7 +1823,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Qualifizierung-zum-Verfahrensbeistand-158-FamFG/2605-5000",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-04_1900_die_lofoten_eckels_kladde_events",
@@ -1837,13 +1837,13 @@
       "city": "Münster-Coerde",
       "organizer": "Eckels Kladde",
       "category": "Kultur / Musik / Stadtteil",
-      "short_description": "Multimediale Präsentation über die Lofoten mit einem einzigartigen 3-Gang-Menü.",
+      "short_description": "Multimediale Präsentation über die Lofoten mit einem einzigartigen 3-Gang-Menü. Ein kulturelles und kulinarisches Erlebnis.",
       "status": "scheduled",
       "source_name": "e.ssenz / Eckels Kladde – alle Kurse und Events",
       "source_url": "https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster/products/die-lofoten-04-09-26-19-uhr-multimediale-prasentation-mit-einzigartigem-3-gang-menu",
       "source_id": "eckels_kladde_events",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-05_0930_qualifizierung_zum_verfahrensbeistand_sect_158_famfg_fbf_friedensstrasse_coerde",
@@ -1863,7 +1863,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Qualifizierung-zum-Verfahrensbeistand-158-FamFG/2605-5000",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-06_1200_qi_gong_seminar_die_wandlungsphase_metall_ubungen_fur_die_lunge_meerwiese_theater",
@@ -1880,10 +1880,10 @@
       "short_description": "Der Goldene Drache gehört zur Wandlungsphase Metall und wird daher auch als Metalldrache (Jin Long) bezeichnet. Ihn zu üben, stärkt die Energie unserer Lungen. Dadurch kann unsere Lebenskraft und Vitalität im ganzen Körper gekräftigt werden. Unsere Abwehrenergie (Wei Qi) wird verstärkt und somit auch das Immunsystem und die Beziehung zwischen Körper und Geist gestärkt, wodurch das Körperbewusstsein entwickelt wird. In diesem Seminar werden die Lunge stärkende Atemübungen und Selbstmassagetech...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2703/15052/qi-gong-seminar-die-wandlungsphase-metall-uebungen-fuer-die-lunge",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-07_1000_vorbereitung_auf_die_geburt_fur_mutter_die_ein_weiteres_kind_erwarten_fbf_friedensstrasse_coerde",
@@ -1903,7 +1903,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Vorbereitung-auf-die-Geburt-fuer-Muetter-die-ein-weiteres-Kind-erwarten/2601-0633",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-07_1415_ruckbildungsgymnastik_beweglichkeit_und_starkung_hybrid_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -1923,7 +1923,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Hybrid-Kinderfoermoegl/2601-0403",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-07_1530_ruckbildungsgymnastik_beweglichkeit_und_starkung_hybrid_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -1943,7 +1943,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Hybrid-Kinderfoermoegl/2601-0413",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-07_1700_vorbereitung_auf_die_geburt_fur_paare_fbf_friedensstrasse_coerde",
@@ -1963,7 +1963,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Vorbereitung-auf-die-Geburt-fuer-Paare/2601-0523",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-08_1800_yoga_in_der_schwangerschaft_hybrid_fbf_friedensstrasse_coerde",
@@ -1983,7 +1983,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-in-der-Schwangerschaft-Hybrid/2601-0108",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-09_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedensstrasse_coerde",
@@ -2003,7 +2003,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Baby-Kurs-Geb-JanFebr-2026-Hiltrup/2602-2259",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-09_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -2023,7 +2023,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2568",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-09_0915_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde",
@@ -2043,7 +2043,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-in-der-Schwangerschaft/2601-0220",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-09_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -2063,7 +2063,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2569",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-09_1100_mama_baby_yoga_gemeinsam_entspannen_und_starken_fbf_friedensstrasse_coerde",
@@ -2083,7 +2083,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Mama-Baby-Yoga-gemeinsam-entspannen-und-staerken/2601-0570",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-09_1600_traumasensibles_yoga_nach_belastender_geburtserfahrung_fbf_friedensstrasse_coerde",
@@ -2103,7 +2103,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Traumasensibles-Yoga-nach-belastender-Geburtserfahrung/2601-0620",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-09_1745_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde",
@@ -2123,7 +2123,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-in-der-Schwangerschaft/2601-0222",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-09_1930_yoga_und_meditation_fur_frauen_nach_der_ruckbildung_fbf_friedensstrasse_coerde",
@@ -2143,7 +2143,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-und-Meditation-fuer-Frauen-nach-der-Rueckbildung/2601-0490",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-10_1215_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -2163,7 +2163,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Kinderfoerderung-moegl/2601-0424",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-10_1330_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -2183,7 +2183,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Kinderfoerderung-moegl/2601-0425",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-11_2000_splitter_and_be_julie_klos_aus_munster_meerwiese_theater",
@@ -2200,10 +2200,10 @@
       "short_description": "für alle ab 14 Jahren und Erwachsene Das Musikstück aus den Händen der Schauspielerin und Regisseurin Nina Krücken vom echtzeit-theater, Münster. Im Coronajahr 2021 wurde das Stück noch unter Pandemie-Restriktionen uraufgeführt und ist seitdem regelmäßig zu sehen. Julie Klos spielt und singt in 60 Minuten und zwölf unterschiedlichen Rollen über den Umgang mit äußeren Zwängen und der Suche nach Authentizität. Das Publikum wird dabei selbst zum Akteur. Es geht mit auf die Reise durch Fragen und...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2713/15120/splitter-and-be-julie-klos-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-13_1530_die_clown_fidelidad_solo_show_clown_fidelidad_aus_munster_meerwiese_theater",
@@ -2220,10 +2220,30 @@
       "short_description": "Hereinspaziert, nehmen Sie Platz! das Manegenprogramm für die ganze Familie Clown fidelidad schlüpft in die Rolle eines tollpatschigen Akrobaten, er bezaubert seine staunenden Zuschauer als wilder Stier und stolzer Matador, inszeniert eine „klassische Corrida“, wo Stier und Stierkämpfer lustigste Momente erleben, er spielt, verkleidet im schneeweißem Nachtgewand, auf seiner Geige zum Mond, der verzaubernd am Firmament erscheint und den Clown in eine traumreiche Nacht entführt, und zum Ende er...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2708/15084/die-clown-fidelidad-solo-show-clown-fidelidad-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
+    },
+    {
+      "event_id": "2026-09-13_1800_kammerkonzert_zwischen_esprit_und_leidenschaft_ein_sextette_fur_holzblaserquinte_meerwiese_theater",
+      "title": "Kammerkonzert: Zwischen Esprit und Leidenschaft – Ein Sextette für Holzbläserquintett mit Klavier",
+      "start_date": "2026-09-13",
+      "start_time": "18:00",
+      "end_date": "2026-09-13",
+      "end_time": "19:30",
+      "location_name": "Begegnungszentrum und Theater in der Meerwiese",
+      "address": "An der Meerwiese 25",
+      "city": "Münster-Coerde",
+      "organizer": "Stadt Münster Veranstaltungskalender",
+      "category": "Theater / Kultur / Tanz / Kinderkultur",
+      "short_description": "offen für alle Interessierten Ein Sextette von Francis Poulenc und Ludwig Thuille für Holzbläserquintett mit Klavier. Es spielen Lehrende der Westfälischen Schule für Musik: Lisa Bröker (Flöte), Yuki Watanabe (Oboe), Jessica Lyra (Klarinette), Sam Minnich (Horn), Ulrich Hoth (Fagott) und Thomas Reckmann (Klavier)",
+      "status": "scheduled",
+      "source_name": "Stadt Münster Veranstaltungskalender",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2718/15148/kammerkonzert-zwischen-esprit-und-leidenschaft-ein-sextette-fuer-holzblaeserquintett-mit-klavier",
+      "source_id": "meerwiese_theater",
+      "confidence": "0,9",
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-14_1000_vorbereitung_auf_die_geburt_fur_mutter_die_ein_weiteres_kind_erwarten_fbf_friedensstrasse_coerde",
@@ -2243,7 +2263,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Vorbereitung-auf-die-Geburt-fuer-Muetter-die-ein-weiteres-Kind-erwarten/2601-0633",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-14_1415_ruckbildungsgymnastik_beweglichkeit_und_starkung_hybrid_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -2263,7 +2283,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Hybrid-Kinderfoermoegl/2601-0403",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-14_1530_ruckbildungsgymnastik_beweglichkeit_und_starkung_hybrid_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -2283,7 +2303,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Hybrid-Kinderfoermoegl/2601-0413",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-14_1700_vorbereitung_auf_die_geburt_fur_paare_fbf_friedensstrasse_coerde",
@@ -2303,7 +2323,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Vorbereitung-auf-die-Geburt-fuer-Paare/2601-0523",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-15_1800_yoga_in_der_schwangerschaft_hybrid_fbf_friedensstrasse_coerde",
@@ -2323,7 +2343,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-in-der-Schwangerschaft-Hybrid/2601-0108",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-16_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedensstrasse_coerde",
@@ -2343,7 +2363,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Baby-Kurs-Geb-JanFebr-2026-Hiltrup/2602-2259",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-16_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -2363,7 +2383,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2568",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-16_0915_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde",
@@ -2383,7 +2403,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-in-der-Schwangerschaft/2601-0220",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-16_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -2403,7 +2423,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2569",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-16_1100_mama_baby_yoga_gemeinsam_entspannen_und_starken_fbf_friedensstrasse_coerde",
@@ -2423,7 +2443,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Mama-Baby-Yoga-gemeinsam-entspannen-und-staerken/2601-0570",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-16_1600_traumasensibles_yoga_nach_belastender_geburtserfahrung_fbf_friedensstrasse_coerde",
@@ -2443,7 +2463,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Traumasensibles-Yoga-nach-belastender-Geburtserfahrung/2601-0620",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-16_1745_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde",
@@ -2463,7 +2483,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-in-der-Schwangerschaft/2601-0222",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-16_1930_yoga_und_meditation_fur_frauen_nach_der_ruckbildung_fbf_friedensstrasse_coerde",
@@ -2483,7 +2503,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-und-Meditation-fuer-Frauen-nach-der-Rueckbildung/2601-0490",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-17_1215_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -2503,7 +2523,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Kinderfoerderung-moegl/2601-0424",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-17_1330_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -2523,7 +2543,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Kinderfoerderung-moegl/2601-0425",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-18_1930_vorlese_cafe_im_september_auf_turkisch_deutsch_mit_musik_kulturinitiative_coerde",
@@ -2543,7 +2563,7 @@
       "source_url": "https://kulturinitiative-coerde.de/termin/vorlese-cafe-im-september/",
       "source_id": "kulturinitiative_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-19_ganztag_6_rock_am_berg_festival_rock_am_berg",
@@ -2557,13 +2577,13 @@
       "city": "Münster-Coerde",
       "organizer": "Rock am Berg Münster",
       "category": "Musik / Konzert / Stadtteil",
-      "short_description": "Benefizkonzert mit mehreren Bands ohne Gage zur Unterstützung von Menschen in Not Straßenmagazin draußen! e.V. in Münster und dem Münsterland. Getränke und Speisen werden angeboten, Erlös geht als Spende.",
+      "short_description": "Benefizkonzert mit mehreren Bands ohne Gage zur Unterstützung von Menschen in Not Straßenmagazin draußen! e.V. in Münster und dem Münsterland. Getränke und Speisen werden angeboten, Erlös wird gespendet.",
       "status": "scheduled",
       "source_name": "Rock am Berg",
       "source_url": "https://www.rockamberg-ms.de/",
       "source_id": "rock_am_berg",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-19_1400_ost_europa_seminar_nie_wieder_allein_leitung_joachim_wieder_meerwiese_theater",
@@ -2580,10 +2600,10 @@
       "short_description": "Ein neu definierter Gemeinsinn prägt das Miteinander osteuropäischer Bürgergesellschaften Wochenend-Seminar: Samstag, 19. September, 14 bis 19 Uhr und Sonntag, 20. September, 10 bis 14 Uhr offen für alle Interessierten Als Osteuropahistoriker mit Sprachkenntnissen und Auslandserfahrung bietet Joachim Wieder Seminare zu den Ländern an, mit einer Einführung in mehr als eintausend Jahre Geschichte und aktuellen Entwicklungen – etwa zur Ukraine, zu den baltischen Staaten oder zum Kaukasus. Die Vi...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2788/15383/ost-europa-seminar-nie-wieder-allein-leitung-joachim-wieder",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-20_1000_ost_europa_seminar_nie_wieder_allein_leitung_joachim_wieder_meerwiese_theater",
@@ -2600,10 +2620,10 @@
       "short_description": "Ein neu definierter Gemeinsinn prägt das Miteinander osteuropäischer Bürgergesellschaften Wochenend-Seminar: Samstag, 19. September, 14 bis 19 Uhr und Sonntag, 20. September, 10 bis 14 Uhr offen für alle Interessierten Als Osteuropahistoriker mit Sprachkenntnissen und Auslandserfahrung bietet Joachim Wieder Seminare zu den Ländern an, mit einer Einführung in mehr als eintausend Jahre Geschichte und aktuellen Entwicklungen – etwa zur Ukraine, zu den baltischen Staaten oder zum Kaukasus. Die Vi...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2788/15843/ost-europa-seminar-nie-wieder-allein-leitung-joachim-wieder",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-22_1800_yoga_in_der_schwangerschaft_hybrid_fbf_friedensstrasse_coerde",
@@ -2623,7 +2643,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-in-der-Schwangerschaft-Hybrid/2601-0108",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-23_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedensstrasse_coerde",
@@ -2643,7 +2663,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Baby-Kurs-Geb-JanFebr-2026-Hiltrup/2602-2259",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-23_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -2663,7 +2683,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2568",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-23_0915_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde",
@@ -2683,7 +2703,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-in-der-Schwangerschaft/2601-0220",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-23_1000_kindermusikfestival_munster_karibuni_weltmusik_fur_kinder_karibuni_aus_munster_meerwiese_theater",
@@ -2700,10 +2720,10 @@
       "short_description": "Mitmachkonzert für alle ab 4 Jahren Karibuni bedeutet \"Willkommen\" in der afrikanischen Sprache Kiswahili. Unter diesem Namen laden Josephine Kronfli und Pit Budde in ihren Mitmachkonzerten Kinder und Eltern zum Singen und Tanzen ein. Die musikalische Weltreise schlägt einen Bogen von Afrika zu den Natives in Amerika, von Europa in den Regenwald, vom Orient nach Australien. Die Lieder werden in den Originalsprachen und ihren deutschen Übertragungen gesungen. es spielen: Josephine Kronfli (Flö...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2723/15178/kindermusikfestival-muenster-karibuni-weltmusik-fuer-kinder-karibuni-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-23_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -2723,7 +2743,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2569",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-23_1100_mama_baby_yoga_gemeinsam_entspannen_und_starken_fbf_friedensstrasse_coerde",
@@ -2743,7 +2763,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Mama-Baby-Yoga-gemeinsam-entspannen-und-staerken/2601-0570",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-23_1600_traumasensibles_yoga_nach_belastender_geburtserfahrung_fbf_friedensstrasse_coerde",
@@ -2763,7 +2783,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Traumasensibles-Yoga-nach-belastender-Geburtserfahrung/2601-0620",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-23_1745_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde",
@@ -2783,7 +2803,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-in-der-Schwangerschaft/2601-0222",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-23_1930_yoga_und_meditation_fur_frauen_nach_der_ruckbildung_fbf_friedensstrasse_coerde",
@@ -2803,7 +2823,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-und-Meditation-fuer-Frauen-nach-der-Rueckbildung/2601-0490",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-24_1215_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -2823,7 +2843,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Kinderfoerderung-moegl/2601-0424",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-24_1330_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -2843,7 +2863,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Kinderfoerderung-moegl/2601-0425",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-25_1000_kindermusikfestival_zauberhafte_welt_des_herrn_alexander_pindakaas_quartett_aus__meerwiese_theater",
@@ -2860,10 +2880,10 @@
       "short_description": "für alle ab 4 Jahren Mit dem Programm „Die zauberhafte Welt des Herrn Alexander“ gestalten die vier Musiker*innen gemeinsam mit dem Schauspieler Frank Dukowski ein geheimnisvolles Erlebnis für Kinder. Wer war dieser Zauberer, der um die Welt reiste und sein Publikum in Staunen versetzte? In einer Mischung aus Erzählung und Musik entfaltet sich eine magische Welt voller Überraschungen, und nicht jedes Geheimnis wird gleich gelüftet… Der noble, feine Klang ist das Markenzeichen des Pindakaas Sa...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2729/15202/kindermusikfestival-zauberhafte-welt-des-herrn-alexander-pindakaas-quartett-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-26_1700_kindermusikfestival_munster_cattu_der_traumfanger_cattu_aus_berlin_meerwiese_theater",
@@ -2880,10 +2900,30 @@
       "short_description": "für alle ab 4 Jahren Cattu, der Traumfänger alias Carsten van den Berg, ist so eine Art lebendiger Traumfänger! In vielen seiner Lieder werden Kinderträume tatsächlich für einen kurzen Moment eingefangen: Lieder über Rennschnecken, Eichhörnchen, Piraten, Eulen, Ritter oder z. B. über das Geheimnis der Punkte des Marienkäfers. Cattus Musik vereint Kinderlieder mit Köpfchen, Pep und mit gefühlvollen Momenten und sorgt dabei für großen Mitmach- und Mitsing-Spaß. Es spielt: Cattu (Gitarre, Gesang...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2736/15222/kindermusikfestival-muenster-cattu-der-traumfaenger-cattu-aus-berlin",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
+    },
+    {
+      "event_id": "2026-09-26_1900_georg_kreisler_sein_leben_seine_lieder_markus_von_hagen_kabarettist_und_philip_r_meerwiese_theater",
+      "title": "Georg Kreisler – sein Leben, seine Lieder – Markus von Hagen (Kabarettist) und Philip Ritter (Pianist)",
+      "start_date": "2026-09-26",
+      "start_time": "19:00",
+      "end_date": "2026-09-26",
+      "end_time": "20:00",
+      "location_name": "Begegnungszentrum und Theater in der Meerwiese",
+      "address": "An der Meerwiese 25",
+      "city": "Münster-Coerde",
+      "organizer": "Stadt Münster Veranstaltungskalender",
+      "category": "Theater / Kultur / Tanz / Kinderkultur",
+      "short_description": "Irgendwo lacht ein Dinosaurier Georg Kreisler, Meister des schwarzen Humors, hat wie kaum ein anderer das deutschsprachige Kabarett geprägt. Seine oft sehr poetischen, manchmal auch surrealen Texte – untermalt von anspruchsvoller Klavierbegleitung – haben an politischer bzw. gesellschaftlicher Aktualität nichts eingebüßt. Kabarettist Markus von Hagen, Träger des Herner Satirepreises, zudem Regisseur, Rezitator und Moderator verschiedener Programm-Formate, begleitet von seinem Bühnenpartner Ph...",
+      "status": "scheduled",
+      "source_name": "Stadt Münster Veranstaltungskalender",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2789/15386/georg-kreisler-sein-leben-seine-lieder-markus-von-hagen-kabarettist-und-philip-ritter-pianist",
+      "source_id": "meerwiese_theater",
+      "confidence": "0,9",
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-27_1530_spielarten_2026_du_und_ich_helios_theater_aus_hamm_meerwiese_theater",
@@ -2900,10 +2940,10 @@
       "short_description": "für alle ab zwei Jahren Wer bin ich? Wer sind wir? Und was haben wir gemeinsam – oder auch nicht? Diese Fragen beschäftigen uns ein Leben lang – so auch die beiden Schauspielenden auf der Bühne, die gemeinsam etwas erfinden, voneinander lernen und miteinander streiten – und dann entdecken, wie schnell aus einem normalen Gegenstand etwas Lebendiges gezaubert werden kann: So wird aus einem Klumpen Ton ein Gesicht geformt, dem sie ihre Stimme und Hände leihen. Aus zwei Spielenden werden so rasch...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2790/15387/spielarten-2026-du-und-ich-helios-theater-aus-hamm",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-28_1000_cryptolike_to_the_moon_sterna_pau_aus_bochum_meerwiese_theater",
@@ -2920,10 +2960,10 @@
       "short_description": "für alle ab 14 Jahren Ein Haufen Geld? Die große Liebe? Zufriedenheit? Oder ein tragisches Unglück? Wer weiß, was die Zukunft bringt. – Dein Horoskop. Oder der Typ mit dem Youtube-Kanal, der ganz genau weiß, wie du reich wirst – investiere in diese Crypto-Währung! Lerne zwei sehr unterschiedliche Figuren kennen und folge ihnen durch die MoonCon oder gleich to the moon. STERNA | PAU laden das Publikum ein, in die (scheinbar) unergründlichen Mechanismen des Finanzmarkts und des Universums einzu...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2791/15389/cryptolike-to-the-moon-sterna-pau-aus-bochum",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-29_0930_theaterzauber_coerde_babilu_und_die_buchstabenbande_theater_don_kidschote_aus_mu_meerwiese_theater",
@@ -2940,10 +2980,30 @@
       "short_description": "Das ABC des Miteinanders für alle von 4 bis 8 Jahren; ideal für den Einstieg in die Schule Hinter dem Buchstabengebirge, links vom Zeichenwald, direkt neben dem Wörtersee, lebt Babilu, der fleißige Wortefinder. Mit Hilfe der Buchstaben sucht und findet er neue Worte für die ganze Welt, damit die Menschen miteinander reden können. Doch die Buchstaben sind sehr verschieden und streiten oft miteinander. Als der gemeine Buchstabendieb Orakelvox fast das ganze Alphabet entführt, kann Babilu keine...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2793/15426/theaterzauber-coerde-babilu-und-die-buchstabenbande-theater-don-kidschote-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
+    },
+    {
+      "event_id": "2026-09-29_1100_theaterzauber_coerde_babilu_und_die_buchstabenbande_theater_don_kidschote_aus_mu_meerwiese_theater",
+      "title": "THEATERZAUBER Coerde: Babilu und die Buchstabenbande – Theater Don Kidschote aus Münster",
+      "start_date": "2026-09-29",
+      "start_time": "11:00",
+      "end_date": "2026-09-29",
+      "end_time": "11:50",
+      "location_name": "Begegnungszentrum und Theater in der Meerwiese",
+      "address": "An der Meerwiese 25",
+      "city": "Münster-Coerde",
+      "organizer": "Stadt Münster Veranstaltungskalender",
+      "category": "Theater / Kultur / Tanz / Kinderkultur",
+      "short_description": "Das ABC des Miteinanders für alle von 4 bis 8 Jahren; ideal für den Einstieg in die Schule Hinter dem Buchstabengebirge, links vom Zeichenwald, direkt neben dem Wörtersee, lebt Babilu, der fleißige Wortefinder. Mit Hilfe der Buchstaben sucht und findet er neue Worte für die ganze Welt, damit die Menschen miteinander reden können. Doch die Buchstaben sind sehr verschieden und streiten oft miteinander. Als der gemeine Buchstabendieb Orakelvox fast das ganze Alphabet entführt, kann Babilu keine...",
+      "status": "scheduled",
+      "source_name": "Stadt Münster Veranstaltungskalender",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2793/15427/theaterzauber-coerde-babilu-und-die-buchstabenbande-theater-don-kidschote-aus-muenster",
+      "source_id": "meerwiese_theater",
+      "confidence": "0,9",
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-29_1800_yoga_in_der_schwangerschaft_hybrid_fbf_friedensstrasse_coerde",
@@ -2963,7 +3023,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-in-der-Schwangerschaft-Hybrid/2601-0108",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-30_0815_theaterzauber_coerde_babilu_und_die_buchstabenbande_theater_don_kidschote_aus_mu_meerwiese_theater",
@@ -2980,10 +3040,10 @@
       "short_description": "Das ABC des Miteinanders für alle von 4 bis 8 Jahren; ideal für den Einstieg in die Schule Hinter dem Buchstabengebirge, links vom Zeichenwald, direkt neben dem Wörtersee, lebt Babilu, der fleißige Wortefinder. Mit Hilfe der Buchstaben sucht und findet er neue Worte für die ganze Welt, damit die Menschen miteinander reden können. Doch die Buchstaben sind sehr verschieden und streiten oft miteinander. Als der gemeine Buchstabendieb Orakelvox fast das ganze Alphabet entführt, kann Babilu keine...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2793/15428/theaterzauber-coerde-babilu-und-die-buchstabenbande-theater-don-kidschote-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-30_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedensstrasse_coerde",
@@ -3003,7 +3063,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Baby-Kurs-Geb-JanFebr-2026-Hiltrup/2602-2259",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-30_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -3023,7 +3083,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2568",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-30_0915_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde",
@@ -3043,7 +3103,27 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-in-der-Schwangerschaft/2601-0220",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
+    },
+    {
+      "event_id": "2026-09-30_1030_theaterzauber_coerde_babilu_und_die_buchstabenbande_theater_don_kidschote_aus_mu_meerwiese_theater",
+      "title": "THEATERZAUBER Coerde: Babilu und die Buchstabenbande – Theater Don Kidschote aus Münster",
+      "start_date": "2026-09-30",
+      "start_time": "10:30",
+      "end_date": "2026-09-30",
+      "end_time": "11:20",
+      "location_name": "Begegnungszentrum und Theater in der Meerwiese",
+      "address": "An der Meerwiese 25",
+      "city": "Münster-Coerde",
+      "organizer": "Stadt Münster Veranstaltungskalender",
+      "category": "Theater / Kultur / Tanz / Kinderkultur",
+      "short_description": "Das ABC des Miteinanders für alle von 4 bis 8 Jahren; ideal für den Einstieg in die Schule Hinter dem Buchstabengebirge, links vom Zeichenwald, direkt neben dem Wörtersee, lebt Babilu, der fleißige Wortefinder. Mit Hilfe der Buchstaben sucht und findet er neue Worte für die ganze Welt, damit die Menschen miteinander reden können. Doch die Buchstaben sind sehr verschieden und streiten oft miteinander. Als der gemeine Buchstabendieb Orakelvox fast das ganze Alphabet entführt, kann Babilu keine...",
+      "status": "scheduled",
+      "source_name": "Stadt Münster Veranstaltungskalender",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2793/15429/theaterzauber-coerde-babilu-und-die-buchstabenbande-theater-don-kidschote-aus-muenster",
+      "source_id": "meerwiese_theater",
+      "confidence": "0,9",
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-30_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -3063,7 +3143,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2569",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-30_1100_mama_baby_yoga_gemeinsam_entspannen_und_starken_fbf_friedensstrasse_coerde",
@@ -3083,7 +3163,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Mama-Baby-Yoga-gemeinsam-entspannen-und-staerken/2601-0570",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-30_1600_traumasensibles_yoga_nach_belastender_geburtserfahrung_fbf_friedensstrasse_coerde",
@@ -3103,7 +3183,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Traumasensibles-Yoga-nach-belastender-Geburtserfahrung/2601-0620",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-30_1745_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde",
@@ -3123,7 +3203,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-in-der-Schwangerschaft/2601-0222",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-09-30_1930_yoga_und_meditation_fur_frauen_nach_der_ruckbildung_fbf_friedensstrasse_coerde",
@@ -3143,7 +3223,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-und-Meditation-fuer-Frauen-nach-der-Rueckbildung/2601-0490",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-01_1215_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -3163,7 +3243,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Kinderfoerderung-moegl/2601-0424",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-01_1330_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -3183,7 +3263,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Kinderfoerderung-moegl/2601-0425",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-02_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwiese_theater",
@@ -3200,10 +3280,30 @@
       "short_description": "Professionelle Tänzer*innen, Tanzpädagog*innen, Tanzvermittler*innen, Choreograf*innen und Tanztherapeut*innen verbinden sich mit dem Ziel, die Tanzszene Münsters aktiv mitzugestalten und zu verändern, kreativen Austausch, Weiterbildung und Trainingsmöglichkeiten zu schaffen und einander zu inspirieren. Die vorhandenen, etablierten Strukturen sollen ergänzt und erweitert werden, sodass die Stadt Münster attraktiv für professionelle Tanzschaffende wird. Ansprechpartnerin: Melanie López López,...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1025/15841/tanzxchange-freie-tanzszene-muenster-open-class",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
+    },
+    {
+      "event_id": "2026-10-02_1930_swing_latin_night_jazzcarraldo_aus_munster_meerwiese_theater",
+      "title": "Swing & Latin – Night – JazZCarraldo aus Münster",
+      "start_date": "2026-10-02",
+      "start_time": "19:30",
+      "end_date": "2026-10-02",
+      "end_time": "21:30",
+      "location_name": "Begegnungszentrum und Theater in der Meerwiese",
+      "address": "An der Meerwiese 25",
+      "city": "Münster-Coerde",
+      "organizer": "Stadt Münster Veranstaltungskalender",
+      "category": "Theater / Kultur / Tanz / Kinderkultur",
+      "short_description": "für Erwachsene JazZCarraldo ist eine sechsköpfige Jazzformation, die klassische Swing- und Bossa-Nova-Standards mit frischer Energie und stilvoller Leichtigkeit auf die Bühne bringt. In der Besetzung Sopran- & Altsaxophon, Gitarre, Keyboard, Bass und Schlagzeug entsteht ein vielseitiger, transparenter Bandsound, der Raum für musikalische Interaktion und spontane Improvisation lässt. Die Band bringt bekannte Jazz-Klassiker wie „All The Things You Are“ oder „The Girl from Ipanema“ im modernen S...",
+      "status": "scheduled",
+      "source_name": "Stadt Münster Veranstaltungskalender",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2797/15449/swing-latin-night-jazzcarraldo-aus-muenster",
+      "source_id": "meerwiese_theater",
+      "confidence": "0,9",
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-03_1000_workshop_black_and_white_diesmal_bunt_ein_schwarzlichttheater_workshop_meerwiese_theater",
@@ -3220,10 +3320,30 @@
       "short_description": "Im Rahmen von Kulturrucksack für alle von 10 bis 14 Jahren Tanzende Hände, schwebende Formen, leuchtende Farben! Das Schwarzlichttheater Projekt „Black and White – diesmal bunt“ geht in die nächste Runde. Ihr gestaltet selbst Requisiten, Masken und Objekte. Aus euren Ideen entstehen bewegte Bilder, kleine Szenen und überraschende Effekte. Dabei zählt Teamarbeit genauso wie eure eigene Kreativität – denn erst zusammen entsteht eine starke, leuchtende Bühnenwelt. Workshop 1: Samstag, 3. Oktober...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2799/15451/workshop-black-and-white-diesmal-bunt-ein-schwarzlichttheater-workshop",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
+    },
+    {
+      "event_id": "2026-10-03_2000_kunst_im_volk_einig_recht_frei_klos_sopran_di_martino_bariton_lehnert_flugel_meerwiese_theater",
+      "title": "Kunst im Volk - Einig? Recht? Frei? – Klos (Sopran), Di Martino (Bariton), Lehnert (Flügel)",
+      "start_date": "2026-10-03",
+      "start_time": "20:00",
+      "end_date": "2026-10-03",
+      "end_time": "21:00",
+      "location_name": "Begegnungszentrum und Theater in der Meerwiese",
+      "address": "An der Meerwiese 25",
+      "city": "Münster-Coerde",
+      "organizer": "Stadt Münster Veranstaltungskalender",
+      "category": "Theater / Kultur / Tanz / Kinderkultur",
+      "short_description": "für alle ab 16 Jahren Wir singen von Freiheit. Aber fühlen wir uns frei? Wir sprechen von Recht. Aber empfinden wir Gerechtigkeit? Wir feiern Einheit. Aber worin sind wir uns einig? Zum Tag der deutschen Einheit stellen Antonio Di Martino, Julie Klos und Markus Lehnert die Fragen hinter den großen Worten unserer Demokratie. Lieder aus verschiedenen Zeiten treffen auf die Herausforderungen unserer Gegenwart. \"Kunst im Volk - Einig? Recht? Frei?\" versteht sich nicht als Konzert mit fertigen Ant...",
+      "status": "scheduled",
+      "source_name": "Stadt Münster Veranstaltungskalender",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2800/15452/kunst-im-volk-einig-recht-frei-klos-sopran-di-martino-bariton-lehnert-fluegel",
+      "source_id": "meerwiese_theater",
+      "confidence": "0,9",
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-04_1200_faszination_feuer_kochen_in_und_an_der_flamme_trifft_dutch_oven_kurs_eckels_kladde_events",
@@ -3237,13 +3357,13 @@
       "city": "Münster-Coerde",
       "organizer": "Eckels Kladde",
       "category": "Kultur / Musik / Stadtteil",
-      "short_description": "Kochkurs mit Fokus auf Feuertechniken und Dutch Oven, praxisnah und erlebnisorientiert.",
+      "short_description": "Kochkurs rund um das Kochen mit Feuer und Dutch Oven. Praktische Anleitung und gemeinsames Kochen im Freien.",
       "status": "scheduled",
       "source_name": "e.ssenz / Eckels Kladde – alle Kurse und Events",
       "source_url": "https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster/products/feuerkochkurs-04-10-26",
       "source_id": "eckels_kladde_events",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-07_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedensstrasse_coerde",
@@ -3263,7 +3383,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Baby-Kurs-Geb-JanFebr-2026-Hiltrup/2602-2259",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-07_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -3283,7 +3403,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2568",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-07_0915_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde",
@@ -3303,7 +3423,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-in-der-Schwangerschaft/2601-0220",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-07_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -3323,7 +3443,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2569",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-07_1100_mama_baby_yoga_gemeinsam_entspannen_und_starken_fbf_friedensstrasse_coerde",
@@ -3343,7 +3463,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Mama-Baby-Yoga-gemeinsam-entspannen-und-staerken/2601-0570",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-07_1600_traumasensibles_yoga_nach_belastender_geburtserfahrung_fbf_friedensstrasse_coerde",
@@ -3363,7 +3483,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Traumasensibles-Yoga-nach-belastender-Geburtserfahrung/2601-0620",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-07_1745_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde",
@@ -3383,7 +3503,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-in-der-Schwangerschaft/2601-0222",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-07_1930_yoga_und_meditation_fur_frauen_nach_der_ruckbildung_fbf_friedensstrasse_coerde",
@@ -3403,7 +3523,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-und-Meditation-fuer-Frauen-nach-der-Rueckbildung/2601-0490",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-08_1215_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -3423,7 +3543,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Kinderfoerderung-moegl/2601-0424",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-08_1330_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -3443,7 +3563,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Kinderfoerderung-moegl/2601-0425",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-09_1600_qualifizierung_zum_verfahrensbeistand_sect_158_famfg_fbf_friedensstrasse_coerde",
@@ -3463,7 +3583,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Qualifizierung-zum-Verfahrensbeistand-158-FamFG/2605-5000",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-09_1800_stadtteilkonzert_sinfonieorchester_munster_theater_munster_meerwiese_theater",
@@ -3480,10 +3600,30 @@
       "short_description": "Um sich von klassischer Musik bewegen und begeistern zu lassen, braucht es weder einen speziellen Ort noch eine steife Etikette oder eine besondere musikalische Vorbildung. Mit den Stadtteilkonzerten tritt das Sinfonieorchester Münster den Beweis an, dass großartige Meisterwerke wie Beethovens Sinfonien Nr. 6 und 8 universell und unmittelbar zugänglich sind – auch da, wo man es vielleicht am wenigsten erwartet! Ein Konzert im Stadtteil kann daher nicht nur ein musikalisches Ereignis sein, son...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2801/15453/stadtteilkonzert-sinfonieorchester-muenster-theater-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
+    },
+    {
+      "event_id": "2026-10-10_ganztag_glow_up_after_work_party_st_franziskus_startseite",
+      "title": "Glow-Up After Work Party",
+      "start_date": "2026-10-10",
+      "start_time": null,
+      "end_date": "2026-10-10",
+      "end_time": null,
+      "location_name": "Franziskushaus Coerde",
+      "address": "Schneidemühler Str. 23, 48157 Münster-Coerde",
+      "city": "Münster-Coerde",
+      "organizer": "Katholische Kirchengemeinde St. Franziskus",
+      "category": "Kirche / Gottesdienst / Begegnung",
+      "short_description": "Abendveranstaltung mit stylischer Glow-Dekoration, erfrischenden Drinks, guter Musik und besonderen Lichteffekten für einen unvergesslichen Feierabend in Münster-Coerde.",
+      "status": "scheduled",
+      "source_name": "After Work Party Coerde – Startseite",
+      "source_url": "https://awp-coerde.de/",
+      "source_id": "st_franziskus_startseite",
+      "confidence": "0,9",
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-10_0930_qualifizierung_zum_verfahrensbeistand_sect_158_famfg_fbf_friedensstrasse_coerde",
@@ -3503,7 +3643,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Qualifizierung-zum-Verfahrensbeistand-158-FamFG/2605-5000",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-10_1000_tagung_fruhkindliche_bildung_und_chancengleichheit_initiative_chack_fachtagung",
@@ -3517,33 +3657,13 @@
       "city": "Münster-Coerde",
       "organizer": "Initiative ChaCK e.V.",
       "category": "",
-      "short_description": "Fachtagung mit internationalen Wissenschaftlern und Experten zum Thema Chancengleichheit und Kinderarmut. Vorträge und Podiumsdiskussion. Teilnahme kostenlos und offen für alle Interessierten.",
+      "short_description": "Fachtagung mit internationalen Wissenschaftlern und Experten zum Thema Chancengleichheit und Kinderarmut. Vorträge und Podiumsdiskussion mit kommunalen Vertretern. Teilnahme kostenlos und offen für alle Interessierten.",
       "status": "scheduled",
       "source_name": "Initiative ChaCK – Fachtagung",
       "source_url": "https://initiative-chack.de/projekte/fachtagung/",
       "source_id": "initiative_chack_fachtagung",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
-    },
-    {
-      "event_id": "2026-10-10_1800_glow_up_after_work_party_st_franziskus_startseite",
-      "title": "Glow-Up After Work Party",
-      "start_date": "2026-10-10",
-      "start_time": "18:00",
-      "end_date": "2026-10-10",
-      "end_time": null,
-      "location_name": "Franziskushaus Coerde",
-      "address": "Schneidemühler Str. 23, 48157 Münster-Coerde",
-      "city": "Münster-Coerde",
-      "organizer": "Katholische Kirchengemeinde St. Franziskus",
-      "category": "Kirche / Gottesdienst / Begegnung",
-      "short_description": "Abendveranstaltung mit stylischer Glow-Dekoration, erfrischenden Drinks, guter Musik und besonderen Lichteffekten zum Feiern und Entspannen nach der Arbeit.",
-      "status": "scheduled",
-      "source_name": "After Work Party Coerde – Startseite",
-      "source_url": "https://awp-coerde.de/",
-      "source_id": "st_franziskus_startseite",
-      "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-11_1530_spielarten_2026_der_gerauschehandler_toboso_aus_essen_meerwiese_theater",
@@ -3560,10 +3680,30 @@
       "short_description": "für alle ab fünf Jahren Der Geräuschehändler ist Spezialist für besonders klangvolle Wünsche. So ungewöhnlich wie sein kleiner Laden ist auch seine Kundschaft: Der Straßenlaterne ist es nachts zu still – sie sehnt sich nach dem Lärm der taghellen Stadt. Eine Zirkustruppe ist auf der Suche nach einer rauschenden Stimmungskanone und ein kleines Gespenst hat einfach noch nicht den richtigen Sound für die Geisterstunde gefunden… Kein Problem für den Geräuschehändler! Ein Spiel mit Text und Ton, d...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2802/15454/spielarten-2026-der-geraeuschehaendler-toboso-aus-essen",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
+    },
+    {
+      "event_id": "2026-10-11_1700_spielarten_2026_silent_calling_theater_marabu_aus_bonn_meerwiese_theater",
+      "title": "SPIELARTEN 2026: Silent Calling – Theater Marabu aus Bonn",
+      "start_date": "2026-10-11",
+      "start_time": "17:00",
+      "end_date": "2026-10-11",
+      "end_time": "18:00",
+      "location_name": "Begegnungszentrum und Theater in der Meerwiese",
+      "address": "An der Meerwiese 25",
+      "city": "Münster-Coerde",
+      "organizer": "Stadt Münster Veranstaltungskalender",
+      "category": "Theater / Kultur / Tanz / Kinderkultur",
+      "short_description": "für alle ab 12 Jahren Treibender Techno und Hip-Hop Beats verweben sich mit Motiven aus Beethovens großer Fuge (op. 133) zu einer urbanen Klangwelt. Darin schaffen drei Tänzer*innen mit Tanzstilen der Hip Hop Kultur und Contact Improvisation Momente, die ganz widersprüchliche Gefühle hervorrufen. Momente des Verbundenseins folgen Momente der Trennung und Vereinzelung. Momente der Nähe wechseln zu Momenten der Distanz. Das Publikum ist eingeladen, sich aktiv zu beteiligen, sich zu begegnen und...",
+      "status": "scheduled",
+      "source_name": "Stadt Münster Veranstaltungskalender",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2803/15455/spielarten-2026-silent-calling-theater-marabu-aus-bonn",
+      "source_id": "meerwiese_theater",
+      "confidence": "0,9",
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-13_1000_spielarten_2026_into_it_performing_group_marie_lena_kaiser_aus_koln_meerwiese_theater",
@@ -3580,10 +3720,10 @@
       "short_description": "für alle ab zehn Jahren Vier Tänzer*innen bewegen sich zwischen Bühne und dem rundherum verteilten Publikum. Sie erkunden den Raum, teilen Gedanken und greifen Impulse auf. Ein Spiel mit Nähe und Distanz beginnt und entwickelt sich zu einer Choreografie, inspiriert durch alles, was Begegnung ausmacht: Reibung, Widerstand und Verbindung. Dabei entsteht ein reger Austausch, der die Grenze zwischen Publikum und Tänzer*innen zwar verschiebt, aber nicht auflöst. Am Ende entsteht ein Moment, der zu...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2804/15456/spielarten-2026-into-it-performing-group-marie-lena-kaiser-aus-koeln",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-14_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedensstrasse_coerde",
@@ -3603,7 +3743,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Baby-Kurs-Geb-JanFebr-2026-Hiltrup/2602-2259",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-14_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -3623,7 +3763,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2568",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-14_0915_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde",
@@ -3643,7 +3783,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-in-der-Schwangerschaft/2601-0220",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-14_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -3663,7 +3803,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2569",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-14_1100_mama_baby_yoga_gemeinsam_entspannen_und_starken_fbf_friedensstrasse_coerde",
@@ -3683,7 +3823,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Mama-Baby-Yoga-gemeinsam-entspannen-und-staerken/2601-0570",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-14_1600_traumasensibles_yoga_nach_belastender_geburtserfahrung_fbf_friedensstrasse_coerde",
@@ -3703,7 +3843,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Traumasensibles-Yoga-nach-belastender-Geburtserfahrung/2601-0620",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-14_1745_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde",
@@ -3723,7 +3863,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-in-der-Schwangerschaft/2601-0222",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-14_1930_yoga_und_meditation_fur_frauen_nach_der_ruckbildung_fbf_friedensstrasse_coerde",
@@ -3743,7 +3883,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-und-Meditation-fuer-Frauen-nach-der-Rueckbildung/2601-0490",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-15_1000_spielarten_2026_der_riss_pulk_fiktion_aus_koln_meerwiese_theater",
@@ -3760,10 +3900,10 @@
       "short_description": "für alle ab 13 Jahren Zwei Performer*innen, die jeweils ost- bzw. westdeutsche Biografien in sich tragen, begegnen sich auf der Bühne. Was bedeutet es, als Kind eines bestimmten politischen Systems aufzuwachsen? Welche Narrative, Denkweisen, aber auch Sehnsüchte, Brüche und Missverständnisse tragen wir weiter? In einer performativen Verhandlung wird Stück für Stück die deutsch-deutsche Vergangenheit entblättert und Entwürfe für eine gemeinsame politische Zukunft entworfen. „Der Riss“ ist eine...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2805/15457/spielarten-2026-der-riss-pulk-fiktion-aus-koeln",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-15_1215_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -3783,7 +3923,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Kinderfoerderung-moegl/2601-0424",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-15_1330_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinderforderung_mogl_fbf_friedensstrasse_coerde",
@@ -3803,7 +3943,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Rueckbildungsgymnastik-Beweglichkeit-und-Staerkung-Kinderfoerderung-moegl/2601-0425",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-17_1000_workshop_black_and_white_diesmal_bunt_ein_schwarzlichttheater_workshop_meerwiese_theater",
@@ -3820,10 +3960,10 @@
       "short_description": "Im Rahmen von Kulturrucksack für alle von zehn bis 14 Jahren Tanzende Hände, schwebende Formen, leuchtende Farben! Das Schwarzlichttheater Projekt „Black and White – diesmal bunt“ geht in die nächste Runde. Ihr gestaltet selbst Requisiten, Masken und Objekte. Aus euren Ideen entstehen bewegte Bilder, kleine Szenen und überraschende Effekte. Dabei zählt Teamarbeit genauso wie eure eigene Kreativität – denn erst zusammen entsteht eine starke, leuchtende Bühnenwelt. Samstag, 17. Oktober 2026, 10...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2806/15458/workshop-black-and-white-diesmal-bunt-ein-schwarzlichttheater-workshop",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-21_1900_das_immersive_kriminal_dinner_in_3d_projektionen_sherlys_spurensuche_stadt_munster_veranstaltungskalender",
@@ -3840,10 +3980,10 @@
       "short_description": "Hinweise in Projektionen: Tisch und Teller werden zur Leinwand Begeben Sie sich auf eine Reise ins viktorianische England, wo ein rätselhafter Mord nur durch Ihren Scharfsinn aufgeklärt werden kann. Hinweise erscheinen direkt auf Ihrem Tisch, während beeindruckende Video-Mapping-Projektionen Sie in die düstere Welt der Verdächtigen entführen. Werden Sie selbst zum Ermittler und helfen Sie La Petite Détective Sherly bei ihrer Spurensuche, um den mysteriösen Mordfall zu lösen. 21.10.2026 um 19:...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1485/5999/das-immersive-kriminal-dinner-in-3d-projektionen-sherlys-spurensuche",
       "source_id": "stadt_munster_veranstaltungskalender",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-22_1900_das_immersive_kriminal_dinner_in_3d_projektionen_sherlys_spurensuche_stadt_munster_veranstaltungskalender",
@@ -3860,10 +4000,10 @@
       "short_description": "Hinweise in Projektionen: Tisch und Teller werden zur Leinwand Begeben Sie sich auf eine Reise ins viktorianische England, wo ein rätselhafter Mord nur durch Ihren Scharfsinn aufgeklärt werden kann. Hinweise erscheinen direkt auf Ihrem Tisch, während beeindruckende Video-Mapping-Projektionen Sie in die düstere Welt der Verdächtigen entführen. Werden Sie selbst zum Ermittler und helfen Sie La Petite Détective Sherly bei ihrer Spurensuche, um den mysteriösen Mordfall zu lösen. 21.10.2026 um 19:...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1485/6000/das-immersive-kriminal-dinner-in-3d-projektionen-sherlys-spurensuche",
       "source_id": "stadt_munster_veranstaltungskalender",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-23_1900_das_immersive_kriminal_dinner_in_3d_projektionen_sherlys_spurensuche_stadt_munster_veranstaltungskalender",
@@ -3880,10 +4020,10 @@
       "short_description": "Hinweise in Projektionen: Tisch und Teller werden zur Leinwand Begeben Sie sich auf eine Reise ins viktorianische England, wo ein rätselhafter Mord nur durch Ihren Scharfsinn aufgeklärt werden kann. Hinweise erscheinen direkt auf Ihrem Tisch, während beeindruckende Video-Mapping-Projektionen Sie in die düstere Welt der Verdächtigen entführen. Werden Sie selbst zum Ermittler und helfen Sie La Petite Détective Sherly bei ihrer Spurensuche, um den mysteriösen Mordfall zu lösen. 21.10.2026 um 19:...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1485/6001/das-immersive-kriminal-dinner-in-3d-projektionen-sherlys-spurensuche",
       "source_id": "stadt_munster_veranstaltungskalender",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-24_1900_das_immersive_kriminal_dinner_in_3d_projektionen_sherlys_spurensuche_stadt_munster_veranstaltungskalender",
@@ -3900,10 +4040,10 @@
       "short_description": "Hinweise in Projektionen: Tisch und Teller werden zur Leinwand Begeben Sie sich auf eine Reise ins viktorianische England, wo ein rätselhafter Mord nur durch Ihren Scharfsinn aufgeklärt werden kann. Hinweise erscheinen direkt auf Ihrem Tisch, während beeindruckende Video-Mapping-Projektionen Sie in die düstere Welt der Verdächtigen entführen. Werden Sie selbst zum Ermittler und helfen Sie La Petite Détective Sherly bei ihrer Spurensuche, um den mysteriösen Mordfall zu lösen. 21.10.2026 um 19:...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1485/6002/das-immersive-kriminal-dinner-in-3d-projektionen-sherlys-spurensuche",
       "source_id": "stadt_munster_veranstaltungskalender",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-25_ganztag_44_kinderfilmfest_munster_2te_herbstferienwoche_im_schlosstheater_begegnungszent_meerwiese_begegnungszentrum",
@@ -3920,10 +4060,10 @@
       "short_description": "Sehen, staunen, selber machen! Das 44. KinderFilmFest Münster bringt vom 25.10.-01.11. wieder großes Kino für kleine und große Filmfans auf die Leinwand des Schloßtheaters. Ein abwechslungsreiches Programm aus aktuellen internationalen Kinderfilmen, bewegenden Klassikern und mitreißenden Premieren lädt zum Mitfiebern, Lachen und Nachdenken ein. Neben den Filmvorführungen erwartet das Publikum ein buntes Rahmenprogramm: Filmgespräche mit Regisseurinnen und Schauspielerinnen bieten spannende Ei...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/begegnungszentrum/veranstaltungen",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3108/18946/44-kinderfilmfest-muenster-2te-herbstferienwoche-im-schlosstheater-begegnungszentrum-meerwiese",
       "source_id": "meerwiese_begegnungszentrum",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-25_1900_das_immersive_kriminal_dinner_in_3d_projektionen_sherlys_spurensuche_stadt_munster_veranstaltungskalender",
@@ -3940,10 +4080,10 @@
       "short_description": "Hinweise in Projektionen: Tisch und Teller werden zur Leinwand Begeben Sie sich auf eine Reise ins viktorianische England, wo ein rätselhafter Mord nur durch Ihren Scharfsinn aufgeklärt werden kann. Hinweise erscheinen direkt auf Ihrem Tisch, während beeindruckende Video-Mapping-Projektionen Sie in die düstere Welt der Verdächtigen entführen. Werden Sie selbst zum Ermittler und helfen Sie La Petite Détective Sherly bei ihrer Spurensuche, um den mysteriösen Mordfall zu lösen. 21.10.2026 um 19:...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1485/6003/das-immersive-kriminal-dinner-in-3d-projektionen-sherlys-spurensuche",
       "source_id": "stadt_munster_veranstaltungskalender",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-27_1030_filmworkshop_stummfilm_kinderklangorchester_44_kinderfilmfest_munster_vertonung__meerwiese_theater",
@@ -3960,10 +4100,10 @@
       "short_description": "für Kinder von 8 bis 12 Jahren Veranstaltungsort: Begegnungszentrum Meerwiese Einwöchiger Workshop: Dienstag, 27. Oktober 2026 bis Freitag, 30. Oktober 2026, jeweils von 10.30 bis 13 Uhr (Ein späterer Einstieg ist nach Absprache möglich.) Filmmusik selbst machen! Du spielst ein Instrument? Du spielst kein Instrument, hast aber Spaß und Interesse an Geräuschen? Beides prima - komm ins Kinderklangorchester und vertone gemeinsam mit anderen Kindern und Jugendlichen witzige und geheimnisvolle kür...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3015/18561/filmworkshop-stummfilm-kinderklangorchester-44-kinderfilmfest-muenster-vertonung-kurzer-stummfilme",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-28_1030_filmworkshop_stummfilm_kinderklangorchester_44_kinderfilmfest_munster_vertonung__meerwiese_theater",
@@ -3980,10 +4120,10 @@
       "short_description": "für Kinder von 8 bis 12 Jahren Veranstaltungsort: Begegnungszentrum Meerwiese Einwöchiger Workshop: Dienstag, 27. Oktober 2026 bis Freitag, 30. Oktober 2026, jeweils von 10.30 bis 13 Uhr (Ein späterer Einstieg ist nach Absprache möglich.) Filmmusik selbst machen! Du spielst ein Instrument? Du spielst kein Instrument, hast aber Spaß und Interesse an Geräuschen? Beides prima - komm ins Kinderklangorchester und vertone gemeinsam mit anderen Kindern und Jugendlichen witzige und geheimnisvolle kür...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3015/18562/filmworkshop-stummfilm-kinderklangorchester-44-kinderfilmfest-muenster-vertonung-kurzer-stummfilme",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-29_1030_filmworkshop_stummfilm_kinderklangorchester_44_kinderfilmfest_munster_vertonung__meerwiese_theater",
@@ -4000,10 +4140,10 @@
       "short_description": "für Kinder von 8 bis 12 Jahren Veranstaltungsort: Begegnungszentrum Meerwiese Einwöchiger Workshop: Dienstag, 27. Oktober 2026 bis Freitag, 30. Oktober 2026, jeweils von 10.30 bis 13 Uhr (Ein späterer Einstieg ist nach Absprache möglich.) Filmmusik selbst machen! Du spielst ein Instrument? Du spielst kein Instrument, hast aber Spaß und Interesse an Geräuschen? Beides prima - komm ins Kinderklangorchester und vertone gemeinsam mit anderen Kindern und Jugendlichen witzige und geheimnisvolle kür...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3015/18563/filmworkshop-stummfilm-kinderklangorchester-44-kinderfilmfest-muenster-vertonung-kurzer-stummfilme",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-10-30_1000_filmworkshop_stummfilm_kinderklangorchester_44_kinderfilmfest_munster_vertonung__meerwiese_theater",
@@ -4020,10 +4160,10 @@
       "short_description": "für Kinder von 8 bis 12 Jahren Veranstaltungsort: Begegnungszentrum Meerwiese Einwöchiger Workshop: Dienstag, 27. Oktober 2026 bis Freitag, 30. Oktober 2026, jeweils von 10.30 bis 13 Uhr (Ein späterer Einstieg ist nach Absprache möglich.) Filmmusik selbst machen! Du spielst ein Instrument? Du spielst kein Instrument, hast aber Spaß und Interesse an Geräuschen? Beides prima - komm ins Kinderklangorchester und vertone gemeinsam mit anderen Kindern und Jugendlichen witzige und geheimnisvolle kür...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3015/18564/filmworkshop-stummfilm-kinderklangorchester-44-kinderfilmfest-muenster-vertonung-kurzer-stummfilme",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-01_1230_der_kloss_marchenland_theater_e_v_aus_munster_meerwiese_theater",
@@ -4040,10 +4180,50 @@
       "short_description": "in russischer Sprache für alle ab 2 Jahren Eine Inszenierung des bekannten Volksmärchens. Unser rundlicher Held läuft weg von Oma und Opa, um die Welt zu erkunden. Auf seinem Weg erwarten ihn unerwartete und manchmal gefährliche Begegnungen... Eine lustige Geschichte, angereichert mit viel Musik, farbenfrohen Kostümen und einem großartigen Bühnenbild für die ganze Familie. Das Märchenland Theater e.V. öffnet seinen Zuschauer*innen ein Fenster in die zauberhafte Märchenwelt - schaut doch herei...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3018/18568/der-kloss-maerchenland-theater-e-v-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
+    },
+    {
+      "event_id": "2026-11-01_1500_der_kloss_marchenland_theater_e_v_aus_munster_meerwiese_theater",
+      "title": "Der Kloß – Märchenland Theater e.V. aus Münster",
+      "start_date": "2026-11-01",
+      "start_time": "15:00",
+      "end_date": "2026-11-01",
+      "end_time": "16:00",
+      "location_name": "Begegnungszentrum und Theater in der Meerwiese",
+      "address": "An der Meerwiese 25",
+      "city": "Münster-Coerde",
+      "organizer": "Stadt Münster Veranstaltungskalender",
+      "category": "Theater / Kultur / Tanz / Kinderkultur",
+      "short_description": "in russischer Sprache für alle ab 2 Jahren Eine Inszenierung des bekannten Volksmärchens. Unser rundlicher Held läuft weg von Oma und Opa, um die Welt zu erkunden. Auf seinem Weg erwarten ihn unerwartete und manchmal gefährliche Begegnungen... Eine lustige Geschichte, angereichert mit viel Musik, farbenfrohen Kostümen und einem großartigen Bühnenbild für die ganze Familie. Das Märchenland Theater e.V. öffnet seinen Zuschauer*innen ein Fenster in die zauberhafte Märchenwelt - schaut doch herei...",
+      "status": "scheduled",
+      "source_name": "Stadt Münster Veranstaltungskalender",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3018/18569/der-kloss-maerchenland-theater-e-v-aus-muenster",
+      "source_id": "meerwiese_theater",
+      "confidence": "0,9",
+      "last_updated": "2026-08-06T15:24:31.181Z"
+    },
+    {
+      "event_id": "2026-11-01_1730_der_kloss_marchenland_theater_e_v_aus_munster_meerwiese_theater",
+      "title": "Der Kloß – Märchenland Theater e.V. aus Münster",
+      "start_date": "2026-11-01",
+      "start_time": "17:30",
+      "end_date": "2026-11-01",
+      "end_time": "18:30",
+      "location_name": "Begegnungszentrum und Theater in der Meerwiese",
+      "address": "An der Meerwiese 25",
+      "city": "Münster-Coerde",
+      "organizer": "Stadt Münster Veranstaltungskalender",
+      "category": "Theater / Kultur / Tanz / Kinderkultur",
+      "short_description": "in russischer Sprache für alle ab 2 Jahren Eine Inszenierung des bekannten Volksmärchens. Unser rundlicher Held läuft weg von Oma und Opa, um die Welt zu erkunden. Auf seinem Weg erwarten ihn unerwartete und manchmal gefährliche Begegnungen... Eine lustige Geschichte, angereichert mit viel Musik, farbenfrohen Kostümen und einem großartigen Bühnenbild für die ganze Familie. Das Märchenland Theater e.V. öffnet seinen Zuschauer*innen ein Fenster in die zauberhafte Märchenwelt - schaut doch herei...",
+      "status": "scheduled",
+      "source_name": "Stadt Münster Veranstaltungskalender",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3018/18570/der-kloss-maerchenland-theater-e-v-aus-muenster",
+      "source_id": "meerwiese_theater",
+      "confidence": "0,9",
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-04_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedensstrasse_coerde",
@@ -4063,7 +4243,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Baby-Kurs-Geb-JanFebr-2026-Hiltrup/2602-2259",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-04_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -4083,7 +4263,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2568",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-04_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -4103,7 +4283,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2569",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-06_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwiese_theater",
@@ -4120,10 +4300,10 @@
       "short_description": "Professionelle Tänzer*innen, Tanzpädagog*innen, Tanzvermittler*innen, Choreograf*innen und Tanztherapeut*innen verbinden sich mit dem Ziel, die Tanzszene Münsters aktiv mitzugestalten und zu verändern, kreativen Austausch, Weiterbildung und Trainingsmöglichkeiten zu schaffen und einander zu inspirieren. Die vorhandenen, etablierten Strukturen sollen ergänzt und erweitert werden, sodass die Stadt Münster attraktiv für professionelle Tanzschaffende wird. Ansprechpartnerin: Melanie López López,...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1025/15842/tanzxchange-freie-tanzszene-muenster-open-class",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-06_1600_qualifizierung_zum_verfahrensbeistand_sect_158_famfg_fbf_friedensstrasse_coerde",
@@ -4143,7 +4323,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Qualifizierung-zum-Verfahrensbeistand-158-FamFG/2605-5000",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-06_1900_die_lofoten_eckels_kladde_events",
@@ -4157,13 +4337,13 @@
       "city": "Münster-Coerde",
       "organizer": "Eckels Kladde",
       "category": "Kultur / Musik / Stadtteil",
-      "short_description": "Multimediale Präsentation über die Lofoten mit einem einzigartigen 3-Gang-Menü.",
+      "short_description": "Multimediale Präsentation über die Lofoten mit einem einzigartigen 3-Gang-Menü. Ein kulturelles und kulinarisches Erlebnis.",
       "status": "scheduled",
       "source_name": "e.ssenz / Eckels Kladde – alle Kurse und Events",
       "source_url": "https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster/products/die-lofoten-06-11-26-19-uhr-multimediale-prasentation-mit-einzigartigem-3-gang-menu",
       "source_id": "eckels_kladde_events",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-06_1930_vorlese_cafe_im_november_auf_russisch_deutsch_mit_musik_kulturinitiative_coerde",
@@ -4183,7 +4363,7 @@
       "source_url": "https://kulturinitiative-coerde.de/termin/vorlese-cafe-im-november/",
       "source_id": "kulturinitiative_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-07_0930_qualifizierung_zum_verfahrensbeistand_sect_158_famfg_fbf_friedensstrasse_coerde",
@@ -4203,7 +4383,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Qualifizierung-zum-Verfahrensbeistand-158-FamFG/2605-5000",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-07_1700_kindermusikfestival_munsterland_suli_puschban_suli_puschban_aus_berlin_meerwiese_theater",
@@ -4220,10 +4400,10 @@
       "short_description": "Mitsingen - Mitmachen - Mitdenken! für alle ab sechs Jahren Suli Puschban, aus Wien stammend, schreibt Kinderlieder aus dem Herzen Berlins. Ihr Motto: Mitsingen, Mitmachen, Mitdenken! Ihre Lieder sind rockig, ruhig und poetisch, mit frischen, frechen und nachdenklichen Texten. Bekannt für ihren Charme und ihre mitreißenden Konzerte, singt sie Hits wie „Ich hab die Schnauze voll von rosa!“ – ein musikalisches Denkmal für Prinzessin Lillifee - oder „Ich sehe aus wie Elvis“. Ihre stilistische Ba...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2808/15460/kindermusikfestival-muensterland-suli-puschban-suli-puschban-aus-berlin",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-11_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedensstrasse_coerde",
@@ -4243,7 +4423,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Baby-Kurs-Geb-JanFebr-2026-Hiltrup/2602-2259",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-11_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -4263,7 +4443,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2568",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-11_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -4283,7 +4463,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2569",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-13_1500_zirkus_coerdini_kinderzirkus_aus_coerde_meerwiese_theater",
@@ -4300,10 +4480,10 @@
       "short_description": "Kinder aus den Coerder Schulen und Kindertagesstätten präsentieren ein buntes und unterhaltsames Zirkusprogramm. Veranstalter: Arbeitskreis Kinderzirkus Coerdini",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3021/18573/zirkus-coerdini-kinderzirkus-aus-coerde",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-14_1500_zirkus_coerdini_kinderzirkus_aus_coerde_stadt_munster_veranstaltungskalender",
@@ -4320,10 +4500,10 @@
       "short_description": "Kinder aus den Coerder Schulen und Kindertagesstätten präsentieren ein buntes und unterhaltsames Zirkusprogramm. Veranstalter: Arbeitskreis Kinderzirkus Coerdini",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3021/18574/zirkus-coerdini-kinderzirkus-aus-coerde",
       "source_id": "stadt_munster_veranstaltungskalender",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-18_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedensstrasse_coerde",
@@ -4343,7 +4523,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Baby-Kurs-Geb-JanFebr-2026-Hiltrup/2602-2259",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-18_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -4363,7 +4543,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2568",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-18_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -4383,7 +4563,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2569",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-20_1015_lesen_mit_kleinen_wesen_stadtbuecherei_coerde",
@@ -4400,10 +4580,10 @@
       "short_description": "Anja Arica begrüßt Kleinkinder mit ihren Eltern oder Tageseltern zum gemeinsamen Lesen. Gemütlich auf dem Schoß sitzend können die Kinder altersgerechte Geschichten hören oder in Wimmelbüchern Entdeckungen machen. Bewegungslieder und Fingerspiele ergänzen den Lesespaß für die Kleinsten. Für Kinder bis drei Jahre. Kindergruppen bitte anmelden.",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/buecherei/orte-und-oeffnungszeiten/coerde/veranstaltungen",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1028/4667/lesen-mit-kleinen-wesen",
       "source_id": "stadtbuecherei_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-21_1400_ost_europa_seminar_patriotismus_und_demokratie_leitung_joachim_wieder_meerwiese_theater",
@@ -4420,10 +4600,10 @@
       "short_description": "Ein Bindemittel bei der Geburt demokratischer Gesellschaften? Wochenend-Seminar: Samstag, 21. November 2026, 14 bis 19 Uhr und Sonntag, 22. November 2026, 10 bis 14 Uhr offen für alle Interessierten Als Osteuropahistoriker mit Sprachkenntnissen und Auslandserfahrung bietet Joachim Wie-der Seminare zu den Ländern an, mit einer Einführung in mehr als tausend Jahre Geschichte und aktuellen Entwicklungen – etwa zur Ukraine, zu den baltischen Staaten oder zum Kaukasus. Die Vielfalt der Länder wirk...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3022/18575/ost-europa-seminar-patriotismus-und-demokratie-leitung-joachim-wieder",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-22_1500_24_winterpunsch_fiesta_echtzeit_theater_aus_munster_meerwiese_theater",
@@ -4440,10 +4620,10 @@
       "short_description": "ein Theaterstück von Gwendoline Soublin für alle ab 9 Jahren Zu Nonos zehntem Geburtstag steigt eine Riesenfeier, die fetteste Fete, die Party aller Par-tys, eine gigantische Fiesta! Nono hat sich ein Leben lang auf diesen Tag vorbereitet und an alles gedacht: Zitronenbaiser-Smarties-Torte, goldene Papiergirlanden, eine Rede über die Welt, so wie er sie sieht… Alle seine Freund*innen werden da sein. Aber dann kommt alles anders: Die Wettervorhersage kündigt einen schweren Sturm an. Maria Ther...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3023/18577/24-winterpunsch-fiesta-echtzeit-theater-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-24_1000_24_winterpunsch_fiesta_echtzeit_theater_aus_munster_meerwiese_theater",
@@ -4460,10 +4640,10 @@
       "short_description": "ein Theaterstück von Gwendoline Soublin für alle ab 9 Jahren Zu Nonos zehntem Geburtstag steigt eine Riesenfeier, die fetteste Fete, die Party aller Par-tys, eine gigantische Fiesta! Nono hat sich ein Leben lang auf diesen Tag vorbereitet und an alles gedacht: Zitronenbaiser-Smarties-Torte, goldene Papiergirlanden, eine Rede über die Welt, so wie er sie sieht… Alle seine Freund*innen werden da sein. Aber dann kommt alles anders: Die Wettervorhersage kündigt einen schweren Sturm an. Maria Ther...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3023/18578/24-winterpunsch-fiesta-echtzeit-theater-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-25_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedensstrasse_coerde",
@@ -4483,7 +4663,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Baby-Kurs-Geb-JanFebr-2026-Hiltrup/2602-2259",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-25_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -4503,7 +4683,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2568",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-25_1000_24_winterpunsch_fiesta_echtzeit_theater_aus_munster_meerwiese_theater",
@@ -4520,10 +4700,10 @@
       "short_description": "ein Theaterstück von Gwendoline Soublin für alle ab 9 Jahren Zu Nonos zehntem Geburtstag steigt eine Riesenfeier, die fetteste Fete, die Party aller Par-tys, eine gigantische Fiesta! Nono hat sich ein Leben lang auf diesen Tag vorbereitet und an alles gedacht: Zitronenbaiser-Smarties-Torte, goldene Papiergirlanden, eine Rede über die Welt, so wie er sie sieht… Alle seine Freund*innen werden da sein. Aber dann kommt alles anders: Die Wettervorhersage kündigt einen schweren Sturm an. Maria Ther...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3023/18579/24-winterpunsch-fiesta-echtzeit-theater-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-25_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -4543,7 +4723,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2569",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-26_1000_24_winterpunsch_fiesta_echtzeit_theater_aus_munster_meerwiese_theater",
@@ -4560,10 +4740,10 @@
       "short_description": "ein Theaterstück von Gwendoline Soublin für alle ab 9 Jahren Zu Nonos zehntem Geburtstag steigt eine Riesenfeier, die fetteste Fete, die Party aller Par-tys, eine gigantische Fiesta! Nono hat sich ein Leben lang auf diesen Tag vorbereitet und an alles gedacht: Zitronenbaiser-Smarties-Torte, goldene Papiergirlanden, eine Rede über die Welt, so wie er sie sieht… Alle seine Freund*innen werden da sein. Aber dann kommt alles anders: Die Wettervorhersage kündigt einen schweren Sturm an. Maria Ther...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3023/18580/24-winterpunsch-fiesta-echtzeit-theater-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-11-28_1200_qi_gong_seminar_meditation_leitung_volker_nowak_von_der_way_meerwiese_theater",
@@ -4580,10 +4760,10 @@
       "short_description": "Übungen, um in die Stille zu kommen Vorkenntnisse sind nicht erforderlich Sehnen Sie sich auch gerade nach Ruhe und Halt? Möchten Sie auch in sich einen Ruhepol schaffen, von dem aus Sie Kraft schöpfen können, um die Anforderungen des Alltags gut bewältigen zu können? Diesen Ruhepol finden Sie in sich. Qi Gong ist eine Methode, mit der Sie darauf zugreifen können. Während des Qi Gong Trainings nutzen wir dazu Meditationen und sanfte Bewegungsübungen. Die Übungen werden wir im Sitzen, Stehen u...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3024/18581/qi-gong-seminar-meditation-leitung-volker-nowak-von-der-way",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-02_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedensstrasse_coerde",
@@ -4603,7 +4783,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Baby-Kurs-Geb-JanFebr-2026-Hiltrup/2602-2259",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-02_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -4623,7 +4803,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2568",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-02_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -4643,7 +4823,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2569",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-04_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwiese_theater",
@@ -4660,10 +4840,10 @@
       "short_description": "Professionelle Tänzer*innen, Tanzpädagog*innen, Tanzvermittler*innen, Choreograf*innen und Tanztherapeut*innen verbinden sich mit dem Ziel, die Tanzszene Münsters aktiv mitzugestalten und zu verändern, kreativen Austausch, Weiterbildung und Trainingsmöglichkeiten zu schaffen und einander zu inspirieren. Die vorhandenen, etablierten Strukturen sollen ergänzt und erweitert werden, sodass die Stadt Münster attraktiv für professionelle Tanzschaffende wird. Ansprechpartnerin: Melanie López López,...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1025/18560/tanzxchange-freie-tanzszene-muenster-open-class",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-04_1600_qualifizierung_zum_verfahrensbeistand_sect_158_famfg_fbf_friedensstrasse_coerde",
@@ -4683,7 +4863,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Qualifizierung-zum-Verfahrensbeistand-158-FamFG/2605-5000",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-05_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedensstrasse_coerde",
@@ -4703,7 +4883,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Baby-Kurs-Geb-JanFebr-2026-Hiltrup/2602-2259",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-05_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -4723,7 +4903,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2568",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-05_0930_qualifizierung_zum_verfahrensbeistand_sect_158_famfg_fbf_friedensstrasse_coerde",
@@ -4743,7 +4923,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Qualifizierung-zum-Verfahrensbeistand-158-FamFG/2605-5000",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-05_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -4763,7 +4943,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2569",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-05_1500_workshop_auf_clownsentdeckung_in_dir_selbst_ein_clown_workshop_mit_clown_fidelid_meerwiese_theater",
@@ -4780,10 +4960,10 @@
       "short_description": "Wochenend-Workshop: Samstag, 5. Dezember 2026, 15 bis 22 Uhr und Sonntag, 6. Dezember 2026, 10 bis 17 Uhr für Anfänger*innen und Fortgeschrittene Ein Intensivwochenende Clownerie mit Körperarbeit, die dich auf die szenische Improvisation und das Clowns-Spiel vorbereitet. Phantasiereisen und Raumwahrnehmung, Ausdrucksübungen, leichte pantomimische Elemente, Atem, Stimme und Körper führen zur persönlich gestalteten Clown-Figur. Die Arbeit mit einem Alltagsgegenstand/Requisit erweitert die Figur...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3025/18582/workshop-auf-clownsentdeckung-in-dir-selbst-ein-clown-workshop-mit-clown-fidelidad",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-06_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -4803,7 +4983,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2568",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-06_1000_workshop_auf_clownsentdeckung_in_dir_selbst_ein_clown_workshop_mit_clown_fidelid_meerwiese_theater",
@@ -4820,10 +5000,10 @@
       "short_description": "Wochenend-Workshop: Samstag, 5. Dezember 2026, 15 bis 22 Uhr und Sonntag, 6. Dezember 2026, 10 bis 17 Uhr für Anfänger*innen und Fortgeschrittene Ein Intensivwochenende Clownerie mit Körperarbeit, die dich auf die szenische Improvisation und das Clowns-Spiel vorbereitet. Phantasiereisen und Raumwahrnehmung, Ausdrucksübungen, leichte pantomimische Elemente, Atem, Stimme und Körper führen zur persönlich gestalteten Clown-Figur. Die Arbeit mit einem Alltagsgegenstand/Requisit erweitert die Figur...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3025/18583/workshop-auf-clownsentdeckung-in-dir-selbst-ein-clown-workshop-mit-clown-fidelidad",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-06_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -4843,7 +5023,27 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2569",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
+    },
+    {
+      "event_id": "2026-12-06_1530_24_winterpunsch_pendulum_mneme_kollektiv_aus_munster_meerwiese_theater",
+      "title": "24. WINTERPUNSCH: Pendulum – MNEME kollektiv aus Münster",
+      "start_date": "2026-12-06",
+      "start_time": "15:30",
+      "end_date": "2026-12-06",
+      "end_time": "16:30",
+      "location_name": "Begegnungszentrum und Theater in der Meerwiese",
+      "address": "An der Meerwiese 25",
+      "city": "Münster-Coerde",
+      "organizer": "Stadt Münster Veranstaltungskalender",
+      "category": "Theater / Kultur / Tanz / Kinderkultur",
+      "short_description": "Tanztheater für alle ab 6 Jahren Stell dir vor, unsere Welt steht auf der Fläche eines großen Pendels. Sie ist in sich stabil, aber niemals fest. Wir haben diese Welt gemeinsam geschaffen. Pendulum ist eine Tanztheaterproduktion, entwickelt mit Grundschulkindern aus der Region. In einem gemeinsamen Prozess aus Bewegung, Sprache und Spiel haben sie erkundet, was uns trägt - und was uns ins Wanken bringt. Balance und Dysbalance, Chaos und Ordnung, das Zusammenspiel von Ich und Wir. Das Pendel s...",
+      "status": "scheduled",
+      "source_name": "Stadt Münster Veranstaltungskalender",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3026/18584/24-winterpunsch-pendulum-mneme-kollektiv-aus-muenster",
+      "source_id": "meerwiese_theater",
+      "confidence": "0,9",
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-07_1000_24_winterpunsch_pendulum_mneme_kollektiv_aus_munster_meerwiese_theater",
@@ -4860,10 +5060,10 @@
       "short_description": "Tanztheater für alle ab 6 Jahren Stell dir vor, unsere Welt steht auf der Fläche eines großen Pendels. Sie ist in sich stabil, aber niemals fest. Wir haben diese Welt gemeinsam geschaffen. Pendulum ist eine Tanztheaterproduktion, entwickelt mit Grundschulkindern aus der Region. In einem gemeinsamen Prozess aus Bewegung, Sprache und Spiel haben sie erkundet, was uns trägt - und was uns ins Wanken bringt. Balance und Dysbalance, Chaos und Ordnung, das Zusammenspiel von Ich und Wir. Das Pendel s...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3026/18585/24-winterpunsch-pendulum-mneme-kollektiv-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-08_1000_24_winterpunsch_pendulum_mneme_kollektiv_aus_munster_meerwiese_theater",
@@ -4880,10 +5080,10 @@
       "short_description": "Tanztheater für alle ab 6 Jahren Stell dir vor, unsere Welt steht auf der Fläche eines großen Pendels. Sie ist in sich stabil, aber niemals fest. Wir haben diese Welt gemeinsam geschaffen. Pendulum ist eine Tanztheaterproduktion, entwickelt mit Grundschulkindern aus der Region. In einem gemeinsamen Prozess aus Bewegung, Sprache und Spiel haben sie erkundet, was uns trägt - und was uns ins Wanken bringt. Balance und Dysbalance, Chaos und Ordnung, das Zusammenspiel von Ich und Wir. Das Pendel s...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3026/18586/24-winterpunsch-pendulum-mneme-kollektiv-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-09_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedensstrasse_coerde",
@@ -4903,7 +5103,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Baby-Kurs-Geb-JanFebr-2026-Hiltrup/2602-2259",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-09_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -4923,7 +5123,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2568",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-09_1000_24_winterpunsch_pendulum_mneme_kollektiv_aus_munster_meerwiese_theater",
@@ -4940,10 +5140,10 @@
       "short_description": "Tanztheater für alle ab 6 Jahren Stell dir vor, unsere Welt steht auf der Fläche eines großen Pendels. Sie ist in sich stabil, aber niemals fest. Wir haben diese Welt gemeinsam geschaffen. Pendulum ist eine Tanztheaterproduktion, entwickelt mit Grundschulkindern aus der Region. In einem gemeinsamen Prozess aus Bewegung, Sprache und Spiel haben sie erkundet, was uns trägt - und was uns ins Wanken bringt. Balance und Dysbalance, Chaos und Ordnung, das Zusammenspiel von Ich und Wir. Das Pendel s...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3026/18587/24-winterpunsch-pendulum-mneme-kollektiv-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-09_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedensstrasse_coerde",
@@ -4963,7 +5163,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Entdecker-Spielgruppe-fuer-Kinder-1-2-Jahre/2602-2569",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-13_1700_jazziges_weihnachtskonzert_mit_gedichten_und_geschichten_jeanette_lewe_gesang_un_meerwiese_theater",
@@ -4980,10 +5180,10 @@
       "short_description": "mit einer Band aus der Box für alle von 10 – 99 Jahren Skurrile Weihnachts-Erlebnisse aus den persönlichen Erfahrungen, Weihnachtsmythen aus dem Ruhrgebiet und Münsterland mit wunderbarer Swing- und Jazzmusik, dabei sind amerikanische Klassiker von Bing Crosby u. a. Zum Finale der Vorstellung gibt es die Gelegenheit, beim Weihnachtsquiz mitzumachen: Was stand auf dem Weihnachtswunschzettel eines “Malochers” vor 50 Jahren? Wie gelangte “Kumpel” Ruprecht an seinen Job beim Nikolaus? Wieso haben...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3027/18588/jazziges-weihnachtskonzert-mit-gedichten-und-geschichten-jeanette-lewe-gesang-und-markus-papenberg-saxophon",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-17_1000_24_winterpunsch_alice_im_wunderland_fetter_fisch_performance_theater_aus_munster_meerwiese_theater",
@@ -5000,10 +5200,10 @@
       "short_description": "Ein Spiel mit der Wirklichkeit für alle ab 8 Jahren ohne Sprache Wie konnte das geschehen? Die Welt steht plötzlich auf dem Kopf. Sie ist von jetzt auf gleich aus den Fugen geraten. Bislang geltende Regeln haben ihre Gültigkeit verloren. In einer Zeit, in der nichts mehr so ist, wie es vorher war, begibt sich ein junger Mensch namens Alice voller Mut und Neugier auf die Reise. Und diese Reise ist nicht immer leicht. Mal wird Alice winzig klein und fühlt sich machtlos und verloren. Dann ist si...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3028/18589/24-winterpunsch-alice-im-wunderland-fetter-fisch-performance-theater-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-18_1000_24_winterpunsch_alice_im_wunderland_fetter_fisch_performance_theater_aus_munster_meerwiese_theater",
@@ -5020,10 +5220,10 @@
       "short_description": "Ein Spiel mit der Wirklichkeit für alle ab 8 Jahren ohne Sprache Wie konnte das geschehen? Die Welt steht plötzlich auf dem Kopf. Sie ist von jetzt auf gleich aus den Fugen geraten. Bislang geltende Regeln haben ihre Gültigkeit verloren. In einer Zeit, in der nichts mehr so ist, wie es vorher war, begibt sich ein junger Mensch namens Alice voller Mut und Neugier auf die Reise. Und diese Reise ist nicht immer leicht. Mal wird Alice winzig klein und fühlt sich machtlos und verloren. Dann ist si...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3028/18590/24-winterpunsch-alice-im-wunderland-fetter-fisch-performance-theater-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2026-12-18_1015_lesen_mit_kleinen_wesen_stadtbuecherei_coerde",
@@ -5040,10 +5240,10 @@
       "short_description": "Anja Arica begrüßt Kleinkinder mit ihren Eltern oder Tageseltern zum gemeinsamen Lesen. Gemütlich auf dem Schoß sitzend können die Kinder altersgerechte Geschichten hören oder in Wimmelbüchern Entdeckungen machen. Bewegungslieder und Fingerspiele ergänzen den Lesespaß für die Kleinsten. Für Kinder bis drei Jahre. Kindergruppen bitte anmelden.",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/buecherei/orte-und-oeffnungszeiten/coerde/veranstaltungen",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1028/4668/lesen-mit-kleinen-wesen",
       "source_id": "stadtbuecherei_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2027-01-17_1530_24_winterpunsch_impro_show_fur_kinder_7wiesen_aus_munster_meerwiese_theater",
@@ -5060,10 +5260,10 @@
       "short_description": "Improvisationstheater für alle ab 6 Jahren Kinder haben die besten Ideen! Beste Voraussetzung für das Improvisationstheater. Frei, frech und fantastisch werden Vorschläge spontan in Bilder, Figuren und Geschichten ver-wandelt. 7Wiesen lässt eure Welten lebendig werden. Ein Hoch auf die Jüngsten in unserer Gesellschaft! Als Kollektiv experimentieren wir zwischen Ästhetik und Pädagogik und helfen auf dem Weg in die Kunst und zum guten Miteinander. In diesem Sinne ist es uns ein besonderes Anlie...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3029/18592/24-winterpunsch-impro-show-fuer-kinder-7wiesen-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2027-01-18_1000_24_winterpunsch_impro_show_fur_kinder_7wiesen_aus_munster_meerwiese_theater",
@@ -5080,10 +5280,10 @@
       "short_description": "Improvisationstheater für alle ab 6 Jahren Kinder haben die besten Ideen! Beste Voraussetzung für das Improvisationstheater. Frei, frech und fantastisch werden Vorschläge spontan in Bilder, Figuren und Geschichten ver-wandelt. 7Wiesen lässt eure Welten lebendig werden. Ein Hoch auf die Jüngsten in unserer Gesellschaft! Als Kollektiv experimentieren wir zwischen Ästhetik und Pädagogik und helfen auf dem Weg in die Kunst und zum guten Miteinander. In diesem Sinne ist es uns ein besonderes Anlie...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3029/18593/24-winterpunsch-impro-show-fuer-kinder-7wiesen-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2027-01-19_1000_24_winterpunsch_impro_show_fur_kinder_7wiesen_aus_munster_meerwiese_theater",
@@ -5100,10 +5300,10 @@
       "short_description": "Improvisationstheater für alle ab 6 Jahren Kinder haben die besten Ideen! Beste Voraussetzung für das Improvisationstheater. Frei, frech und fantastisch werden Vorschläge spontan in Bilder, Figuren und Geschichten ver-wandelt. 7Wiesen lässt eure Welten lebendig werden. Ein Hoch auf die Jüngsten in unserer Gesellschaft! Als Kollektiv experimentieren wir zwischen Ästhetik und Pädagogik und helfen auf dem Weg in die Kunst und zum guten Miteinander. In diesem Sinne ist es uns ein besonderes Anlie...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3029/18594/24-winterpunsch-impro-show-fuer-kinder-7wiesen-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2027-01-20_1000_24_winterpunsch_impro_show_fur_kinder_7wiesen_aus_munster_meerwiese_theater",
@@ -5120,10 +5320,10 @@
       "short_description": "Improvisationstheater für alle ab 6 Jahren Kinder haben die besten Ideen! Beste Voraussetzung für das Improvisationstheater. Frei, frech und fantastisch werden Vorschläge spontan in Bilder, Figuren und Geschichten ver-wandelt. 7Wiesen lässt eure Welten lebendig werden. Ein Hoch auf die Jüngsten in unserer Gesellschaft! Als Kollektiv experimentieren wir zwischen Ästhetik und Pädagogik und helfen auf dem Weg in die Kunst und zum guten Miteinander. In diesem Sinne ist es uns ein besonderes Anlie...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3029/18595/24-winterpunsch-impro-show-fuer-kinder-7wiesen-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2027-01-21_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_munster_meerwiese_theater",
@@ -5140,10 +5340,10 @@
       "short_description": "Ein Dinosaurier für Schnick & Schnack? für alle ab 4 Jahren Mitten im Großstadttrubel entdecken Schnick & Schnack ein riesiges Ei – ob es wohl ein Dinosaurier-Ei ist? Gemeinsam mit den Kindern beginnt eine abenteuerliche Suche nach einem sicheren Ort, an dem es schlüpfen kann. Dabei treffen sie auf fragwürdige Gestalten, die eigene Pläne für das Ei im Sinn haben. Ist das Ei bei Schnick & Schnack sicher? Es lauern so manche Gefahren, aber auch große Wunder... Eine spannende Geschichte über die...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3030/18748/24-winterpunsch-ach-du-dickes-ei-theater-rosinante-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2027-01-22_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_munster_meerwiese_theater",
@@ -5160,10 +5360,10 @@
       "short_description": "Ein Dinosaurier für Schnick & Schnack? für alle ab 4 Jahren Mitten im Großstadttrubel entdecken Schnick & Schnack ein riesiges Ei – ob es wohl ein Dinosaurier-Ei ist? Gemeinsam mit den Kindern beginnt eine abenteuerliche Suche nach einem sicheren Ort, an dem es schlüpfen kann. Dabei treffen sie auf fragwürdige Gestalten, die eigene Pläne für das Ei im Sinn haben. Ist das Ei bei Schnick & Schnack sicher? Es lauern so manche Gefahren, aber auch große Wunder... Eine spannende Geschichte über die...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3030/18749/24-winterpunsch-ach-du-dickes-ei-theater-rosinante-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2027-01-24_1530_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_munster_meerwiese_theater",
@@ -5180,10 +5380,10 @@
       "short_description": "Ein Dinosaurier für Schnick & Schnack? für alle ab 4 Jahren Mitten im Großstadttrubel entdecken Schnick & Schnack ein riesiges Ei – ob es wohl ein Dinosaurier-Ei ist? Gemeinsam mit den Kindern beginnt eine abenteuerliche Suche nach einem sicheren Ort, an dem es schlüpfen kann. Dabei treffen sie auf fragwürdige Gestalten, die eigene Pläne für das Ei im Sinn haben. Ist das Ei bei Schnick & Schnack sicher? Es lauern so manche Gefahren, aber auch große Wunder... Eine spannende Geschichte über die...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3030/18750/24-winterpunsch-ach-du-dickes-ei-theater-rosinante-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2027-01-25_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_munster_meerwiese_theater",
@@ -5200,10 +5400,10 @@
       "short_description": "Ein Dinosaurier für Schnick & Schnack? für alle ab 4 Jahren Mitten im Großstadttrubel entdecken Schnick & Schnack ein riesiges Ei – ob es wohl ein Dinosaurier-Ei ist? Gemeinsam mit den Kindern beginnt eine abenteuerliche Suche nach einem sicheren Ort, an dem es schlüpfen kann. Dabei treffen sie auf fragwürdige Gestalten, die eigene Pläne für das Ei im Sinn haben. Ist das Ei bei Schnick & Schnack sicher? Es lauern so manche Gefahren, aber auch große Wunder... Eine spannende Geschichte über die...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3030/18751/24-winterpunsch-ach-du-dickes-ei-theater-rosinante-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2027-01-26_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_munster_meerwiese_theater",
@@ -5220,10 +5420,10 @@
       "short_description": "Ein Dinosaurier für Schnick & Schnack? für alle ab 4 Jahren Mitten im Großstadttrubel entdecken Schnick & Schnack ein riesiges Ei – ob es wohl ein Dinosaurier-Ei ist? Gemeinsam mit den Kindern beginnt eine abenteuerliche Suche nach einem sicheren Ort, an dem es schlüpfen kann. Dabei treffen sie auf fragwürdige Gestalten, die eigene Pläne für das Ei im Sinn haben. Ist das Ei bei Schnick & Schnack sicher? Es lauern so manche Gefahren, aber auch große Wunder... Eine spannende Geschichte über die...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3030/18752/24-winterpunsch-ach-du-dickes-ei-theater-rosinante-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     },
     {
       "event_id": "2027-01-27_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_munster_meerwiese_theater",
@@ -5240,10 +5440,10 @@
       "short_description": "Ein Dinosaurier für Schnick & Schnack? für alle ab 4 Jahren Mitten im Großstadttrubel entdecken Schnick & Schnack ein riesiges Ei – ob es wohl ein Dinosaurier-Ei ist? Gemeinsam mit den Kindern beginnt eine abenteuerliche Suche nach einem sicheren Ort, an dem es schlüpfen kann. Dabei treffen sie auf fragwürdige Gestalten, die eigene Pläne für das Ei im Sinn haben. Ist das Ei bei Schnick & Schnack sicher? Es lauern so manche Gefahren, aber auch große Wunder... Eine spannende Geschichte über die...",
       "status": "scheduled",
       "source_name": "Stadt Münster Veranstaltungskalender",
-      "source_url": "https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine",
+      "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3030/18753/24-winterpunsch-ach-du-dickes-ei-theater-rosinante-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-08-06T14:51:00.061Z"
+      "last_updated": "2026-08-06T15:24:31.181Z"
     }
   ]
 }
