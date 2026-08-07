@@ -7,28 +7,9 @@ X-WR-CALNAME:Coerde Events
 X-WR-CALDESC:Öffentliche Veranstaltungen in Münster-Coerde
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:2026-08-06_1200_polizeisprechstunde_coerde_mittendrin_awo_coerde_mitten
- drin@coerde-events
-DTSTAMP:20260806T160659Z
-DTSTART;TZID=Europe/Berlin:20260806T120000
-DTEND;TZID=Europe/Berlin:20260806T130000
-SUMMARY:Polizeisprechstunde „coerde-mittendrin“
-LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
- de\, Münster-Coerde
-DESCRIPTION:Polizeisprechstunde „coerde-mittendrin“: monatliches Angebot am
-  ersten Donnerstag im Monat im AWO Coerde mittendrin der AWO in Münster-Co
- erde.\nVeranstalter: AWO Coerde mittendrin\nQuelle: https://www.awo-msl-re
- .de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7c
- f9d9a4485
-URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34
- b25336-4aca-11f1-bfc6-c7cf9d9a4485
-CATEGORIES:Stadtteil / Begegnung / Beratung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-08-07_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerd
  e@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260807T100000
 DTEND;TZID=Europe/Berlin:20260807T120000
 SUMMARY:Mütter-Treff Coerde
@@ -43,7 +24,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-07_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mitt
  endrin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260807T170000
 DTEND;TZID=Europe/Berlin:20260807T190000
 SUMMARY:Offener Spieletreff (2. & 4. Montag im Monat)
@@ -61,7 +42,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-08_1500_nachhilfeangebot_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260808T150000
 DTEND;TZID=Europe/Berlin:20260808T170000
 SUMMARY:Nachhilfeangebot
@@ -77,9 +58,24 @@ CATEGORIES:Stadtteil / Begegnung / Beratung
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-08-08_1500_uberraschungsfilm_im_coerder_kino_andreas_kirchengemein
+ de_startseite@coerde-events
+DTSTAMP:20260807T160640Z
+DTSTART;TZID=Europe/Berlin:20260808T150000
+DTEND;TZID=Europe/Berlin:20260808T150000
+SUMMARY:Überraschungsfilm im Coerder Kino
+LOCATION:Coerder Kino\, Münster-Coerde
+DESCRIPTION:Filmvorführung eines Überraschungsfilms am 8. August 2026 um 15
+ :00 Uhr im Coerder Kino.\nVeranstalter: Ev. Andreas-Kirchengemeinde Münste
+ r-Coerde\nQuelle: https://www.andreas-kirchengemeinde-muenster.de/
+URL:https://www.andreas-kirchengemeinde-muenster.de/
+CATEGORIES:Kirche / Stadtteil / Begegnung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-08-09_1000_regenbogenfamilientreff_ein_offener_vernetzungs_u_spiel
  etreff_fur_queere_eltern_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260809T100000
 DTEND;TZID=Europe/Berlin:20260809T130000
 SUMMARY:Regenbogenfamilientreff - ein offener Vernetzungs- u. Spieletreff f
@@ -101,24 +97,9 @@ CATEGORIES:Bildung / Familie / Stadtteil
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-09_1100_gottesdienst_in_der_markuskirche_andreas_kirchengemeind
- e_startseite@coerde-events
-DTSTAMP:20260806T160659Z
-DTSTART;TZID=Europe/Berlin:20260809T110000
-DTEND;TZID=Europe/Berlin:20260809T110000
-SUMMARY:Gottesdienst in der Markuskirche
-LOCATION:Markuskirche\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Gottesdienst in der Markuskirche im Rahmen der Sommerkirche um 
- 11:00 Uhr.\nVeranstalter: Ev. Andreas-Kirchengemeinde Münster-Coerde\nQuel
- le: https://www.andreas-kirchengemeinde-muenster.de/
-URL:https://www.andreas-kirchengemeinde-muenster.de/
-CATEGORIES:Kirche / Stadtteil / Begegnung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-08-10_1415_ruckbildungsgymnastik_beweglichkeit_und_starkung_hybrid
  _kinderforderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260810T141500
 DTEND;TZID=Europe/Berlin:20260810T151500
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Hybrid\, Kinder
@@ -140,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-10_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_al
  ter_werden_in_coerde_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260810T143000
 DTEND;TZID=Europe/Berlin:20260810T170000
 SUMMARY:Offener Spieletreff für Senior*innen / Doppelkopfrunde "Älter werde
@@ -160,7 +141,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-10_1530_ruckbildungsgymnastik_beweglichkeit_und_starkung_hybrid
  _kinderforderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260810T153000
 DTEND;TZID=Europe/Berlin:20260810T163000
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Hybrid\, Kinder
@@ -182,7 +163,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-10_1700_vorbereitung_auf_die_geburt_fur_paare_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260810T170000
 DTEND;TZID=Europe/Berlin:20260810T190000
 SUMMARY:Vorbereitung auf die Geburt für Paare
@@ -203,7 +184,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-11_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_
  coerde_mittendrin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260811T110000
 DTEND;TZID=Europe/Berlin:20260811T140000
 SUMMARY:Kochprojekt „Gemeinsam am Herd – Rezepte ohne Grenzen“
@@ -222,7 +203,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-11_1800_yoga_in_der_schwangerschaft_hybrid_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260811T180000
 DTEND;TZID=Europe/Berlin:20260811T193000
 SUMMARY:Yoga in der Schwangerschaft (Hybrid)
@@ -241,26 +222,25 @@ CATEGORIES:Bildung / Familie / Stadtteil
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-12_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_mi
- grationsberatung_mbe@coerde-events
-DTSTAMP:20260806T160659Z
+UID:2026-08-12_0900_migrationsberatung_mbe_sprechzeit_in_coerde_drk_munster
+ _migrationsberatung_mbe@coerde-events
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260812T090000
 DTEND;TZID=Europe/Berlin:20260812T150000
-SUMMARY:Migrationsberatung (MBE) in Münster-Coerde
+SUMMARY:Migrationsberatung (MBE) - Sprechzeit in Coerde
 LOCATION:DRK Münster – Migrationsberatung\, Hamannplatz 26/28\, 48157 Münst
  er-Coerde\, Münster-Coerde
 DESCRIPTION:Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte 
- ab 28 Jahren mit Unterstützung bei Integrationsprozessen\, behördlichen An
- gelegenheiten und sozialer Teilhabe.\nVeranstalter: Deutsches Rotes Kreuz 
- Münster\nQuelle: https://www.drk-muenster.de/angebot/migrationsberatung.ht
- ml
+ ab 28 Jahren\, mittwochs von 9 bis 15 Uhr am Standort Hamannplatz 26/28 in
+  Münster-Coerde.\nVeranstalter: Deutsches Rotes Kreuz Münster\nQuelle: htt
+ ps://www.drk-muenster.de/angebot/migrationsberatung.html
 URL:https://www.drk-muenster.de/angebot/migrationsberatung.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-12_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_a
  wo_coerde_mittendrin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260812T100000
 DTEND;TZID=Europe/Berlin:20260812T120000
 SUMMARY:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615)
@@ -277,9 +257,28 @@ CATEGORIES:Stadtteil / Begegnung / Beratung
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-08-12_1300_wochentliche_offene_beratungszeit_empowerment_rassismus
+ kritik_nachhaltigkeit_koo_iriba_brunnen_termine@coerde-events
+DTSTAMP:20260807T160640Z
+DTSTART;TZID=Europe/Berlin:20260812T130000
+DTEND;TZID=Europe/Berlin:20260812T150000
+SUMMARY:Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik /
+  Nachhaltigkeit & Kooperationen
+LOCATION:coerde mittendrin\, Königsberger Straße 8\, 48157 Münster\, Münste
+ r-Coerde
+DESCRIPTION:Offene Beratungszeit zu Empowerment\, Rassismuskritik\, Nachhal
+ tigkeit und Kooperationen in Coerde.\nVeranstalter: Iriba-Brunnen e.V.\nQu
+ elle: https://www.iriba-brunnen.de/termine-archiv/woechentliche-offene-ber
+ atungszeit-empowerment-rassismuskritik-nachhaltigkeit-kooperationen/
+URL:https://www.iriba-brunnen.de/termine-archiv/woechentliche-offene-beratu
+ ngszeit-empowerment-rassismuskritik-nachhaltigkeit-kooperationen/
+CATEGORIES:Stadtteil / Begegnung / Engagement
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-08-12_1700_vorbereitung_auf_die_geburt_fur_paare_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260812T170000
 DTEND;TZID=Europe/Berlin:20260812T190000
 SUMMARY:Vorbereitung auf die Geburt für Paare
@@ -298,9 +297,27 @@ CATEGORIES:Bildung / Familie / Stadtteil
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-08-12_1800_heimat_remixed_musik_der_kulturen_iriba_brunnen_termine
+ @coerde-events
+DTSTAMP:20260807T160640Z
+DTSTART;TZID=Europe/Berlin:20260812T180000
+DTEND;TZID=Europe/Berlin:20260812T203000
+SUMMARY:Heimat remixed – Musik der Kulturen
+LOCATION:Franziskushaus in Coerde\, Schneidemühlerstr. 23\, 48157 Münster\,
+  Münster-Coerde
+DESCRIPTION:Musikalische Veranstaltung mit vielfältigen Kulturen im Franzis
+ kushaus in Coerde.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https://www.
+ iriba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-termine-archiv-
+ heimat-remixed-musik-der-kulturen/
+URL:https://www.iriba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-
+ termine-archiv-heimat-remixed-musik-der-kulturen/
+CATEGORIES:Stadtteil / Begegnung / Engagement
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-08-13_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mitten
  drin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260813T110000
 DTEND;TZID=Europe/Berlin:20260813T130000
 SUMMARY:Offene Sprechstunde „coerde mittendrin“
@@ -318,7 +335,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-14_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerd
  e@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260814T100000
 DTEND;TZID=Europe/Berlin:20260814T120000
 SUMMARY:Mütter-Treff Coerde
@@ -331,9 +348,27 @@ URL:https://initiative-chack.de/projekte/muetter-treff-coerde/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-08-14_1630_gemeinsam_sichtbar_stark_madchen_aus_coerde_gsmc_iriba_
+ brunnen_termine@coerde-events
+DTSTAMP:20260807T160640Z
+DTSTART;TZID=Europe/Berlin:20260814T163000
+DTEND;TZID=Europe/Berlin:20260814T180000
+SUMMARY:Gemeinsam sichtbar & stark – Mädchen aus Coerde (GSMC)
+LOCATION:coerde mittendrin\, Königsberger Straße 8\, 48157 Münster\, Münste
+ r-Coerde
+DESCRIPTION:Treffen für Mädchen aus Coerde zur Stärkung und Sichtbarkeit in
+  der Gemeinschaft.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https://www.
+ iriba-brunnen.de/termine-archiv/gemeinsam-sichtbar-stark-maedchen-aus-coer
+ de-gsmc/
+URL:https://www.iriba-brunnen.de/termine-archiv/gemeinsam-sichtbar-stark-ma
+ edchen-aus-coerde-gsmc/
+CATEGORIES:Stadtteil / Begegnung / Engagement
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-08-14_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mitt
  endrin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260814T170000
 DTEND;TZID=Europe/Berlin:20260814T190000
 SUMMARY:Offener Spieletreff (2. & 4. Montag im Monat)
@@ -351,7 +386,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-15_1500_nachhilfeangebot_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260815T150000
 DTEND;TZID=Europe/Berlin:20260815T170000
 SUMMARY:Nachhilfeangebot
@@ -369,14 +404,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-16_1100_gottesdienst_in_der_andreaskirche_andreas_kirchengemein
  de_startseite@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260816T110000
 DTEND;TZID=Europe/Berlin:20260816T110000
 SUMMARY:Gottesdienst in der Andreaskirche
-LOCATION:Andreaskirche\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Gottesdienst in der Andreaskirche im Rahmen der Sommerkirche um
-  11:00 Uhr.\nVeranstalter: Ev. Andreas-Kirchengemeinde Münster-Coerde\nQue
- lle: https://www.andreas-kirchengemeinde-muenster.de/
+LOCATION:Andreaskirche\, Münster-Coerde
+DESCRIPTION:Gottesdienst am 16. August 2026 um 11:00 Uhr in der Andreaskirc
+ he im Rahmen der Sommerkirche.\nVeranstalter: Ev. Andreas-Kirchengemeinde 
+ Münster-Coerde\nQuelle: https://www.andreas-kirchengemeinde-muenster.de/
 URL:https://www.andreas-kirchengemeinde-muenster.de/
 CATEGORIES:Kirche / Stadtteil / Begegnung
 STATUS:CONFIRMED
@@ -384,7 +419,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-17_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260817T093000
 DTEND;TZID=Europe/Berlin:20260817T140000
 SUMMARY:Sommerwaldexpedition - Tieren und Pflanzen auf der Spur
@@ -404,7 +439,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-17_1000_vorbereitung_auf_die_geburt_fur_mutter_die_ein_weiteres
  _kind_erwarten_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260817T100000
 DTEND;TZID=Europe/Berlin:20260817T120000
 SUMMARY:Vorbereitung auf die Geburt für Mütter\, die ein weiteres Kind erwa
@@ -426,7 +461,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-17_1415_ruckbildungsgymnastik_beweglichkeit_und_starkung_hybrid
  _kinderforderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260817T141500
 DTEND;TZID=Europe/Berlin:20260817T151500
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Hybrid\, Kinder
@@ -448,7 +483,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-17_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_al
  ter_werden_in_coerde_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260817T143000
 DTEND;TZID=Europe/Berlin:20260817T170000
 SUMMARY:Offener Spieletreff für Senior*innen / Doppelkopfrunde "Älter werde
@@ -468,7 +503,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-17_1530_ruckbildungsgymnastik_beweglichkeit_und_starkung_hybrid
  _kinderforderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260817T153000
 DTEND;TZID=Europe/Berlin:20260817T163000
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Hybrid\, Kinder
@@ -490,7 +525,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-17_1700_vorbereitung_auf_die_geburt_fur_paare_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260817T170000
 DTEND;TZID=Europe/Berlin:20260817T190000
 SUMMARY:Vorbereitung auf die Geburt für Paare
@@ -511,7 +546,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-18_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260818T093000
 DTEND;TZID=Europe/Berlin:20260818T140000
 SUMMARY:Sommerwaldexpedition - Tieren und Pflanzen auf der Spur
@@ -531,7 +566,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-18_1330_offene_beratungszeit_antidiskriminierungsarbeit_in_coer
  de_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260818T133000
 DTEND;TZID=Europe/Berlin:20260818T143000
 SUMMARY:Offene Beratungszeit: Antidiskriminierungsarbeit in Coerde
@@ -550,7 +585,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-18_1500_bemal_deine_eigene_tasche_malaktion_stadtbuecherei_coer
  de@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260818T150000
 DTEND;TZID=Europe/Berlin:20260818T170000
 SUMMARY:Bemal deine eigene Tasche – Malaktion
@@ -570,26 +605,25 @@ CATEGORIES:Lesung / Bildung / Stadtteil
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-19_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_mi
- grationsberatung_mbe@coerde-events
-DTSTAMP:20260806T160659Z
+UID:2026-08-19_0900_migrationsberatung_mbe_sprechzeit_in_coerde_drk_munster
+ _migrationsberatung_mbe@coerde-events
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260819T090000
 DTEND;TZID=Europe/Berlin:20260819T150000
-SUMMARY:Migrationsberatung (MBE) in Münster-Coerde
+SUMMARY:Migrationsberatung (MBE) - Sprechzeit in Coerde
 LOCATION:DRK Münster – Migrationsberatung\, Hamannplatz 26/28\, 48157 Münst
  er-Coerde\, Münster-Coerde
 DESCRIPTION:Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte 
- ab 28 Jahren mit Unterstützung bei Integrationsprozessen\, behördlichen An
- gelegenheiten und sozialer Teilhabe.\nVeranstalter: Deutsches Rotes Kreuz 
- Münster\nQuelle: https://www.drk-muenster.de/angebot/migrationsberatung.ht
- ml
+ ab 28 Jahren\, mittwochs von 9 bis 15 Uhr am Standort Hamannplatz 26/28 in
+  Münster-Coerde.\nVeranstalter: Deutsches Rotes Kreuz Münster\nQuelle: htt
+ ps://www.drk-muenster.de/angebot/migrationsberatung.html
 URL:https://www.drk-muenster.de/angebot/migrationsberatung.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-19_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260819T093000
 DTEND;TZID=Europe/Berlin:20260819T140000
 SUMMARY:Sommerwaldexpedition - Tieren und Pflanzen auf der Spur
@@ -609,7 +643,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-19_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_a
  wo_coerde_mittendrin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260819T100000
 DTEND;TZID=Europe/Berlin:20260819T120000
 SUMMARY:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615)
@@ -628,7 +662,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-19_1700_vorbereitung_auf_die_geburt_fur_paare_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260819T170000
 DTEND;TZID=Europe/Berlin:20260819T190000
 SUMMARY:Vorbereitung auf die Geburt für Paare
@@ -649,7 +683,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-20_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260820T093000
 DTEND;TZID=Europe/Berlin:20260820T140000
 SUMMARY:Sommerwaldexpedition - Tieren und Pflanzen auf der Spur
@@ -669,7 +703,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-20_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mitten
  drin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260820T110000
 DTEND;TZID=Europe/Berlin:20260820T130000
 SUMMARY:Offene Sprechstunde „coerde mittendrin“
@@ -687,7 +721,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-21_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260821T093000
 DTEND;TZID=Europe/Berlin:20260821T140000
 SUMMARY:Sommerwaldexpedition - Tieren und Pflanzen auf der Spur
@@ -707,7 +741,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-21_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerd
  e@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260821T100000
 DTEND;TZID=Europe/Berlin:20260821T120000
 SUMMARY:Mütter-Treff Coerde
@@ -722,7 +756,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-21_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mitt
  endrin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260821T170000
 DTEND;TZID=Europe/Berlin:20260821T190000
 SUMMARY:Offener Spieletreff (2. & 4. Montag im Monat)
@@ -740,7 +774,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-22_1500_nachhilfeangebot_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260822T150000
 DTEND;TZID=Europe/Berlin:20260822T170000
 SUMMARY:Nachhilfeangebot
@@ -758,14 +792,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-23_1100_gottesdienst_in_der_markuskirche_andreas_kirchengemeind
  e_startseite@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260823T110000
 DTEND;TZID=Europe/Berlin:20260823T110000
 SUMMARY:Gottesdienst in der Markuskirche
-LOCATION:Markuskirche\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Gottesdienst in der Markuskirche im Rahmen der Sommerkirche um 
- 11:00 Uhr.\nVeranstalter: Ev. Andreas-Kirchengemeinde Münster-Coerde\nQuel
- le: https://www.andreas-kirchengemeinde-muenster.de/
+LOCATION:Markuskirche\, Münster-Coerde
+DESCRIPTION:Gottesdienst am 23. August 2026 um 11:00 Uhr in der Markuskirch
+ e im Rahmen der Sommerkirche.\nVeranstalter: Ev. Andreas-Kirchengemeinde M
+ ünster-Coerde\nQuelle: https://www.andreas-kirchengemeinde-muenster.de/
 URL:https://www.andreas-kirchengemeinde-muenster.de/
 CATEGORIES:Kirche / Stadtteil / Begegnung
 STATUS:CONFIRMED
@@ -773,7 +807,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-24_0930_art_journaling_ferienkurs_fur_kids_von_10_15_jahren_fbf
  _friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260824T093000
 DTEND;TZID=Europe/Berlin:20260824T123000
 SUMMARY:Art Journaling - Ferienkurs für Kids von 10-15 Jahren
@@ -794,7 +828,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-24_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260824T093000
 DTEND;TZID=Europe/Berlin:20260824T140000
 SUMMARY:Sommerwaldexpedition - Tieren und Pflanzen auf der Spur
@@ -814,7 +848,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-24_0930_waldabenteurer_unterwegs_kinder_von_6_10_jahren_fbf_fri
  edensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260824T093000
 DTEND;TZID=Europe/Berlin:20260824T140000
 SUMMARY:Waldabenteurer unterwegs - Kinder von 6-10 Jahren
@@ -834,7 +868,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-24_1000_vorbereitung_auf_die_geburt_fur_mutter_die_ein_weiteres
  _kind_erwarten_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260824T100000
 DTEND;TZID=Europe/Berlin:20260824T120000
 SUMMARY:Vorbereitung auf die Geburt für Mütter\, die ein weiteres Kind erwa
@@ -856,7 +890,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-24_1415_ruckbildungsgymnastik_beweglichkeit_und_starkung_hybrid
  _kinderforderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260824T141500
 DTEND;TZID=Europe/Berlin:20260824T151500
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Hybrid\, Kinder
@@ -878,7 +912,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-24_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_al
  ter_werden_in_coerde_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260824T143000
 DTEND;TZID=Europe/Berlin:20260824T170000
 SUMMARY:Offener Spieletreff für Senior*innen / Doppelkopfrunde "Älter werde
@@ -898,7 +932,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-24_1530_ruckbildungsgymnastik_beweglichkeit_und_starkung_hybrid
  _kinderforderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260824T153000
 DTEND;TZID=Europe/Berlin:20260824T163000
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Hybrid\, Kinder
@@ -920,7 +954,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-24_1700_vorbereitung_auf_die_geburt_fur_paare_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260824T170000
 DTEND;TZID=Europe/Berlin:20260824T190000
 SUMMARY:Vorbereitung auf die Geburt für Paare
@@ -941,7 +975,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-25_0930_art_journaling_ferienkurs_fur_kids_von_10_15_jahren_fbf
  _friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260825T093000
 DTEND;TZID=Europe/Berlin:20260825T123000
 SUMMARY:Art Journaling - Ferienkurs für Kids von 10-15 Jahren
@@ -962,7 +996,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-25_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260825T093000
 DTEND;TZID=Europe/Berlin:20260825T140000
 SUMMARY:Sommerwaldexpedition - Tieren und Pflanzen auf der Spur
@@ -982,7 +1016,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-25_0930_waldabenteurer_unterwegs_kinder_von_6_10_jahren_fbf_fri
  edensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260825T093000
 DTEND;TZID=Europe/Berlin:20260825T140000
 SUMMARY:Waldabenteurer unterwegs - Kinder von 6-10 Jahren
@@ -1002,7 +1036,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-25_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_
  coerde_mittendrin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260825T110000
 DTEND;TZID=Europe/Berlin:20260825T140000
 SUMMARY:Kochprojekt „Gemeinsam am Herd – Rezepte ohne Grenzen“
@@ -1021,7 +1055,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-25_1800_yoga_in_der_schwangerschaft_hybrid_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260825T180000
 DTEND;TZID=Europe/Berlin:20260825T193000
 SUMMARY:Yoga in der Schwangerschaft (Hybrid)
@@ -1040,26 +1074,25 @@ CATEGORIES:Bildung / Familie / Stadtteil
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-26_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_mi
- grationsberatung_mbe@coerde-events
-DTSTAMP:20260806T160659Z
+UID:2026-08-26_0900_migrationsberatung_mbe_sprechzeit_in_coerde_drk_munster
+ _migrationsberatung_mbe@coerde-events
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260826T090000
 DTEND;TZID=Europe/Berlin:20260826T150000
-SUMMARY:Migrationsberatung (MBE) in Münster-Coerde
+SUMMARY:Migrationsberatung (MBE) - Sprechzeit in Coerde
 LOCATION:DRK Münster – Migrationsberatung\, Hamannplatz 26/28\, 48157 Münst
  er-Coerde\, Münster-Coerde
 DESCRIPTION:Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte 
- ab 28 Jahren mit Unterstützung bei Integrationsprozessen\, behördlichen An
- gelegenheiten und sozialer Teilhabe.\nVeranstalter: Deutsches Rotes Kreuz 
- Münster\nQuelle: https://www.drk-muenster.de/angebot/migrationsberatung.ht
- ml
+ ab 28 Jahren\, mittwochs von 9 bis 15 Uhr am Standort Hamannplatz 26/28 in
+  Münster-Coerde.\nVeranstalter: Deutsches Rotes Kreuz Münster\nQuelle: htt
+ ps://www.drk-muenster.de/angebot/migrationsberatung.html
 URL:https://www.drk-muenster.de/angebot/migrationsberatung.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-26_0930_art_journaling_ferienkurs_fur_kids_von_10_15_jahren_fbf
  _friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260826T093000
 DTEND;TZID=Europe/Berlin:20260826T123000
 SUMMARY:Art Journaling - Ferienkurs für Kids von 10-15 Jahren
@@ -1080,7 +1113,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-26_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260826T093000
 DTEND;TZID=Europe/Berlin:20260826T140000
 SUMMARY:Sommerwaldexpedition - Tieren und Pflanzen auf der Spur
@@ -1100,7 +1133,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-26_0930_waldabenteurer_unterwegs_kinder_von_6_10_jahren_fbf_fri
  edensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260826T093000
 DTEND;TZID=Europe/Berlin:20260826T140000
 SUMMARY:Waldabenteurer unterwegs - Kinder von 6-10 Jahren
@@ -1120,7 +1153,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-26_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_a
  wo_coerde_mittendrin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260826T100000
 DTEND;TZID=Europe/Berlin:20260826T120000
 SUMMARY:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615)
@@ -1139,15 +1172,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-26_1700_burgerkurs_vom_patty_bis_zur_sauce_selbstgemacht_eckels
  _kladde_events@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260826T170000
 DTEND;TZID=Europe/Berlin:20260826T220000
 SUMMARY:Burgerkurs - Vom Patty bis zur Sauce selbstgemacht
-LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Kurs zur Herstellung von Burgern inklusive Pattys und Saucen\, 
- praxisnah und lecker.\nVeranstalter: Eckels Kladde\nQuelle: https://www.ec
- kels-kladde.de/collections/alle-kurse-und-events-in-munster/products/burge
- rkurs-vom-patty-bis-zur-sauce-selbstgemacht-26-08-2026-17-ca-22-uhr
+LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde
+DESCRIPTION:Kurs zur Herstellung von Burgern inklusive Pattys und Saucen. P
+ raxisorientiertes Kochen in gemütlicher Atmosphäre in Münster-Coerde.\nVer
+ anstalter: Eckels Kladde\nQuelle: https://www.eckels-kladde.de/collections
+ /alle-kurse-und-events-in-munster/products/burgerkurs-vom-patty-bis-zur-sa
+ uce-selbstgemacht-26-08-2026-17-ca-22-uhr
 URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
  er/products/burgerkurs-vom-patty-bis-zur-sauce-selbstgemacht-26-08-2026-17
  -ca-22-uhr
@@ -1157,7 +1191,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-26_1700_vorbereitung_auf_die_geburt_fur_paare_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260826T170000
 DTEND;TZID=Europe/Berlin:20260826T190000
 SUMMARY:Vorbereitung auf die Geburt für Paare
@@ -1178,7 +1212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-27_0930_art_journaling_ferienkurs_fur_kids_von_10_15_jahren_fbf
  _friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260827T093000
 DTEND;TZID=Europe/Berlin:20260827T123000
 SUMMARY:Art Journaling - Ferienkurs für Kids von 10-15 Jahren
@@ -1199,7 +1233,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-27_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260827T093000
 DTEND;TZID=Europe/Berlin:20260827T140000
 SUMMARY:Sommerwaldexpedition - Tieren und Pflanzen auf der Spur
@@ -1219,7 +1253,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-27_0930_waldabenteurer_unterwegs_kinder_von_6_10_jahren_fbf_fri
  edensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260827T093000
 DTEND;TZID=Europe/Berlin:20260827T140000
 SUMMARY:Waldabenteurer unterwegs - Kinder von 6-10 Jahren
@@ -1239,7 +1273,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-27_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mitten
  drin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260827T110000
 DTEND;TZID=Europe/Berlin:20260827T130000
 SUMMARY:Offene Sprechstunde „coerde mittendrin“
@@ -1257,7 +1291,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-27_1215_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinder
  forderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260827T121500
 DTEND;TZID=Europe/Berlin:20260827T131500
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Kinderförderung
@@ -1279,7 +1313,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-27_1330_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinder
  forderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260827T133000
 DTEND;TZID=Europe/Berlin:20260827T143000
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Kinderförderung
@@ -1301,7 +1335,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-28_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260828T093000
 DTEND;TZID=Europe/Berlin:20260828T140000
 SUMMARY:Sommerwaldexpedition - Tieren und Pflanzen auf der Spur
@@ -1321,7 +1355,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-28_0930_waldabenteurer_unterwegs_kinder_von_6_10_jahren_fbf_fri
  edensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260828T093000
 DTEND;TZID=Europe/Berlin:20260828T140000
 SUMMARY:Waldabenteurer unterwegs - Kinder von 6-10 Jahren
@@ -1341,7 +1375,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-28_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerd
  e@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260828T100000
 DTEND;TZID=Europe/Berlin:20260828T120000
 SUMMARY:Mütter-Treff Coerde
@@ -1356,7 +1390,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-28_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mitt
  endrin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260828T170000
 DTEND;TZID=Europe/Berlin:20260828T190000
 SUMMARY:Offener Spieletreff (2. & 4. Montag im Monat)
@@ -1373,8 +1407,23 @@ CATEGORIES:Stadtteil / Begegnung / Beratung
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-08-29_1500_abschlussfest_des_coerder_kinder_kultur_sommers_2026_in
+ itiative_chack_projekte@coerde-events
+DTSTAMP:20260807T160640Z
+DTSTART;TZID=Europe/Berlin:20260829T150000
+DTEND;TZID=Europe/Berlin:20260829T150000
+SUMMARY:Abschlussfest des Coerder-Kinder-Kultur-Sommers 2026
+LOCATION:Hamannplatz\, Hamannplatz\, Münster-Coerde\, Münster-Coerde
+DESCRIPTION:Abschlussfest des Coerder-Kinder-Kultur-Sommers mit Präsentatio
+ nen der Kinder aus den Sommerkursen. Das Fest findet auf dem Hamannplatz i
+ n Münster-Coerde statt.\nVeranstalter: Initiative ChaCK e.V.\nQuelle: http
+ s://initiative-chack.de/projekte/
+URL:https://initiative-chack.de/projekte/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-08-29_1500_nachhilfeangebot_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260829T150000
 DTEND;TZID=Europe/Berlin:20260829T170000
 SUMMARY:Nachhilfeangebot
@@ -1392,14 +1441,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-30_1100_gottesdienst_in_der_andreaskirche_andreas_kirchengemein
  de_startseite@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260830T110000
 DTEND;TZID=Europe/Berlin:20260830T110000
 SUMMARY:Gottesdienst in der Andreaskirche
-LOCATION:Andreaskirche\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Gottesdienst in der Andreaskirche im Rahmen der Sommerkirche um
-  11:00 Uhr.\nVeranstalter: Ev. Andreas-Kirchengemeinde Münster-Coerde\nQue
- lle: https://www.andreas-kirchengemeinde-muenster.de/
+LOCATION:Andreaskirche\, Münster-Coerde
+DESCRIPTION:Gottesdienst am 30. August 2026 um 11:00 Uhr in der Andreaskirc
+ he im Rahmen der Sommerkirche.\nVeranstalter: Ev. Andreas-Kirchengemeinde 
+ Münster-Coerde\nQuelle: https://www.andreas-kirchengemeinde-muenster.de/
 URL:https://www.andreas-kirchengemeinde-muenster.de/
 CATEGORIES:Kirche / Stadtteil / Begegnung
 STATUS:CONFIRMED
@@ -1407,7 +1456,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-31_1000_vorbereitung_auf_die_geburt_fur_mutter_die_ein_weiteres
  _kind_erwarten_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260831T100000
 DTEND;TZID=Europe/Berlin:20260831T120000
 SUMMARY:Vorbereitung auf die Geburt für Mütter\, die ein weiteres Kind erwa
@@ -1429,7 +1478,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-31_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_al
  ter_werden_in_coerde_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260831T143000
 DTEND;TZID=Europe/Berlin:20260831T170000
 SUMMARY:Offener Spieletreff für Senior*innen / Doppelkopfrunde "Älter werde
@@ -1449,7 +1498,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-01_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_
  coerde_mittendrin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260901T110000
 DTEND;TZID=Europe/Berlin:20260901T140000
 SUMMARY:Kochprojekt „Gemeinsam am Herd – Rezepte ohne Grenzen“
@@ -1468,7 +1517,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-01_1800_yoga_in_der_schwangerschaft_hybrid_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260901T180000
 DTEND;TZID=Europe/Berlin:20260901T193000
 SUMMARY:Yoga in der Schwangerschaft (Hybrid)
@@ -1489,7 +1538,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260902T090000
 DTEND;TZID=Europe/Berlin:20260902T103000
 SUMMARY:Eltern-Baby-Kurs Geb. Jan./Febr. 2026 Hiltrup
@@ -1510,7 +1559,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260902T090000
 DTEND;TZID=Europe/Berlin:20260902T103000
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -1529,26 +1578,25 @@ CATEGORIES:Bildung / Familie / Stadtteil
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-02_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_mi
- grationsberatung_mbe@coerde-events
-DTSTAMP:20260806T160659Z
+UID:2026-09-02_0900_migrationsberatung_mbe_sprechzeit_in_coerde_drk_munster
+ _migrationsberatung_mbe@coerde-events
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260902T090000
 DTEND;TZID=Europe/Berlin:20260902T150000
-SUMMARY:Migrationsberatung (MBE) in Münster-Coerde
+SUMMARY:Migrationsberatung (MBE) - Sprechzeit in Coerde
 LOCATION:DRK Münster – Migrationsberatung\, Hamannplatz 26/28\, 48157 Münst
  er-Coerde\, Münster-Coerde
 DESCRIPTION:Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte 
- ab 28 Jahren mit Unterstützung bei Integrationsprozessen\, behördlichen An
- gelegenheiten und sozialer Teilhabe.\nVeranstalter: Deutsches Rotes Kreuz 
- Münster\nQuelle: https://www.drk-muenster.de/angebot/migrationsberatung.ht
- ml
+ ab 28 Jahren\, mittwochs von 9 bis 15 Uhr am Standort Hamannplatz 26/28 in
+  Münster-Coerde.\nVeranstalter: Deutsches Rotes Kreuz Münster\nQuelle: htt
+ ps://www.drk-muenster.de/angebot/migrationsberatung.html
 URL:https://www.drk-muenster.de/angebot/migrationsberatung.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02_0915_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde@
  coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260902T091500
 DTEND;TZID=Europe/Berlin:20260902T104500
 SUMMARY:Yoga in der Schwangerschaft
@@ -1569,7 +1617,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_a
  wo_coerde_mittendrin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260902T100000
 DTEND;TZID=Europe/Berlin:20260902T120000
 SUMMARY:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615)
@@ -1588,7 +1636,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260902T104500
 DTEND;TZID=Europe/Berlin:20260902T121500
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -1609,7 +1657,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02_1100_mama_baby_yoga_gemeinsam_entspannen_und_starken_fbf_fri
  edensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260902T110000
 DTEND;TZID=Europe/Berlin:20260902T123000
 SUMMARY:Mama Baby Yoga - gemeinsam entspannen und stärken
@@ -1630,7 +1678,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02_1600_traumasensibles_yoga_nach_belastender_geburtserfahrung_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260902T160000
 DTEND;TZID=Europe/Berlin:20260902T173000
 SUMMARY:Traumasensibles Yoga nach belastender Geburtserfahrung
@@ -1651,7 +1699,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02_1745_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde@
  coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260902T174500
 DTEND;TZID=Europe/Berlin:20260902T191500
 SUMMARY:Yoga in der Schwangerschaft
@@ -1672,7 +1720,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02_1930_yoga_und_meditation_fur_frauen_nach_der_ruckbildung_fbf
  _friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260902T193000
 DTEND;TZID=Europe/Berlin:20260902T210000
 SUMMARY:Yoga und Meditation für Frauen nach der Rückbildung
@@ -1693,7 +1741,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-03_1200_polizeisprechstunde_coerde_mittendrin_awo_coerde_mitten
  drin@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260903T120000
 DTEND;TZID=Europe/Berlin:20260903T130000
 SUMMARY:Polizeisprechstunde „coerde-mittendrin“
@@ -1712,7 +1760,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-03_1215_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinder
  forderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260903T121500
 DTEND;TZID=Europe/Berlin:20260903T131500
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Kinderförderung
@@ -1734,7 +1782,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-03_1330_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinder
  forderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260903T133000
 DTEND;TZID=Europe/Berlin:20260903T143000
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Kinderförderung
@@ -1754,9 +1802,24 @@ CATEGORIES:Bildung / Familie / Stadtteil
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-09-04_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerd
+ e@coerde-events
+DTSTAMP:20260807T160640Z
+DTSTART;TZID=Europe/Berlin:20260904T100000
+DTEND;TZID=Europe/Berlin:20260904T120000
+SUMMARY:Mütter-Treff Coerde
+LOCATION:Franziskushaus\, Münster-Coerde\, Münster-Coerde
+DESCRIPTION:Wöchentlicher Mütter-Treff mit Babys und Kleinkindern im Franzi
+ skushaus Coerde. Austausch\, gemeinsames Frühstück\, Spielen\, Singen und 
+ Basteln mit pädagogischer Unterstützung.\nVeranstalter: Initiative ChaCK e
+ .V.\nQuelle: https://initiative-chack.de/projekte/muetter-treff-coerde/
+URL:https://initiative-chack.de/projekte/muetter-treff-coerde/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-04_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwies
  e_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260904T100000
 DTEND;TZID=Europe/Berlin:20260904T120000
 SUMMARY:TanzXchange – Freie Tanzszene Münster – OPEN CLASS
@@ -1780,7 +1843,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04_1600_qualifizierung_zum_verfahrensbeistand_sect_158_famfg_fb
  f_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260904T160000
 DTEND;TZID=Europe/Berlin:20260904T200000
 SUMMARY:Qualifizierung zum Verfahrensbeistand &sect\;158 FamFG
@@ -1799,16 +1862,38 @@ CATEGORIES:Bildung / Familie / Stadtteil
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-04_1900_die_lofoten_eckels_kladde_events@coerde-events
-DTSTAMP:20260806T160659Z
+UID:2026-09-04_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mitt
+ endrin@coerde-events
+DTSTAMP:20260807T160640Z
+DTSTART;TZID=Europe/Berlin:20260904T170000
+DTEND;TZID=Europe/Berlin:20260904T190000
+SUMMARY:Offener Spieletreff (2. & 4. Montag im Monat)
+LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
+ de\, Münster-Coerde
+DESCRIPTION:Offener Spieletreff (2. & 4. Montag im Monat): wöchentliches An
+ gebot jeden Freitag im AWO Coerde mittendrin der AWO in Münster-Coerde.\nV
+ eranstalter: AWO Coerde mittendrin\nQuelle: https://www.awo-msl-re.de/einr
+ ichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a448
+ 5
+URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34
+ b25336-4aca-11f1-bfc6-c7cf9d9a4485
+CATEGORIES:Stadtteil / Begegnung / Beratung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-04_1900_die_lofoten_multimediale_prasentation_mit_einzigartigem
+ _3_gang_menu_eckels_kladde_events@coerde-events
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260904T190000
 DTEND;TZID=Europe/Berlin:20260904T190000
-SUMMARY:Die Lofoten
-LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Multimediale Präsentation über die Lofoten mit einem einzigarti
- gen 3-Gang-Menü.\nVeranstalter: Eckels Kladde\nQuelle: https://www.eckels-
- kladde.de/collections/alle-kurse-und-events-in-munster/products/die-lofote
- n-04-09-26-19-uhr-multimediale-prasentation-mit-einzigartigem-3-gang-menu
+SUMMARY:Die Lofoten - Multimediale Präsentation mit einzigartigem 3-Gang-Me
+ nü
+LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde
+DESCRIPTION:Multimediale Präsentation über die Lofoten kombiniert mit einem
+  exklusiven 3-Gang-Menü in Münster-Coerde.\nVeranstalter: Eckels Kladde\nQ
+ uelle: https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-m
+ unster/products/die-lofoten-04-09-26-19-uhr-multimediale-prasentation-mit-
+ einzigartigem-3-gang-menu
 URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
  er/products/die-lofoten-04-09-26-19-uhr-multimediale-prasentation-mit-einz
  igartigem-3-gang-menu
@@ -1818,7 +1903,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05_0930_qualifizierung_zum_verfahrensbeistand_sect_158_famfg_fb
  f_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260905T093000
 DTEND;TZID=Europe/Berlin:20260905T170000
 SUMMARY:Qualifizierung zum Verfahrensbeistand &sect\;158 FamFG
@@ -1837,9 +1922,24 @@ CATEGORIES:Bildung / Familie / Stadtteil
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-09-05_1500_fest_der_vielfalt_iriba_brunnen_termine@coerde-events
+DTSTAMP:20260807T160640Z
+DTSTART;TZID=Europe/Berlin:20260905T150000
+DTEND;TZID=Europe/Berlin:20260905T210000
+SUMMARY:Fest der Vielfalt
+LOCATION:Franziskushaus in Coerde\, Schneidemühlerstr. 23\, 48157 Münster\,
+  Münster-Coerde
+DESCRIPTION:Vielfältiges Fest mit kulturellen Angeboten im Franziskushaus i
+ n Coerde.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https://www.iriba-bru
+ nnen.de/termine-archiv/fest-der-vielfalt/
+URL:https://www.iriba-brunnen.de/termine-archiv/fest-der-vielfalt/
+CATEGORIES:Stadtteil / Begegnung / Engagement
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-06_1200_qi_gong_seminar_die_wandlungsphase_metall_ubungen_fur_d
  ie_lunge_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260906T120000
 DTEND;TZID=Europe/Berlin:20260906T190000
 SUMMARY:Qi Gong-Seminar: Die Wandlungsphase Metall – Übungen für die Lunge
@@ -1863,7 +1963,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-07_1000_vorbereitung_auf_die_geburt_fur_mutter_die_ein_weiteres
  _kind_erwarten_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260907T100000
 DTEND;TZID=Europe/Berlin:20260907T120000
 SUMMARY:Vorbereitung auf die Geburt für Mütter\, die ein weiteres Kind erwa
@@ -1885,7 +1985,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-07_1415_ruckbildungsgymnastik_beweglichkeit_und_starkung_hybrid
  _kinderforderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260907T141500
 DTEND;TZID=Europe/Berlin:20260907T151500
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Hybrid\, Kinder
@@ -1907,7 +2007,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-07_1530_ruckbildungsgymnastik_beweglichkeit_und_starkung_hybrid
  _kinderforderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260907T153000
 DTEND;TZID=Europe/Berlin:20260907T163000
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Hybrid\, Kinder
@@ -1929,7 +2029,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-07_1700_vorbereitung_auf_die_geburt_fur_paare_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260907T170000
 DTEND;TZID=Europe/Berlin:20260907T190000
 SUMMARY:Vorbereitung auf die Geburt für Paare
@@ -1950,7 +2050,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08_1800_yoga_in_der_schwangerschaft_hybrid_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260908T180000
 DTEND;TZID=Europe/Berlin:20260908T193000
 SUMMARY:Yoga in der Schwangerschaft (Hybrid)
@@ -1971,7 +2071,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260909T090000
 DTEND;TZID=Europe/Berlin:20260909T103000
 SUMMARY:Eltern-Baby-Kurs Geb. Jan./Febr. 2026 Hiltrup
@@ -1992,7 +2092,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260909T090000
 DTEND;TZID=Europe/Berlin:20260909T103000
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -2013,7 +2113,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09_0915_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde@
  coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260909T091500
 DTEND;TZID=Europe/Berlin:20260909T104500
 SUMMARY:Yoga in der Schwangerschaft
@@ -2034,7 +2134,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260909T104500
 DTEND;TZID=Europe/Berlin:20260909T121500
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -2055,7 +2155,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09_1100_mama_baby_yoga_gemeinsam_entspannen_und_starken_fbf_fri
  edensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260909T110000
 DTEND;TZID=Europe/Berlin:20260909T123000
 SUMMARY:Mama Baby Yoga - gemeinsam entspannen und stärken
@@ -2076,7 +2176,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09_1600_traumasensibles_yoga_nach_belastender_geburtserfahrung_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260909T160000
 DTEND;TZID=Europe/Berlin:20260909T173000
 SUMMARY:Traumasensibles Yoga nach belastender Geburtserfahrung
@@ -2097,7 +2197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09_1745_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde@
  coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260909T174500
 DTEND;TZID=Europe/Berlin:20260909T191500
 SUMMARY:Yoga in der Schwangerschaft
@@ -2118,7 +2218,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09_1930_yoga_und_meditation_fur_frauen_nach_der_ruckbildung_fbf
  _friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260909T193000
 DTEND;TZID=Europe/Berlin:20260909T210000
 SUMMARY:Yoga und Meditation für Frauen nach der Rückbildung
@@ -2139,7 +2239,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10_1215_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinder
  forderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260910T121500
 DTEND;TZID=Europe/Berlin:20260910T131500
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Kinderförderung
@@ -2161,7 +2261,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10_1330_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinder
  forderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260910T133000
 DTEND;TZID=Europe/Berlin:20260910T143000
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Kinderförderung
@@ -2183,7 +2283,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11_2000_splitter_and_be_julie_klos_aus_munster_meerwiese_theate
  r@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260911T200000
 DTEND;TZID=Europe/Berlin:20260911T210000
 SUMMARY:Splitter and BE! – Julie Klos aus Münster
@@ -2207,7 +2307,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-13_1530_die_clown_fidelidad_solo_show_clown_fidelidad_aus_munst
  er_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260913T153000
 DTEND;TZID=Europe/Berlin:20260913T163000
 SUMMARY:Die Clown-fidelidad-Solo-Show – Clown fidelidad aus Münster
@@ -2231,7 +2331,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-13_1800_kammerkonzert_zwischen_esprit_und_leidenschaft_ein_sext
  ette_fur_holzblaserquinte_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260913T180000
 DTEND;TZID=Europe/Berlin:20260913T193000
 SUMMARY:Kammerkonzert: Zwischen Esprit und Leidenschaft – Ein Sextette für 
@@ -2255,7 +2355,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14_1000_vorbereitung_auf_die_geburt_fur_mutter_die_ein_weiteres
  _kind_erwarten_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260914T100000
 DTEND;TZID=Europe/Berlin:20260914T120000
 SUMMARY:Vorbereitung auf die Geburt für Mütter\, die ein weiteres Kind erwa
@@ -2277,7 +2377,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14_1415_ruckbildungsgymnastik_beweglichkeit_und_starkung_hybrid
  _kinderforderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260914T141500
 DTEND;TZID=Europe/Berlin:20260914T151500
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Hybrid\, Kinder
@@ -2299,7 +2399,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14_1530_ruckbildungsgymnastik_beweglichkeit_und_starkung_hybrid
  _kinderforderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260914T153000
 DTEND;TZID=Europe/Berlin:20260914T163000
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Hybrid\, Kinder
@@ -2321,7 +2421,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14_1700_vorbereitung_auf_die_geburt_fur_paare_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260914T170000
 DTEND;TZID=Europe/Berlin:20260914T190000
 SUMMARY:Vorbereitung auf die Geburt für Paare
@@ -2342,7 +2442,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15_1800_yoga_in_der_schwangerschaft_hybrid_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260915T180000
 DTEND;TZID=Europe/Berlin:20260915T193000
 SUMMARY:Yoga in der Schwangerschaft (Hybrid)
@@ -2363,7 +2463,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260916T090000
 DTEND;TZID=Europe/Berlin:20260916T103000
 SUMMARY:Eltern-Baby-Kurs Geb. Jan./Febr. 2026 Hiltrup
@@ -2384,7 +2484,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260916T090000
 DTEND;TZID=Europe/Berlin:20260916T103000
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -2405,7 +2505,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16_0915_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde@
  coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260916T091500
 DTEND;TZID=Europe/Berlin:20260916T104500
 SUMMARY:Yoga in der Schwangerschaft
@@ -2426,7 +2526,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260916T104500
 DTEND;TZID=Europe/Berlin:20260916T121500
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -2447,7 +2547,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16_1100_mama_baby_yoga_gemeinsam_entspannen_und_starken_fbf_fri
  edensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260916T110000
 DTEND;TZID=Europe/Berlin:20260916T123000
 SUMMARY:Mama Baby Yoga - gemeinsam entspannen und stärken
@@ -2468,7 +2568,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16_1600_traumasensibles_yoga_nach_belastender_geburtserfahrung_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260916T160000
 DTEND;TZID=Europe/Berlin:20260916T173000
 SUMMARY:Traumasensibles Yoga nach belastender Geburtserfahrung
@@ -2489,7 +2589,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16_1745_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde@
  coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260916T174500
 DTEND;TZID=Europe/Berlin:20260916T191500
 SUMMARY:Yoga in der Schwangerschaft
@@ -2510,7 +2610,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16_1930_yoga_und_meditation_fur_frauen_nach_der_ruckbildung_fbf
  _friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260916T193000
 DTEND;TZID=Europe/Berlin:20260916T210000
 SUMMARY:Yoga und Meditation für Frauen nach der Rückbildung
@@ -2531,7 +2631,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17_1215_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinder
  forderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260917T121500
 DTEND;TZID=Europe/Berlin:20260917T131500
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Kinderförderung
@@ -2553,7 +2653,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17_1330_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinder
  forderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260917T133000
 DTEND;TZID=Europe/Berlin:20260917T143000
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Kinderförderung
@@ -2575,7 +2675,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18_1930_vorlese_cafe_im_september_auf_turkisch_deutsch_mit_musi
  k_kulturinitiative_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260918T193000
 DTEND;TZID=Europe/Berlin:20260918T210000
 SUMMARY:Vorlese-Café im September auf Türkisch & Deutsch mit Musik
@@ -2593,15 +2693,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19_ganztag_6_rock_am_berg_festival_rock_am_berg@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260919
 SUMMARY:6. Rock am Berg Festival
-LOCATION:Rieselfelder Münster\, Münster Westf.\, Münster-Coerde
+LOCATION:Rieselfelder Münster\, Münster\, Rieselfelder\, Münster-Coerde
 DESCRIPTION:Benefizkonzert mit mehreren Bands ohne Gage zur Unterstützung v
- on Menschen in Not Straßenmagazin draußen! e.V. in Münster und dem Münster
- land. Getränke und Speisen werden angeboten\, Erlös geht als Spende.\nVera
- nstalter: Rock am Berg Münster\nQuelle: https://www.rockamberg-ms.de/
+ on Menschen in Not in Münster und dem Münsterland. Getränke und Speisen we
+ rden vor Ort angeboten.\nVeranstalter: Rock am Berg Münster\nQuelle: https
+ ://www.rockamberg-ms.de/
 URL:https://www.rockamberg-ms.de/
 CATEGORIES:Musik / Konzert / Stadtteil
 STATUS:CONFIRMED
@@ -2609,7 +2709,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19_1400_ost_europa_seminar_nie_wieder_allein_leitung_joachim_wi
  eder_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260919T140000
 DTEND;TZID=Europe/Berlin:20260919T190000
 SUMMARY:Ost-Europa-Seminar: Nie wieder allein – Leitung: Joachim Wieder
@@ -2633,7 +2733,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-20_1000_ost_europa_seminar_nie_wieder_allein_leitung_joachim_wi
  eder_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260920T100000
 DTEND;TZID=Europe/Berlin:20260920T140000
 SUMMARY:Ost-Europa-Seminar: Nie wieder allein – Leitung: Joachim Wieder
@@ -2657,7 +2757,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-22_1800_yoga_in_der_schwangerschaft_hybrid_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260922T180000
 DTEND;TZID=Europe/Berlin:20260922T193000
 SUMMARY:Yoga in der Schwangerschaft (Hybrid)
@@ -2678,7 +2778,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260923T090000
 DTEND;TZID=Europe/Berlin:20260923T103000
 SUMMARY:Eltern-Baby-Kurs Geb. Jan./Febr. 2026 Hiltrup
@@ -2699,7 +2799,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260923T090000
 DTEND;TZID=Europe/Berlin:20260923T103000
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -2720,7 +2820,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23_0915_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde@
  coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260923T091500
 DTEND;TZID=Europe/Berlin:20260923T104500
 SUMMARY:Yoga in der Schwangerschaft
@@ -2741,7 +2841,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23_1000_kindermusikfestival_munster_karibuni_weltmusik_fur_kind
  er_karibuni_aus_munster_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260923T100000
 DTEND;TZID=Europe/Berlin:20260923T105000
 SUMMARY:Kindermusikfestival Münster: Karibuni – Weltmusik für Kinder – Kari
@@ -2767,7 +2867,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260923T104500
 DTEND;TZID=Europe/Berlin:20260923T121500
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -2788,7 +2888,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23_1100_mama_baby_yoga_gemeinsam_entspannen_und_starken_fbf_fri
  edensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260923T110000
 DTEND;TZID=Europe/Berlin:20260923T123000
 SUMMARY:Mama Baby Yoga - gemeinsam entspannen und stärken
@@ -2809,7 +2909,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23_1600_traumasensibles_yoga_nach_belastender_geburtserfahrung_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260923T160000
 DTEND;TZID=Europe/Berlin:20260923T173000
 SUMMARY:Traumasensibles Yoga nach belastender Geburtserfahrung
@@ -2830,7 +2930,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23_1745_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde@
  coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260923T174500
 DTEND;TZID=Europe/Berlin:20260923T191500
 SUMMARY:Yoga in der Schwangerschaft
@@ -2851,7 +2951,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-23_1930_yoga_und_meditation_fur_frauen_nach_der_ruckbildung_fbf
  _friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260923T193000
 DTEND;TZID=Europe/Berlin:20260923T210000
 SUMMARY:Yoga und Meditation für Frauen nach der Rückbildung
@@ -2872,7 +2972,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24_1215_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinder
  forderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260924T121500
 DTEND;TZID=Europe/Berlin:20260924T131500
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Kinderförderung
@@ -2894,7 +2994,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-24_1330_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinder
  forderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260924T133000
 DTEND;TZID=Europe/Berlin:20260924T143000
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Kinderförderung
@@ -2916,7 +3016,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25_1000_kindermusikfestival_zauberhafte_welt_des_herrn_alexande
  r_pindakaas_quartett_aus__meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260925T100000
 DTEND;TZID=Europe/Berlin:20260925T105000
 SUMMARY:Kindermusikfestival: Zauberhafte Welt des Herrn Alexander – Pindaka
@@ -2942,7 +3042,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26_1700_kindermusikfestival_munster_cattu_der_traumfanger_cattu
  _aus_berlin_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260926T170000
 DTEND;TZID=Europe/Berlin:20260926T175000
 SUMMARY:Kindermusikfestival Münster: Cattu\, der Traumfänger – Cattu aus Be
@@ -2967,7 +3067,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26_1900_georg_kreisler_sein_leben_seine_lieder_markus_von_hagen
  _kabarettist_und_philip_r_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260926T190000
 DTEND;TZID=Europe/Berlin:20260926T200000
 SUMMARY:Georg Kreisler – sein Leben\, seine Lieder – Markus von Hagen (Kaba
@@ -2994,7 +3094,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-27_1530_spielarten_2026_du_und_ich_helios_theater_aus_hamm_meer
  wiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260927T153000
 DTEND;TZID=Europe/Berlin:20260927T162000
 SUMMARY:SPIELARTEN 2026: du und ich – HELIOS Theater aus Hamm
@@ -3018,7 +3118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28_1000_cryptolike_to_the_moon_sterna_pau_aus_bochum_meerwiese_
  theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260928T100000
 DTEND;TZID=Europe/Berlin:20260928T110000
 SUMMARY:Cryptolike – To the Moon – STERNA | PAU aus Bochum
@@ -3042,7 +3142,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29_0930_theaterzauber_coerde_babilu_und_die_buchstabenbande_the
  ater_don_kidschote_aus_mu_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260929T093000
 DTEND;TZID=Europe/Berlin:20260929T102000
 SUMMARY:THEATERZAUBER Coerde: Babilu und die Buchstabenbande – Theater Don 
@@ -3068,7 +3168,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29_1100_theaterzauber_coerde_babilu_und_die_buchstabenbande_the
  ater_don_kidschote_aus_mu_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260929T110000
 DTEND;TZID=Europe/Berlin:20260929T115000
 SUMMARY:THEATERZAUBER Coerde: Babilu und die Buchstabenbande – Theater Don 
@@ -3094,7 +3194,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29_1800_yoga_in_der_schwangerschaft_hybrid_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260929T180000
 DTEND;TZID=Europe/Berlin:20260929T193000
 SUMMARY:Yoga in der Schwangerschaft (Hybrid)
@@ -3115,7 +3215,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30_0815_theaterzauber_coerde_babilu_und_die_buchstabenbande_the
  ater_don_kidschote_aus_mu_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260930T081500
 DTEND;TZID=Europe/Berlin:20260930T090500
 SUMMARY:THEATERZAUBER Coerde: Babilu und die Buchstabenbande – Theater Don 
@@ -3141,7 +3241,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260930T090000
 DTEND;TZID=Europe/Berlin:20260930T103000
 SUMMARY:Eltern-Baby-Kurs Geb. Jan./Febr. 2026 Hiltrup
@@ -3162,7 +3262,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260930T090000
 DTEND;TZID=Europe/Berlin:20260930T103000
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -3183,7 +3283,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30_0915_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde@
  coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260930T091500
 DTEND;TZID=Europe/Berlin:20260930T104500
 SUMMARY:Yoga in der Schwangerschaft
@@ -3204,7 +3304,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30_1030_theaterzauber_coerde_babilu_und_die_buchstabenbande_the
  ater_don_kidschote_aus_mu_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260930T103000
 DTEND;TZID=Europe/Berlin:20260930T112000
 SUMMARY:THEATERZAUBER Coerde: Babilu und die Buchstabenbande – Theater Don 
@@ -3230,7 +3330,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260930T104500
 DTEND;TZID=Europe/Berlin:20260930T121500
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -3251,7 +3351,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30_1100_mama_baby_yoga_gemeinsam_entspannen_und_starken_fbf_fri
  edensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260930T110000
 DTEND;TZID=Europe/Berlin:20260930T123000
 SUMMARY:Mama Baby Yoga - gemeinsam entspannen und stärken
@@ -3272,7 +3372,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30_1600_traumasensibles_yoga_nach_belastender_geburtserfahrung_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260930T160000
 DTEND;TZID=Europe/Berlin:20260930T173000
 SUMMARY:Traumasensibles Yoga nach belastender Geburtserfahrung
@@ -3293,7 +3393,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30_1745_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde@
  coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260930T174500
 DTEND;TZID=Europe/Berlin:20260930T191500
 SUMMARY:Yoga in der Schwangerschaft
@@ -3314,7 +3414,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30_1930_yoga_und_meditation_fur_frauen_nach_der_ruckbildung_fbf
  _friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20260930T193000
 DTEND;TZID=Europe/Berlin:20260930T210000
 SUMMARY:Yoga und Meditation für Frauen nach der Rückbildung
@@ -3335,7 +3435,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01_1215_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinder
  forderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261001T121500
 DTEND;TZID=Europe/Berlin:20261001T131500
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Kinderförderung
@@ -3357,7 +3457,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-01_1330_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinder
  forderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261001T133000
 DTEND;TZID=Europe/Berlin:20261001T143000
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Kinderförderung
@@ -3379,7 +3479,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwies
  e_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261002T100000
 DTEND;TZID=Europe/Berlin:20261002T120000
 SUMMARY:TanzXchange – Freie Tanzszene Münster – OPEN CLASS
@@ -3403,7 +3503,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02_1930_swing_latin_night_jazzcarraldo_aus_munster_meerwiese_th
  eater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261002T193000
 DTEND;TZID=Europe/Berlin:20261002T213000
 SUMMARY:Swing & Latin – Night – JazZCarraldo aus Münster
@@ -3427,7 +3527,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03_1000_workshop_black_and_white_diesmal_bunt_ein_schwarzlichtt
  heater_workshop_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261003T100000
 DTEND;TZID=Europe/Berlin:20261003T160000
 SUMMARY:Workshop: Black and White - diesmal bunt – ein Schwarzlichttheater-
@@ -3452,7 +3552,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03_2000_kunst_im_volk_einig_recht_frei_klos_sopran_di_martino_b
  ariton_lehnert_flugel_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261003T200000
 DTEND;TZID=Europe/Berlin:20261003T210000
 SUMMARY:Kunst im Volk - Einig? Recht? Frei? – Klos (Sopran)\, Di Martino (B
@@ -3478,16 +3578,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-04_1200_faszination_feuer_kochen_in_und_an_der_flamme_trifft_du
  tch_oven_kurs_eckels_kladde_events@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261004T120000
 DTEND;TZID=Europe/Berlin:20261004T180000
 SUMMARY:Faszination Feuer - Kochen in und an der Flamme trifft Dutch Oven K
  urs
-LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Kochkurs mit Fokus auf Feuertechniken und Dutch Oven\, praxisna
- h und vielseitig.\nVeranstalter: Eckels Kladde\nQuelle: https://www.eckels
- -kladde.de/collections/alle-kurse-und-events-in-munster/products/feuerkoch
- kurs-04-10-26
+LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde
+DESCRIPTION:Kochkurs rund um das Kochen mit Feuer und Dutch Oven\, praxisna
+ h und kreativ in Münster-Coerde.\nVeranstalter: Eckels Kladde\nQuelle: htt
+ ps://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster/pro
+ ducts/feuerkochkurs-04-10-26
 URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
  er/products/feuerkochkurs-04-10-26
 CATEGORIES:Kultur / Musik / Stadtteil
@@ -3496,7 +3596,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261007T090000
 DTEND;TZID=Europe/Berlin:20261007T103000
 SUMMARY:Eltern-Baby-Kurs Geb. Jan./Febr. 2026 Hiltrup
@@ -3517,7 +3617,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261007T090000
 DTEND;TZID=Europe/Berlin:20261007T103000
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -3538,7 +3638,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07_0915_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde@
  coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261007T091500
 DTEND;TZID=Europe/Berlin:20261007T104500
 SUMMARY:Yoga in der Schwangerschaft
@@ -3559,7 +3659,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261007T104500
 DTEND;TZID=Europe/Berlin:20261007T121500
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -3580,7 +3680,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07_1100_mama_baby_yoga_gemeinsam_entspannen_und_starken_fbf_fri
  edensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261007T110000
 DTEND;TZID=Europe/Berlin:20261007T123000
 SUMMARY:Mama Baby Yoga - gemeinsam entspannen und stärken
@@ -3601,7 +3701,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07_1600_traumasensibles_yoga_nach_belastender_geburtserfahrung_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261007T160000
 DTEND;TZID=Europe/Berlin:20261007T173000
 SUMMARY:Traumasensibles Yoga nach belastender Geburtserfahrung
@@ -3622,7 +3722,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07_1745_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde@
  coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261007T174500
 DTEND;TZID=Europe/Berlin:20261007T191500
 SUMMARY:Yoga in der Schwangerschaft
@@ -3643,7 +3743,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-07_1930_yoga_und_meditation_fur_frauen_nach_der_ruckbildung_fbf
  _friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261007T193000
 DTEND;TZID=Europe/Berlin:20261007T210000
 SUMMARY:Yoga und Meditation für Frauen nach der Rückbildung
@@ -3664,7 +3764,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08_1215_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinder
  forderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261008T121500
 DTEND;TZID=Europe/Berlin:20261008T131500
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Kinderförderung
@@ -3686,7 +3786,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-08_1330_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinder
  forderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261008T133000
 DTEND;TZID=Europe/Berlin:20261008T143000
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Kinderförderung
@@ -3706,9 +3806,27 @@ CATEGORIES:Bildung / Familie / Stadtteil
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-10-09_1130_ich_bin_mehr_als_mein_feed_workshop_fur_madchen_zu_soci
+ al_media_essen_korpergefu_iriba_brunnen_termine@coerde-events
+DTSTAMP:20260807T160640Z
+DTSTART;TZID=Europe/Berlin:20261009T113000
+DTEND;TZID=Europe/Berlin:20261009T173000
+SUMMARY:„Ich bin mehr als mein Feed“ – Workshop für Mädchen zu Social Media
+ \, Essen & Körpergefühl
+LOCATION:Stadtteilbüro Coerde\, Nerzweg 9\, 48167 Münster\, 48167 Münster
+DESCRIPTION:Workshop für Mädchen zu den Themen Social Media\, Ernährung und
+  Körpergefühl im Stadtteilbüro Coerde.\nVeranstalter: Iriba-Brunnen e.V.\n
+ Quelle: https://www.iriba-brunnen.de/termine-archiv/ich-bin-mehr-als-mein-
+ feed-workshop-fuer-maedchen-zu-social-media-essen-koerpergefuehl/
+URL:https://www.iriba-brunnen.de/termine-archiv/ich-bin-mehr-als-mein-feed-
+ workshop-fuer-maedchen-zu-social-media-essen-koerpergefuehl/
+CATEGORIES:Stadtteil / Begegnung / Engagement
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-10-09_1600_qualifizierung_zum_verfahrensbeistand_sect_158_famfg_fb
  f_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261009T160000
 DTEND;TZID=Europe/Berlin:20261009T200000
 SUMMARY:Qualifizierung zum Verfahrensbeistand &sect\;158 FamFG
@@ -3729,7 +3847,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09_1800_stadtteilkonzert_sinfonieorchester_munster_theater_muns
  ter_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261009T180000
 DTEND;TZID=Europe/Berlin:20261009T190000
 SUMMARY:Stadtteilkonzert: Sinfonieorchester Münster – Theater Münster
@@ -3753,16 +3871,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10_ganztag_glow_up_after_work_party_st_franziskus_startseite@co
  erde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261010
 SUMMARY:Glow-Up After Work Party
 LOCATION:Franziskushaus Coerde\, Schneidemühler Str. 23\, 48157 Münster-Coe
  rde\, Münster-Coerde
 DESCRIPTION:Abendveranstaltung mit stylischer Glow-Dekoration\, erfrischend
- en Drinks\, guter Musik und besonderen Lichteffekten für einen unvergessli
- chen Feierabend in Münster-Coerde.\nVeranstalter: Katholische Kirchengemei
- nde St. Franziskus\nQuelle: https://awp-coerde.de/
+ en Drinks\, Snacks und guter Musik zum Tanzen und Entspannen in Münster-Co
+ erde.\nVeranstalter: Katholische Kirchengemeinde St. Franziskus\nQuelle: h
+ ttps://awp-coerde.de/
 URL:https://awp-coerde.de/
 CATEGORIES:Kirche / Gottesdienst / Begegnung
 STATUS:CONFIRMED
@@ -3770,7 +3888,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10_0930_qualifizierung_zum_verfahrensbeistand_sect_158_famfg_fb
  f_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261010T093000
 DTEND;TZID=Europe/Berlin:20261010T170000
 SUMMARY:Qualifizierung zum Verfahrensbeistand &sect\;158 FamFG
@@ -3791,24 +3909,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10_1000_tagung_fruhkindliche_bildung_und_chancengleichheit_init
  iative_chack_fachtagung@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261010T100000
 DTEND;TZID=Europe/Berlin:20261010T153000
 SUMMARY:Tagung: Frühkindliche Bildung und Chancengleichheit
 LOCATION:Hörsaal F1\, Fürstenberghaus\, Domplatz 20-22\, Münster-Coerde\, M
  ünster-Coerde
 DESCRIPTION:Fachtagung mit internationalen Wissenschaftlern und Experten zu
- m Thema Chancengleichheit und Kinderarmut. Vorträge und Podiumsdiskussion 
- mit kommunalen Vertretern. Teilnahme kostenlos und offen für alle Interess
- ierten.\nVeranstalter: Initiative ChaCK e.V.\nQuelle: https://initiative-c
- hack.de/projekte/fachtagung/
+ m Thema Chancengleichheit und Kinderarmut. Vorträge und Podiumsdiskussion.
+  Teilnahme kostenlos und offen für alle Interessierten.\nVeranstalter: Ini
+ tiative ChaCK e.V.\nQuelle: https://initiative-chack.de/projekte/fachtagun
+ g/
 URL:https://initiative-chack.de/projekte/fachtagung/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-11_1530_spielarten_2026_der_gerauschehandler_toboso_aus_essen_m
  eerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261011T153000
 DTEND;TZID=Europe/Berlin:20261011T161000
 SUMMARY:SPIELARTEN 2026: Der Geräuschehändler – TOBOSO aus Essen
@@ -3832,7 +3950,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-11_1700_spielarten_2026_silent_calling_theater_marabu_aus_bonn_
  meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261011T170000
 DTEND;TZID=Europe/Berlin:20261011T180000
 SUMMARY:SPIELARTEN 2026: Silent Calling – Theater Marabu aus Bonn
@@ -3856,7 +3974,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13_1000_spielarten_2026_into_it_performing_group_marie_lena_kai
  ser_aus_koln_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261013T100000
 DTEND;TZID=Europe/Berlin:20261013T104500
 SUMMARY:SPIELARTEN 2026: INTO IT – performing:group & Marie-Lena Kaiser aus
@@ -3881,7 +3999,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261014T090000
 DTEND;TZID=Europe/Berlin:20261014T103000
 SUMMARY:Eltern-Baby-Kurs Geb. Jan./Febr. 2026 Hiltrup
@@ -3902,7 +4020,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261014T090000
 DTEND;TZID=Europe/Berlin:20261014T103000
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -3923,7 +4041,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14_0915_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde@
  coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261014T091500
 DTEND;TZID=Europe/Berlin:20261014T104500
 SUMMARY:Yoga in der Schwangerschaft
@@ -3944,7 +4062,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261014T104500
 DTEND;TZID=Europe/Berlin:20261014T121500
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -3965,7 +4083,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14_1100_mama_baby_yoga_gemeinsam_entspannen_und_starken_fbf_fri
  edensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261014T110000
 DTEND;TZID=Europe/Berlin:20261014T123000
 SUMMARY:Mama Baby Yoga - gemeinsam entspannen und stärken
@@ -3986,7 +4104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14_1600_traumasensibles_yoga_nach_belastender_geburtserfahrung_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261014T160000
 DTEND;TZID=Europe/Berlin:20261014T173000
 SUMMARY:Traumasensibles Yoga nach belastender Geburtserfahrung
@@ -4007,7 +4125,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14_1745_yoga_in_der_schwangerschaft_fbf_friedensstrasse_coerde@
  coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261014T174500
 DTEND;TZID=Europe/Berlin:20261014T191500
 SUMMARY:Yoga in der Schwangerschaft
@@ -4028,7 +4146,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-14_1930_yoga_und_meditation_fur_frauen_nach_der_ruckbildung_fbf
  _friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261014T193000
 DTEND;TZID=Europe/Berlin:20261014T210000
 SUMMARY:Yoga und Meditation für Frauen nach der Rückbildung
@@ -4049,7 +4167,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15_1000_spielarten_2026_der_riss_pulk_fiktion_aus_koln_meerwies
  e_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261015T100000
 DTEND;TZID=Europe/Berlin:20261015T110000
 SUMMARY:SPIELARTEN 2026: Der Riss – pulk fiktion aus Köln
@@ -4073,7 +4191,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15_1215_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinder
  forderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261015T121500
 DTEND;TZID=Europe/Berlin:20261015T131500
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Kinderförderung
@@ -4095,7 +4213,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-15_1330_ruckbildungsgymnastik_beweglichkeit_und_starkung_kinder
  forderung_mogl_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261015T133000
 DTEND;TZID=Europe/Berlin:20261015T143000
 SUMMARY:Rückbildungsgymnastik - Beweglichkeit und Stärkung (Kinderförderung
@@ -4117,7 +4235,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-17_1000_workshop_black_and_white_diesmal_bunt_ein_schwarzlichtt
  heater_workshop_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261017T100000
 DTEND;TZID=Europe/Berlin:20261017T160000
 SUMMARY:Workshop: Black and White - diesmal bunt – ein Schwarzlichttheater-
@@ -4142,7 +4260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21_1900_das_immersive_kriminal_dinner_in_3d_projektionen_sherly
  s_spurensuche_stadt_munster_veranstaltungskalender@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261021T190000
 DTEND;TZID=Europe/Berlin:20261021T190000
 SUMMARY:Das immersive Kriminal Dinner in 3D-Projektionen – Sherlys Spurensu
@@ -4165,7 +4283,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22_1900_das_immersive_kriminal_dinner_in_3d_projektionen_sherly
  s_spurensuche_stadt_munster_veranstaltungskalender@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261022T190000
 DTEND;TZID=Europe/Berlin:20261022T190000
 SUMMARY:Das immersive Kriminal Dinner in 3D-Projektionen – Sherlys Spurensu
@@ -4188,7 +4306,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23_1900_das_immersive_kriminal_dinner_in_3d_projektionen_sherly
  s_spurensuche_stadt_munster_veranstaltungskalender@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261023T190000
 DTEND;TZID=Europe/Berlin:20261023T190000
 SUMMARY:Das immersive Kriminal Dinner in 3D-Projektionen – Sherlys Spurensu
@@ -4211,7 +4329,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24_1900_das_immersive_kriminal_dinner_in_3d_projektionen_sherly
  s_spurensuche_stadt_munster_veranstaltungskalender@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261024T190000
 DTEND;TZID=Europe/Berlin:20261024T190000
 SUMMARY:Das immersive Kriminal Dinner in 3D-Projektionen – Sherlys Spurensu
@@ -4234,7 +4352,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-25_ganztag_44_kinderfilmfest_munster_2te_herbstferienwoche_im_s
  chlosstheater_begegnungszent_meerwiese_begegnungszentrum@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261101
 SUMMARY:44. KinderFilmFest Münster – 2te Herbstferienwoche im Schloßtheater
@@ -4259,7 +4377,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-25_1900_das_immersive_kriminal_dinner_in_3d_projektionen_sherly
  s_spurensuche_stadt_munster_veranstaltungskalender@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261025T190000
 DTEND;TZID=Europe/Berlin:20261025T190000
 SUMMARY:Das immersive Kriminal Dinner in 3D-Projektionen – Sherlys Spurensu
@@ -4282,7 +4400,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-27_1030_filmworkshop_stummfilm_kinderklangorchester_44_kinderfi
  lmfest_munster_vertonung__meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261027T103000
 DTEND;TZID=Europe/Berlin:20261027T130000
 SUMMARY:Filmworkshop: Stummfilm-Kinderklangorchester – 44. KinderFilmFest M
@@ -4309,7 +4427,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28_1030_filmworkshop_stummfilm_kinderklangorchester_44_kinderfi
  lmfest_munster_vertonung__meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261028T103000
 DTEND;TZID=Europe/Berlin:20261028T130000
 SUMMARY:Filmworkshop: Stummfilm-Kinderklangorchester – 44. KinderFilmFest M
@@ -4336,7 +4454,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29_1030_filmworkshop_stummfilm_kinderklangorchester_44_kinderfi
  lmfest_munster_vertonung__meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261029T103000
 DTEND;TZID=Europe/Berlin:20261029T130000
 SUMMARY:Filmworkshop: Stummfilm-Kinderklangorchester – 44. KinderFilmFest M
@@ -4363,7 +4481,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30_1000_filmworkshop_stummfilm_kinderklangorchester_44_kinderfi
  lmfest_munster_vertonung__meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261030T100000
 DTEND;TZID=Europe/Berlin:20261030T130000
 SUMMARY:Filmworkshop: Stummfilm-Kinderklangorchester – 44. KinderFilmFest M
@@ -4390,7 +4508,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01_1230_der_kloss_marchenland_theater_e_v_aus_munster_meerwiese
  _theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261101T123000
 DTEND;TZID=Europe/Berlin:20261101T133000
 SUMMARY:Der Kloß – Märchenland Theater e.V. aus Münster
@@ -4414,7 +4532,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01_1500_der_kloss_marchenland_theater_e_v_aus_munster_meerwiese
  _theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261101T150000
 DTEND;TZID=Europe/Berlin:20261101T160000
 SUMMARY:Der Kloß – Märchenland Theater e.V. aus Münster
@@ -4438,7 +4556,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01_1730_der_kloss_marchenland_theater_e_v_aus_munster_meerwiese
  _theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261101T173000
 DTEND;TZID=Europe/Berlin:20261101T183000
 SUMMARY:Der Kloß – Märchenland Theater e.V. aus Münster
@@ -4462,7 +4580,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261104T090000
 DTEND;TZID=Europe/Berlin:20261104T103000
 SUMMARY:Eltern-Baby-Kurs Geb. Jan./Febr. 2026 Hiltrup
@@ -4483,7 +4601,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261104T090000
 DTEND;TZID=Europe/Berlin:20261104T103000
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -4504,7 +4622,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-04_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261104T104500
 DTEND;TZID=Europe/Berlin:20261104T121500
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -4525,7 +4643,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwies
  e_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261106T100000
 DTEND;TZID=Europe/Berlin:20261106T120000
 SUMMARY:TanzXchange – Freie Tanzszene Münster – OPEN CLASS
@@ -4549,7 +4667,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06_1600_qualifizierung_zum_verfahrensbeistand_sect_158_famfg_fb
  f_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261106T160000
 DTEND;TZID=Europe/Berlin:20261106T200000
 SUMMARY:Qualifizierung zum Verfahrensbeistand &sect\;158 FamFG
@@ -4568,16 +4686,19 @@ CATEGORIES:Bildung / Familie / Stadtteil
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-11-06_1900_die_lofoten_eckels_kladde_events@coerde-events
-DTSTAMP:20260806T160659Z
+UID:2026-11-06_1900_die_lofoten_multimediale_prasentation_mit_einzigartigem
+ _3_gang_menu_eckels_kladde_events@coerde-events
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261106T190000
 DTEND;TZID=Europe/Berlin:20261106T190000
-SUMMARY:Die Lofoten
-LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Multimediale Präsentation über die Lofoten mit einem einzigarti
- gen 3-Gang-Menü.\nVeranstalter: Eckels Kladde\nQuelle: https://www.eckels-
- kladde.de/collections/alle-kurse-und-events-in-munster/products/die-lofote
- n-06-11-26-19-uhr-multimediale-prasentation-mit-einzigartigem-3-gang-menu
+SUMMARY:Die Lofoten - Multimediale Präsentation mit einzigartigem 3-Gang-Me
+ nü
+LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde
+DESCRIPTION:Multimediale Präsentation über die Lofoten kombiniert mit einem
+  exklusiven 3-Gang-Menü in Münster-Coerde.\nVeranstalter: Eckels Kladde\nQ
+ uelle: https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-m
+ unster/products/die-lofoten-06-11-26-19-uhr-multimediale-prasentation-mit-
+ einzigartigem-3-gang-menu
 URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
  er/products/die-lofoten-06-11-26-19-uhr-multimediale-prasentation-mit-einz
  igartigem-3-gang-menu
@@ -4587,7 +4708,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06_1930_vorlese_cafe_im_november_auf_russisch_deutsch_mit_musik
  _kulturinitiative_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261106T193000
 DTEND;TZID=Europe/Berlin:20261106T210000
 SUMMARY:Vorlese-Café im November auf Russisch & Deutsch mit Musik
@@ -4606,7 +4727,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07_0930_qualifizierung_zum_verfahrensbeistand_sect_158_famfg_fb
  f_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261107T093000
 DTEND;TZID=Europe/Berlin:20261107T170000
 SUMMARY:Qualifizierung zum Verfahrensbeistand &sect\;158 FamFG
@@ -4627,7 +4748,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07_1700_kindermusikfestival_munsterland_suli_puschban_suli_pusc
  hban_aus_berlin_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261107T170000
 DTEND;TZID=Europe/Berlin:20261107T175000
 SUMMARY:Kindermusikfestival-Münsterland: Suli Puschban – Suli Puschban aus 
@@ -4652,7 +4773,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261111T090000
 DTEND;TZID=Europe/Berlin:20261111T103000
 SUMMARY:Eltern-Baby-Kurs Geb. Jan./Febr. 2026 Hiltrup
@@ -4673,7 +4794,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261111T090000
 DTEND;TZID=Europe/Berlin:20261111T103000
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -4694,7 +4815,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-11_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261111T104500
 DTEND;TZID=Europe/Berlin:20261111T121500
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -4715,7 +4836,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13_1500_zirkus_coerdini_kinderzirkus_aus_coerde_meerwiese_theat
  er@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261113T150000
 DTEND;TZID=Europe/Berlin:20261113T170000
 SUMMARY:Zirkus Coerdini – Kinderzirkus aus Coerde
@@ -4734,7 +4855,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14_1500_zirkus_coerdini_kinderzirkus_aus_coerde_stadt_munster_v
  eranstaltungskalender@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261114T150000
 DTEND;TZID=Europe/Berlin:20261114T170000
 SUMMARY:Zirkus Coerdini – Kinderzirkus aus Coerde
@@ -4751,7 +4872,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261118T090000
 DTEND;TZID=Europe/Berlin:20261118T103000
 SUMMARY:Eltern-Baby-Kurs Geb. Jan./Febr. 2026 Hiltrup
@@ -4772,7 +4893,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261118T090000
 DTEND;TZID=Europe/Berlin:20261118T103000
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -4793,7 +4914,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261118T104500
 DTEND;TZID=Europe/Berlin:20261118T121500
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -4814,7 +4935,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20_1015_lesen_mit_kleinen_wesen_stadtbuecherei_coerde@coerde-ev
  ents
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261120T101500
 DTEND;TZID=Europe/Berlin:20261120T101500
 SUMMARY:Lesen mit kleinen Wesen
@@ -4834,7 +4955,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21_1400_ost_europa_seminar_patriotismus_und_demokratie_leitung_
  joachim_wieder_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261121T140000
 DTEND;TZID=Europe/Berlin:20261121T190000
 SUMMARY:Ost-Europa-Seminar: Patriotismus und Demokratie – Leitung: Joachim 
@@ -4859,7 +4980,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22_1500_24_winterpunsch_fiesta_echtzeit_theater_aus_munster_mee
  rwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261122T150000
 DTEND;TZID=Europe/Berlin:20261122T160000
 SUMMARY:24. WINTERPUNSCH: FIESTA – echtzeit-theater aus Münster
@@ -4883,7 +5004,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24_1000_24_winterpunsch_fiesta_echtzeit_theater_aus_munster_mee
  rwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261124T100000
 DTEND;TZID=Europe/Berlin:20261124T110000
 SUMMARY:24. WINTERPUNSCH: FIESTA – echtzeit-theater aus Münster
@@ -4907,7 +5028,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261125T090000
 DTEND;TZID=Europe/Berlin:20261125T103000
 SUMMARY:Eltern-Baby-Kurs Geb. Jan./Febr. 2026 Hiltrup
@@ -4928,7 +5049,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261125T090000
 DTEND;TZID=Europe/Berlin:20261125T103000
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -4949,7 +5070,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25_1000_24_winterpunsch_fiesta_echtzeit_theater_aus_munster_mee
  rwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261125T100000
 DTEND;TZID=Europe/Berlin:20261125T110000
 SUMMARY:24. WINTERPUNSCH: FIESTA – echtzeit-theater aus Münster
@@ -4973,7 +5094,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261125T104500
 DTEND;TZID=Europe/Berlin:20261125T121500
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -4994,7 +5115,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26_1000_24_winterpunsch_fiesta_echtzeit_theater_aus_munster_mee
  rwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261126T100000
 DTEND;TZID=Europe/Berlin:20261126T110000
 SUMMARY:24. WINTERPUNSCH: FIESTA – echtzeit-theater aus Münster
@@ -5018,7 +5139,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28_1200_qi_gong_seminar_meditation_leitung_volker_nowak_von_der
  _way_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261128T120000
 DTEND;TZID=Europe/Berlin:20261128T190000
 SUMMARY:Qi Gong – Seminar: Meditation – Leitung: Volker Nowak-von der Way
@@ -5042,7 +5163,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261202T090000
 DTEND;TZID=Europe/Berlin:20261202T103000
 SUMMARY:Eltern-Baby-Kurs Geb. Jan./Febr. 2026 Hiltrup
@@ -5063,7 +5184,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261202T090000
 DTEND;TZID=Europe/Berlin:20261202T103000
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -5084,7 +5205,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261202T104500
 DTEND;TZID=Europe/Berlin:20261202T121500
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -5105,7 +5226,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwies
  e_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261204T100000
 DTEND;TZID=Europe/Berlin:20261204T120000
 SUMMARY:TanzXchange – Freie Tanzszene Münster – OPEN CLASS
@@ -5129,7 +5250,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04_1600_qualifizierung_zum_verfahrensbeistand_sect_158_famfg_fb
  f_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261204T160000
 DTEND;TZID=Europe/Berlin:20261204T200000
 SUMMARY:Qualifizierung zum Verfahrensbeistand &sect\;158 FamFG
@@ -5150,7 +5271,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261205T090000
 DTEND;TZID=Europe/Berlin:20261205T111500
 SUMMARY:Eltern-Baby-Kurs Geb. Jan./Febr. 2026 Hiltrup
@@ -5171,7 +5292,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261205T090000
 DTEND;TZID=Europe/Berlin:20261205T111500
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -5192,7 +5313,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05_0930_qualifizierung_zum_verfahrensbeistand_sect_158_famfg_fb
  f_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261205T093000
 DTEND;TZID=Europe/Berlin:20261205T170000
 SUMMARY:Qualifizierung zum Verfahrensbeistand &sect\;158 FamFG
@@ -5213,7 +5334,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261205T104500
 DTEND;TZID=Europe/Berlin:20261205T130000
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -5234,7 +5355,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05_1500_workshop_auf_clownsentdeckung_in_dir_selbst_ein_clown_w
  orkshop_mit_clown_fidelid_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261205T150000
 DTEND;TZID=Europe/Berlin:20261205T220000
 SUMMARY:Workshop: Auf Clownsentdeckung in dir selbst – Ein Clown-Workshop m
@@ -5260,7 +5381,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261206T090000
 DTEND;TZID=Europe/Berlin:20261206T111500
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -5281,7 +5402,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06_1000_workshop_auf_clownsentdeckung_in_dir_selbst_ein_clown_w
  orkshop_mit_clown_fidelid_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261206T100000
 DTEND;TZID=Europe/Berlin:20261206T170000
 SUMMARY:Workshop: Auf Clownsentdeckung in dir selbst – Ein Clown-Workshop m
@@ -5307,7 +5428,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261206T104500
 DTEND;TZID=Europe/Berlin:20261206T130000
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -5328,7 +5449,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06_1530_24_winterpunsch_pendulum_mneme_kollektiv_aus_munster_me
  erwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261206T153000
 DTEND;TZID=Europe/Berlin:20261206T163000
 SUMMARY:24. WINTERPUNSCH: Pendulum – MNEME kollektiv aus Münster
@@ -5352,7 +5473,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07_1000_24_winterpunsch_pendulum_mneme_kollektiv_aus_munster_me
  erwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261207T100000
 DTEND;TZID=Europe/Berlin:20261207T110000
 SUMMARY:24. WINTERPUNSCH: Pendulum – MNEME kollektiv aus Münster
@@ -5376,7 +5497,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08_1000_24_winterpunsch_pendulum_mneme_kollektiv_aus_munster_me
  erwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261208T100000
 DTEND;TZID=Europe/Berlin:20261208T110000
 SUMMARY:24. WINTERPUNSCH: Pendulum – MNEME kollektiv aus Münster
@@ -5400,7 +5521,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09_0900_eltern_baby_kurs_geb_jan_febr_2026_hiltrup_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261209T090000
 DTEND;TZID=Europe/Berlin:20261209T103000
 SUMMARY:Eltern-Baby-Kurs Geb. Jan./Febr. 2026 Hiltrup
@@ -5421,7 +5542,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09_0900_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261209T090000
 DTEND;TZID=Europe/Berlin:20261209T103000
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -5442,7 +5563,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09_1000_24_winterpunsch_pendulum_mneme_kollektiv_aus_munster_me
  erwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261209T100000
 DTEND;TZID=Europe/Berlin:20261209T110000
 SUMMARY:24. WINTERPUNSCH: Pendulum – MNEME kollektiv aus Münster
@@ -5466,7 +5587,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09_1045_entdecker_spielgruppe_fur_kinder_1_2_jahre_fbf_friedens
  strasse_coerde@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261209T104500
 DTEND;TZID=Europe/Berlin:20261209T121500
 SUMMARY:Entdecker-Spielgruppe für Kinder 1-2 Jahre
@@ -5487,7 +5608,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13_1700_jazziges_weihnachtskonzert_mit_gedichten_und_geschichte
  n_jeanette_lewe_gesang_un_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261213T170000
 DTEND;TZID=Europe/Berlin:20261213T190000
 SUMMARY:Jazziges Weihnachtskonzert mit Gedichten und Geschichten – Jeanette
@@ -5514,7 +5635,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17_1000_24_winterpunsch_alice_im_wunderland_fetter_fisch_perfor
  mance_theater_aus_munster_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261217T100000
 DTEND;TZID=Europe/Berlin:20261217T110000
 SUMMARY:24. WINTERPUNSCH: Alice im Wunderland – Fetter Fisch – Performance 
@@ -5540,7 +5661,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18_1000_24_winterpunsch_alice_im_wunderland_fetter_fisch_perfor
  mance_theater_aus_munster_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261218T100000
 DTEND;TZID=Europe/Berlin:20261218T110000
 SUMMARY:24. WINTERPUNSCH: Alice im Wunderland – Fetter Fisch – Performance 
@@ -5566,7 +5687,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18_1015_lesen_mit_kleinen_wesen_stadtbuecherei_coerde@coerde-ev
  ents
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20261218T101500
 DTEND;TZID=Europe/Berlin:20261218T101500
 SUMMARY:Lesen mit kleinen Wesen
@@ -5586,7 +5707,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17_1530_24_winterpunsch_impro_show_fur_kinder_7wiesen_aus_munst
  er_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20270117T153000
 DTEND;TZID=Europe/Berlin:20270117T163000
 SUMMARY:24. WINTERPUNSCH: Impro-Show für Kinder – 7Wiesen aus Münster
@@ -5610,7 +5731,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-18_1000_24_winterpunsch_impro_show_fur_kinder_7wiesen_aus_munst
  er_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20270118T100000
 DTEND;TZID=Europe/Berlin:20270118T110000
 SUMMARY:24. WINTERPUNSCH: Impro-Show für Kinder – 7Wiesen aus Münster
@@ -5634,7 +5755,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19_1000_24_winterpunsch_impro_show_fur_kinder_7wiesen_aus_munst
  er_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20270119T100000
 DTEND;TZID=Europe/Berlin:20270119T110000
 SUMMARY:24. WINTERPUNSCH: Impro-Show für Kinder – 7Wiesen aus Münster
@@ -5658,7 +5779,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20_1000_24_winterpunsch_impro_show_fur_kinder_7wiesen_aus_munst
  er_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20270120T100000
 DTEND;TZID=Europe/Berlin:20270120T110000
 SUMMARY:24. WINTERPUNSCH: Impro-Show für Kinder – 7Wiesen aus Münster
@@ -5682,7 +5803,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_
  munster_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20270121T100000
 DTEND;TZID=Europe/Berlin:20270121T105000
 SUMMARY:24. WINTERPUNSCH: Ach du dickes Ei! – Theater Rosinante aus Münster
@@ -5706,7 +5827,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_
  munster_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20270122T100000
 DTEND;TZID=Europe/Berlin:20270122T105000
 SUMMARY:24. WINTERPUNSCH: Ach du dickes Ei! – Theater Rosinante aus Münster
@@ -5730,7 +5851,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24_1530_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_
  munster_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20270124T153000
 DTEND;TZID=Europe/Berlin:20270124T162000
 SUMMARY:24. WINTERPUNSCH: Ach du dickes Ei! – Theater Rosinante aus Münster
@@ -5754,7 +5875,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_
  munster_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20270125T100000
 DTEND;TZID=Europe/Berlin:20270125T105000
 SUMMARY:24. WINTERPUNSCH: Ach du dickes Ei! – Theater Rosinante aus Münster
@@ -5778,7 +5899,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_
  munster_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20270126T100000
 DTEND;TZID=Europe/Berlin:20270126T105000
 SUMMARY:24. WINTERPUNSCH: Ach du dickes Ei! – Theater Rosinante aus Münster
@@ -5802,7 +5923,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_
  munster_meerwiese_theater@coerde-events
-DTSTAMP:20260806T160659Z
+DTSTAMP:20260807T160640Z
 DTSTART;TZID=Europe/Berlin:20270127T100000
 DTEND;TZID=Europe/Berlin:20270127T105000
 SUMMARY:24. WINTERPUNSCH: Ach du dickes Ei! – Theater Rosinante aus Münster
