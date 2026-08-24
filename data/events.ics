@@ -7,115 +7,9 @@ X-WR-CALNAME:Coerde Events
 X-WR-CALDESC:Öffentliche Veranstaltungen in Münster-Coerde
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:2026-08-21_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_f
- bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260821T160615Z
-DTSTART;TZID=Europe/Berlin:20260821T093000
-DTEND;TZID=Europe/Berlin:20260821T140000
-SUMMARY:Sommerwaldexpedition - Tieren und Pflanzen auf der Spur
-LOCATION:Treffpunkt Parkplatz an der Dyckburgkirche\, Dyckburger Str. 224\,
-  48157 Münster\, Münster-Coerde
-DESCRIPTION:Für Kinder von 6 bis 10 Jahren! In dieser Woche wollen wir fors
- chen und spielen\, uns eine Hütte bauen und vielerlei Dinge aus Holz und a
- nderen Naturmaterialien fertigen. (fast ausgebucht)\nVeranstalter: Familie
- nBildung Friedensstraße\nQuelle: https://www.familienbildung-friedensstras
- se.de/kurssuche/kurs/Sommerwaldexpedition-Tieren-und-Pflanzen-auf-der-Spur
- /2602-3063
-URL:https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sommerwal
- dexpedition-Tieren-und-Pflanzen-auf-der-Spur/2602-3063
-CATEGORIES:Bildung / Familie / Stadtteil
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-08-21_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerd
- e@coerde-events
-DTSTAMP:20260821T160615Z
-DTSTART;TZID=Europe/Berlin:20260821T100000
-DTEND;TZID=Europe/Berlin:20260821T120000
-SUMMARY:Mütter-Treff Coerde
-LOCATION:Kita „wert-voll“\, Kiesekampweg 8\, Münster-Coerde\, Münster-Coerd
- e
-DESCRIPTION:Wöchentlicher Treff für Mütter mit Babys und Kleinkindern zum A
- ustausch\, gemeinsamen Frühstück\, Spielen\, Singen und Basteln mit pädago
- gischer Unterstützung.\nVeranstalter: Initiative ChaCK e.V.\nQuelle: https
- ://initiative-chack.de/projekte/muetter-treff-coerde/
-URL:https://initiative-chack.de/projekte/muetter-treff-coerde/
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-08-21_ganztag_gemeinsam_sichtbar_stark_madchen_aus_coerde_gsmc_woc
- hentlich_iriba_brunnen_termine@coerde-events
-DTSTAMP:20260821T160615Z
-DTSTART;TZID=Europe/Berlin:20260821T163000
-DTEND;TZID=Europe/Berlin:20260821T180000
-SUMMARY:Gemeinsam sichtbar & stark – Mädchen aus Coerde (GSMC) (wöchentlich
- )
-LOCATION:coerde mittendrin\, Königsberger Straße 8\, 48157 Münster\, Münste
- r-Coerde
-DESCRIPTION:Wöchentliches Treffen für Mädchen aus Coerde zur Stärkung und S
- ichtbarkeit im Stadtteil.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https
- ://www.iriba-brunnen.de/termine-archiv/gemeinsam-sichtbar-stark-maedchen-a
- us-coerde-gsmc/
-URL:https://www.iriba-brunnen.de/termine-archiv/gemeinsam-sichtbar-stark-ma
- edchen-aus-coerde-gsmc/
-CATEGORIES:Stadtteil / Begegnung / Engagement
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-08-21_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mitt
- endrin@coerde-events
-DTSTAMP:20260821T160615Z
-DTSTART;TZID=Europe/Berlin:20260821T170000
-DTEND;TZID=Europe/Berlin:20260821T190000
-SUMMARY:Offener Spieletreff (2. & 4. Montag im Monat)
-LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
- de\, Münster-Coerde
-DESCRIPTION:Offener Spieletreff (2. & 4. Montag im Monat): wöchentliches An
- gebot jeden Freitag im AWO Coerde mittendrin der AWO in Münster-Coerde.\nV
- eranstalter: AWO Coerde mittendrin\nQuelle: https://www.awo-msl-re.de/einr
- ichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a448
- 5
-URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34
- b25336-4aca-11f1-bfc6-c7cf9d9a4485
-CATEGORIES:Stadtteil / Begegnung / Beratung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-08-22_1500_nachhilfeangebot_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260821T160615Z
-DTSTART;TZID=Europe/Berlin:20260822T150000
-DTEND;TZID=Europe/Berlin:20260822T170000
-SUMMARY:Nachhilfeangebot
-LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
- de\, Münster-Coerde
-DESCRIPTION:Nachhilfeangebot: wöchentliches Angebot jeden Samstag im AWO Co
- erde mittendrin der AWO in Münster-Coerde.\nVeranstalter: AWO Coerde mitte
- ndrin\nQuelle: https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?dow
- nloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485
-URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34
- b25336-4aca-11f1-bfc6-c7cf9d9a4485
-CATEGORIES:Stadtteil / Begegnung / Beratung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-08-23_1100_gottesdienst_in_der_markuskirche_andreas_kirchengemeind
- e_startseite@coerde-events
-DTSTAMP:20260821T160615Z
-DTSTART;TZID=Europe/Berlin:20260823T110000
-DTEND;TZID=Europe/Berlin:20260823T110000
-SUMMARY:Gottesdienst in der Markuskirche
-LOCATION:Markuskirche\, Münster-Coerde
-DESCRIPTION:Gottesdienst in der Markuskirche im Rahmen der Sommerkirche um 
- 11:00 Uhr.\nVeranstalter: Ev. Andreas-Kirchengemeinde Münster-Coerde\nQuel
- le: https://www.andreas-kirchengemeinde-muenster.de/
-URL:https://www.andreas-kirchengemeinde-muenster.de/
-CATEGORIES:Kirche / Stadtteil / Begegnung
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-08-24_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260824T093000
 DTEND;TZID=Europe/Berlin:20260824T140000
 SUMMARY:Sommerwaldexpedition - Tieren und Pflanzen auf der Spur
@@ -135,7 +29,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-24_0930_waldabenteurer_unterwegs_kinder_von_6_10_jahren_fbf_fri
  edensstrasse_coerde@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260824T093000
 DTEND;TZID=Europe/Berlin:20260824T140000
 SUMMARY:Waldabenteurer unterwegs - Kinder von 6-10 Jahren
@@ -155,7 +49,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-24_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_al
  ter_werden_in_coerde_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260824T143000
 DTEND;TZID=Europe/Berlin:20260824T170000
 SUMMARY:Offener Spieletreff für Senior*innen / Doppelkopfrunde "Älter werde
@@ -175,7 +69,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-25_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260825T093000
 DTEND;TZID=Europe/Berlin:20260825T140000
 SUMMARY:Sommerwaldexpedition - Tieren und Pflanzen auf der Spur
@@ -195,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-25_0930_waldabenteurer_unterwegs_kinder_von_6_10_jahren_fbf_fri
  edensstrasse_coerde@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260825T093000
 DTEND;TZID=Europe/Berlin:20260825T140000
 SUMMARY:Waldabenteurer unterwegs - Kinder von 6-10 Jahren
@@ -215,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-25_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_
  coerde_mittendrin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260825T110000
 DTEND;TZID=Europe/Berlin:20260825T140000
 SUMMARY:Kochprojekt „Gemeinsam am Herd – Rezepte ohne Grenzen“
@@ -234,23 +128,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-26_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_mi
  grationsberatung_mbe@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260826T090000
 DTEND;TZID=Europe/Berlin:20260826T150000
 SUMMARY:Migrationsberatung (MBE) in Münster-Coerde
 LOCATION:DRK Münster – Migrationsberatung\, Hamannplatz 26/28\, 48157 Münst
  er-Coerde\, Münster-Coerde
 DESCRIPTION:Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte 
- ab 28 Jahren\, mittwochs von 9 bis 15 Uhr am Standort Hamannplatz 26/28 in
-  Münster-Coerde.\nVeranstalter: Deutsches Rotes Kreuz Münster\nQuelle: htt
- ps://www.drk-muenster.de/angebot/migrationsberatung.html
+ ab 28 Jahren mit Unterstützung bei Integrationsprozessen\, behördlichen An
+ gelegenheiten und sozialer Teilhabe.\nVeranstalter: Deutsches Rotes Kreuz 
+ Münster\nQuelle: https://www.drk-muenster.de/angebot/migrationsberatung.ht
+ ml
 URL:https://www.drk-muenster.de/angebot/migrationsberatung.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-26_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260826T093000
 DTEND;TZID=Europe/Berlin:20260826T140000
 SUMMARY:Sommerwaldexpedition - Tieren und Pflanzen auf der Spur
@@ -270,7 +165,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-26_0930_waldabenteurer_unterwegs_kinder_von_6_10_jahren_fbf_fri
  edensstrasse_coerde@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260826T093000
 DTEND;TZID=Europe/Berlin:20260826T140000
 SUMMARY:Waldabenteurer unterwegs - Kinder von 6-10 Jahren
@@ -290,7 +185,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-26_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_a
  wo_coerde_mittendrin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260826T100000
 DTEND;TZID=Europe/Berlin:20260826T120000
 SUMMARY:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615)
@@ -309,36 +204,35 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-26_1300_wochentliche_offene_beratungszeit_empowerment_rassismus
  kritik_nachhaltigkeit_koo_iriba_brunnen_termine@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260826T130000
 DTEND;TZID=Europe/Berlin:20260826T150000
 SUMMARY:Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik /
   Nachhaltigkeit & Kooperationen
 LOCATION:coerde mittendrin\, Königsberger Straße 8\, 48157 Münster\, Münste
  r-Coerde
-DESCRIPTION:Wöchentliche offene Beratungszeit zu Empowerment\, Rassismuskri
- tik\, Nachhaltigkeit und Kooperationen in Coerde.\nVeranstalter: Iriba-Bru
- nnen e.V.\nQuelle: https://www.iriba-brunnen.de/termine-archiv/woechentlic
- he-offene-beratungszeit-empowerment-rassismuskritik-nachhaltigkeit-koopera
- tionen/
+DESCRIPTION:Regelmäßige offene Beratungszeit zu Empowerment\, Rassismuskrit
+ ik\, Nachhaltigkeit und Kooperationen.\nVeranstalter: Iriba-Brunnen e.V.\n
+ Quelle: https://www.iriba-brunnen.de/termine-archiv/woechentliche-offene-b
+ eratungszeit-empowerment-rassismuskritik-nachhaltigkeit-kooperationen/
 URL:https://www.iriba-brunnen.de/termine-archiv/woechentliche-offene-beratu
  ngszeit-empowerment-rassismuskritik-nachhaltigkeit-kooperationen/
 CATEGORIES:Stadtteil / Begegnung / Engagement
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-26_1800_heimat_remixed_musik_der_kulturen_iriba_brunnen_termine
- @coerde-events
-DTSTAMP:20260821T160615Z
+UID:2026-08-26_ganztag_heimat_remixed_musik_der_kulturen_iriba_brunnen_term
+ ine@coerde-events
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260826T180000
 DTEND;TZID=Europe/Berlin:20260826T203000
 SUMMARY:Heimat remixed – Musik der Kulturen
 LOCATION:Franziskushaus in Coerde\, Schneidemühlerstr. 23\, 48157 Münster\,
   Münster-Coerde
-DESCRIPTION:Musikalische Veranstaltung mit dem Thema Heimat und kulturelle 
- Vielfalt im Franziskushaus in Coerde.\nVeranstalter: Iriba-Brunnen e.V.\nQ
- uelle: https://www.iriba-brunnen.de/termine-archiv/https-www-iriba-brunnen
- -de-termine-archiv-heimat-remixed-musik-der-kulturen/
+DESCRIPTION:Wöchentliche Veranstaltung mit Musik aus verschiedenen Kulturen
+  im Franziskushaus Coerde.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: http
+ s://www.iriba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-termine
+ -archiv-heimat-remixed-musik-der-kulturen/
 URL:https://www.iriba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-
  termine-archiv-heimat-remixed-musik-der-kulturen/
 CATEGORIES:Stadtteil / Begegnung / Engagement
@@ -347,7 +241,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-27_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260827T093000
 DTEND;TZID=Europe/Berlin:20260827T140000
 SUMMARY:Sommerwaldexpedition - Tieren und Pflanzen auf der Spur
@@ -367,7 +261,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-27_0930_waldabenteurer_unterwegs_kinder_von_6_10_jahren_fbf_fri
  edensstrasse_coerde@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260827T093000
 DTEND;TZID=Europe/Berlin:20260827T140000
 SUMMARY:Waldabenteurer unterwegs - Kinder von 6-10 Jahren
@@ -387,7 +281,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-27_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mitten
  drin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260827T110000
 DTEND;TZID=Europe/Berlin:20260827T130000
 SUMMARY:Offene Sprechstunde „coerde mittendrin“
@@ -405,7 +299,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-28_0930_sommerwaldexpedition_tieren_und_pflanzen_auf_der_spur_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260828T093000
 DTEND;TZID=Europe/Berlin:20260828T140000
 SUMMARY:Sommerwaldexpedition - Tieren und Pflanzen auf der Spur
@@ -425,7 +319,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-28_0930_waldabenteurer_unterwegs_kinder_von_6_10_jahren_fbf_fri
  edensstrasse_coerde@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260828T093000
 DTEND;TZID=Europe/Berlin:20260828T140000
 SUMMARY:Waldabenteurer unterwegs - Kinder von 6-10 Jahren
@@ -445,33 +339,33 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-28_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerd
  e@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260828T100000
 DTEND;TZID=Europe/Berlin:20260828T120000
 SUMMARY:Mütter-Treff Coerde
 LOCATION:Kita „wert-voll“\, Kiesekampweg 8\, Münster-Coerde\, Münster-Coerd
  e
 DESCRIPTION:Wöchentlicher Treff für Mütter mit Babys und Kleinkindern zum A
- ustausch\, gemeinsamen Frühstück\, Spielen\, Singen und Basteln mit pädago
- gischer Unterstützung.\nVeranstalter: Initiative ChaCK e.V.\nQuelle: https
- ://initiative-chack.de/projekte/muetter-treff-coerde/
+ ustausch\, Spielen\, Singen und Basteln mit pädagogischer Unterstützung in
+  der Kita „wert-voll“ im Kiesekamp-Quartier.\nVeranstalter: Initiative Cha
+ CK e.V.\nQuelle: https://initiative-chack.de/projekte/muetter-treff-coerde
+ /
 URL:https://initiative-chack.de/projekte/muetter-treff-coerde/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-28_ganztag_gemeinsam_sichtbar_stark_madchen_aus_coerde_gsmc_woc
- hentlich_iriba_brunnen_termine@coerde-events
-DTSTAMP:20260821T160615Z
+UID:2026-08-28_ganztag_gemeinsam_sichtbar_stark_madchen_aus_coerde_gsmc_iri
+ ba_brunnen_termine@coerde-events
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260828T163000
 DTEND;TZID=Europe/Berlin:20260828T180000
-SUMMARY:Gemeinsam sichtbar & stark – Mädchen aus Coerde (GSMC) (wöchentlich
- )
+SUMMARY:Gemeinsam sichtbar & stark – Mädchen aus Coerde (GSMC)
 LOCATION:coerde mittendrin\, Königsberger Straße 8\, 48157 Münster\, Münste
  r-Coerde
 DESCRIPTION:Wöchentliches Treffen für Mädchen aus Coerde zur Stärkung und S
- ichtbarkeit im Stadtteil.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https
- ://www.iriba-brunnen.de/termine-archiv/gemeinsam-sichtbar-stark-maedchen-a
- us-coerde-gsmc/
+ ichtbarkeit.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https://www.iriba-
+ brunnen.de/termine-archiv/gemeinsam-sichtbar-stark-maedchen-aus-coerde-gsm
+ c/
 URL:https://www.iriba-brunnen.de/termine-archiv/gemeinsam-sichtbar-stark-ma
  edchen-aus-coerde-gsmc/
 CATEGORIES:Stadtteil / Begegnung / Engagement
@@ -480,7 +374,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-28_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mitt
  endrin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260828T170000
 DTEND;TZID=Europe/Berlin:20260828T190000
 SUMMARY:Offener Spieletreff (2. & 4. Montag im Monat)
@@ -498,7 +392,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-29_1500_nachhilfeangebot_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260829T150000
 DTEND;TZID=Europe/Berlin:20260829T170000
 SUMMARY:Nachhilfeangebot
@@ -514,16 +408,17 @@ CATEGORIES:Stadtteil / Begegnung / Beratung
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-08-30_1100_gottesdienst_in_der_andreaskirche_andreas_kirchengemein
+UID:2026-08-30_1100_sommerkirche_in_der_andreaskirche_andreas_kirchengemein
  de_startseite@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260830T110000
 DTEND;TZID=Europe/Berlin:20260830T110000
-SUMMARY:Gottesdienst in der Andreaskirche
+SUMMARY:Sommerkirche in der Andreaskirche
 LOCATION:Andreaskirche\, Münster-Coerde
-DESCRIPTION:Gottesdienst in der Andreaskirche im Rahmen der Sommerkirche um
-  11:00 Uhr.\nVeranstalter: Ev. Andreas-Kirchengemeinde Münster-Coerde\nQue
- lle: https://www.andreas-kirchengemeinde-muenster.de/
+DESCRIPTION:Sommerkirche-Gottesdienst in der Andreaskirche am 30. August um
+  11:00 Uhr\, im zweiwöchigen Wechsel mit der Markuskirche.\nVeranstalter: 
+ Ev. Andreas-Kirchengemeinde Münster-Coerde\nQuelle: https://www.andreas-ki
+ rchengemeinde-muenster.de/
 URL:https://www.andreas-kirchengemeinde-muenster.de/
 CATEGORIES:Kirche / Stadtteil / Begegnung
 STATUS:CONFIRMED
@@ -531,7 +426,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-31_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_al
  ter_werden_in_coerde_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260831T143000
 DTEND;TZID=Europe/Berlin:20260831T170000
 SUMMARY:Offener Spieletreff für Senior*innen / Doppelkopfrunde "Älter werde
@@ -551,7 +446,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-01_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_
  coerde_mittendrin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260901T110000
 DTEND;TZID=Europe/Berlin:20260901T140000
 SUMMARY:Kochprojekt „Gemeinsam am Herd – Rezepte ohne Grenzen“
@@ -570,23 +465,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_mi
  grationsberatung_mbe@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260902T090000
 DTEND;TZID=Europe/Berlin:20260902T150000
 SUMMARY:Migrationsberatung (MBE) in Münster-Coerde
 LOCATION:DRK Münster – Migrationsberatung\, Hamannplatz 26/28\, 48157 Münst
  er-Coerde\, Münster-Coerde
 DESCRIPTION:Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte 
- ab 28 Jahren\, mittwochs von 9 bis 15 Uhr am Standort Hamannplatz 26/28 in
-  Münster-Coerde.\nVeranstalter: Deutsches Rotes Kreuz Münster\nQuelle: htt
- ps://www.drk-muenster.de/angebot/migrationsberatung.html
+ ab 28 Jahren mit Unterstützung bei Integrationsprozessen\, behördlichen An
+ gelegenheiten und sozialer Teilhabe.\nVeranstalter: Deutsches Rotes Kreuz 
+ Münster\nQuelle: https://www.drk-muenster.de/angebot/migrationsberatung.ht
+ ml
 URL:https://www.drk-muenster.de/angebot/migrationsberatung.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_a
  wo_coerde_mittendrin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260902T100000
 DTEND;TZID=Europe/Berlin:20260902T120000
 SUMMARY:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615)
@@ -605,36 +501,35 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-02_1300_wochentliche_offene_beratungszeit_empowerment_rassismus
  kritik_nachhaltigkeit_koo_iriba_brunnen_termine@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260902T130000
 DTEND;TZID=Europe/Berlin:20260902T150000
 SUMMARY:Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik /
   Nachhaltigkeit & Kooperationen
 LOCATION:coerde mittendrin\, Königsberger Straße 8\, 48157 Münster\, Münste
  r-Coerde
-DESCRIPTION:Wöchentliche offene Beratungszeit zu Empowerment\, Rassismuskri
- tik\, Nachhaltigkeit und Kooperationen in Coerde.\nVeranstalter: Iriba-Bru
- nnen e.V.\nQuelle: https://www.iriba-brunnen.de/termine-archiv/woechentlic
- he-offene-beratungszeit-empowerment-rassismuskritik-nachhaltigkeit-koopera
- tionen/
+DESCRIPTION:Regelmäßige offene Beratungszeit zu Empowerment\, Rassismuskrit
+ ik\, Nachhaltigkeit und Kooperationen.\nVeranstalter: Iriba-Brunnen e.V.\n
+ Quelle: https://www.iriba-brunnen.de/termine-archiv/woechentliche-offene-b
+ eratungszeit-empowerment-rassismuskritik-nachhaltigkeit-kooperationen/
 URL:https://www.iriba-brunnen.de/termine-archiv/woechentliche-offene-beratu
  ngszeit-empowerment-rassismuskritik-nachhaltigkeit-kooperationen/
 CATEGORIES:Stadtteil / Begegnung / Engagement
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-02_ganztag_heimat_remixed_musik_der_kulturen_wochentlich_iriba_
- brunnen_termine@coerde-events
-DTSTAMP:20260821T160615Z
+UID:2026-09-02_ganztag_heimat_remixed_musik_der_kulturen_iriba_brunnen_term
+ ine@coerde-events
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260902T180000
 DTEND;TZID=Europe/Berlin:20260902T203000
-SUMMARY:Heimat remixed – Musik der Kulturen (wöchentlich)
+SUMMARY:Heimat remixed – Musik der Kulturen
 LOCATION:Franziskushaus in Coerde\, Schneidemühlerstr. 23\, 48157 Münster\,
   Münster-Coerde
-DESCRIPTION:Wöchentliche Veranstaltung mit Musik der Kulturen im Franziskus
- haus in Coerde.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https://www.iri
- ba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-termine-archiv-hei
- mat-remixed-musik-der-kulturen/
+DESCRIPTION:Wöchentliche Veranstaltung mit Musik aus verschiedenen Kulturen
+  im Franziskushaus Coerde.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: http
+ s://www.iriba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-termine
+ -archiv-heimat-remixed-musik-der-kulturen/
 URL:https://www.iriba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-
  termine-archiv-heimat-remixed-musik-der-kulturen/
 CATEGORIES:Stadtteil / Begegnung / Engagement
@@ -643,7 +538,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-03_1200_polizeisprechstunde_coerde_mittendrin_awo_coerde_mitten
  drin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260903T120000
 DTEND;TZID=Europe/Berlin:20260903T130000
 SUMMARY:Polizeisprechstunde „coerde-mittendrin“
@@ -662,23 +557,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerd
  e@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260904T100000
 DTEND;TZID=Europe/Berlin:20260904T120000
 SUMMARY:Mütter-Treff Coerde
 LOCATION:Kita „wert-voll“\, Kiesekampweg 8\, Münster-Coerde\, Münster-Coerd
  e
 DESCRIPTION:Wöchentlicher Treff für Mütter mit Babys und Kleinkindern zum A
- ustausch\, gemeinsamen Frühstück\, Spielen\, Singen und Basteln mit pädago
- gischer Unterstützung.\nVeranstalter: Initiative ChaCK e.V.\nQuelle: https
- ://initiative-chack.de/projekte/muetter-treff-coerde/
+ ustausch\, Spielen\, Singen und Basteln mit pädagogischer Unterstützung in
+  der Kita „wert-voll“ im Kiesekamp-Quartier.\nVeranstalter: Initiative Cha
+ CK e.V.\nQuelle: https://initiative-chack.de/projekte/muetter-treff-coerde
+ /
 URL:https://initiative-chack.de/projekte/muetter-treff-coerde/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwies
  e_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260904T100000
 DTEND;TZID=Europe/Berlin:20260904T120000
 SUMMARY:TanzXchange – Freie Tanzszene Münster – OPEN CLASS
@@ -700,19 +596,18 @@ CATEGORIES:Theater / Kultur / Tanz / Kinderkultur
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-04_ganztag_gemeinsam_sichtbar_stark_madchen_aus_coerde_gsmc_woc
- hentlich_iriba_brunnen_termine@coerde-events
-DTSTAMP:20260821T160615Z
+UID:2026-09-04_ganztag_gemeinsam_sichtbar_stark_madchen_aus_coerde_gsmc_iri
+ ba_brunnen_termine@coerde-events
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260904T163000
 DTEND;TZID=Europe/Berlin:20260904T180000
-SUMMARY:Gemeinsam sichtbar & stark – Mädchen aus Coerde (GSMC) (wöchentlich
- )
+SUMMARY:Gemeinsam sichtbar & stark – Mädchen aus Coerde (GSMC)
 LOCATION:coerde mittendrin\, Königsberger Straße 8\, 48157 Münster\, Münste
  r-Coerde
 DESCRIPTION:Wöchentliches Treffen für Mädchen aus Coerde zur Stärkung und S
- ichtbarkeit im Stadtteil.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https
- ://www.iriba-brunnen.de/termine-archiv/gemeinsam-sichtbar-stark-maedchen-a
- us-coerde-gsmc/
+ ichtbarkeit.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https://www.iriba-
+ brunnen.de/termine-archiv/gemeinsam-sichtbar-stark-maedchen-aus-coerde-gsm
+ c/
 URL:https://www.iriba-brunnen.de/termine-archiv/gemeinsam-sichtbar-stark-ma
  edchen-aus-coerde-gsmc/
 CATEGORIES:Stadtteil / Begegnung / Engagement
@@ -721,7 +616,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mitt
  endrin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260904T170000
 DTEND;TZID=Europe/Berlin:20260904T190000
 SUMMARY:Offener Spieletreff (2. & 4. Montag im Monat)
@@ -739,16 +634,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-04_1900_die_lofoten_eckels_kladde_events@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260904T190000
 DTEND;TZID=Europe/Berlin:20260904T190000
 SUMMARY:Die Lofoten
 LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Multimediale Präsentation über die Lofoten mit einem einzigarti
- gen 3-Gang-Menü in Münster-Coerde.\nVeranstalter: Eckels Kladde\nQuelle: h
- ttps://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster/p
- roducts/die-lofoten-04-09-26-19-uhr-multimediale-prasentation-mit-einzigar
- tigem-3-gang-menu
+DESCRIPTION:Multimediale Präsentation mit einem einzigartigen 3-Gang-Menü i
+ n Münster-Coerde.\nVeranstalter: Eckels Kladde\nQuelle: https://www.eckels
+ -kladde.de/collections/alle-kurse-und-events-in-munster/products/die-lofot
+ en-04-09-26-19-uhr-multimediale-prasentation-mit-einzigartigem-3-gang-menu
 URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
  er/products/die-lofoten-04-09-26-19-uhr-multimediale-prasentation-mit-einz
  igartigem-3-gang-menu
@@ -758,7 +652,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05_0930_gemeinsames_fruhstuck_awo_coerde_mittendrin@coerde-even
  ts
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260905T093000
 DTEND;TZID=Europe/Berlin:20260905T113000
 SUMMARY:Gemeinsames Frühstück
@@ -776,15 +670,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-05_1430_fest_der_vielfalt_2026_iriba_brunnen_termine@coerde-eve
  nts
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260905T143000
 DTEND;TZID=Europe/Berlin:20260905T210000
 SUMMARY:Fest der Vielfalt 2026
 LOCATION:Franziskushaus in Coerde\, Schneidemühlerstr. 23\, 48157 Münster\,
   Münster-Coerde
-DESCRIPTION:Fest der Vielfalt mit verschiedenen kulturellen Angeboten und B
- egegnungen im Franziskushaus in Coerde.\nVeranstalter: Iriba-Brunnen e.V.\
- nQuelle: https://www.iriba-brunnen.de/termine-archiv/fest-der-vielfalt/
+DESCRIPTION:Feierliches Fest zur Vielfalt mit verschiedenen kulturellen Bei
+ trägen in Coerde.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https://www.i
+ riba-brunnen.de/termine-archiv/fest-der-vielfalt/
 URL:https://www.iriba-brunnen.de/termine-archiv/fest-der-vielfalt/
 CATEGORIES:Stadtteil / Begegnung / Engagement
 STATUS:CONFIRMED
@@ -792,7 +686,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-06_1200_qi_gong_seminar_die_wandlungsphase_metall_ubungen_fur_d
  ie_lunge_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260906T120000
 DTEND;TZID=Europe/Berlin:20260906T190000
 SUMMARY:Qi Gong-Seminar: Die Wandlungsphase Metall – Übungen für die Lunge
@@ -816,7 +710,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-07_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_al
  ter_werden_in_coerde_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260907T143000
 DTEND;TZID=Europe/Berlin:20260907T170000
 SUMMARY:Offener Spieletreff für Senior*innen / Doppelkopfrunde "Älter werde
@@ -836,7 +730,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-08_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_
  coerde_mittendrin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260908T110000
 DTEND;TZID=Europe/Berlin:20260908T140000
 SUMMARY:Kochprojekt „Gemeinsam am Herd – Rezepte ohne Grenzen“
@@ -855,23 +749,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_mi
  grationsberatung_mbe@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260909T090000
 DTEND;TZID=Europe/Berlin:20260909T150000
 SUMMARY:Migrationsberatung (MBE) in Münster-Coerde
 LOCATION:DRK Münster – Migrationsberatung\, Hamannplatz 26/28\, 48157 Münst
  er-Coerde\, Münster-Coerde
 DESCRIPTION:Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte 
- ab 28 Jahren\, mittwochs von 9 bis 15 Uhr am Standort Hamannplatz 26/28 in
-  Münster-Coerde.\nVeranstalter: Deutsches Rotes Kreuz Münster\nQuelle: htt
- ps://www.drk-muenster.de/angebot/migrationsberatung.html
+ ab 28 Jahren mit Unterstützung bei Integrationsprozessen\, behördlichen An
+ gelegenheiten und sozialer Teilhabe.\nVeranstalter: Deutsches Rotes Kreuz 
+ Münster\nQuelle: https://www.drk-muenster.de/angebot/migrationsberatung.ht
+ ml
 URL:https://www.drk-muenster.de/angebot/migrationsberatung.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_a
  wo_coerde_mittendrin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260909T100000
 DTEND;TZID=Europe/Berlin:20260909T120000
 SUMMARY:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615)
@@ -890,36 +785,35 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-09_1300_wochentliche_offene_beratungszeit_empowerment_rassismus
  kritik_nachhaltigkeit_koo_iriba_brunnen_termine@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260909T130000
 DTEND;TZID=Europe/Berlin:20260909T150000
 SUMMARY:Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik /
   Nachhaltigkeit & Kooperationen
 LOCATION:coerde mittendrin\, Königsberger Straße 8\, 48157 Münster\, Münste
  r-Coerde
-DESCRIPTION:Wöchentliche offene Beratungszeit zu Empowerment\, Rassismuskri
- tik\, Nachhaltigkeit und Kooperationen in Coerde.\nVeranstalter: Iriba-Bru
- nnen e.V.\nQuelle: https://www.iriba-brunnen.de/termine-archiv/woechentlic
- he-offene-beratungszeit-empowerment-rassismuskritik-nachhaltigkeit-koopera
- tionen/
+DESCRIPTION:Regelmäßige offene Beratungszeit zu Empowerment\, Rassismuskrit
+ ik\, Nachhaltigkeit und Kooperationen.\nVeranstalter: Iriba-Brunnen e.V.\n
+ Quelle: https://www.iriba-brunnen.de/termine-archiv/woechentliche-offene-b
+ eratungszeit-empowerment-rassismuskritik-nachhaltigkeit-kooperationen/
 URL:https://www.iriba-brunnen.de/termine-archiv/woechentliche-offene-beratu
  ngszeit-empowerment-rassismuskritik-nachhaltigkeit-kooperationen/
 CATEGORIES:Stadtteil / Begegnung / Engagement
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-09_ganztag_heimat_remixed_musik_der_kulturen_wochentlich_iriba_
- brunnen_termine@coerde-events
-DTSTAMP:20260821T160615Z
+UID:2026-09-09_ganztag_heimat_remixed_musik_der_kulturen_iriba_brunnen_term
+ ine@coerde-events
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260909T180000
 DTEND;TZID=Europe/Berlin:20260909T203000
-SUMMARY:Heimat remixed – Musik der Kulturen (wöchentlich)
+SUMMARY:Heimat remixed – Musik der Kulturen
 LOCATION:Franziskushaus in Coerde\, Schneidemühlerstr. 23\, 48157 Münster\,
   Münster-Coerde
-DESCRIPTION:Wöchentliche Veranstaltung mit Musik der Kulturen im Franziskus
- haus in Coerde.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https://www.iri
- ba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-termine-archiv-hei
- mat-remixed-musik-der-kulturen/
+DESCRIPTION:Wöchentliche Veranstaltung mit Musik aus verschiedenen Kulturen
+  im Franziskushaus Coerde.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: http
+ s://www.iriba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-termine
+ -archiv-heimat-remixed-musik-der-kulturen/
 URL:https://www.iriba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-
  termine-archiv-heimat-remixed-musik-der-kulturen/
 CATEGORIES:Stadtteil / Begegnung / Engagement
@@ -928,7 +822,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-10_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mitten
  drin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260910T110000
 DTEND;TZID=Europe/Berlin:20260910T130000
 SUMMARY:Offene Sprechstunde „coerde mittendrin“
@@ -946,33 +840,33 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerd
  e@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260911T100000
 DTEND;TZID=Europe/Berlin:20260911T120000
 SUMMARY:Mütter-Treff Coerde
 LOCATION:Kita „wert-voll“\, Kiesekampweg 8\, Münster-Coerde\, Münster-Coerd
  e
 DESCRIPTION:Wöchentlicher Treff für Mütter mit Babys und Kleinkindern zum A
- ustausch\, gemeinsamen Frühstück\, Spielen\, Singen und Basteln mit pädago
- gischer Unterstützung.\nVeranstalter: Initiative ChaCK e.V.\nQuelle: https
- ://initiative-chack.de/projekte/muetter-treff-coerde/
+ ustausch\, Spielen\, Singen und Basteln mit pädagogischer Unterstützung in
+  der Kita „wert-voll“ im Kiesekamp-Quartier.\nVeranstalter: Initiative Cha
+ CK e.V.\nQuelle: https://initiative-chack.de/projekte/muetter-treff-coerde
+ /
 URL:https://initiative-chack.de/projekte/muetter-treff-coerde/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-11_ganztag_gemeinsam_sichtbar_stark_madchen_aus_coerde_gsmc_woc
- hentlich_iriba_brunnen_termine@coerde-events
-DTSTAMP:20260821T160615Z
+UID:2026-09-11_ganztag_gemeinsam_sichtbar_stark_madchen_aus_coerde_gsmc_iri
+ ba_brunnen_termine@coerde-events
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260911T163000
 DTEND;TZID=Europe/Berlin:20260911T180000
-SUMMARY:Gemeinsam sichtbar & stark – Mädchen aus Coerde (GSMC) (wöchentlich
- )
+SUMMARY:Gemeinsam sichtbar & stark – Mädchen aus Coerde (GSMC)
 LOCATION:coerde mittendrin\, Königsberger Straße 8\, 48157 Münster\, Münste
  r-Coerde
 DESCRIPTION:Wöchentliches Treffen für Mädchen aus Coerde zur Stärkung und S
- ichtbarkeit im Stadtteil.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https
- ://www.iriba-brunnen.de/termine-archiv/gemeinsam-sichtbar-stark-maedchen-a
- us-coerde-gsmc/
+ ichtbarkeit.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https://www.iriba-
+ brunnen.de/termine-archiv/gemeinsam-sichtbar-stark-maedchen-aus-coerde-gsm
+ c/
 URL:https://www.iriba-brunnen.de/termine-archiv/gemeinsam-sichtbar-stark-ma
  edchen-aus-coerde-gsmc/
 CATEGORIES:Stadtteil / Begegnung / Engagement
@@ -981,7 +875,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mitt
  endrin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260911T170000
 DTEND;TZID=Europe/Berlin:20260911T190000
 SUMMARY:Offener Spieletreff (2. & 4. Montag im Monat)
@@ -1000,7 +894,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-11_2000_splitter_and_be_julie_klos_aus_munster_meerwiese_theate
  r@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260911T200000
 DTEND;TZID=Europe/Berlin:20260911T210000
 SUMMARY:Splitter and BE! – Julie Klos aus Münster
@@ -1023,7 +917,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-12_1500_nachhilfeangebot_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260912T150000
 DTEND;TZID=Europe/Berlin:20260912T170000
 SUMMARY:Nachhilfeangebot
@@ -1041,7 +935,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-13_1530_die_clown_fidelidad_solo_show_clown_fidelidad_aus_munst
  er_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260913T153000
 DTEND;TZID=Europe/Berlin:20260913T163000
 SUMMARY:Die Clown-fidelidad-Solo-Show – Clown fidelidad aus Münster
@@ -1065,7 +959,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-13_1800_kammerkonzert_zwischen_esprit_und_leidenschaft_ein_sext
  ette_fur_holzblaserquinte_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260913T180000
 DTEND;TZID=Europe/Berlin:20260913T193000
 SUMMARY:Kammerkonzert: Zwischen Esprit und Leidenschaft – Ein Sextette für 
@@ -1089,7 +983,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-14_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_al
  ter_werden_in_coerde_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260914T143000
 DTEND;TZID=Europe/Berlin:20260914T170000
 SUMMARY:Offener Spieletreff für Senior*innen / Doppelkopfrunde "Älter werde
@@ -1109,7 +1003,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-15_1330_offene_beratungszeit_antidiskriminierungsarbeit_in_coer
  de_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260915T133000
 DTEND;TZID=Europe/Berlin:20260915T143000
 SUMMARY:Offene Beratungszeit: Antidiskriminierungsarbeit in Coerde
@@ -1128,23 +1022,24 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_mi
  grationsberatung_mbe@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260916T090000
 DTEND;TZID=Europe/Berlin:20260916T150000
 SUMMARY:Migrationsberatung (MBE) in Münster-Coerde
 LOCATION:DRK Münster – Migrationsberatung\, Hamannplatz 26/28\, 48157 Münst
  er-Coerde\, Münster-Coerde
 DESCRIPTION:Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte 
- ab 28 Jahren\, mittwochs von 9 bis 15 Uhr am Standort Hamannplatz 26/28 in
-  Münster-Coerde.\nVeranstalter: Deutsches Rotes Kreuz Münster\nQuelle: htt
- ps://www.drk-muenster.de/angebot/migrationsberatung.html
+ ab 28 Jahren mit Unterstützung bei Integrationsprozessen\, behördlichen An
+ gelegenheiten und sozialer Teilhabe.\nVeranstalter: Deutsches Rotes Kreuz 
+ Münster\nQuelle: https://www.drk-muenster.de/angebot/migrationsberatung.ht
+ ml
 URL:https://www.drk-muenster.de/angebot/migrationsberatung.html
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_a
  wo_coerde_mittendrin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260916T100000
 DTEND;TZID=Europe/Berlin:20260916T120000
 SUMMARY:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615)
@@ -1163,36 +1058,35 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-16_1300_wochentliche_offene_beratungszeit_empowerment_rassismus
  kritik_nachhaltigkeit_koo_iriba_brunnen_termine@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260916T130000
 DTEND;TZID=Europe/Berlin:20260916T150000
 SUMMARY:Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik /
   Nachhaltigkeit & Kooperationen
 LOCATION:coerde mittendrin\, Königsberger Straße 8\, 48157 Münster\, Münste
  r-Coerde
-DESCRIPTION:Wöchentliche offene Beratungszeit zu Empowerment\, Rassismuskri
- tik\, Nachhaltigkeit und Kooperationen in Coerde.\nVeranstalter: Iriba-Bru
- nnen e.V.\nQuelle: https://www.iriba-brunnen.de/termine-archiv/woechentlic
- he-offene-beratungszeit-empowerment-rassismuskritik-nachhaltigkeit-koopera
- tionen/
+DESCRIPTION:Regelmäßige offene Beratungszeit zu Empowerment\, Rassismuskrit
+ ik\, Nachhaltigkeit und Kooperationen.\nVeranstalter: Iriba-Brunnen e.V.\n
+ Quelle: https://www.iriba-brunnen.de/termine-archiv/woechentliche-offene-b
+ eratungszeit-empowerment-rassismuskritik-nachhaltigkeit-kooperationen/
 URL:https://www.iriba-brunnen.de/termine-archiv/woechentliche-offene-beratu
  ngszeit-empowerment-rassismuskritik-nachhaltigkeit-kooperationen/
 CATEGORIES:Stadtteil / Begegnung / Engagement
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-16_ganztag_heimat_remixed_musik_der_kulturen_wochentlich_iriba_
- brunnen_termine@coerde-events
-DTSTAMP:20260821T160615Z
+UID:2026-09-16_ganztag_heimat_remixed_musik_der_kulturen_iriba_brunnen_term
+ ine@coerde-events
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260916T180000
 DTEND;TZID=Europe/Berlin:20260916T203000
-SUMMARY:Heimat remixed – Musik der Kulturen (wöchentlich)
+SUMMARY:Heimat remixed – Musik der Kulturen
 LOCATION:Franziskushaus in Coerde\, Schneidemühlerstr. 23\, 48157 Münster\,
   Münster-Coerde
-DESCRIPTION:Wöchentliche Veranstaltung mit Musik der Kulturen im Franziskus
- haus in Coerde.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https://www.iri
- ba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-termine-archiv-hei
- mat-remixed-musik-der-kulturen/
+DESCRIPTION:Wöchentliche Veranstaltung mit Musik aus verschiedenen Kulturen
+  im Franziskushaus Coerde.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: http
+ s://www.iriba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-termine
+ -archiv-heimat-remixed-musik-der-kulturen/
 URL:https://www.iriba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-
  termine-archiv-heimat-remixed-musik-der-kulturen/
 CATEGORIES:Stadtteil / Begegnung / Engagement
@@ -1201,7 +1095,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-17_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mitten
  drin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260917T110000
 DTEND;TZID=Europe/Berlin:20260917T130000
 SUMMARY:Offene Sprechstunde „coerde mittendrin“
@@ -1219,33 +1113,33 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerd
  e@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260918T100000
 DTEND;TZID=Europe/Berlin:20260918T120000
 SUMMARY:Mütter-Treff Coerde
 LOCATION:Kita „wert-voll“\, Kiesekampweg 8\, Münster-Coerde\, Münster-Coerd
  e
 DESCRIPTION:Wöchentlicher Treff für Mütter mit Babys und Kleinkindern zum A
- ustausch\, gemeinsamen Frühstück\, Spielen\, Singen und Basteln mit pädago
- gischer Unterstützung.\nVeranstalter: Initiative ChaCK e.V.\nQuelle: https
- ://initiative-chack.de/projekte/muetter-treff-coerde/
+ ustausch\, Spielen\, Singen und Basteln mit pädagogischer Unterstützung in
+  der Kita „wert-voll“ im Kiesekamp-Quartier.\nVeranstalter: Initiative Cha
+ CK e.V.\nQuelle: https://initiative-chack.de/projekte/muetter-treff-coerde
+ /
 URL:https://initiative-chack.de/projekte/muetter-treff-coerde/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-09-18_ganztag_gemeinsam_sichtbar_stark_madchen_aus_coerde_gsmc_woc
- hentlich_iriba_brunnen_termine@coerde-events
-DTSTAMP:20260821T160615Z
+UID:2026-09-18_ganztag_gemeinsam_sichtbar_stark_madchen_aus_coerde_gsmc_iri
+ ba_brunnen_termine@coerde-events
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260918T163000
 DTEND;TZID=Europe/Berlin:20260918T180000
-SUMMARY:Gemeinsam sichtbar & stark – Mädchen aus Coerde (GSMC) (wöchentlich
- )
+SUMMARY:Gemeinsam sichtbar & stark – Mädchen aus Coerde (GSMC)
 LOCATION:coerde mittendrin\, Königsberger Straße 8\, 48157 Münster\, Münste
  r-Coerde
 DESCRIPTION:Wöchentliches Treffen für Mädchen aus Coerde zur Stärkung und S
- ichtbarkeit im Stadtteil.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https
- ://www.iriba-brunnen.de/termine-archiv/gemeinsam-sichtbar-stark-maedchen-a
- us-coerde-gsmc/
+ ichtbarkeit.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https://www.iriba-
+ brunnen.de/termine-archiv/gemeinsam-sichtbar-stark-maedchen-aus-coerde-gsm
+ c/
 URL:https://www.iriba-brunnen.de/termine-archiv/gemeinsam-sichtbar-stark-ma
  edchen-aus-coerde-gsmc/
 CATEGORIES:Stadtteil / Begegnung / Engagement
@@ -1254,7 +1148,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mitt
  endrin@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260918T170000
 DTEND;TZID=Europe/Berlin:20260918T190000
 SUMMARY:Offener Spieletreff (2. & 4. Montag im Monat)
@@ -1273,7 +1167,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-18_1930_vorlese_cafe_im_september_auf_turkisch_deutsch_mit_musi
  k_kulturinitiative_coerde@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260918T193000
 DTEND;TZID=Europe/Berlin:20260918T210000
 SUMMARY:Vorlese-Café im September auf Türkisch & Deutsch mit Musik
@@ -1291,7 +1185,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19_ganztag_6_rock_am_berg_festival_rock_am_berg@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260919
 SUMMARY:6. Rock am Berg Festival
@@ -1307,7 +1201,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-19_1400_ost_europa_seminar_nie_wieder_allein_leitung_joachim_wi
  eder_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260919T140000
 DTEND;TZID=Europe/Berlin:20260919T190000
 SUMMARY:Ost-Europa-Seminar: Nie wieder allein – Leitung: Joachim Wieder
@@ -1329,9 +1223,26 @@ CATEGORIES:Theater / Kultur / Tanz / Kinderkultur
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-09-19_1500_nachhilfeangebot_awo_coerde_mittendrin@coerde-events
+DTSTAMP:20260824T160603Z
+DTSTART;TZID=Europe/Berlin:20260919T150000
+DTEND;TZID=Europe/Berlin:20260919T170000
+SUMMARY:Nachhilfeangebot
+LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
+ de\, Münster-Coerde
+DESCRIPTION:Nachhilfeangebot: wöchentliches Angebot jeden Samstag im AWO Co
+ erde mittendrin der AWO in Münster-Coerde.\nVeranstalter: AWO Coerde mitte
+ ndrin\nQuelle: https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?dow
+ nloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485
+URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34
+ b25336-4aca-11f1-bfc6-c7cf9d9a4485
+CATEGORIES:Stadtteil / Begegnung / Beratung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-20_1000_ost_europa_seminar_nie_wieder_allein_leitung_joachim_wi
  eder_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260920T100000
 DTEND;TZID=Europe/Berlin:20260920T140000
 SUMMARY:Ost-Europa-Seminar: Nie wieder allein – Leitung: Joachim Wieder
@@ -1353,9 +1264,29 @@ CATEGORIES:Theater / Kultur / Tanz / Kinderkultur
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-09-21_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_al
+ ter_werden_in_coerde_awo_coerde_mittendrin@coerde-events
+DTSTAMP:20260824T160603Z
+DTSTART;TZID=Europe/Berlin:20260921T143000
+DTEND;TZID=Europe/Berlin:20260921T170000
+SUMMARY:Offener Spieletreff für Senior*innen / Doppelkopfrunde "Älter werde
+ n in Coerde"
+LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
+ de\, Münster-Coerde
+DESCRIPTION:Offener Spieletreff für Senior*innen / Doppelkopfrunde "Älter w
+ erden in Coerde": wöchentliches Angebot jeden Montag im AWO Coerde mittend
+ rin der AWO in Münster-Coerde.\nVeranstalter: AWO Coerde mittendrin\nQuell
+ e: https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34
+ b25336-4aca-11f1-bfc6-c7cf9d9a4485
+URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34
+ b25336-4aca-11f1-bfc6-c7cf9d9a4485
+CATEGORIES:Stadtteil / Begegnung / Beratung
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-09-23_1000_kindermusikfestival_munster_karibuni_weltmusik_fur_kind
  er_karibuni_aus_munster_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260923T100000
 DTEND;TZID=Europe/Berlin:20260923T105000
 SUMMARY:Kindermusikfestival Münster: Karibuni – Weltmusik für Kinder – Kari
@@ -1381,7 +1312,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-25_1000_kindermusikfestival_zauberhafte_welt_des_herrn_alexande
  r_pindakaas_quartett_aus__meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260925T100000
 DTEND;TZID=Europe/Berlin:20260925T105000
 SUMMARY:Kindermusikfestival: Zauberhafte Welt des Herrn Alexander – Pindaka
@@ -1407,7 +1338,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26_1700_kindermusikfestival_munster_cattu_der_traumfanger_cattu
  _aus_berlin_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260926T170000
 DTEND;TZID=Europe/Berlin:20260926T175000
 SUMMARY:Kindermusikfestival Münster: Cattu\, der Traumfänger – Cattu aus Be
@@ -1432,7 +1363,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-26_1900_georg_kreisler_sein_leben_seine_lieder_markus_von_hagen
  _kabarettist_und_philip_r_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260926T190000
 DTEND;TZID=Europe/Berlin:20260926T200000
 SUMMARY:Georg Kreisler – sein Leben\, seine Lieder – Markus von Hagen (Kaba
@@ -1459,7 +1390,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-27_1530_spielarten_2026_du_und_ich_helios_theater_aus_hamm_meer
  wiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260927T153000
 DTEND;TZID=Europe/Berlin:20260927T162000
 SUMMARY:SPIELARTEN 2026: du und ich – HELIOS Theater aus Hamm
@@ -1483,7 +1414,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-28_1000_cryptolike_to_the_moon_sterna_pau_aus_bochum_meerwiese_
  theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260928T100000
 DTEND;TZID=Europe/Berlin:20260928T110000
 SUMMARY:Cryptolike – To the Moon – STERNA | PAU aus Bochum
@@ -1507,7 +1438,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29_0930_theaterzauber_coerde_babilu_und_die_buchstabenbande_the
  ater_don_kidschote_aus_mu_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260929T093000
 DTEND;TZID=Europe/Berlin:20260929T102000
 SUMMARY:THEATERZAUBER Coerde: Babilu und die Buchstabenbande – Theater Don 
@@ -1533,7 +1464,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-29_1100_theaterzauber_coerde_babilu_und_die_buchstabenbande_the
  ater_don_kidschote_aus_mu_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260929T110000
 DTEND;TZID=Europe/Berlin:20260929T115000
 SUMMARY:THEATERZAUBER Coerde: Babilu und die Buchstabenbande – Theater Don 
@@ -1559,7 +1490,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30_0815_theaterzauber_coerde_babilu_und_die_buchstabenbande_the
  ater_don_kidschote_aus_mu_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260930T081500
 DTEND;TZID=Europe/Berlin:20260930T090500
 SUMMARY:THEATERZAUBER Coerde: Babilu und die Buchstabenbande – Theater Don 
@@ -1585,7 +1516,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-09-30_1030_theaterzauber_coerde_babilu_und_die_buchstabenbande_the
  ater_don_kidschote_aus_mu_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20260930T103000
 DTEND;TZID=Europe/Berlin:20260930T112000
 SUMMARY:THEATERZAUBER Coerde: Babilu und die Buchstabenbande – Theater Don 
@@ -1611,7 +1542,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwies
  e_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261002T100000
 DTEND;TZID=Europe/Berlin:20261002T120000
 SUMMARY:TanzXchange – Freie Tanzszene Münster – OPEN CLASS
@@ -1635,7 +1566,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-02_1930_swing_latin_night_jazzcarraldo_aus_munster_meerwiese_th
  eater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261002T193000
 DTEND;TZID=Europe/Berlin:20261002T213000
 SUMMARY:Swing & Latin – Night – JazZCarraldo aus Münster
@@ -1659,7 +1590,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03_1000_workshop_black_and_white_diesmal_bunt_ein_schwarzlichtt
  heater_workshop_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261003T100000
 DTEND;TZID=Europe/Berlin:20261003T160000
 SUMMARY:Workshop: Black and White - diesmal bunt – ein Schwarzlichttheater-
@@ -1684,7 +1615,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-03_2000_kunst_im_volk_einig_recht_frei_klos_sopran_di_martino_b
  ariton_lehnert_flugel_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261003T200000
 DTEND;TZID=Europe/Berlin:20261003T210000
 SUMMARY:Kunst im Volk - Einig? Recht? Frei? – Klos (Sopran)\, Di Martino (B
@@ -1710,16 +1641,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-04_1200_faszination_feuer_kochen_in_und_an_der_flamme_trifft_du
  tch_oven_kurs_eckels_kladde_events@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261004T120000
 DTEND;TZID=Europe/Berlin:20261004T180000
 SUMMARY:Faszination Feuer - Kochen in und an der Flamme trifft Dutch Oven K
  urs
 LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Kochkurs zum Thema Feuer und Dutch Oven mit Praxisanteil in Mün
- ster-Coerde.\nVeranstalter: Eckels Kladde\nQuelle: https://www.eckels-klad
- de.de/collections/alle-kurse-und-events-in-munster/products/feuerkochkurs-
- 04-10-26
+DESCRIPTION:Kochkurs mit Fokus auf Feuer und Dutch Oven\, inklusive Praxis 
+ und Tipps in Münster-Coerde.\nVeranstalter: Eckels Kladde\nQuelle: https:/
+ /www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster/product
+ s/feuerkochkurs-04-10-26
 URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
  er/products/feuerkochkurs-04-10-26
 CATEGORIES:Kultur / Musik / Stadtteil
@@ -1728,16 +1659,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09_1130_ich_bin_mehr_als_mein_feed_workshop_fur_madchen_zu_soci
  al_media_essen_korpergefu_iriba_brunnen_termine@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261009T113000
 DTEND;TZID=Europe/Berlin:20261009T173000
 SUMMARY:„Ich bin mehr als mein Feed“ – Workshop für Mädchen zu Social Media
  \, Essen & Körpergefühl
 LOCATION:Stadtteilbüro Coerde\, Nerzweg 9\, 48167 Münster\, 48167 Münster
-DESCRIPTION:Workshop für Mädchen zu den Themen Social Media\, Ernährung und
-  Körpergefühl im Stadtteilbüro Coerde.\nVeranstalter: Iriba-Brunnen e.V.\n
- Quelle: https://www.iriba-brunnen.de/termine-archiv/ich-bin-mehr-als-mein-
- feed-workshop-fuer-maedchen-zu-social-media-essen-koerpergefuehl/
+DESCRIPTION:Workshop für Mädchen zu Themen rund um Social Media\, Ernährung
+  und Körperbewusstsein.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https:/
+ /www.iriba-brunnen.de/termine-archiv/ich-bin-mehr-als-mein-feed-workshop-f
+ uer-maedchen-zu-social-media-essen-koerpergefuehl/
 URL:https://www.iriba-brunnen.de/termine-archiv/ich-bin-mehr-als-mein-feed-
  workshop-fuer-maedchen-zu-social-media-essen-koerpergefuehl/
 CATEGORIES:Stadtteil / Begegnung / Engagement
@@ -1746,7 +1677,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-09_1800_stadtteilkonzert_sinfonieorchester_munster_theater_muns
  ter_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261009T180000
 DTEND;TZID=Europe/Berlin:20261009T190000
 SUMMARY:Stadtteilkonzert: Sinfonieorchester Münster – Theater Münster
@@ -1770,7 +1701,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-10_1000_tagung_fruhkindliche_bildung_und_chancengleichheit_init
  iative_chack_fachtagung@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261010T100000
 DTEND;TZID=Europe/Berlin:20261010T153000
 SUMMARY:Tagung: Frühkindliche Bildung und Chancengleichheit
@@ -1778,16 +1709,16 @@ LOCATION:Hörsaal F1\, Fürstenberghaus\, Domplatz 20-22\, Münster-Coerde\, M
  ünster-Coerde
 DESCRIPTION:Fachtagung mit internationalen Wissenschaftlern und Experten zu
   frühkindlicher Bildung und Chancengleichheit\, inklusive Vorträgen und Po
- diumsdiskussion zum Thema Kinderarmut. Teilnahme kostenlos und offen für a
- lle Interessierten.\nVeranstalter: Initiative ChaCK e.V.\nQuelle: https://
- initiative-chack.de/projekte/fachtagung/
+ diumsdiskussion zur Kinderarmut. Teilnahme kostenlos und offen für alle In
+ teressierten.\nVeranstalter: Initiative ChaCK e.V.\nQuelle: https://initia
+ tive-chack.de/projekte/fachtagung/
 URL:https://initiative-chack.de/projekte/fachtagung/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-11_1530_spielarten_2026_der_gerauschehandler_toboso_aus_essen_m
  eerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261011T153000
 DTEND;TZID=Europe/Berlin:20261011T161000
 SUMMARY:SPIELARTEN 2026: Der Geräuschehändler – TOBOSO aus Essen
@@ -1811,7 +1742,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-11_1700_spielarten_2026_silent_calling_theater_marabu_aus_bonn_
  meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261011T170000
 DTEND;TZID=Europe/Berlin:20261011T180000
 SUMMARY:SPIELARTEN 2026: Silent Calling – Theater Marabu aus Bonn
@@ -1835,7 +1766,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-13_1000_spielarten_2026_into_it_performing_group_marie_lena_kai
  ser_aus_koln_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261013T100000
 DTEND;TZID=Europe/Berlin:20261013T104500
 SUMMARY:SPIELARTEN 2026: INTO IT – performing:group & Marie-Lena Kaiser aus
@@ -1858,33 +1789,9 @@ CATEGORIES:Theater / Kultur / Tanz / Kinderkultur
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-10-15_1000_spielarten_2026_der_riss_pulk_fiktion_aus_koln_meerwies
- e_theater@coerde-events
-DTSTAMP:20260821T160615Z
-DTSTART;TZID=Europe/Berlin:20261015T100000
-DTEND;TZID=Europe/Berlin:20261015T110000
-SUMMARY:SPIELARTEN 2026: Der Riss – pulk fiktion aus Köln
-LOCATION:Begegnungszentrum und Theater in der Meerwiese\, An der Meerwiese 
- 25\, Münster-Coerde
-DESCRIPTION:für alle ab 13 Jahren Zwei Performer*innen\, die jeweils ost- b
- zw. westdeutsche Biografien in sich tragen\, begegnen sich auf der Bühne. 
- Was bedeutet es\, als Kind eines bestimmten politischen Systems aufzuwachs
- en? Welche Narrative\, Denkweisen\, aber auch Sehnsüchte\, Brüche und Miss
- verständnisse tragen wir weiter? In einer performativen Verhandlung wird S
- tück für Stück die deutsch-deutsche Vergangenheit entblättert und Entwürfe
-  für eine gemeinsame politische Zukunft entworfen. „Der Riss“ ist eine...\
- nVeranstalter: Stadt Münster Veranstaltungskalender\nQuelle: https://www.s
- tadt-muenster.de/veranstaltungskalender/-/detail/2805/15457/spielarten-202
- 6-der-riss-pulk-fiktion-aus-koeln
-URL:https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2805/1545
- 7/spielarten-2026-der-riss-pulk-fiktion-aus-koeln
-CATEGORIES:Theater / Kultur / Tanz / Kinderkultur
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-10-17_1000_workshop_black_and_white_diesmal_bunt_ein_schwarzlichtt
  heater_workshop_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261017T100000
 DTEND;TZID=Europe/Berlin:20261017T160000
 SUMMARY:Workshop: Black and White - diesmal bunt – ein Schwarzlichttheater-
@@ -1909,7 +1816,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-18_1500_henri_der_bucherwurm_aufregung_in_der_sonnenschein_buch
  erei_stadtbuecherei_coerde@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261018T150000
 DTEND;TZID=Europe/Berlin:20261018T150000
 SUMMARY:Henri\, der Bücherwurm – Aufregung in der Sonnenschein-Bücherei!
@@ -1932,7 +1839,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-21_1900_das_immersive_kriminal_dinner_in_3d_projektionen_sherly
  s_spurensuche_stadt_munster_veranstaltungskalender@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261021T190000
 DTEND;TZID=Europe/Berlin:20261021T190000
 SUMMARY:Das immersive Kriminal Dinner in 3D-Projektionen – Sherlys Spurensu
@@ -1955,7 +1862,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-22_1900_das_immersive_kriminal_dinner_in_3d_projektionen_sherly
  s_spurensuche_stadt_munster_veranstaltungskalender@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261022T190000
 DTEND;TZID=Europe/Berlin:20261022T190000
 SUMMARY:Das immersive Kriminal Dinner in 3D-Projektionen – Sherlys Spurensu
@@ -1978,7 +1885,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-23_1900_das_immersive_kriminal_dinner_in_3d_projektionen_sherly
  s_spurensuche_stadt_munster_veranstaltungskalender@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261023T190000
 DTEND;TZID=Europe/Berlin:20261023T190000
 SUMMARY:Das immersive Kriminal Dinner in 3D-Projektionen – Sherlys Spurensu
@@ -2001,7 +1908,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-24_1900_das_immersive_kriminal_dinner_in_3d_projektionen_sherly
  s_spurensuche_stadt_munster_veranstaltungskalender@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261024T190000
 DTEND;TZID=Europe/Berlin:20261024T190000
 SUMMARY:Das immersive Kriminal Dinner in 3D-Projektionen – Sherlys Spurensu
@@ -2024,7 +1931,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-25_ganztag_44_kinderfilmfest_munster_2te_herbstferienwoche_im_s
  chlosstheater_begegnungszent_meerwiese_begegnungszentrum@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261101
 SUMMARY:44. KinderFilmFest Münster – 2te Herbstferienwoche im Schloßtheater
@@ -2049,7 +1956,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-25_1900_das_immersive_kriminal_dinner_in_3d_projektionen_sherly
  s_spurensuche_stadt_munster_veranstaltungskalender@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261025T190000
 DTEND;TZID=Europe/Berlin:20261025T190000
 SUMMARY:Das immersive Kriminal Dinner in 3D-Projektionen – Sherlys Spurensu
@@ -2072,7 +1979,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-27_1030_filmworkshop_stummfilm_kinderklangorchester_44_kinderfi
  lmfest_munster_vertonung__meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261027T103000
 DTEND;TZID=Europe/Berlin:20261027T130000
 SUMMARY:Filmworkshop: Stummfilm-Kinderklangorchester – 44. KinderFilmFest M
@@ -2099,7 +2006,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-28_1030_filmworkshop_stummfilm_kinderklangorchester_44_kinderfi
  lmfest_munster_vertonung__meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261028T103000
 DTEND;TZID=Europe/Berlin:20261028T130000
 SUMMARY:Filmworkshop: Stummfilm-Kinderklangorchester – 44. KinderFilmFest M
@@ -2126,7 +2033,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-29_1030_filmworkshop_stummfilm_kinderklangorchester_44_kinderfi
  lmfest_munster_vertonung__meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261029T103000
 DTEND;TZID=Europe/Berlin:20261029T130000
 SUMMARY:Filmworkshop: Stummfilm-Kinderklangorchester – 44. KinderFilmFest M
@@ -2153,7 +2060,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-10-30_1000_filmworkshop_stummfilm_kinderklangorchester_44_kinderfi
  lmfest_munster_vertonung__meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261030T100000
 DTEND;TZID=Europe/Berlin:20261030T130000
 SUMMARY:Filmworkshop: Stummfilm-Kinderklangorchester – 44. KinderFilmFest M
@@ -2180,7 +2087,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01_1230_der_kloss_marchenland_theater_e_v_aus_munster_meerwiese
  _theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261101T123000
 DTEND;TZID=Europe/Berlin:20261101T133000
 SUMMARY:Der Kloß – Märchenland Theater e.V. aus Münster
@@ -2204,7 +2111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01_1500_der_kloss_marchenland_theater_e_v_aus_munster_meerwiese
  _theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261101T150000
 DTEND;TZID=Europe/Berlin:20261101T160000
 SUMMARY:Der Kloß – Märchenland Theater e.V. aus Münster
@@ -2228,7 +2135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-01_1730_der_kloss_marchenland_theater_e_v_aus_munster_meerwiese
  _theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261101T173000
 DTEND;TZID=Europe/Berlin:20261101T183000
 SUMMARY:Der Kloß – Märchenland Theater e.V. aus Münster
@@ -2252,7 +2159,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwies
  e_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261106T100000
 DTEND;TZID=Europe/Berlin:20261106T120000
 SUMMARY:TanzXchange – Freie Tanzszene Münster – OPEN CLASS
@@ -2275,16 +2182,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06_1900_die_lofoten_eckels_kladde_events@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261106T190000
 DTEND;TZID=Europe/Berlin:20261106T190000
 SUMMARY:Die Lofoten
 LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Multimediale Präsentation über die Lofoten mit einem einzigarti
- gen 3-Gang-Menü in Münster-Coerde.\nVeranstalter: Eckels Kladde\nQuelle: h
- ttps://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster/p
- roducts/die-lofoten-06-11-26-19-uhr-multimediale-prasentation-mit-einzigar
- tigem-3-gang-menu
+DESCRIPTION:Multimediale Präsentation mit einem einzigartigen 3-Gang-Menü i
+ n Münster-Coerde.\nVeranstalter: Eckels Kladde\nQuelle: https://www.eckels
+ -kladde.de/collections/alle-kurse-und-events-in-munster/products/die-lofot
+ en-06-11-26-19-uhr-multimediale-prasentation-mit-einzigartigem-3-gang-menu
 URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
  er/products/die-lofoten-06-11-26-19-uhr-multimediale-prasentation-mit-einz
  igartigem-3-gang-menu
@@ -2294,7 +2200,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-06_1930_vorlese_cafe_im_november_auf_russisch_deutsch_mit_musik
  _kulturinitiative_coerde@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261106T193000
 DTEND;TZID=Europe/Berlin:20261106T210000
 SUMMARY:Vorlese-Café im November auf Russisch & Deutsch mit Musik
@@ -2313,7 +2219,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07_1700_kindermusikfestival_munsterland_suli_puschban_suli_pusc
  hban_aus_berlin_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261107T170000
 DTEND;TZID=Europe/Berlin:20261107T175000
 SUMMARY:Kindermusikfestival-Münsterland: Suli Puschban – Suli Puschban aus 
@@ -2337,15 +2243,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-07_1900_nordlichter_eckels_kladde_events@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261107T190000
 DTEND;TZID=Europe/Berlin:20261107T190000
 SUMMARY:NORDLICHTER
 LOCATION:Eckels Kladde\, Coermühle 50f\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Multimediale Präsentation mit 3-Gängen zum Thema Nordlichter in
-  Münster-Coerde.\nVeranstalter: Eckels Kladde\nQuelle: https://www.eckels-
- kladde.de/collections/alle-kurse-und-events-in-munster/products/nordlichte
- r-07-11-25-19-uhr-multimediale-prasentation-mit-3-gangen
+DESCRIPTION:Multimediale Präsentation mit 3-Gängen in Münster-Coerde.\nVera
+ nstalter: Eckels Kladde\nQuelle: https://www.eckels-kladde.de/collections/
+ alle-kurse-und-events-in-munster/products/nordlichter-07-11-25-19-uhr-mult
+ imediale-prasentation-mit-3-gangen
 URL:https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munst
  er/products/nordlichter-07-11-25-19-uhr-multimediale-prasentation-mit-3-ga
  ngen
@@ -2355,7 +2261,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13_1500_zirkus_coerdini_kinderzirkus_aus_coerde_meerwiese_theat
  er@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261113T150000
 DTEND;TZID=Europe/Berlin:20261113T170000
 SUMMARY:Zirkus Coerdini – Kinderzirkus aus Coerde
@@ -2374,7 +2280,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14_1500_zirkus_coerdini_kinderzirkus_aus_coerde_stadt_munster_v
  eranstaltungskalender@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261114T150000
 DTEND;TZID=Europe/Berlin:20261114T170000
 SUMMARY:Zirkus Coerdini – Kinderzirkus aus Coerde
@@ -2391,7 +2297,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20_1015_lesen_mit_kleinen_wesen_stadtbuecherei_coerde@coerde-ev
  ents
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261120T101500
 DTEND;TZID=Europe/Berlin:20261120T101500
 SUMMARY:Lesen mit kleinen Wesen
@@ -2411,7 +2317,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21_1400_ost_europa_seminar_patriotismus_und_demokratie_leitung_
  joachim_wieder_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261121T140000
 DTEND;TZID=Europe/Berlin:20261121T190000
 SUMMARY:Ost-Europa-Seminar: Patriotismus und Demokratie – Leitung: Joachim 
@@ -2436,7 +2342,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22_1500_24_winterpunsch_fiesta_echtzeit_theater_aus_munster_mee
  rwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261122T150000
 DTEND;TZID=Europe/Berlin:20261122T160000
 SUMMARY:24. WINTERPUNSCH: FIESTA – echtzeit-theater aus Münster
@@ -2460,7 +2366,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24_1000_24_winterpunsch_fiesta_echtzeit_theater_aus_munster_mee
  rwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261124T100000
 DTEND;TZID=Europe/Berlin:20261124T110000
 SUMMARY:24. WINTERPUNSCH: FIESTA – echtzeit-theater aus Münster
@@ -2484,7 +2390,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25_1000_24_winterpunsch_fiesta_echtzeit_theater_aus_munster_mee
  rwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261125T100000
 DTEND;TZID=Europe/Berlin:20261125T110000
 SUMMARY:24. WINTERPUNSCH: FIESTA – echtzeit-theater aus Münster
@@ -2508,7 +2414,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26_1000_24_winterpunsch_fiesta_echtzeit_theater_aus_munster_mee
  rwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261126T100000
 DTEND;TZID=Europe/Berlin:20261126T110000
 SUMMARY:24. WINTERPUNSCH: FIESTA – echtzeit-theater aus Münster
@@ -2532,7 +2438,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28_1200_qi_gong_seminar_meditation_leitung_volker_nowak_von_der
  _way_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261128T120000
 DTEND;TZID=Europe/Berlin:20261128T190000
 SUMMARY:Qi Gong – Seminar: Meditation – Leitung: Volker Nowak-von der Way
@@ -2556,7 +2462,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwies
  e_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261204T100000
 DTEND;TZID=Europe/Berlin:20261204T120000
 SUMMARY:TanzXchange – Freie Tanzszene Münster – OPEN CLASS
@@ -2580,7 +2486,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05_1500_workshop_auf_clownsentdeckung_in_dir_selbst_ein_clown_w
  orkshop_mit_clown_fidelid_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261205T150000
 DTEND;TZID=Europe/Berlin:20261205T220000
 SUMMARY:Workshop: Auf Clownsentdeckung in dir selbst – Ein Clown-Workshop m
@@ -2606,7 +2512,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06_1000_workshop_auf_clownsentdeckung_in_dir_selbst_ein_clown_w
  orkshop_mit_clown_fidelid_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261206T100000
 DTEND;TZID=Europe/Berlin:20261206T170000
 SUMMARY:Workshop: Auf Clownsentdeckung in dir selbst – Ein Clown-Workshop m
@@ -2632,7 +2538,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06_1530_24_winterpunsch_pendulum_mneme_kollektiv_aus_munster_me
  erwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261206T153000
 DTEND;TZID=Europe/Berlin:20261206T163000
 SUMMARY:24. WINTERPUNSCH: Pendulum – MNEME kollektiv aus Münster
@@ -2656,7 +2562,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07_1000_24_winterpunsch_pendulum_mneme_kollektiv_aus_munster_me
  erwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261207T100000
 DTEND;TZID=Europe/Berlin:20261207T110000
 SUMMARY:24. WINTERPUNSCH: Pendulum – MNEME kollektiv aus Münster
@@ -2680,7 +2586,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08_1000_24_winterpunsch_pendulum_mneme_kollektiv_aus_munster_me
  erwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261208T100000
 DTEND;TZID=Europe/Berlin:20261208T110000
 SUMMARY:24. WINTERPUNSCH: Pendulum – MNEME kollektiv aus Münster
@@ -2704,7 +2610,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09_1000_24_winterpunsch_pendulum_mneme_kollektiv_aus_munster_me
  erwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261209T100000
 DTEND;TZID=Europe/Berlin:20261209T110000
 SUMMARY:24. WINTERPUNSCH: Pendulum – MNEME kollektiv aus Münster
@@ -2728,7 +2634,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13_1700_jazziges_weihnachtskonzert_mit_gedichten_und_geschichte
  n_jeanette_lewe_gesang_un_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261213T170000
 DTEND;TZID=Europe/Berlin:20261213T190000
 SUMMARY:Jazziges Weihnachtskonzert mit Gedichten und Geschichten – Jeanette
@@ -2755,7 +2661,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17_1000_24_winterpunsch_alice_im_wunderland_fetter_fisch_perfor
  mance_theater_aus_munster_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261217T100000
 DTEND;TZID=Europe/Berlin:20261217T110000
 SUMMARY:24. WINTERPUNSCH: Alice im Wunderland – Fetter Fisch – Performance 
@@ -2781,7 +2687,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18_1000_24_winterpunsch_alice_im_wunderland_fetter_fisch_perfor
  mance_theater_aus_munster_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261218T100000
 DTEND;TZID=Europe/Berlin:20261218T110000
 SUMMARY:24. WINTERPUNSCH: Alice im Wunderland – Fetter Fisch – Performance 
@@ -2807,7 +2713,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18_1015_lesen_mit_kleinen_wesen_stadtbuecherei_coerde@coerde-ev
  ents
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20261218T101500
 DTEND;TZID=Europe/Berlin:20261218T101500
 SUMMARY:Lesen mit kleinen Wesen
@@ -2827,7 +2733,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17_1530_24_winterpunsch_impro_show_fur_kinder_7wiesen_aus_munst
  er_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20270117T153000
 DTEND;TZID=Europe/Berlin:20270117T163000
 SUMMARY:24. WINTERPUNSCH: Impro-Show für Kinder – 7Wiesen aus Münster
@@ -2851,7 +2757,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-18_1000_24_winterpunsch_impro_show_fur_kinder_7wiesen_aus_munst
  er_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20270118T100000
 DTEND;TZID=Europe/Berlin:20270118T110000
 SUMMARY:24. WINTERPUNSCH: Impro-Show für Kinder – 7Wiesen aus Münster
@@ -2875,7 +2781,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19_1000_24_winterpunsch_impro_show_fur_kinder_7wiesen_aus_munst
  er_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20270119T100000
 DTEND;TZID=Europe/Berlin:20270119T110000
 SUMMARY:24. WINTERPUNSCH: Impro-Show für Kinder – 7Wiesen aus Münster
@@ -2899,7 +2805,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20_1000_24_winterpunsch_impro_show_fur_kinder_7wiesen_aus_munst
  er_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20270120T100000
 DTEND;TZID=Europe/Berlin:20270120T110000
 SUMMARY:24. WINTERPUNSCH: Impro-Show für Kinder – 7Wiesen aus Münster
@@ -2923,7 +2829,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_
  munster_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20270121T100000
 DTEND;TZID=Europe/Berlin:20270121T105000
 SUMMARY:24. WINTERPUNSCH: Ach du dickes Ei! – Theater Rosinante aus Münster
@@ -2947,7 +2853,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_
  munster_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20270122T100000
 DTEND;TZID=Europe/Berlin:20270122T105000
 SUMMARY:24. WINTERPUNSCH: Ach du dickes Ei! – Theater Rosinante aus Münster
@@ -2971,7 +2877,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24_1530_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_
  munster_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20270124T153000
 DTEND;TZID=Europe/Berlin:20270124T162000
 SUMMARY:24. WINTERPUNSCH: Ach du dickes Ei! – Theater Rosinante aus Münster
@@ -2995,7 +2901,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_
  munster_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20270125T100000
 DTEND;TZID=Europe/Berlin:20270125T105000
 SUMMARY:24. WINTERPUNSCH: Ach du dickes Ei! – Theater Rosinante aus Münster
@@ -3019,7 +2925,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_
  munster_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20270126T100000
 DTEND;TZID=Europe/Berlin:20270126T105000
 SUMMARY:24. WINTERPUNSCH: Ach du dickes Ei! – Theater Rosinante aus Münster
@@ -3043,7 +2949,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_
  munster_meerwiese_theater@coerde-events
-DTSTAMP:20260821T160615Z
+DTSTAMP:20260824T160603Z
 DTSTART;TZID=Europe/Berlin:20270127T100000
 DTEND;TZID=Europe/Berlin:20270127T105000
 SUMMARY:24. WINTERPUNSCH: Ach du dickes Ei! – Theater Rosinante aus Münster
