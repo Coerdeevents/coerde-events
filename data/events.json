@@ -2,28 +2,28 @@
   "dataset": "coerde-events",
   "description": "Öffentliche Veranstaltungen in Münster-Coerde",
   "license": "CC-BY-4.0",
-  "generated_at": "2026-09-01T16:08:27.160Z",
-  "event_count": 172,
+  "generated_at": "2026-09-02T16:07:15.512Z",
+  "event_count": 179,
   "events": [
     {
-      "event_id": "2026-09-01_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_coerde_mittendrin",
-      "title": "Kochprojekt „Gemeinsam am Herd – Rezepte ohne Grenzen“",
-      "start_date": "2026-09-01",
-      "start_time": "11:00",
-      "end_date": "2026-09-01",
-      "end_time": "14:00",
-      "location_name": "AWO Coerde mittendrin",
-      "address": "Königsberger Straße 8, 48157 Münster-Coerde",
+      "event_id": "2026-09-02_ganztag_wochentliche_offene_beratungszeit_empowerment_rassismuskritik_nachhaltigkeit_koo_iriba_brunnen_termine",
+      "title": "Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik / Nachhaltigkeit & Kooperationen",
+      "start_date": "2026-09-02",
+      "start_time": null,
+      "end_date": "2026-09-02",
+      "end_time": null,
+      "location_name": "coerde mittendrin",
+      "address": "Königsberger Straße 8 48157 Münster",
       "city": "Münster-Coerde",
-      "organizer": "AWO Coerde mittendrin",
-      "category": "Stadtteil / Begegnung / Beratung",
-      "short_description": "Kochprojekt „Gemeinsam am Herd – Rezepte ohne Grenzen“: wöchentliches Angebot jeden Dienstag im AWO Coerde mittendrin der AWO in Münster-Coerde.",
+      "organizer": "Iriba-Brunnen e.V.",
+      "category": "Stadtteil / Begegnung / Engagement",
+      "short_description": "Wöchentliche offene Beratungszeit zu Empowerment, Rassismuskritik, Nachhaltigkeit und Kooperationen.",
       "status": "scheduled",
-      "source_name": "AWO Coerde mittendrin",
-      "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
-      "source_id": "awo_coerde_mittendrin",
+      "source_name": "Iriba-Brunnen – Termine",
+      "source_url": "https://www.iriba-brunnen.de/termine-archiv/woechentliche-offene-beratungszeit-empowerment-rassismuskritik-nachhaltigkeit-kooperationen/",
+      "source_id": "iriba_brunnen_termine",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-02_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_migrationsberatung_mbe",
@@ -37,13 +37,13 @@
       "city": "Münster-Coerde",
       "organizer": "Deutsches Rotes Kreuz Münster",
       "category": "",
-      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren, mit Unterstützung bei Integrationsprozessen und Alltagsfragen, mittwochs von 9 bis 15 Uhr in Coerde.",
+      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren mit Unterstützung bei Integrationsprozessen, behördlichen Angelegenheiten und sozialer Teilhabe.",
       "status": "scheduled",
       "source_name": "DRK Münster – Migrationsberatung (MBE)",
       "source_url": "https://www.drk-muenster.de/angebot/migrationsberatung.html",
       "source_id": "drk_munster_migrationsberatung_mbe",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-02_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_awo_coerde_mittendrin",
@@ -63,27 +63,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
-    },
-    {
-      "event_id": "2026-09-02_1300_wochentliche_offene_beratungszeit_empowerment_rassismuskritik_nachhaltigkeit_koo_iriba_brunnen_termine",
-      "title": "Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik / Nachhaltigkeit & Kooperationen",
-      "start_date": "2026-09-02",
-      "start_time": "13:00",
-      "end_date": "2026-09-02",
-      "end_time": "15:00",
-      "location_name": "coerde mittendrin",
-      "address": "Königsberger Straße 8, 48157 Münster",
-      "city": "Münster-Coerde",
-      "organizer": "Iriba-Brunnen e.V.",
-      "category": "Stadtteil / Begegnung / Engagement",
-      "short_description": "Regelmäßige offene Beratungszeit zu Empowerment, Rassismuskritik, Nachhaltigkeit und Kooperationen in Coerde.",
-      "status": "scheduled",
-      "source_name": "Iriba-Brunnen – Termine",
-      "source_url": "https://www.iriba-brunnen.de/termine-archiv/woechentliche-offene-beratungszeit-empowerment-rassismuskritik-nachhaltigkeit-kooperationen/",
-      "source_id": "iriba_brunnen_termine",
-      "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-02_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -103,7 +83,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sure-Start-Plus-Die-Familienspielstunde-Coerde/2602-2912",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-02_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburger_wald_fbf_friedensstrasse_coerde",
@@ -123,7 +103,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Kind-Waldspielgruppe-Laufalter-bis-6-J-Dyckburger-Wald/2602-2632",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-02_ganztag_heimat_remixed_musik_der_kulturen_iriba_brunnen_termine",
@@ -137,13 +117,13 @@
       "city": "Münster-Coerde",
       "organizer": "Iriba-Brunnen e.V.",
       "category": "Stadtteil / Begegnung / Engagement",
-      "short_description": "Wöchentliche Musikveranstaltung mit kultureller Vielfalt im Franziskushaus Coerde.",
+      "short_description": "Wöchentliche Veranstaltung mit Musik der Kulturen im Franziskushaus in Coerde.",
       "status": "scheduled",
       "source_name": "Iriba-Brunnen – Termine",
       "source_url": "https://www.iriba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-termine-archiv-heimat-remixed-musik-der-kulturen/",
       "source_id": "iriba_brunnen_termine",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-02_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -163,7 +143,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-An-der-Meerwiese/2606-6056",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-03_1200_polizeisprechstunde_coerde_mittendrin_awo_coerde_mittendrin",
@@ -183,7 +163,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-04_0900_gemeinsames_fruhstuck_im_kirchenzentrum_andreas_kirchengemeinde_startseite",
@@ -197,13 +177,13 @@
       "city": "Münster-Coerde",
       "organizer": "Ev. Andreas-Kirchengemeinde Münster-Coerde",
       "category": "Kirche / Stadtteil / Begegnung",
-      "short_description": "Gemeinsames Frühstück im Kirchenzentrum der Andreas-Kirchengemeinde Münster-Coerde am 4. September um 9:00 Uhr.",
+      "short_description": "Gemeinsames Frühstück im Kirchenzentrum der Andreas-Kirchengemeinde Münster-Coerde am 4. September 2026 um 9:00 Uhr.",
       "status": "scheduled",
       "source_name": "Ev. Andreas-Kirchengemeinde Münster-Coerde – Startseite",
       "source_url": "https://www.andreas-kirchengemeinde-muenster.de/",
       "source_id": "andreas_kirchengemeinde_startseite",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-04_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerde",
@@ -223,7 +203,7 @@
       "source_url": "https://initiative-chack.de/projekte/muetter-treff-coerde/",
       "source_id": "initiative_chack_mutter_treff_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-04_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwiese_theater",
@@ -243,7 +223,27 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1025/4561/tanzxchange-freie-tanzszene-muenster-open-class",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
+    },
+    {
+      "event_id": "2026-09-04_ganztag_gemeinsam_sichtbar_stark_madchen_aus_coerde_gsmc_iriba_brunnen_termine",
+      "title": "Gemeinsam sichtbar & stark – Mädchen aus Coerde (GSMC)",
+      "start_date": "2026-09-04",
+      "start_time": "16:30",
+      "end_date": "2026-09-04",
+      "end_time": "18:00",
+      "location_name": "coerde mittendrin",
+      "address": "Königsberger Straße 8 48157 Münster",
+      "city": "Münster-Coerde",
+      "organizer": "Iriba-Brunnen e.V.",
+      "category": "Stadtteil / Begegnung / Engagement",
+      "short_description": "Wöchentliches Treffen für Mädchen aus Coerde zur Stärkung und Sichtbarkeit.",
+      "status": "scheduled",
+      "source_name": "Iriba-Brunnen – Termine",
+      "source_url": "https://www.iriba-brunnen.de/termine-archiv/gemeinsam-sichtbar-stark-maedchen-aus-coerde-gsmc/",
+      "source_id": "iriba_brunnen_termine",
+      "confidence": "0,9",
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-04_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mittendrin",
@@ -263,7 +263,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-04_1900_die_lofoten_eckels_kladde_events",
@@ -283,7 +283,7 @@
       "source_url": "https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster/products/die-lofoten-04-09-26-19-uhr-multimediale-prasentation-mit-einzigartigem-3-gang-menu",
       "source_id": "eckels_kladde_events",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-05_0930_gemeinsames_fruhstuck_awo_coerde_mittendrin",
@@ -303,7 +303,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-05_1430_fest_der_vielfalt_2026_iriba_brunnen_termine",
@@ -317,17 +317,17 @@
       "city": "Münster-Coerde",
       "organizer": "Iriba-Brunnen e.V.",
       "category": "Stadtteil / Begegnung / Engagement",
-      "short_description": "Vielfältiges Fest mit verschiedenen kulturellen Angeboten im Franziskushaus Coerde.",
+      "short_description": "Vielfältiges Fest mit verschiedenen kulturellen Angeboten im Franziskushaus in Coerde.",
       "status": "scheduled",
       "source_name": "Iriba-Brunnen – Termine",
       "source_url": "https://www.iriba-brunnen.de/termine-archiv/fest-der-vielfalt/",
       "source_id": "iriba_brunnen_termine",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
-      "event_id": "2026-09-06_1100_gottesdienst_andreas_kirchengemeinde_startseite",
-      "title": "Gottesdienst",
+      "event_id": "2026-09-06_1100_elfi_gottesdienst_andreas_kirchengemeinde_startseite",
+      "title": "Elfi-Gottesdienst",
       "start_date": "2026-09-06",
       "start_time": "11:00",
       "end_date": "2026-09-06",
@@ -337,13 +337,13 @@
       "city": "Münster-Coerde",
       "organizer": "Ev. Andreas-Kirchengemeinde Münster-Coerde",
       "category": "Kirche / Stadtteil / Begegnung",
-      "short_description": "Regulärer Gottesdienst am vierten Sonntag im Monat um 11:00 Uhr in der Andreas-Kirchengemeinde Münster-Coerde.",
+      "short_description": "Monatlicher Elfi-Gottesdienst am letzten Sonntag im Monat um 11:00 Uhr in der Andreas-Kirchengemeinde Münster-Coerde.",
       "status": "scheduled",
       "source_name": "Ev. Andreas-Kirchengemeinde Münster-Coerde – Startseite",
       "source_url": "https://www.andreas-kirchengemeinde-muenster.de/",
       "source_id": "andreas_kirchengemeinde_startseite",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-06_1200_qi_gong_seminar_die_wandlungsphase_metall_ubungen_fur_die_lunge_meerwiese_theater",
@@ -363,7 +363,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2703/15052/qi-gong-seminar-die-wandlungsphase-metall-uebungen-fuer-die-lunge",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-07_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_alter_werden_in_coerde_awo_coerde_mittendrin",
@@ -383,7 +383,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-08_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_coerde_mittendrin",
@@ -403,7 +403,27 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
+    },
+    {
+      "event_id": "2026-09-09_ganztag_wochentliche_offene_beratungszeit_empowerment_rassismuskritik_nachhaltigkeit_koo_iriba_brunnen_termine",
+      "title": "Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik / Nachhaltigkeit & Kooperationen",
+      "start_date": "2026-09-09",
+      "start_time": null,
+      "end_date": "2026-09-09",
+      "end_time": null,
+      "location_name": "coerde mittendrin",
+      "address": "Königsberger Straße 8 48157 Münster",
+      "city": "Münster-Coerde",
+      "organizer": "Iriba-Brunnen e.V.",
+      "category": "Stadtteil / Begegnung / Engagement",
+      "short_description": "Wöchentliche offene Beratungszeit zu Empowerment, Rassismuskritik, Nachhaltigkeit und Kooperationen.",
+      "status": "scheduled",
+      "source_name": "Iriba-Brunnen – Termine",
+      "source_url": "https://www.iriba-brunnen.de/termine-archiv/woechentliche-offene-beratungszeit-empowerment-rassismuskritik-nachhaltigkeit-kooperationen/",
+      "source_id": "iriba_brunnen_termine",
+      "confidence": "0,9",
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-09_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_migrationsberatung_mbe",
@@ -417,13 +437,13 @@
       "city": "Münster-Coerde",
       "organizer": "Deutsches Rotes Kreuz Münster",
       "category": "",
-      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren, mit Unterstützung bei Integrationsprozessen und Alltagsfragen, mittwochs von 9 bis 15 Uhr in Coerde.",
+      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren mit Unterstützung bei Integrationsprozessen, behördlichen Angelegenheiten und sozialer Teilhabe.",
       "status": "scheduled",
       "source_name": "DRK Münster – Migrationsberatung (MBE)",
       "source_url": "https://www.drk-muenster.de/angebot/migrationsberatung.html",
       "source_id": "drk_munster_migrationsberatung_mbe",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-09_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_awo_coerde_mittendrin",
@@ -443,27 +463,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
-    },
-    {
-      "event_id": "2026-09-09_1300_wochentliche_offene_beratungszeit_empowerment_rassismuskritik_nachhaltigkeit_koo_iriba_brunnen_termine",
-      "title": "Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik / Nachhaltigkeit & Kooperationen",
-      "start_date": "2026-09-09",
-      "start_time": "13:00",
-      "end_date": "2026-09-09",
-      "end_time": "15:00",
-      "location_name": "coerde mittendrin",
-      "address": "Königsberger Straße 8, 48157 Münster",
-      "city": "Münster-Coerde",
-      "organizer": "Iriba-Brunnen e.V.",
-      "category": "Stadtteil / Begegnung / Engagement",
-      "short_description": "Regelmäßige offene Beratungszeit zu Empowerment, Rassismuskritik, Nachhaltigkeit und Kooperationen in Coerde.",
-      "status": "scheduled",
-      "source_name": "Iriba-Brunnen – Termine",
-      "source_url": "https://www.iriba-brunnen.de/termine-archiv/woechentliche-offene-beratungszeit-empowerment-rassismuskritik-nachhaltigkeit-kooperationen/",
-      "source_id": "iriba_brunnen_termine",
-      "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-09_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -483,7 +483,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sure-Start-Plus-Die-Familienspielstunde-Coerde/2602-2912",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-09_1500_uberraschungsfilm_im_coerder_kino_andreas_kirchengemeinde_startseite",
@@ -497,13 +497,13 @@
       "city": "Münster-Coerde",
       "organizer": "Ev. Andreas-Kirchengemeinde Münster-Coerde",
       "category": "Kirche / Stadtteil / Begegnung",
-      "short_description": "Filmvorführung eines Überraschungsfilms im Coerder Kino am 9. September um 15:00 Uhr.",
+      "short_description": "Filmvorführung eines Überraschungsfilms im Coerder Kino am 9. September 2026 um 15:00 Uhr.",
       "status": "scheduled",
       "source_name": "Ev. Andreas-Kirchengemeinde Münster-Coerde – Startseite",
       "source_url": "https://www.andreas-kirchengemeinde-muenster.de/",
       "source_id": "andreas_kirchengemeinde_startseite",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-09_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburger_wald_fbf_friedensstrasse_coerde",
@@ -523,10 +523,10 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Kind-Waldspielgruppe-Laufalter-bis-6-J-Dyckburger-Wald/2602-2632",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
-      "event_id": "2026-09-09_ganztag_heimat_remixed_musik_der_kulturen_iriba_brunnen_termine",
+      "event_id": "2026-09-09_1800_heimat_remixed_musik_der_kulturen_iriba_brunnen_termine",
       "title": "Heimat remixed – Musik der Kulturen",
       "start_date": "2026-09-09",
       "start_time": "18:00",
@@ -537,13 +537,13 @@
       "city": "Münster-Coerde",
       "organizer": "Iriba-Brunnen e.V.",
       "category": "Stadtteil / Begegnung / Engagement",
-      "short_description": "Wöchentliche Musikveranstaltung mit kultureller Vielfalt im Franziskushaus Coerde.",
+      "short_description": "Musikalische Veranstaltung mit kultureller Vielfalt im Franziskushaus in Coerde.",
       "status": "scheduled",
       "source_name": "Iriba-Brunnen – Termine",
       "source_url": "https://www.iriba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-termine-archiv-heimat-remixed-musik-der-kulturen/",
       "source_id": "iriba_brunnen_termine",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-09_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -563,7 +563,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-An-der-Meerwiese/2606-6056",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-10_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mittendrin",
@@ -583,7 +583,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-11_0900_gemeinsames_fruhstuck_im_kirchenzentrum_andreas_kirchengemeinde_startseite",
@@ -597,13 +597,13 @@
       "city": "Münster-Coerde",
       "organizer": "Ev. Andreas-Kirchengemeinde Münster-Coerde",
       "category": "Kirche / Stadtteil / Begegnung",
-      "short_description": "Gemeinsames Frühstück im Kirchenzentrum der Andreas-Kirchengemeinde Münster-Coerde am 11. September um 9:00 Uhr.",
+      "short_description": "Gemeinsames Frühstück im Kirchenzentrum der Andreas-Kirchengemeinde Münster-Coerde am 11. September 2026 um 9:00 Uhr.",
       "status": "scheduled",
       "source_name": "Ev. Andreas-Kirchengemeinde Münster-Coerde – Startseite",
       "source_url": "https://www.andreas-kirchengemeinde-muenster.de/",
       "source_id": "andreas_kirchengemeinde_startseite",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-11_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerde",
@@ -623,7 +623,27 @@
       "source_url": "https://initiative-chack.de/projekte/muetter-treff-coerde/",
       "source_id": "initiative_chack_mutter_treff_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
+    },
+    {
+      "event_id": "2026-09-11_ganztag_gemeinsam_sichtbar_stark_madchen_aus_coerde_gsmc_iriba_brunnen_termine",
+      "title": "Gemeinsam sichtbar & stark – Mädchen aus Coerde (GSMC)",
+      "start_date": "2026-09-11",
+      "start_time": "16:30",
+      "end_date": "2026-09-11",
+      "end_time": "18:00",
+      "location_name": "coerde mittendrin",
+      "address": "Königsberger Straße 8 48157 Münster",
+      "city": "Münster-Coerde",
+      "organizer": "Iriba-Brunnen e.V.",
+      "category": "Stadtteil / Begegnung / Engagement",
+      "short_description": "Wöchentliches Treffen für Mädchen aus Coerde zur Stärkung und Sichtbarkeit.",
+      "status": "scheduled",
+      "source_name": "Iriba-Brunnen – Termine",
+      "source_url": "https://www.iriba-brunnen.de/termine-archiv/gemeinsam-sichtbar-stark-maedchen-aus-coerde-gsmc/",
+      "source_id": "iriba_brunnen_termine",
+      "confidence": "0,9",
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-11_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mittendrin",
@@ -643,7 +663,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-11_2000_splitter_and_be_julie_klos_aus_munster_meerwiese_theater",
@@ -663,7 +683,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2713/15120/splitter-and-be-julie-klos-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-12_1500_nachhilfeangebot_awo_coerde_mittendrin",
@@ -683,13 +703,13 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
-      "event_id": "2026-09-13_1100_gottesdienst_andreas_kirchengemeinde_startseite",
+      "event_id": "2026-09-13_0930_gottesdienst_andreas_kirchengemeinde_startseite",
       "title": "Gottesdienst",
       "start_date": "2026-09-13",
-      "start_time": "11:00",
+      "start_time": "09:30",
       "end_date": "2026-09-13",
       "end_time": null,
       "location_name": "Andreas-Kirchengemeinde Münster-Coerde",
@@ -697,13 +717,13 @@
       "city": "Münster-Coerde",
       "organizer": "Ev. Andreas-Kirchengemeinde Münster-Coerde",
       "category": "Kirche / Stadtteil / Begegnung",
-      "short_description": "Regulärer Gottesdienst am vierten Sonntag im Monat um 11:00 Uhr in der Andreas-Kirchengemeinde Münster-Coerde.",
+      "short_description": "Regulärer Gottesdienst am zweiten Sonntag im Monat um 9:30 Uhr in der Andreas-Kirchengemeinde Münster-Coerde.",
       "status": "scheduled",
       "source_name": "Ev. Andreas-Kirchengemeinde Münster-Coerde – Startseite",
       "source_url": "https://www.andreas-kirchengemeinde-muenster.de/",
       "source_id": "andreas_kirchengemeinde_startseite",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-13_1530_die_clown_fidelidad_solo_show_clown_fidelidad_aus_munster_meerwiese_theater",
@@ -723,7 +743,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2708/15084/die-clown-fidelidad-solo-show-clown-fidelidad-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-13_1800_kammerkonzert_zwischen_esprit_und_leidenschaft_ein_sextette_fur_holzblaserquinte_meerwiese_theater",
@@ -743,7 +763,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2718/15148/kammerkonzert-zwischen-esprit-und-leidenschaft-ein-sextette-fuer-holzblaeserquintett-mit-klavier",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-14_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_alter_werden_in_coerde_awo_coerde_mittendrin",
@@ -763,7 +783,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-14_1800_andreas_singekreis_andreas_kirchengemeinde_startseite",
@@ -777,13 +797,13 @@
       "city": "Münster-Coerde",
       "organizer": "Ev. Andreas-Kirchengemeinde Münster-Coerde",
       "category": "Kirche / Stadtteil / Begegnung",
-      "short_description": "Treffen des Andreas Singekreises am 14. September um 18:00 Uhr in der Andreas-Kirchengemeinde Münster-Coerde.",
+      "short_description": "Treffen des Andreas Singekreises am 14. September 2026 um 18:00 Uhr in der Andreas-Kirchengemeinde Münster-Coerde.",
       "status": "scheduled",
       "source_name": "Ev. Andreas-Kirchengemeinde Münster-Coerde – Startseite",
       "source_url": "https://www.andreas-kirchengemeinde-muenster.de/",
       "source_id": "andreas_kirchengemeinde_startseite",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-15_1330_offene_beratungszeit_antidiskriminierungsarbeit_in_coerde_awo_coerde_mittendrin",
@@ -803,7 +823,27 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
+    },
+    {
+      "event_id": "2026-09-16_ganztag_wochentliche_offene_beratungszeit_empowerment_rassismuskritik_nachhaltigkeit_koo_iriba_brunnen_termine",
+      "title": "Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik / Nachhaltigkeit & Kooperationen",
+      "start_date": "2026-09-16",
+      "start_time": null,
+      "end_date": "2026-09-16",
+      "end_time": null,
+      "location_name": "coerde mittendrin",
+      "address": "Königsberger Straße 8 48157 Münster",
+      "city": "Münster-Coerde",
+      "organizer": "Iriba-Brunnen e.V.",
+      "category": "Stadtteil / Begegnung / Engagement",
+      "short_description": "Wöchentliche offene Beratungszeit zu Empowerment, Rassismuskritik, Nachhaltigkeit und Kooperationen.",
+      "status": "scheduled",
+      "source_name": "Iriba-Brunnen – Termine",
+      "source_url": "https://www.iriba-brunnen.de/termine-archiv/woechentliche-offene-beratungszeit-empowerment-rassismuskritik-nachhaltigkeit-kooperationen/",
+      "source_id": "iriba_brunnen_termine",
+      "confidence": "0,9",
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-16_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_migrationsberatung_mbe",
@@ -817,13 +857,13 @@
       "city": "Münster-Coerde",
       "organizer": "Deutsches Rotes Kreuz Münster",
       "category": "",
-      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren, mit Unterstützung bei Integrationsprozessen und Alltagsfragen, mittwochs von 9 bis 15 Uhr in Coerde.",
+      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren mit Unterstützung bei Integrationsprozessen, behördlichen Angelegenheiten und sozialer Teilhabe.",
       "status": "scheduled",
       "source_name": "DRK Münster – Migrationsberatung (MBE)",
       "source_url": "https://www.drk-muenster.de/angebot/migrationsberatung.html",
       "source_id": "drk_munster_migrationsberatung_mbe",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-16_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_awo_coerde_mittendrin",
@@ -843,27 +883,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
-    },
-    {
-      "event_id": "2026-09-16_1300_wochentliche_offene_beratungszeit_empowerment_rassismuskritik_nachhaltigkeit_koo_iriba_brunnen_termine",
-      "title": "Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik / Nachhaltigkeit & Kooperationen",
-      "start_date": "2026-09-16",
-      "start_time": "13:00",
-      "end_date": "2026-09-16",
-      "end_time": "15:00",
-      "location_name": "coerde mittendrin",
-      "address": "Königsberger Straße 8, 48157 Münster",
-      "city": "Münster-Coerde",
-      "organizer": "Iriba-Brunnen e.V.",
-      "category": "Stadtteil / Begegnung / Engagement",
-      "short_description": "Regelmäßige offene Beratungszeit zu Empowerment, Rassismuskritik, Nachhaltigkeit und Kooperationen in Coerde.",
-      "status": "scheduled",
-      "source_name": "Iriba-Brunnen – Termine",
-      "source_url": "https://www.iriba-brunnen.de/termine-archiv/woechentliche-offene-beratungszeit-empowerment-rassismuskritik-nachhaltigkeit-kooperationen/",
-      "source_id": "iriba_brunnen_termine",
-      "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-16_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -883,7 +903,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sure-Start-Plus-Die-Familienspielstunde-Coerde/2602-2912",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-16_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburger_wald_fbf_friedensstrasse_coerde",
@@ -903,7 +923,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Kind-Waldspielgruppe-Laufalter-bis-6-J-Dyckburger-Wald/2602-2632",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-16_ganztag_heimat_remixed_musik_der_kulturen_iriba_brunnen_termine",
@@ -917,13 +937,13 @@
       "city": "Münster-Coerde",
       "organizer": "Iriba-Brunnen e.V.",
       "category": "Stadtteil / Begegnung / Engagement",
-      "short_description": "Wöchentliche Musikveranstaltung mit kultureller Vielfalt im Franziskushaus Coerde.",
+      "short_description": "Wöchentliche Veranstaltung mit Musik der Kulturen im Franziskushaus in Coerde.",
       "status": "scheduled",
       "source_name": "Iriba-Brunnen – Termine",
       "source_url": "https://www.iriba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-termine-archiv-heimat-remixed-musik-der-kulturen/",
       "source_id": "iriba_brunnen_termine",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-16_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -943,7 +963,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-An-der-Meerwiese/2606-6056",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-17_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mittendrin",
@@ -963,7 +983,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-18_0900_gemeinsames_fruhstuck_im_kirchenzentrum_andreas_kirchengemeinde_startseite",
@@ -977,13 +997,13 @@
       "city": "Münster-Coerde",
       "organizer": "Ev. Andreas-Kirchengemeinde Münster-Coerde",
       "category": "Kirche / Stadtteil / Begegnung",
-      "short_description": "Gemeinsames Frühstück im Kirchenzentrum der Andreas-Kirchengemeinde Münster-Coerde am 18. September um 9:00 Uhr.",
+      "short_description": "Gemeinsames Frühstück im Kirchenzentrum der Andreas-Kirchengemeinde Münster-Coerde am 18. September 2026 um 9:00 Uhr.",
       "status": "scheduled",
       "source_name": "Ev. Andreas-Kirchengemeinde Münster-Coerde – Startseite",
       "source_url": "https://www.andreas-kirchengemeinde-muenster.de/",
       "source_id": "andreas_kirchengemeinde_startseite",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-18_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerde",
@@ -1003,7 +1023,27 @@
       "source_url": "https://initiative-chack.de/projekte/muetter-treff-coerde/",
       "source_id": "initiative_chack_mutter_treff_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
+    },
+    {
+      "event_id": "2026-09-18_ganztag_gemeinsam_sichtbar_stark_madchen_aus_coerde_gsmc_iriba_brunnen_termine",
+      "title": "Gemeinsam sichtbar & stark – Mädchen aus Coerde (GSMC)",
+      "start_date": "2026-09-18",
+      "start_time": "16:30",
+      "end_date": "2026-09-18",
+      "end_time": "18:00",
+      "location_name": "coerde mittendrin",
+      "address": "Königsberger Straße 8 48157 Münster",
+      "city": "Münster-Coerde",
+      "organizer": "Iriba-Brunnen e.V.",
+      "category": "Stadtteil / Begegnung / Engagement",
+      "short_description": "Wöchentliches Treffen für Mädchen aus Coerde zur Stärkung und Sichtbarkeit.",
+      "status": "scheduled",
+      "source_name": "Iriba-Brunnen – Termine",
+      "source_url": "https://www.iriba-brunnen.de/termine-archiv/gemeinsam-sichtbar-stark-maedchen-aus-coerde-gsmc/",
+      "source_id": "iriba_brunnen_termine",
+      "confidence": "0,9",
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-18_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mittendrin",
@@ -1023,7 +1063,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-18_1930_vorlese_cafe_im_september_auf_turkisch_deutsch_mit_musik_kulturinitiative_coerde",
@@ -1043,7 +1083,7 @@
       "source_url": "https://kulturinitiative-coerde.de/termin/vorlese-cafe-im-september/",
       "source_id": "kulturinitiative_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-19_ganztag_6_rock_am_berg_festival_rock_am_berg",
@@ -1063,7 +1103,7 @@
       "source_url": "https://www.rockamberg-ms.de/",
       "source_id": "rock_am_berg",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-19_1400_ost_europa_seminar_nie_wieder_allein_leitung_joachim_wieder_meerwiese_theater",
@@ -1083,7 +1123,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2788/15383/ost-europa-seminar-nie-wieder-allein-leitung-joachim-wieder",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-19_1500_nachhilfeangebot_awo_coerde_mittendrin",
@@ -1103,7 +1143,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-20_0930_gottesdienst_mit_abendmahl_andreas_kirchengemeinde_startseite",
@@ -1123,7 +1163,7 @@
       "source_url": "https://www.andreas-kirchengemeinde-muenster.de/",
       "source_id": "andreas_kirchengemeinde_startseite",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-20_1000_ost_europa_seminar_nie_wieder_allein_leitung_joachim_wieder_meerwiese_theater",
@@ -1143,7 +1183,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2788/15843/ost-europa-seminar-nie-wieder-allein-leitung-joachim-wieder",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-21_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_alter_werden_in_coerde_awo_coerde_mittendrin",
@@ -1163,7 +1203,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-22_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_coerde_mittendrin",
@@ -1183,7 +1223,27 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
+    },
+    {
+      "event_id": "2026-09-23_ganztag_wochentliche_offene_beratungszeit_empowerment_rassismuskritik_nachhaltigkeit_koo_iriba_brunnen_termine",
+      "title": "Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik / Nachhaltigkeit & Kooperationen",
+      "start_date": "2026-09-23",
+      "start_time": null,
+      "end_date": "2026-09-23",
+      "end_time": null,
+      "location_name": "coerde mittendrin",
+      "address": "Königsberger Straße 8 48157 Münster",
+      "city": "Münster-Coerde",
+      "organizer": "Iriba-Brunnen e.V.",
+      "category": "Stadtteil / Begegnung / Engagement",
+      "short_description": "Wöchentliche offene Beratungszeit zu Empowerment, Rassismuskritik, Nachhaltigkeit und Kooperationen.",
+      "status": "scheduled",
+      "source_name": "Iriba-Brunnen – Termine",
+      "source_url": "https://www.iriba-brunnen.de/termine-archiv/woechentliche-offene-beratungszeit-empowerment-rassismuskritik-nachhaltigkeit-kooperationen/",
+      "source_id": "iriba_brunnen_termine",
+      "confidence": "0,9",
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-23_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_migrationsberatung_mbe",
@@ -1197,13 +1257,13 @@
       "city": "Münster-Coerde",
       "organizer": "Deutsches Rotes Kreuz Münster",
       "category": "",
-      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren, mit Unterstützung bei Integrationsprozessen und Alltagsfragen, mittwochs von 9 bis 15 Uhr in Coerde.",
+      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren mit Unterstützung bei Integrationsprozessen, behördlichen Angelegenheiten und sozialer Teilhabe.",
       "status": "scheduled",
       "source_name": "DRK Münster – Migrationsberatung (MBE)",
       "source_url": "https://www.drk-muenster.de/angebot/migrationsberatung.html",
       "source_id": "drk_munster_migrationsberatung_mbe",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-23_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_awo_coerde_mittendrin",
@@ -1223,7 +1283,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-23_1000_kindermusikfestival_munster_karibuni_weltmusik_fur_kinder_karibuni_aus_munster_meerwiese_theater",
@@ -1243,27 +1303,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2723/15178/kindermusikfestival-muenster-karibuni-weltmusik-fuer-kinder-karibuni-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
-    },
-    {
-      "event_id": "2026-09-23_1300_wochentliche_offene_beratungszeit_empowerment_rassismuskritik_nachhaltigkeit_koo_iriba_brunnen_termine",
-      "title": "Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik / Nachhaltigkeit & Kooperationen",
-      "start_date": "2026-09-23",
-      "start_time": "13:00",
-      "end_date": "2026-09-23",
-      "end_time": "15:00",
-      "location_name": "coerde mittendrin",
-      "address": "Königsberger Straße 8, 48157 Münster",
-      "city": "Münster-Coerde",
-      "organizer": "Iriba-Brunnen e.V.",
-      "category": "Stadtteil / Begegnung / Engagement",
-      "short_description": "Regelmäßige offene Beratungszeit zu Empowerment, Rassismuskritik, Nachhaltigkeit und Kooperationen in Coerde.",
-      "status": "scheduled",
-      "source_name": "Iriba-Brunnen – Termine",
-      "source_url": "https://www.iriba-brunnen.de/termine-archiv/woechentliche-offene-beratungszeit-empowerment-rassismuskritik-nachhaltigkeit-kooperationen/",
-      "source_id": "iriba_brunnen_termine",
-      "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-23_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -1283,7 +1323,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sure-Start-Plus-Die-Familienspielstunde-Coerde/2602-2912",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-23_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburger_wald_fbf_friedensstrasse_coerde",
@@ -1303,7 +1343,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Kind-Waldspielgruppe-Laufalter-bis-6-J-Dyckburger-Wald/2602-2632",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-23_ganztag_heimat_remixed_musik_der_kulturen_iriba_brunnen_termine",
@@ -1317,13 +1357,13 @@
       "city": "Münster-Coerde",
       "organizer": "Iriba-Brunnen e.V.",
       "category": "Stadtteil / Begegnung / Engagement",
-      "short_description": "Wöchentliche Musikveranstaltung mit kultureller Vielfalt im Franziskushaus Coerde.",
+      "short_description": "Wöchentliche Veranstaltung mit Musik der Kulturen im Franziskushaus in Coerde.",
       "status": "scheduled",
       "source_name": "Iriba-Brunnen – Termine",
       "source_url": "https://www.iriba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-termine-archiv-heimat-remixed-musik-der-kulturen/",
       "source_id": "iriba_brunnen_termine",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-23_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -1343,7 +1383,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-An-der-Meerwiese/2606-6056",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-24_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mittendrin",
@@ -1363,7 +1403,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-25_0900_gemeinsames_fruhstuck_im_kirchenzentrum_andreas_kirchengemeinde_startseite",
@@ -1377,13 +1417,13 @@
       "city": "Münster-Coerde",
       "organizer": "Ev. Andreas-Kirchengemeinde Münster-Coerde",
       "category": "Kirche / Stadtteil / Begegnung",
-      "short_description": "Gemeinsames Frühstück im Kirchenzentrum der Andreas-Kirchengemeinde Münster-Coerde am 25. September um 9:00 Uhr.",
+      "short_description": "Gemeinsames Frühstück im Kirchenzentrum der Andreas-Kirchengemeinde Münster-Coerde am 25. September 2026 um 9:00 Uhr.",
       "status": "scheduled",
       "source_name": "Ev. Andreas-Kirchengemeinde Münster-Coerde – Startseite",
       "source_url": "https://www.andreas-kirchengemeinde-muenster.de/",
       "source_id": "andreas_kirchengemeinde_startseite",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-25_1000_kindermusikfestival_zauberhafte_welt_des_herrn_alexander_pindakaas_quartett_aus__meerwiese_theater",
@@ -1403,7 +1443,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2729/15202/kindermusikfestival-zauberhafte-welt-des-herrn-alexander-pindakaas-quartett-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-25_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerde",
@@ -1423,7 +1463,27 @@
       "source_url": "https://initiative-chack.de/projekte/muetter-treff-coerde/",
       "source_id": "initiative_chack_mutter_treff_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
+    },
+    {
+      "event_id": "2026-09-25_ganztag_gemeinsam_sichtbar_stark_madchen_aus_coerde_gsmc_iriba_brunnen_termine",
+      "title": "Gemeinsam sichtbar & stark – Mädchen aus Coerde (GSMC)",
+      "start_date": "2026-09-25",
+      "start_time": "16:30",
+      "end_date": "2026-09-25",
+      "end_time": "18:00",
+      "location_name": "coerde mittendrin",
+      "address": "Königsberger Straße 8 48157 Münster",
+      "city": "Münster-Coerde",
+      "organizer": "Iriba-Brunnen e.V.",
+      "category": "Stadtteil / Begegnung / Engagement",
+      "short_description": "Wöchentliches Treffen für Mädchen aus Coerde zur Stärkung und Sichtbarkeit.",
+      "status": "scheduled",
+      "source_name": "Iriba-Brunnen – Termine",
+      "source_url": "https://www.iriba-brunnen.de/termine-archiv/gemeinsam-sichtbar-stark-maedchen-aus-coerde-gsmc/",
+      "source_id": "iriba_brunnen_termine",
+      "confidence": "0,9",
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-25_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mittendrin",
@@ -1443,7 +1503,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-25_1900_nordlichter_eckels_kladde_events",
@@ -1457,13 +1517,13 @@
       "city": "Münster-Coerde",
       "organizer": "Eckels Kladde",
       "category": "Kultur / Musik / Stadtteil",
-      "short_description": "Multimediale Präsentation mit 3-Gängen in Münster-Coerde.",
+      "short_description": "Multimediale Präsentation mit 3-Gang-Menü in Münster-Coerde.",
       "status": "scheduled",
       "source_name": "e.ssenz / Eckels Kladde – alle Kurse und Events",
       "source_url": "https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster/products/nordlichter-25-09-25-19-uhr-multimediale-prasentation-mit-3-gangen",
       "source_id": "eckels_kladde_events",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-26_1500_nachhilfeangebot_awo_coerde_mittendrin",
@@ -1483,7 +1543,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-26_1700_kindermusikfestival_munster_cattu_der_traumfanger_cattu_aus_berlin_meerwiese_theater",
@@ -1503,7 +1563,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2736/15222/kindermusikfestival-muenster-cattu-der-traumfaenger-cattu-aus-berlin",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-26_1900_georg_kreisler_sein_leben_seine_lieder_markus_von_hagen_kabarettist_und_philip_r_meerwiese_theater",
@@ -1523,11 +1583,11 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2789/15386/georg-kreisler-sein-leben-seine-lieder-markus-von-hagen-kabarettist-und-philip-ritter-pianist",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
-      "event_id": "2026-09-27_1100_elfi_gottesdienst_andreas_kirchengemeinde_startseite",
-      "title": "Elfi-Gottesdienst",
+      "event_id": "2026-09-27_1100_gottesdienst_andreas_kirchengemeinde_startseite",
+      "title": "Gottesdienst",
       "start_date": "2026-09-27",
       "start_time": "11:00",
       "end_date": "2026-09-27",
@@ -1537,13 +1597,13 @@
       "city": "Münster-Coerde",
       "organizer": "Ev. Andreas-Kirchengemeinde Münster-Coerde",
       "category": "Kirche / Stadtteil / Begegnung",
-      "short_description": "Monatlicher Elfi-Gottesdienst am letzten Sonntag im Monat um 11:00 Uhr in der Andreas-Kirchengemeinde Münster-Coerde.",
+      "short_description": "Gottesdienst am letzten Sonntag im Monat um 11:00 Uhr in der Andreas-Kirchengemeinde Münster-Coerde.",
       "status": "scheduled",
       "source_name": "Ev. Andreas-Kirchengemeinde Münster-Coerde – Startseite",
       "source_url": "https://www.andreas-kirchengemeinde-muenster.de/",
       "source_id": "andreas_kirchengemeinde_startseite",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-27_1530_spielarten_2026_du_und_ich_helios_theater_aus_hamm_meerwiese_theater",
@@ -1563,7 +1623,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2790/15387/spielarten-2026-du-und-ich-helios-theater-aus-hamm",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-28_1000_cryptolike_to_the_moon_sterna_pau_aus_bochum_meerwiese_theater",
@@ -1583,7 +1643,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2791/15389/cryptolike-to-the-moon-sterna-pau-aus-bochum",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-28_1430_offener_spieletreff_fur_senior_innen_doppelkopfrunde_alter_werden_in_coerde_awo_coerde_mittendrin",
@@ -1603,7 +1663,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-28_1800_andreas_singekreis_andreas_kirchengemeinde_startseite",
@@ -1617,13 +1677,13 @@
       "city": "Münster-Coerde",
       "organizer": "Ev. Andreas-Kirchengemeinde Münster-Coerde",
       "category": "Kirche / Stadtteil / Begegnung",
-      "short_description": "Treffen des Andreas Singekreises am 28. September um 18:00 Uhr in der Andreas-Kirchengemeinde Münster-Coerde.",
+      "short_description": "Treffen des Andreas Singekreises am 28. September 2026 um 18:00 Uhr in der Andreas-Kirchengemeinde Münster-Coerde.",
       "status": "scheduled",
       "source_name": "Ev. Andreas-Kirchengemeinde Münster-Coerde – Startseite",
       "source_url": "https://www.andreas-kirchengemeinde-muenster.de/",
       "source_id": "andreas_kirchengemeinde_startseite",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-29_0930_theaterzauber_coerde_babilu_und_die_buchstabenbande_theater_don_kidschote_aus_mu_meerwiese_theater",
@@ -1643,7 +1703,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2793/15426/theaterzauber-coerde-babilu-und-die-buchstabenbande-theater-don-kidschote-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-29_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_coerde_mittendrin",
@@ -1663,7 +1723,7 @@
       "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
       "source_id": "awo_coerde_mittendrin",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-29_1100_theaterzauber_coerde_babilu_und_die_buchstabenbande_theater_don_kidschote_aus_mu_meerwiese_theater",
@@ -1683,7 +1743,27 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2793/15427/theaterzauber-coerde-babilu-und-die-buchstabenbande-theater-don-kidschote-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
+    },
+    {
+      "event_id": "2026-09-30_ganztag_wochentliche_offene_beratungszeit_empowerment_rassismuskritik_nachhaltigkeit_koo_iriba_brunnen_termine",
+      "title": "Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik / Nachhaltigkeit & Kooperationen",
+      "start_date": "2026-09-30",
+      "start_time": null,
+      "end_date": "2026-09-30",
+      "end_time": null,
+      "location_name": "coerde mittendrin",
+      "address": "Königsberger Straße 8 48157 Münster",
+      "city": "Münster-Coerde",
+      "organizer": "Iriba-Brunnen e.V.",
+      "category": "Stadtteil / Begegnung / Engagement",
+      "short_description": "Wöchentliche offene Beratungszeit zu Empowerment, Rassismuskritik, Nachhaltigkeit und Kooperationen.",
+      "status": "scheduled",
+      "source_name": "Iriba-Brunnen – Termine",
+      "source_url": "https://www.iriba-brunnen.de/termine-archiv/woechentliche-offene-beratungszeit-empowerment-rassismuskritik-nachhaltigkeit-kooperationen/",
+      "source_id": "iriba_brunnen_termine",
+      "confidence": "0,9",
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-30_0815_theaterzauber_coerde_babilu_und_die_buchstabenbande_theater_don_kidschote_aus_mu_meerwiese_theater",
@@ -1703,7 +1783,47 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2793/15428/theaterzauber-coerde-babilu-und-die-buchstabenbande-theater-don-kidschote-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
+    },
+    {
+      "event_id": "2026-09-30_0900_migrationsberatung_mbe_in_munster_coerde_drk_munster_migrationsberatung_mbe",
+      "title": "Migrationsberatung (MBE) in Münster-Coerde",
+      "start_date": "2026-09-30",
+      "start_time": "09:00",
+      "end_date": "2026-09-30",
+      "end_time": "15:00",
+      "location_name": "DRK Münster – Migrationsberatung",
+      "address": "Hamannplatz 26/28, 48157 Münster-Coerde",
+      "city": "Münster-Coerde",
+      "organizer": "Deutsches Rotes Kreuz Münster",
+      "category": "",
+      "short_description": "Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte ab 28 Jahren mit Unterstützung bei Integrationsprozessen, behördlichen Angelegenheiten und sozialer Teilhabe.",
+      "status": "scheduled",
+      "source_name": "DRK Münster – Migrationsberatung (MBE)",
+      "source_url": "https://www.drk-muenster.de/angebot/migrationsberatung.html",
+      "source_id": "drk_munster_migrationsberatung_mbe",
+      "confidence": "0,9",
+      "last_updated": "2026-09-02T16:07:15.512Z"
+    },
+    {
+      "event_id": "2026-09-30_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_awo_coerde_mittendrin",
+      "title": "Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615)",
+      "start_date": "2026-09-30",
+      "start_time": "10:00",
+      "end_date": "2026-09-30",
+      "end_time": "12:00",
+      "location_name": "AWO Coerde mittendrin",
+      "address": "Königsberger Straße 8, 48157 Münster-Coerde",
+      "city": "Münster-Coerde",
+      "organizer": "AWO Coerde mittendrin",
+      "category": "Stadtteil / Begegnung / Beratung",
+      "short_description": "Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615): wöchentliches Angebot jeden Mittwoch im AWO Coerde mittendrin der AWO in Münster-Coerde.",
+      "status": "scheduled",
+      "source_name": "AWO Coerde mittendrin",
+      "source_url": "https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485",
+      "source_id": "awo_coerde_mittendrin",
+      "confidence": "0,9",
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-30_1030_theaterzauber_coerde_babilu_und_die_buchstabenbande_theater_don_kidschote_aus_mu_meerwiese_theater",
@@ -1723,7 +1843,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2793/15429/theaterzauber-coerde-babilu-und-die-buchstabenbande-theater-don-kidschote-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-30_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -1743,7 +1863,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sure-Start-Plus-Die-Familienspielstunde-Coerde/2602-2912",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-30_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburger_wald_fbf_friedensstrasse_coerde",
@@ -1763,7 +1883,27 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Kind-Waldspielgruppe-Laufalter-bis-6-J-Dyckburger-Wald/2602-2632",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
+    },
+    {
+      "event_id": "2026-09-30_ganztag_heimat_remixed_musik_der_kulturen_iriba_brunnen_termine",
+      "title": "Heimat remixed – Musik der Kulturen",
+      "start_date": "2026-09-30",
+      "start_time": "18:00",
+      "end_date": "2026-09-30",
+      "end_time": "20:30",
+      "location_name": "Franziskushaus in Coerde",
+      "address": "Schneidemühlerstr. 23, 48157 Münster",
+      "city": "Münster-Coerde",
+      "organizer": "Iriba-Brunnen e.V.",
+      "category": "Stadtteil / Begegnung / Engagement",
+      "short_description": "Wöchentliche Veranstaltung mit Musik der Kulturen im Franziskushaus in Coerde.",
+      "status": "scheduled",
+      "source_name": "Iriba-Brunnen – Termine",
+      "source_url": "https://www.iriba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-termine-archiv-heimat-remixed-musik-der-kulturen/",
+      "source_id": "iriba_brunnen_termine",
+      "confidence": "0,9",
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-09-30_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -1783,7 +1923,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-An-der-Meerwiese/2606-6056",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-02_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwiese_theater",
@@ -1803,7 +1943,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1025/15841/tanzxchange-freie-tanzszene-muenster-open-class",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-02_1930_swing_latin_night_jazzcarraldo_aus_munster_meerwiese_theater",
@@ -1823,7 +1963,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2797/15449/swing-latin-night-jazzcarraldo-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-03_1000_workshop_black_and_white_diesmal_bunt_ein_schwarzlichttheater_workshop_meerwiese_theater",
@@ -1843,7 +1983,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2799/15451/workshop-black-and-white-diesmal-bunt-ein-schwarzlichttheater-workshop",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-03_2000_kunst_im_volk_einig_recht_frei_klos_sopran_di_martino_bariton_lehnert_flugel_meerwiese_theater",
@@ -1863,7 +2003,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2800/15452/kunst-im-volk-einig-recht-frei-klos-sopran-di-martino-bariton-lehnert-fluegel",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-04_1200_faszination_feuer_kochen_in_und_an_der_flamme_trifft_dutch_oven_kurs_eckels_kladde_events",
@@ -1883,7 +2023,7 @@
       "source_url": "https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster/products/feuerkochkurs-04-10-26",
       "source_id": "eckels_kladde_events",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-07_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -1903,7 +2043,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sure-Start-Plus-Die-Familienspielstunde-Coerde/2602-2912",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-07_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburger_wald_fbf_friedensstrasse_coerde",
@@ -1923,7 +2063,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Kind-Waldspielgruppe-Laufalter-bis-6-J-Dyckburger-Wald/2602-2632",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-07_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -1943,7 +2083,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-An-der-Meerwiese/2606-6056",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-09_1130_ich_bin_mehr_als_mein_feed_workshop_fur_madchen_zu_social_media_essen_korpergefu_iriba_brunnen_termine",
@@ -1957,13 +2097,13 @@
       "city": "48167 Münster",
       "organizer": "Iriba-Brunnen e.V.",
       "category": "Stadtteil / Begegnung / Engagement",
-      "short_description": "Workshop für Mädchen zu Themen rund um Social Media, Ernährung und Körpergefühl in Coerde.",
+      "short_description": "Workshop für Mädchen zu Themen Social Media, Ernährung und Körpergefühl im Stadtteilbüro Coerde.",
       "status": "scheduled",
       "source_name": "Iriba-Brunnen – Termine",
       "source_url": "https://www.iriba-brunnen.de/termine-archiv/ich-bin-mehr-als-mein-feed-workshop-fuer-maedchen-zu-social-media-essen-koerpergefuehl/",
       "source_id": "iriba_brunnen_termine",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-09_1800_stadtteilkonzert_sinfonieorchester_munster_theater_munster_meerwiese_theater",
@@ -1983,7 +2123,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2801/15453/stadtteilkonzert-sinfonieorchester-muenster-theater-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-10_1000_tagung_fruhkindliche_bildung_und_chancengleichheit_initiative_chack_fachtagung",
@@ -1997,13 +2137,13 @@
       "city": "Münster-Coerde",
       "organizer": "Initiative ChaCK e.V.",
       "category": "",
-      "short_description": "Fachtagung mit internationalen Wissenschaftlern und Experten zu frühkindlicher Bildung und Chancengleichheit, inklusive Vorträgen und Podiumsdiskussion. Teilnahme kostenlos und offen für alle Interessierten.",
+      "short_description": "Fachtagung mit internationalen Wissenschaftlern und Experten zum Thema Chancengleichheit und Kinderarmut. Vorträge und Podiumsdiskussion. Teilnahme kostenlos und offen für alle Interessierten.",
       "status": "scheduled",
       "source_name": "Initiative ChaCK – Fachtagung",
       "source_url": "https://initiative-chack.de/projekte/fachtagung/",
       "source_id": "initiative_chack_fachtagung",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-11_1530_spielarten_2026_der_gerauschehandler_toboso_aus_essen_meerwiese_theater",
@@ -2023,7 +2163,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2802/15454/spielarten-2026-der-geraeuschehaendler-toboso-aus-essen",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-11_1700_spielarten_2026_silent_calling_theater_marabu_aus_bonn_meerwiese_theater",
@@ -2043,7 +2183,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2803/15455/spielarten-2026-silent-calling-theater-marabu-aus-bonn",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-13_1000_spielarten_2026_into_it_performing_group_marie_lena_kaiser_aus_koln_meerwiese_theater",
@@ -2063,7 +2203,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2804/15456/spielarten-2026-into-it-performing-group-marie-lena-kaiser-aus-koeln",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-14_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -2083,7 +2223,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sure-Start-Plus-Die-Familienspielstunde-Coerde/2602-2912",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-14_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburger_wald_fbf_friedensstrasse_coerde",
@@ -2103,7 +2243,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Kind-Waldspielgruppe-Laufalter-bis-6-J-Dyckburger-Wald/2602-2632",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-14_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde",
@@ -2123,7 +2263,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-An-der-Meerwiese/2606-6056",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-15_1000_spielarten_2026_der_riss_pulk_fiktion_aus_koln_meerwiese_theater",
@@ -2143,7 +2283,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2805/15457/spielarten-2026-der-riss-pulk-fiktion-aus-koeln",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-17_1000_workshop_black_and_white_diesmal_bunt_ein_schwarzlichttheater_workshop_meerwiese_theater",
@@ -2163,7 +2303,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2806/15458/workshop-black-and-white-diesmal-bunt-ein-schwarzlichttheater-workshop",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-18_1500_henri_der_bucherwurm_aufregung_in_der_sonnenschein_bucherei_stadtbuecherei_coerde",
@@ -2183,7 +2323,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3268/19393/henri-der-buecherwurm-aufregung-in-der-sonnenschein-buecherei",
       "source_id": "stadtbuecherei_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-21_1900_das_immersive_kriminal_dinner_in_3d_projektionen_sherlys_spurensuche_stadt_munster_veranstaltungskalender",
@@ -2203,7 +2343,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1485/5999/das-immersive-kriminal-dinner-in-3d-projektionen-sherlys-spurensuche",
       "source_id": "stadt_munster_veranstaltungskalender",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-22_1900_das_immersive_kriminal_dinner_in_3d_projektionen_sherlys_spurensuche_stadt_munster_veranstaltungskalender",
@@ -2223,7 +2363,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1485/6000/das-immersive-kriminal-dinner-in-3d-projektionen-sherlys-spurensuche",
       "source_id": "stadt_munster_veranstaltungskalender",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-23_1900_das_immersive_kriminal_dinner_in_3d_projektionen_sherlys_spurensuche_stadt_munster_veranstaltungskalender",
@@ -2243,7 +2383,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1485/6001/das-immersive-kriminal-dinner-in-3d-projektionen-sherlys-spurensuche",
       "source_id": "stadt_munster_veranstaltungskalender",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-24_1900_das_immersive_kriminal_dinner_in_3d_projektionen_sherlys_spurensuche_stadt_munster_veranstaltungskalender",
@@ -2263,7 +2403,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1485/6002/das-immersive-kriminal-dinner-in-3d-projektionen-sherlys-spurensuche",
       "source_id": "stadt_munster_veranstaltungskalender",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-25_ganztag_44_kinderfilmfest_munster_2te_herbstferienwoche_im_schlosstheater_begegnungszent_meerwiese_begegnungszentrum",
@@ -2283,7 +2423,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3108/18946/44-kinderfilmfest-muenster-2te-herbstferienwoche-im-schlosstheater-begegnungszentrum-meerwiese",
       "source_id": "meerwiese_begegnungszentrum",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-25_1900_das_immersive_kriminal_dinner_in_3d_projektionen_sherlys_spurensuche_stadt_munster_veranstaltungskalender",
@@ -2303,7 +2443,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1485/6003/das-immersive-kriminal-dinner-in-3d-projektionen-sherlys-spurensuche",
       "source_id": "stadt_munster_veranstaltungskalender",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-27_1030_filmworkshop_stummfilm_kinderklangorchester_44_kinderfilmfest_munster_vertonung__meerwiese_theater",
@@ -2323,7 +2463,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3015/18561/filmworkshop-stummfilm-kinderklangorchester-44-kinderfilmfest-muenster-vertonung-kurzer-stummfilme",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-28_1030_filmworkshop_stummfilm_kinderklangorchester_44_kinderfilmfest_munster_vertonung__meerwiese_theater",
@@ -2343,7 +2483,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3015/18562/filmworkshop-stummfilm-kinderklangorchester-44-kinderfilmfest-muenster-vertonung-kurzer-stummfilme",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-29_1030_filmworkshop_stummfilm_kinderklangorchester_44_kinderfilmfest_munster_vertonung__meerwiese_theater",
@@ -2363,7 +2503,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3015/18563/filmworkshop-stummfilm-kinderklangorchester-44-kinderfilmfest-muenster-vertonung-kurzer-stummfilme",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-10-30_1000_filmworkshop_stummfilm_kinderklangorchester_44_kinderfilmfest_munster_vertonung__meerwiese_theater",
@@ -2383,7 +2523,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3015/18564/filmworkshop-stummfilm-kinderklangorchester-44-kinderfilmfest-muenster-vertonung-kurzer-stummfilme",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-01_1230_der_kloss_marchenland_theater_e_v_aus_munster_meerwiese_theater",
@@ -2403,7 +2543,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3018/18568/der-kloss-maerchenland-theater-e-v-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-01_1500_der_kloss_marchenland_theater_e_v_aus_munster_meerwiese_theater",
@@ -2423,7 +2563,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3018/18569/der-kloss-maerchenland-theater-e-v-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-01_1730_der_kloss_marchenland_theater_e_v_aus_munster_meerwiese_theater",
@@ -2443,7 +2583,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3018/18570/der-kloss-maerchenland-theater-e-v-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-04_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -2463,7 +2603,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sure-Start-Plus-Die-Familienspielstunde-Coerde/2602-2912",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-04_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburger_wald_fbf_friedensstrasse_coerde",
@@ -2483,7 +2623,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Kind-Waldspielgruppe-Laufalter-bis-6-J-Dyckburger-Wald/2602-2632",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-06_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwiese_theater",
@@ -2503,7 +2643,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1025/15842/tanzxchange-freie-tanzszene-muenster-open-class",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-06_1900_die_lofoten_eckels_kladde_events",
@@ -2523,7 +2663,7 @@
       "source_url": "https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster/products/die-lofoten-06-11-26-19-uhr-multimediale-prasentation-mit-einzigartigem-3-gang-menu",
       "source_id": "eckels_kladde_events",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-06_1930_vorlese_cafe_im_november_auf_russisch_deutsch_mit_musik_kulturinitiative_coerde",
@@ -2543,7 +2683,7 @@
       "source_url": "https://kulturinitiative-coerde.de/termin/vorlese-cafe-im-november/",
       "source_id": "kulturinitiative_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-07_1700_kindermusikfestival_munsterland_suli_puschban_suli_puschban_aus_berlin_meerwiese_theater",
@@ -2563,7 +2703,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/2808/15460/kindermusikfestival-muensterland-suli-puschban-suli-puschban-aus-berlin",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-07_1900_nordlichter_eckels_kladde_events",
@@ -2577,13 +2717,13 @@
       "city": "Münster-Coerde",
       "organizer": "Eckels Kladde",
       "category": "Kultur / Musik / Stadtteil",
-      "short_description": "Multimediale Präsentation mit 3-Gängen in Münster-Coerde.",
+      "short_description": "Multimediale Präsentation mit 3-Gang-Menü in Münster-Coerde.",
       "status": "scheduled",
       "source_name": "e.ssenz / Eckels Kladde – alle Kurse und Events",
       "source_url": "https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster/products/nordlichter-07-11-25-19-uhr-multimediale-prasentation-mit-3-gangen",
       "source_id": "eckels_kladde_events",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-11_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -2603,7 +2743,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sure-Start-Plus-Die-Familienspielstunde-Coerde/2602-2912",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-11_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburger_wald_fbf_friedensstrasse_coerde",
@@ -2623,7 +2763,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Kind-Waldspielgruppe-Laufalter-bis-6-J-Dyckburger-Wald/2602-2632",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-13_1500_zirkus_coerdini_kinderzirkus_aus_coerde_meerwiese_theater",
@@ -2643,7 +2783,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3021/18573/zirkus-coerdini-kinderzirkus-aus-coerde",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-14_1500_zirkus_coerdini_kinderzirkus_aus_coerde_stadt_munster_veranstaltungskalender",
@@ -2663,7 +2803,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3021/18574/zirkus-coerdini-kinderzirkus-aus-coerde",
       "source_id": "stadt_munster_veranstaltungskalender",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-18_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -2683,7 +2823,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sure-Start-Plus-Die-Familienspielstunde-Coerde/2602-2912",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-18_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburger_wald_fbf_friedensstrasse_coerde",
@@ -2703,7 +2843,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Kind-Waldspielgruppe-Laufalter-bis-6-J-Dyckburger-Wald/2602-2632",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-20_1015_lesen_mit_kleinen_wesen_stadtbuecherei_coerde",
@@ -2723,7 +2863,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1028/4667/lesen-mit-kleinen-wesen",
       "source_id": "stadtbuecherei_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-21_1400_ost_europa_seminar_patriotismus_und_demokratie_leitung_joachim_wieder_meerwiese_theater",
@@ -2743,7 +2883,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3022/18575/ost-europa-seminar-patriotismus-und-demokratie-leitung-joachim-wieder",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-22_1500_24_winterpunsch_fiesta_echtzeit_theater_aus_munster_meerwiese_theater",
@@ -2763,7 +2903,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3023/18577/24-winterpunsch-fiesta-echtzeit-theater-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-24_1000_24_winterpunsch_fiesta_echtzeit_theater_aus_munster_meerwiese_theater",
@@ -2783,7 +2923,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3023/18578/24-winterpunsch-fiesta-echtzeit-theater-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-25_1000_24_winterpunsch_fiesta_echtzeit_theater_aus_munster_meerwiese_theater",
@@ -2803,7 +2943,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3023/18579/24-winterpunsch-fiesta-echtzeit-theater-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-25_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -2823,7 +2963,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sure-Start-Plus-Die-Familienspielstunde-Coerde/2602-2912",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-25_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburger_wald_fbf_friedensstrasse_coerde",
@@ -2843,7 +2983,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Kind-Waldspielgruppe-Laufalter-bis-6-J-Dyckburger-Wald/2602-2632",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-26_1000_24_winterpunsch_fiesta_echtzeit_theater_aus_munster_meerwiese_theater",
@@ -2863,7 +3003,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3023/18580/24-winterpunsch-fiesta-echtzeit-theater-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-11-28_1200_qi_gong_seminar_meditation_leitung_volker_nowak_von_der_way_meerwiese_theater",
@@ -2883,7 +3023,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3024/18581/qi-gong-seminar-meditation-leitung-volker-nowak-von-der-way",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-12-02_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -2903,7 +3043,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sure-Start-Plus-Die-Familienspielstunde-Coerde/2602-2912",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-12-02_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburger_wald_fbf_friedensstrasse_coerde",
@@ -2923,7 +3063,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Kind-Waldspielgruppe-Laufalter-bis-6-J-Dyckburger-Wald/2602-2632",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-12-04_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwiese_theater",
@@ -2943,7 +3083,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1025/18560/tanzxchange-freie-tanzszene-muenster-open-class",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-12-05_1500_workshop_auf_clownsentdeckung_in_dir_selbst_ein_clown_workshop_mit_clown_fidelid_meerwiese_theater",
@@ -2963,7 +3103,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3025/18582/workshop-auf-clownsentdeckung-in-dir-selbst-ein-clown-workshop-mit-clown-fidelidad",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-12-05_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburger_wald_fbf_friedensstrasse_coerde",
@@ -2983,7 +3123,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Kind-Waldspielgruppe-Laufalter-bis-6-J-Dyckburger-Wald/2602-2632",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-12-06_1000_workshop_auf_clownsentdeckung_in_dir_selbst_ein_clown_workshop_mit_clown_fidelid_meerwiese_theater",
@@ -3003,7 +3143,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3025/18583/workshop-auf-clownsentdeckung-in-dir-selbst-ein-clown-workshop-mit-clown-fidelidad",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-12-06_1530_24_winterpunsch_pendulum_mneme_kollektiv_aus_munster_meerwiese_theater",
@@ -3023,7 +3163,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3026/18584/24-winterpunsch-pendulum-mneme-kollektiv-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-12-06_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburger_wald_fbf_friedensstrasse_coerde",
@@ -3043,7 +3183,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Kind-Waldspielgruppe-Laufalter-bis-6-J-Dyckburger-Wald/2602-2632",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-12-07_1000_24_winterpunsch_pendulum_mneme_kollektiv_aus_munster_meerwiese_theater",
@@ -3063,7 +3203,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3026/18585/24-winterpunsch-pendulum-mneme-kollektiv-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-12-08_1000_24_winterpunsch_pendulum_mneme_kollektiv_aus_munster_meerwiese_theater",
@@ -3083,7 +3223,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3026/18586/24-winterpunsch-pendulum-mneme-kollektiv-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-12-09_1000_24_winterpunsch_pendulum_mneme_kollektiv_aus_munster_meerwiese_theater",
@@ -3103,7 +3243,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3026/18587/24-winterpunsch-pendulum-mneme-kollektiv-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-12-09_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -3123,7 +3263,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sure-Start-Plus-Die-Familienspielstunde-Coerde/2602-2912",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-12-09_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburger_wald_fbf_friedensstrasse_coerde",
@@ -3143,7 +3283,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Kind-Waldspielgruppe-Laufalter-bis-6-J-Dyckburger-Wald/2602-2632",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,7",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-12-13_1700_jazziges_weihnachtskonzert_mit_gedichten_und_geschichten_jeanette_lewe_gesang_un_meerwiese_theater",
@@ -3163,7 +3303,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3027/18588/jazziges-weihnachtskonzert-mit-gedichten-und-geschichten-jeanette-lewe-gesang-und-markus-papenberg-saxophon",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-12-16_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_friedensstrasse_coerde",
@@ -3183,7 +3323,7 @@
       "source_url": "https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sure-Start-Plus-Die-Familienspielstunde-Coerde/2602-2912",
       "source_id": "fbf_friedensstrasse_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-12-17_1000_24_winterpunsch_alice_im_wunderland_fetter_fisch_performance_theater_aus_munster_meerwiese_theater",
@@ -3203,7 +3343,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3028/18589/24-winterpunsch-alice-im-wunderland-fetter-fisch-performance-theater-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-12-18_1000_24_winterpunsch_alice_im_wunderland_fetter_fisch_performance_theater_aus_munster_meerwiese_theater",
@@ -3223,7 +3363,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3028/18590/24-winterpunsch-alice-im-wunderland-fetter-fisch-performance-theater-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2026-12-18_1015_lesen_mit_kleinen_wesen_stadtbuecherei_coerde",
@@ -3243,7 +3383,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/1028/4668/lesen-mit-kleinen-wesen",
       "source_id": "stadtbuecherei_coerde",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2027-01-17_1530_24_winterpunsch_impro_show_fur_kinder_7wiesen_aus_munster_meerwiese_theater",
@@ -3263,7 +3403,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3029/18592/24-winterpunsch-impro-show-fuer-kinder-7wiesen-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2027-01-18_1000_24_winterpunsch_impro_show_fur_kinder_7wiesen_aus_munster_meerwiese_theater",
@@ -3283,7 +3423,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3029/18593/24-winterpunsch-impro-show-fuer-kinder-7wiesen-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2027-01-19_1000_24_winterpunsch_impro_show_fur_kinder_7wiesen_aus_munster_meerwiese_theater",
@@ -3303,7 +3443,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3029/18594/24-winterpunsch-impro-show-fuer-kinder-7wiesen-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2027-01-20_1000_24_winterpunsch_impro_show_fur_kinder_7wiesen_aus_munster_meerwiese_theater",
@@ -3323,7 +3463,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3029/18595/24-winterpunsch-impro-show-fuer-kinder-7wiesen-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2027-01-21_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_munster_meerwiese_theater",
@@ -3343,7 +3483,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3030/18748/24-winterpunsch-ach-du-dickes-ei-theater-rosinante-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2027-01-22_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_munster_meerwiese_theater",
@@ -3363,7 +3503,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3030/18749/24-winterpunsch-ach-du-dickes-ei-theater-rosinante-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2027-01-24_1530_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_munster_meerwiese_theater",
@@ -3383,7 +3523,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3030/18750/24-winterpunsch-ach-du-dickes-ei-theater-rosinante-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2027-01-25_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_munster_meerwiese_theater",
@@ -3403,7 +3543,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3030/18751/24-winterpunsch-ach-du-dickes-ei-theater-rosinante-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2027-01-26_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_munster_meerwiese_theater",
@@ -3423,7 +3563,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3030/18752/24-winterpunsch-ach-du-dickes-ei-theater-rosinante-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     },
     {
       "event_id": "2027-01-27_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_munster_meerwiese_theater",
@@ -3443,7 +3583,7 @@
       "source_url": "https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3030/18753/24-winterpunsch-ach-du-dickes-ei-theater-rosinante-aus-muenster",
       "source_id": "meerwiese_theater",
       "confidence": "0,9",
-      "last_updated": "2026-09-01T16:08:27.160Z"
+      "last_updated": "2026-09-02T16:07:15.512Z"
     }
   ]
 }
