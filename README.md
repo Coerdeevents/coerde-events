@@ -61,10 +61,36 @@ Jedes Event in `events.json` folgt diesem Schema:
 | `source_name` | string | Name der Originalquelle |
 | `source_url` | string | URL der Originalquelle |
 | `last_updated` | string (ISO 8601) | Zeitpunkt der letzten Aktualisierung |
+| `series_id` | string | Serien-ID; bei allen Terminen derselben Serie gleich und über Läufe hinweg stabil. Leer = Einzeltermin |
+| `series_type` | string | `weekly`, `biweekly`, `monthly`, `block` (dicht aufeinanderfolgende Tage, z. B. Vorstellungsreihe, Ferienkurs), `irregular` oder leer |
+| `is_recurring` | string | `ja` bei regelmäßiger Wiederholung (`weekly`, `biweekly`, `monthly`), sonst `nein` |
+| `series_label` | string | Lesbare Beschreibung, z. B. `wöchentlich, freitags` oder `monatlich, jeden 3. Freitag` |
+| `series_count` | number \| null | Anzahl der Termine dieser Serie im aktuellen Datensatz |
 
 Termine mit `date_precision` ungleich `day` oder `status` ungleich `scheduled`
 sind als unsicher gekennzeichnet und sollten von Anwendungen entsprechend
 behandelt werden.
+
+### Serientermine
+
+Wiederkehrende Angebote (Kurse, Treffs, Sprechstunden, Gottesdienste) werden
+automatisch erkannt und gekennzeichnet. Jeder Termin einer Serie bleibt ein
+eigener Eintrag; zusammengehörige Termine teilen sich dieselbe `series_id`.
+
+- **Filtern:** `is_recurring = ja` liefert alle regelmäßigen Angebote.
+- **Gruppieren:** über `series_id`, z. B. um je Serie nur den nächsten Termin
+  anzuzeigen.
+- **Wie erkannt wird:** Kursnummer (FamilienBildung), Veranstaltungs-ID (Stadt
+  Münster) bzw. Quelle + Titel + Uhrzeit; das Muster (wöchentlich, monatlich …)
+  wird aus den Terminen abgeleitet, bei Einzelterminen aus Angaben wie
+  „jeden ersten Donnerstag im Monat“. `series_count` zählt nur Termine, die im
+  aktuellen Datensatz enthalten sind.
+
+In `events.csv` stehen die fünf Felder als letzte Spalten. In `events.ics`
+trägt jedes `VEVENT` die Eigenschaft `X-COERDE-IS-RECURRING`, Serientermine
+zusätzlich `X-COERDE-SERIES-ID`, `X-COERDE-SERIES-TYPE`,
+`X-COERDE-SERIES-LABEL` und `X-COERDE-SERIES-COUNT`. Die Werte sind nach
+RFC 5545 als Text maskiert (Komma als `\,`).
 
 ## Aktualisierung
 
