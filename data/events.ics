@@ -7,228 +7,9 @@ X-WR-CALNAME:Coerde Events
 X-WR-CALDESC:Öffentliche Veranstaltungen in Münster-Coerde
 X-WR-TIMEZONE:Europe/Berlin
 BEGIN:VEVENT
-UID:2026-11-11_ganztag_wochentliche_offene_beratungszeit_empowerment_rassis
- muskritik_nachhaltigkeit_koo_iriba_brunnen_termine@coerde-events
-DTSTAMP:20261111T190446Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261111
-SUMMARY:Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik /
-  Nachhaltigkeit & Kooperationen
-LOCATION:coerde mittendrin\, Königsberger Straße 8 48157 Münster\, Münster-
- Coerde
-DESCRIPTION:Wöchentliche offene Beratungszeit zu Empowerment\, Rassismuskri
- tik\, Nachhaltigkeit und Kooperationen in Coerde.\nVeranstalter: Iriba-Bru
- nnen e.V.\nQuelle: https://www.iriba-brunnen.de/termine-archiv/woechentlic
- he-offene-beratungszeit-empowerment-rassismuskritik-nachhaltigkeit-koopera
- tionen/
-URL:https://www.iriba-brunnen.de/termine-archiv/woechentliche-offene-beratu
- ngszeit-empowerment-rassismuskritik-nachhaltigkeit-kooperationen/
-CATEGORIES:Stadtteil / Begegnung / Engagement
-STATUS:CONFIRMED
-X-COERDE-SERIES-ID:ser_e30260c7dcb7
-X-COERDE-SERIES-TYPE:weekly
-X-COERDE-IS-RECURRING:ja
-X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-11_0900_migrationsberatung_mbe_beratung_in_coerde_drk_munster_m
- igrationsberatung_mbe@coerde-events
-DTSTAMP:20261111T190446Z
-DTSTART;TZID=Europe/Berlin:20261111T090000
-DTEND;TZID=Europe/Berlin:20261111T150000
-SUMMARY:Migrationsberatung (MBE) - Beratung in Coerde
-LOCATION:DRK Münster – Migrationsberatung\, Hamannplatz 26/28\, 48157 Münst
- er-Coerde\, Münster-Coerde
-DESCRIPTION:Wöchentliche Migrationsberatung für erwachsene Neuzugewanderte 
- ab 28 Jahren\, mittwochs von 9 bis 15 Uhr am Standort Hamannplatz 26/28 in
-  Münster-Coerde.\nVeranstalter: Deutsches Rotes Kreuz Münster\nQuelle: htt
- ps://www.drk-muenster.de/angebot/migrationsberatung.html
-URL:https://www.drk-muenster.de/angebot/migrationsberatung.html
-STATUS:CONFIRMED
-X-COERDE-SERIES-ID:ser_0a8a51903ba0
-X-COERDE-SERIES-TYPE:weekly
-X-COERDE-IS-RECURRING:ja
-X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-11_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_a
- wo_coerde_mittendrin@coerde-events
-DTSTAMP:20261111T190446Z
-DTSTART;TZID=Europe/Berlin:20261111T100000
-DTEND;TZID=Europe/Berlin:20261111T120000
-SUMMARY:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615)
-LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
- de\, Münster-Coerde
-DESCRIPTION:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615): wöch
- entliches Angebot jeden Mittwoch im AWO Coerde mittendrin der AWO in Münst
- er-Coerde.\nVeranstalter: AWO Coerde mittendrin\nQuelle: https://www.awo-m
- sl-re.de/einrichtung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc
- 6-c7cf9d9a4485
-URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34
- b25336-4aca-11f1-bfc6-c7cf9d9a4485
-CATEGORIES:Stadtteil / Begegnung / Beratung
-STATUS:CONFIRMED
-X-COERDE-SERIES-ID:ser_9cf929f9ed1c
-X-COERDE-SERIES-TYPE:weekly
-X-COERDE-IS-RECURRING:ja
-X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-11_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_frie
- densstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
-DTSTART;TZID=Europe/Berlin:20261111T140000
-DTEND;TZID=Europe/Berlin:20261111T170000
-SUMMARY:Sure Start Plus - Die Familienspielstunde Coerde
-LOCATION:Kita Wertvoll\, Kiesekampweg 8\, Münster\, Münster-Coerde
-DESCRIPTION:In diesem kostenlosen Angebot kommen Mütter mit ihren Kita-Kind
- ern ab 2 Jahren zusammen\, um gemeinsam zu spielen\, zu basteln\, zu singe
- n u.v.m. Dabei lernen die Mütter\, wie sie ihr Kind gut unterstützen könne
- n. Das gemeinsame Spiel stärkt die Beziehung und öffnet den Blick für die 
- Kompetenzen der Kin\nVeranstalter: FamilienBildung Friedensstraße\nQuelle:
-  https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sure-Start-
- Plus-Die-Familienspielstunde-Coerde/2602-2912
-URL:https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Sure-Star
- t-Plus-Die-Familienspielstunde-Coerde/2602-2912
-CATEGORIES:Bildung / Familie / Stadtteil
-STATUS:CONFIRMED
-X-COERDE-SERIES-ID:ser_d1270549cbae
-X-COERDE-SERIES-TYPE:weekly
-X-COERDE-IS-RECURRING:ja
-X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:6
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-11_1430_begegnungscafe_im_franziskushaus_st_franziskus_wochenin
- fo@coerde-events
-DTSTAMP:20261111T190446Z
-DTSTART;TZID=Europe/Berlin:20261111T143000
-DTEND;TZID=Europe/Berlin:20261111T143000
-SUMMARY:Begegnungscafé im Franziskushaus
-LOCATION:Franziskushaus\, Schneidemühler Straße 23c\, Münster-Coerde\, Müns
- ter-Coerde
-DESCRIPTION:Wöchentliches Begegnungscafé für Jung und Alt zum Austausch und
-  gemütlichen Beisammensein\, am 11.11. mit Anregungen für Gedächtnistraini
- ng.\nVeranstalter: Kath. Kirchengemeinde St. Franziskus Münster\nQuelle: h
- ttps://sankt-franziskus-muenster.de/wp-content/uploads/2026/11/web_46_Woch
- eninfo_1107-20261115.pdf
-URL:https://sankt-franziskus-muenster.de/wp-content/uploads/2026/11/web_46_
- Wocheninfo_1107-20261115.pdf
-CATEGORIES:Kirche / Gottesdienst / Begegnung
-STATUS:CONFIRMED
-X-COERDE-SERIES-ID:ser_213b8cbdd069
-X-COERDE-SERIES-TYPE:weekly
-X-COERDE-IS-RECURRING:ja
-X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:1
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-11_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_f
- bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
-DTSTART;TZID=Europe/Berlin:20261111T143000
-DTEND;TZID=Europe/Berlin:20261111T173000
-SUMMARY:Lernspielgruppe für Eltern und Kinder in der Kitazeit
-LOCATION:Begegnungszentrum Meerwiese/Kreativ\, Münster-Coerde
-DESCRIPTION:Die Lernspielgruppe richtet sich an Familien mit besonderem Unt
- erstützungsbedarf. Die Gruppe versteht sich als Brückenangebot zwischen El
- tern und Kita sowie Eltern und Schule. In wöchentlichen Treffen sind Elter
- n und Kinder eingeladen zum gemeinsamen Spielen\, Vorlesen\, Basteln und S
- ingen. Dabei wird\nVeranstalter: FamilienBildung Friedensstraße\nQuelle: h
- ttps://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Lernspielgrup
- pe-fuer-Eltern-und-Kinder-in-der-Kitazeit/2602-2922
-URL:https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Lernspiel
- gruppe-fuer-Eltern-und-Kinder-in-der-Kitazeit/2602-2922
-CATEGORIES:Bildung / Familie / Stadtteil
-STATUS:CONFIRMED
-X-COERDE-SERIES-ID:ser_5f1f960e59a6
-X-COERDE-SERIES-TYPE:weekly
-X-COERDE-IS-RECURRING:ja
-X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:6
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-11_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
- r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
-DTSTART;TZID=Europe/Berlin:20261111T154500
-DTEND;TZID=Europe/Berlin:20261111T171500
-SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
-LOCATION:Treffpunkt Parkplatz an der Dyckburgkirche\, Dyckburger Str. 224\,
-  48157 Münster\, Münster-Coerde
-DESCRIPTION:Der Wald ist ein ganz besonders vielfältiger und spannender Leb
- ensraum\, der alle Sinne der Kinder anspricht und für sie eine bunte Vielf
- alt an Sinnes- und Körpererfahrungen bereit hält Als Erwachsene lernen Sie
- \, Ihrem Kind auf seinen Entdeckungsreisen durch die Natur zu folgen Das r
- egelmäßige Spiel\nVeranstalter: FamilienBildung Friedensstraße\nQuelle: ht
- tps://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Kind-Wa
- ldspielgruppe-Laufalter-bis-6-J-Dyckburger-Wald/2602-2632
-URL:https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Eltern-Ki
- nd-Waldspielgruppe-Laufalter-bis-6-J-Dyckburger-Wald/2602-2632
-CATEGORIES:Bildung / Familie / Stadtteil
-STATUS:CONFIRMED
-X-COERDE-SERIES-ID:ser_4716b3b6087b
-X-COERDE-SERIES-TYPE:weekly
-X-COERDE-IS-RECURRING:ja
-X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs (+2 Zusatztermine)
-X-COERDE-SERIES-COUNT:8
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-11_ganztag_heimat_remixed_musik_der_kulturen_iriba_brunnen_term
- ine@coerde-events
-DTSTAMP:20261111T190446Z
-DTSTART;TZID=Europe/Berlin:20261111T180000
-DTEND;TZID=Europe/Berlin:20261111T203000
-SUMMARY:Heimat remixed – Musik der Kulturen
-LOCATION:Franziskushaus in Coerde\, Schneidemühlerstr. 23\, 48157 Münster\,
-  Münster-Coerde
-DESCRIPTION:Wöchentliche Veranstaltung mit Musik der Kulturen im Franziskus
- haus in Coerde.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https://www.iri
- ba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-termine-archiv-hei
- mat-remixed-musik-der-kulturen/
-URL:https://www.iriba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-
- termine-archiv-heimat-remixed-musik-der-kulturen/
-CATEGORIES:Stadtteil / Begegnung / Engagement
-STATUS:CONFIRMED
-X-COERDE-SERIES-ID:ser_d193929ff239
-X-COERDE-SERIES-TYPE:weekly
-X-COERDE-IS-RECURRING:ja
-X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-11_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde@coerde
- -events
-DTSTAMP:20261111T190446Z
-DTSTART;TZID=Europe/Berlin:20261111T183000
-DTEND;TZID=Europe/Berlin:20261111T200000
-SUMMARY:Yoga An der Meerwiese
-LOCATION:DRK Kita Meerwiese\, An der Meerwiese 11\, 48157 Münster\, Münster
- -Coerde
-DESCRIPTION:Yoga ist eine Kunst der Freude in Bewegung. Der Akzent liegt ni
- cht auf dem Äußeren\, sondern auf einer von innen her gerichteten Haltung 
- alles anzunehmen\, was da ist. Getragen von einer tiefen Akzeptanz zum Leb
- en. Wir erforschen den Körper\, wie ein Architekt\, von Raum zu Raum\, neh
- men das Angenehme un\nVeranstalter: FamilienBildung Friedensstraße\nQuelle
- : https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-An-de
- r-Meerwiese/2606-6058
-URL:https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Yoga-An-d
- er-Meerwiese/2606-6058
-CATEGORIES:Bildung / Familie / Stadtteil
-STATUS:CONFIRMED
-X-COERDE-SERIES-ID:ser_420bcc583cda
-X-COERDE-SERIES-TYPE:weekly
-X-COERDE-IS-RECURRING:ja
-X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-11-12_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261112T093000
 DTEND;TZID=Europe/Berlin:20261112T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -254,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mitten
  drin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261112T110000
 DTEND;TZID=Europe/Berlin:20261112T130000
 SUMMARY:Offene Sprechstunde „coerde mittendrin“
@@ -272,12 +53,12 @@ X-COERDE-SERIES-ID:ser_d6174935c439
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, donnerstags
-X-COERDE-SERIES-COUNT:3
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12_1430_komm_wir_sprechen_deutsch_fbf_friedensstrasse_coerde@co
  erde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261112T143000
 DTEND;TZID=Europe/Berlin:20261112T160000
 SUMMARY:Komm\, wir sprechen deutsch!
@@ -301,7 +82,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kinde
  rn_ab_3_jahren_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261112T143000
 DTEND;TZID=Europe/Berlin:20261112T164500
 SUMMARY:Praktische Ernährungsbildung für Eltern mit ihren Kindern ab 3 Jahr
@@ -327,7 +108,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261112T160000
 DTEND;TZID=Europe/Berlin:20261112T170000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. An der Meerwie
@@ -354,7 +135,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12_1930_chorprobe_der_chorgemeinschaft_st_franziskus_st_franzis
  kus_wocheninfo@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261112T193000
 DTEND;TZID=Europe/Berlin:20261112T193000
 SUMMARY:Chorprobe der Chorgemeinschaft St. Franziskus
@@ -372,12 +153,12 @@ X-COERDE-SERIES-ID:ser_980f95651225
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, donnerstags
-X-COERDE-SERIES-COUNT:4
+X-COERDE-SERIES-COUNT:5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-12_1945_zumba_workout_fitness_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261112T194500
 DTEND;TZID=Europe/Berlin:20261112T204500
 SUMMARY:Zumba® Workout Fitness
@@ -403,7 +184,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13_0900_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261113T090000
 DTEND;TZID=Europe/Berlin:20261113T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen an der Meerwie
@@ -429,16 +210,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13_0900_gemeinsames_fruhstuck_im_kirchenzentrum_andreas_kirchen
  gemeinde_startseite@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261113T090000
 DTEND;TZID=Europe/Berlin:20261113T090000
 SUMMARY:Gemeinsames Frühstück im Kirchenzentrum
-LOCATION:Kirchenzentrum Andreas-Kirchengemeinde\, Münster-Coerde\, Münster-
- Coerde
-DESCRIPTION:Gemeinsames Frühstück im Kirchenzentrum der Andreas-Kirchengeme
- inde am 13. November um 9:00 Uhr.\nVeranstalter: Ev. Andreas-Kirchengemein
- de Münster-Coerde\nQuelle: https://www.andreas-kirchengemeinde-muenster.de
- /
+LOCATION:Kirchenzentrum Andreas-Kirchengemeinde Münster-Coerde\, Münster-Co
+ erde\, Münster-Coerde
+DESCRIPTION:Gemeinsames Frühstück im Kirchenzentrum am 13. November um 9:00
+  Uhr.\nVeranstalter: Ev. Andreas-Kirchengemeinde Münster-Coerde\nQuelle: h
+ ttps://www.andreas-kirchengemeinde-muenster.de/
 URL:https://www.andreas-kirchengemeinde-muenster.de/
 CATEGORIES:Kirche / Stadtteil / Begegnung
 STATUS:CONFIRMED
@@ -451,7 +231,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13_0900_kolping_fruhstuckstreff_im_franziskushaus_st_franziskus
  _wocheninfo@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261113T090000
 DTEND;TZID=Europe/Berlin:20261113T090000
 SUMMARY:Kolping Frühstückstreff im Franziskushaus
@@ -470,7 +250,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13_1000_kostenfreie_schulung_zur_app_munster_mobil_in_rumphorst
  _fahrplanauskunft_digital_meerwiese_begegnungszentrum@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261113T100000
 DTEND;TZID=Europe/Berlin:20261113T113000
 SUMMARY:Kostenfreie Schulung zur App münster:mobil in Rumphorst – Fahrplana
@@ -497,7 +277,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerd
  e@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261113T100000
 DTEND;TZID=Europe/Berlin:20261113T120000
 SUMMARY:Mütter-Treff Coerde
@@ -518,7 +298,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13_1500_coerder_stammtisch_awo_coerde_mittendrin_manuell@coerde
  -events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261113T150000
 DTEND;TZID=Europe/Berlin:20261113T170000
 SUMMARY:Coerder Stammtisch
@@ -540,7 +320,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13_1500_zirkus_coerdini_kinderzirkus_aus_coerde_meerwiese_theat
  er@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261113T150000
 DTEND;TZID=Europe/Berlin:20261113T170000
 SUMMARY:Zirkus Coerdini – Kinderzirkus aus Coerde
@@ -564,7 +344,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13_ganztag_gemeinsam_sichtbar_stark_madchen_aus_coerde_gsmc_iri
  ba_brunnen_termine@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261113T163000
 DTEND;TZID=Europe/Berlin:20261113T180000
 SUMMARY:Gemeinsam sichtbar & stark – Mädchen aus Coerde (GSMC)
@@ -587,7 +367,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-13_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mitt
  endrin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261113T170000
 DTEND;TZID=Europe/Berlin:20261113T190000
 SUMMARY:Offener Spieletreff (2. & 4. Montag im Monat)
@@ -611,7 +391,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14_ganztag_munster_yarn_26_wollfestival_das_wollfestival_in_der
  _speicherstadt_stadt_munster_veranstaltungskalender@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261114
 SUMMARY:Münster Yarn 26 Wollfestival – Das Wollfestival in der Speicherstad
@@ -638,7 +418,7 @@ X-COERDE-SERIES-COUNT:2
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14_1500_nachhilfeangebot_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261114T150000
 DTEND;TZID=Europe/Berlin:20261114T170000
 SUMMARY:Nachhilfeangebot
@@ -661,7 +441,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-14_1500_zirkus_coerdini_kinderzirkus_aus_coerde_stadt_munster_v
  eranstaltungskalender@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261114T150000
 DTEND;TZID=Europe/Berlin:20261114T170000
 SUMMARY:Zirkus Coerdini – Kinderzirkus aus Coerde
@@ -683,7 +463,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15_ganztag_munster_yarn_26_wollfestival_das_wollfestival_in_der
  _speicherstadt_stadt_munster_veranstaltungskalender@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261115
 SUMMARY:Münster Yarn 26 Wollfestival – Das Wollfestival in der Speicherstad
@@ -711,12 +491,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15_0930_nagelkreuzandacht_zum_volkstrauertag_andreas_kirchengem
  einde_startseite@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261115T093000
 DTEND;TZID=Europe/Berlin:20261115T093000
 SUMMARY:Nagelkreuzandacht zum Volkstrauertag
-LOCATION:Andreas-Kirchengemeinde Münster-Coerde\, Münster-Coerde\, Münster-
- Coerde
+LOCATION:Andreas-Kirchengemeinde Münster-Coerde\, Münster-Coerde
 DESCRIPTION:Andacht zum Volkstrauertag mit Nagelkreuz am dritten Sonntag im
   November um 9:30 Uhr.\nVeranstalter: Ev. Andreas-Kirchengemeinde Münster-
  Coerde\nQuelle: https://www.andreas-kirchengemeinde-muenster.de/
@@ -728,17 +507,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-15_1700_mantelteilung_in_coerde_mit_laternenumzug_st_franziskus
  _wocheninfo@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261115T170000
 DTEND;TZID=Europe/Berlin:20261115T170000
 SUMMARY:Mantelteilung in Coerde mit Laternenumzug
 LOCATION:St. Norbert Kirche und Papst-Johannes-Paul-Stift\, Schneidemühler 
- Straße 27 und Culmer Straße 16\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Wortgottesdienst mit Familienzentrum St. Norbert\, anschließend
-  Laternenumzug und feierliche Mantelteilung am PJP-Stift mit Würstchen und
-  warmen Getränken.\nVeranstalter: Kath. Kirchengemeinde St. Franziskus Mün
- ster\nQuelle: https://sankt-franziskus-muenster.de/wp-content/uploads/2026
- /11/web_46_Wocheninfo_1107-20261115.pdf
+ Straße 25 und Culmer Straße 16\, Münster-Coerde\, Münster-Coerde
+DESCRIPTION:Wortgottesdienst im Familienzentrum St. Norbert\, anschließend 
+ Laternenumzug zum PJP-Stift mit feierlicher Mantelteilung und Imbiss mit W
+ ürstchen und warmen Getränken.\nVeranstalter: Kath. Kirchengemeinde St. Fr
+ anziskus Münster\nQuelle: https://sankt-franziskus-muenster.de/wp-content/
+ uploads/2026/11/web_46_Wocheninfo_1107-20261115.pdf
 URL:https://sankt-franziskus-muenster.de/wp-content/uploads/2026/11/web_46_
  Wocheninfo_1107-20261115.pdf
 CATEGORIES:Kirche / Gottesdienst / Begegnung
@@ -748,7 +527,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16_0930_yoga_fur_senior_innen_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261116T093000
 DTEND;TZID=Europe/Berlin:20261116T103000
 SUMMARY:Yoga für Senior:innen
@@ -774,7 +553,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16_1000_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
  r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261116T100000
 DTEND;TZID=Europe/Berlin:20261116T113000
 SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
@@ -800,7 +579,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16_1000_gesellige_tanze_im_franziskushaus_st_franziskus_wocheni
  nfo@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261116T100000
 DTEND;TZID=Europe/Berlin:20261116T113000
 SUMMARY:Gesellige Tänze im Franziskushaus
@@ -818,12 +597,12 @@ X-COERDE-SERIES-ID:ser_8dffe4d2436b
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, montags
-X-COERDE-SERIES-COUNT:4
+X-COERDE-SERIES-COUNT:3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261116T100000
 DTEND;TZID=Europe/Berlin:20261116T113000
 SUMMARY:Griffbereit - mehrsprachige Eltern-Kind-Gruppe von 1-3 J.
@@ -849,7 +628,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16_1300_pilates_in_coerde_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261116T130000
 DTEND;TZID=Europe/Berlin:20261116T140000
 SUMMARY:Pilates in Coerde
@@ -873,7 +652,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16_1430_offener_spieletreff_fur_senior_innen_awo_coerde_mittend
  rin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261116T143000
 DTEND;TZID=Europe/Berlin:20261116T170000
 SUMMARY:Offener Spieletreff für Senior*innen
@@ -897,7 +676,7 @@ BEGIN:VEVENT
 UID:2026-11-16_1515_smartphone_workshop_fur_altere_menschen_coerde_sichere_
  passworter_und_schutz_vor_stadt_munster_veranstaltungskalender@coerde-even
  ts
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261116T151500
 DTEND;TZID=Europe/Berlin:20261116T164500
 SUMMARY:Smartphone-Workshop für ältere Menschen | Coerde – Sichere Passwört
@@ -923,7 +702,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16_1530_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
  r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261116T153000
 DTEND;TZID=Europe/Berlin:20261116T170000
 SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
@@ -949,7 +728,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16_1730_pilates_in_coerde_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261116T173000
 DTEND;TZID=Europe/Berlin:20261116T183000
 SUMMARY:Pilates in Coerde
@@ -973,7 +752,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16_1830_pilates_in_coerde_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261116T183000
 DTEND;TZID=Europe/Berlin:20261116T193000
 SUMMARY:Pilates in Coerde
@@ -997,7 +776,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-16_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261116T194500
 DTEND;TZID=Europe/Berlin:20261116T211500
 SUMMARY:Gesellschaftstänze für fortgeschrittene Anfänger:innen
@@ -1023,7 +802,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_im_s
  tadtteilburo_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261117T091500
 DTEND;TZID=Europe/Berlin:20261117T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen im Stadtteilbü
@@ -1050,7 +829,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261117T093000
 DTEND;TZID=Europe/Berlin:20261117T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -1075,7 +854,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17_1330_offene_beratungszeit_antidiskriminierungsarbeit_in_coer
  de_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261117T133000
 DTEND;TZID=Europe/Berlin:20261117T143000
 SUMMARY:Offene Beratungszeit: Antidiskriminierungsarbeit in Coerde
@@ -1099,7 +878,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17_1600_deutsch_fur_migrant_innen_alltagsnah_deutsch_lernen_im_
  coerde_mittendrin_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261117T160000
 DTEND;TZID=Europe/Berlin:20261117T180000
 SUMMARY:Deutsch für Migrant:innen - alltagsnah Deutsch lernen im coerde mit
@@ -1126,7 +905,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17_1630_empowerment_theater_workshop_iriba_brunnen_termine@coer
  de-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261117T163000
 DTEND;TZID=Europe/Berlin:20261117T193000
 SUMMARY:Empowerment Theater Workshop
@@ -1144,7 +923,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17_1755_nia_fitness_mit_groove_fbf_friedensstrasse_coerde@coerd
  e-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261117T175500
 DTEND;TZID=Europe/Berlin:20261117T185500
 SUMMARY:Nia® – Fitness mit Groove
@@ -1170,7 +949,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17_1900_malen_mit_aquarell_und_acrylfarben_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261117T190000
 DTEND;TZID=Europe/Berlin:20261117T211500
 SUMMARY:Malen mit Aquarell- und Acrylfarben
@@ -1195,7 +974,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17_1915_gesellschaftstanze_fur_paare_fur_fortgeschrittene_ii_fb
  f_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261117T191500
 DTEND;TZID=Europe/Berlin:20261117T201500
 SUMMARY:Gesellschaftstänze für Paare – für Fortgeschrittene II
@@ -1221,7 +1000,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-17_2015_gesellschaftstanze_fur_paare_fur_fortgeschrittene_i_fbf
  _friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261117T201500
 DTEND;TZID=Europe/Berlin:20261117T211500
 SUMMARY:Gesellschaftstänze für Paare – für Fortgeschrittene I
@@ -1247,7 +1026,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18_ganztag_wochentliche_offene_beratungszeit_empowerment_rassis
  muskritik_nachhaltigkeit_koo_iriba_brunnen_termine@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261118
 SUMMARY:Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik /
@@ -1267,12 +1046,12 @@ X-COERDE-SERIES-ID:ser_e30260c7dcb7
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18_0900_migrationsberatung_mbe_beratung_in_coerde_drk_munster_m
  igrationsberatung_mbe@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261118T090000
 DTEND;TZID=Europe/Berlin:20261118T150000
 SUMMARY:Migrationsberatung (MBE) - Beratung in Coerde
@@ -1288,12 +1067,12 @@ X-COERDE-SERIES-ID:ser_0a8a51903ba0
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_a
  wo_coerde_mittendrin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261118T100000
 DTEND;TZID=Europe/Berlin:20261118T120000
 SUMMARY:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615)
@@ -1312,12 +1091,12 @@ X-COERDE-SERIES-ID:ser_9cf929f9ed1c
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_frie
  densstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261118T140000
 DTEND;TZID=Europe/Berlin:20261118T170000
 SUMMARY:Sure Start Plus - Die Familienspielstunde Coerde
@@ -1337,12 +1116,36 @@ X-COERDE-SERIES-ID:ser_d1270549cbae
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:6
+X-COERDE-SERIES-COUNT:5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18_1430_begegnungscafe_im_franziskushaus_st_franziskus_wochenin
+ fo@coerde-events
+DTSTAMP:20261112T190513Z
+DTSTART;TZID=Europe/Berlin:20261118T143000
+DTEND;TZID=Europe/Berlin:20261118T143000
+SUMMARY:Begegnungscafé im Franziskushaus
+LOCATION:Franziskushaus\, Schneidemühler Straße 23c\, Münster-Coerde\, Müns
+ ter-Coerde
+DESCRIPTION:Wöchentliches Begegnungscafé für Jung und Alt zum Austausch und
+  gemütlichen Beisammensein\, mit wechselnden Themen wie Gedächtnistraining
+ .\nVeranstalter: Kath. Kirchengemeinde St. Franziskus Münster\nQuelle: htt
+ ps://sankt-franziskus-muenster.de/wp-content/uploads/2026/11/web_46_Wochen
+ info_1107-20261115.pdf
+URL:https://sankt-franziskus-muenster.de/wp-content/uploads/2026/11/web_46_
+ Wocheninfo_1107-20261115.pdf
+CATEGORIES:Kirche / Gottesdienst / Begegnung
+STATUS:CONFIRMED
+X-COERDE-SERIES-ID:ser_213b8cbdd069
+X-COERDE-SERIES-TYPE:weekly
+X-COERDE-IS-RECURRING:ja
+X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261118T143000
 DTEND;TZID=Europe/Berlin:20261118T173000
 SUMMARY:Lernspielgruppe für Eltern und Kinder in der Kitazeit
@@ -1362,12 +1165,12 @@ X-COERDE-SERIES-ID:ser_5f1f960e59a6
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:6
+X-COERDE-SERIES-COUNT:5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
  r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261118T154500
 DTEND;TZID=Europe/Berlin:20261118T171500
 SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
@@ -1388,12 +1191,12 @@ X-COERDE-SERIES-ID:ser_4716b3b6087b
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs (+2 Zusatztermine)
-X-COERDE-SERIES-COUNT:8
+X-COERDE-SERIES-COUNT:7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18_1700_wie_heizen_sie_morgen_bezirksveranstaltungen_zur_munste
  rs_warmewende_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261118T170000
 DTEND;TZID=Europe/Berlin:20261118T190000
 SUMMARY:Wie heizen Sie morgen? – Bezirksveranstaltungen zur Münsters Wärmew
@@ -1419,16 +1222,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18_1800_heimat_remixed_musik_der_kulturen_iriba_brunnen_termine
  @coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261118T180000
 DTEND;TZID=Europe/Berlin:20261118T203000
 SUMMARY:Heimat remixed – Musik der Kulturen
 LOCATION:Franziskushaus in Coerde\, Schneidemühlerstr. 23\, 48157 Münster\,
   Münster-Coerde
-DESCRIPTION:Musikalische Veranstaltung mit dem Thema Heimat und kulturelle 
- Vielfalt im Franziskushaus in Coerde.\nVeranstalter: Iriba-Brunnen e.V.\nQ
- uelle: https://www.iriba-brunnen.de/termine-archiv/https-www-iriba-brunnen
- -de-termine-archiv-heimat-remixed-musik-der-kulturen/
+DESCRIPTION:Musikalische Veranstaltung mit dem Thema Musik der Kulturen im 
+ Franziskushaus in Coerde.\nVeranstalter: Iriba-Brunnen e.V.\nQuelle: https
+ ://www.iriba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-termine-
+ archiv-heimat-remixed-musik-der-kulturen/
 URL:https://www.iriba-brunnen.de/termine-archiv/https-www-iriba-brunnen-de-
  termine-archiv-heimat-remixed-musik-der-kulturen/
 CATEGORIES:Stadtteil / Begegnung / Engagement
@@ -1437,12 +1240,12 @@ X-COERDE-SERIES-ID:ser_d193929ff239
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261118T183000
 DTEND;TZID=Europe/Berlin:20261118T200000
 SUMMARY:Yoga An der Meerwiese
@@ -1463,35 +1266,16 @@ X-COERDE-SERIES-ID:ser_420bcc583cda
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-18_1900_okumenischer_gottesdienst_und_konzert_in_der_ev_andreas
- _kirche_andreas_kirchengemeinde_startseite@coerde-events
-DTSTAMP:20261111T190446Z
-DTSTART;TZID=Europe/Berlin:20261118T190000
-DTEND;TZID=Europe/Berlin:20261118T190000
-SUMMARY:Ökumenischer Gottesdienst und Konzert in der Ev. Andreas-Kirche
-LOCATION:Ev. Andreas-Kirche\, Coerde (genaue Adresse nicht angegeben)\, Mün
- ster-Coerde
-DESCRIPTION:Ökumenischer Gottesdienst mit Pastoralreferent Max Weiss und Pf
- arrer Beckmann\, anschließend kleines Konzert unter Leitung von Lydia Fisc
- her.\nVeranstalter: Ev. Andreas-Gemeinde und Kath. Kirchengemeinde St. Fra
- nziskus Münster\nQuelle: https://www.andreas-kirchengemeinde-muenster.de/
-URL:https://www.andreas-kirchengemeinde-muenster.de/
-CATEGORIES:Kirche / Stadtteil / Begegnung
-STATUS:CONFIRMED
-X-COERDE-IS-RECURRING:nein
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-18_1900_okumenischer_gottesdienst_zum_buss_und_bettag_andreas_k
  irchengemeinde_startseite@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261118T190000
 DTEND;TZID=Europe/Berlin:20261118T190000
 SUMMARY:Ökumenischer Gottesdienst zum Buß- und Bettag
-LOCATION:Andreas-Kirchengemeinde Münster-Coerde\, Münster-Coerde\, Münster-
- Coerde
+LOCATION:Andreas-Kirchengemeinde Münster-Coerde\, Münster-Coerde
 DESCRIPTION:Ökumenischer Gottesdienst zum Buß- und Bettag am Mittwoch\, 18.
   November um 19:00 Uhr.\nVeranstalter: Ev. Andreas-Kirchengemeinde Münster
  -Coerde\nQuelle: https://www.andreas-kirchengemeinde-muenster.de/
@@ -1503,7 +1287,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261119T093000
 DTEND;TZID=Europe/Berlin:20261119T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -1529,7 +1313,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mitten
  drin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261119T110000
 DTEND;TZID=Europe/Berlin:20261119T130000
 SUMMARY:Offene Sprechstunde „coerde mittendrin“
@@ -1547,12 +1331,12 @@ X-COERDE-SERIES-ID:ser_d6174935c439
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, donnerstags
-X-COERDE-SERIES-COUNT:3
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19_1430_komm_wir_sprechen_deutsch_fbf_friedensstrasse_coerde@co
  erde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261119T143000
 DTEND;TZID=Europe/Berlin:20261119T160000
 SUMMARY:Komm\, wir sprechen deutsch!
@@ -1576,7 +1360,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kinde
  rn_ab_3_jahren_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261119T143000
 DTEND;TZID=Europe/Berlin:20261119T164500
 SUMMARY:Praktische Ernährungsbildung für Eltern mit ihren Kindern ab 3 Jahr
@@ -1602,7 +1386,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19_1930_chorprobe_der_chorgemeinschaft_st_franziskus_st_franzis
  kus_wocheninfo@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261119T193000
 DTEND;TZID=Europe/Berlin:20261119T193000
 SUMMARY:Chorprobe der Chorgemeinschaft St. Franziskus
@@ -1620,12 +1404,12 @@ X-COERDE-SERIES-ID:ser_980f95651225
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, donnerstags
-X-COERDE-SERIES-COUNT:4
+X-COERDE-SERIES-COUNT:5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-19_1945_zumba_workout_fitness_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261119T194500
 DTEND;TZID=Europe/Berlin:20261119T204500
 SUMMARY:Zumba® Workout Fitness
@@ -1651,7 +1435,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20_0900_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261120T090000
 DTEND;TZID=Europe/Berlin:20261120T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen an der Meerwie
@@ -1677,16 +1461,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20_0900_gemeinsames_fruhstuck_im_kirchenzentrum_andreas_kirchen
  gemeinde_startseite@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261120T090000
 DTEND;TZID=Europe/Berlin:20261120T090000
 SUMMARY:Gemeinsames Frühstück im Kirchenzentrum
-LOCATION:Kirchenzentrum Andreas-Kirchengemeinde\, Münster-Coerde\, Münster-
- Coerde
-DESCRIPTION:Gemeinsames Frühstück im Kirchenzentrum der Andreas-Kirchengeme
- inde am 20. November um 9:00 Uhr.\nVeranstalter: Ev. Andreas-Kirchengemein
- de Münster-Coerde\nQuelle: https://www.andreas-kirchengemeinde-muenster.de
- /
+LOCATION:Kirchenzentrum Andreas-Kirchengemeinde Münster-Coerde\, Münster-Co
+ erde\, Münster-Coerde
+DESCRIPTION:Gemeinsames Frühstück im Kirchenzentrum am 20. November um 9:00
+  Uhr.\nVeranstalter: Ev. Andreas-Kirchengemeinde Münster-Coerde\nQuelle: h
+ ttps://www.andreas-kirchengemeinde-muenster.de/
 URL:https://www.andreas-kirchengemeinde-muenster.de/
 CATEGORIES:Kirche / Stadtteil / Begegnung
 STATUS:CONFIRMED
@@ -1699,7 +1482,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerd
  e@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261120T100000
 DTEND;TZID=Europe/Berlin:20261120T120000
 SUMMARY:Mütter-Treff Coerde
@@ -1720,7 +1503,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20_1015_lesen_mit_kleinen_wesen_stadtbuecherei_coerde@coerde-ev
  ents
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261120T101500
 DTEND;TZID=Europe/Berlin:20261120T101500
 SUMMARY:Lesen mit kleinen Wesen
@@ -1745,7 +1528,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20_1500_coerder_stammtisch_awo_coerde_mittendrin_manuell@coerde
  -events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261120T150000
 DTEND;TZID=Europe/Berlin:20261120T170000
 SUMMARY:Coerder Stammtisch
@@ -1767,16 +1550,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20_1530_bibelteilen_in_der_werktagskapelle_st_norbert_st_franzi
  skus_wocheninfo@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261120T153000
 DTEND;TZID=Europe/Berlin:20261120T153000
 SUMMARY:Bibelteilen in der Werktagskapelle St. Norbert
-LOCATION:Werktagskapelle der St.-Norbert-Kirche\, Schneidemühler Straße 27\
- , Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Einladung zum Bibelteilen in der Werktagskapelle der St.-Norber
- t-Kirche\, Kontakt über Mareike Doerenkamp.\nVeranstalter: Kath. Kirchenge
- meinde St. Franziskus Münster\nQuelle: https://sankt-franziskus-muenster.d
- e/wp-content/uploads/2026/11/web_46_Wocheninfo_1107-20261115.pdf
+LOCATION:Werktagskapelle St. Norbert\, Schneidemühler Straße 23c\, Münster-
+ Coerde\, Münster-Coerde
+DESCRIPTION:Einladung zum Bibelteilen mit Mareike Doerenkamp. Austausch und
+  gemeinsames Lesen in der Werktagskapelle.\nVeranstalter: Kath. Kirchengem
+ einde St. Franziskus Münster\nQuelle: https://sankt-franziskus-muenster.de
+ /wp-content/uploads/2026/11/web_46_Wocheninfo_1107-20261115.pdf
 URL:https://sankt-franziskus-muenster.de/wp-content/uploads/2026/11/web_46_
  Wocheninfo_1107-20261115.pdf
 CATEGORIES:Kirche / Gottesdienst / Begegnung
@@ -1786,7 +1569,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20_ganztag_gemeinsam_sichtbar_stark_madchen_aus_coerde_gsmc_iri
  ba_brunnen_termine@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261120T163000
 DTEND;TZID=Europe/Berlin:20261120T180000
 SUMMARY:Gemeinsam sichtbar & stark – Mädchen aus Coerde (GSMC)
@@ -1809,7 +1592,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-20_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mitt
  endrin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261120T170000
 DTEND;TZID=Europe/Berlin:20261120T190000
 SUMMARY:Offener Spieletreff (2. & 4. Montag im Monat)
@@ -1833,7 +1616,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21_1400_ost_europa_seminar_patriotismus_und_demokratie_leitung_
  joachim_wieder_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261121T140000
 DTEND;TZID=Europe/Berlin:20261121T190000
 SUMMARY:Ost-Europa-Seminar: Patriotismus und Demokratie – Leitung: Joachim 
@@ -1858,7 +1641,7 @@ X-COERDE-IS-RECURRING:nein
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21_1500_nachhilfeangebot_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261121T150000
 DTEND;TZID=Europe/Berlin:20261121T170000
 SUMMARY:Nachhilfeangebot
@@ -1881,7 +1664,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-21_1900_spiel_zeit_spuren_urbanes_intermezzo_meerwiese_theater@
  coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261121T190000
 DTEND;TZID=Europe/Berlin:20261121T200000
 SUMMARY:"SPIEL-ZEIT!": Spuren – Urbanes Intermezzo
@@ -1910,12 +1693,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22_0930_gottesdienst_am_ewigkeitssonntag_anschliessend_gemeinde
  versammlung_andreas_kirchengemeinde_startseite@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261122T093000
 DTEND;TZID=Europe/Berlin:20261122T093000
 SUMMARY:Gottesdienst am Ewigkeitssonntag\, anschließend Gemeindeversammlung
-LOCATION:Andreas-Kirchengemeinde Münster-Coerde\, Münster-Coerde\, Münster-
- Coerde
+LOCATION:Andreas-Kirchengemeinde Münster-Coerde\, Münster-Coerde
 DESCRIPTION:Gottesdienst am Ewigkeitssonntag mit anschließender Gemeindever
  sammlung am vierten Sonntag im November um 9:30 Uhr.\nVeranstalter: Ev. An
  dreas-Kirchengemeinde Münster-Coerde\nQuelle: https://www.andreas-kircheng
@@ -1928,7 +1710,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22_1530_24_winterpunsch_fiesta_echtzeit_theater_aus_munster_mee
  rwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261122T153000
 DTEND;TZID=Europe/Berlin:20261122T163000
 SUMMARY:24. WINTERPUNSCH: FIESTA – echtzeit-theater aus Münster
@@ -1957,7 +1739,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-22_1800_spiel_zeit_spuren_urbanes_intermezzo_meerwiese_theater@
  coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261122T180000
 DTEND;TZID=Europe/Berlin:20261122T190000
 SUMMARY:"SPIEL-ZEIT!": Spuren – Urbanes Intermezzo
@@ -1986,7 +1768,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23_0930_yoga_fur_senior_innen_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261123T093000
 DTEND;TZID=Europe/Berlin:20261123T103000
 SUMMARY:Yoga für Senior:innen
@@ -2012,7 +1794,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23_1000_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
  r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261123T100000
 DTEND;TZID=Europe/Berlin:20261123T113000
 SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
@@ -2038,7 +1820,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23_1000_gesellige_tanze_im_franziskushaus_st_franziskus_wocheni
  nfo@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261123T100000
 DTEND;TZID=Europe/Berlin:20261123T113000
 SUMMARY:Gesellige Tänze im Franziskushaus
@@ -2056,12 +1838,12 @@ X-COERDE-SERIES-ID:ser_8dffe4d2436b
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, montags
-X-COERDE-SERIES-COUNT:4
+X-COERDE-SERIES-COUNT:3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261123T100000
 DTEND;TZID=Europe/Berlin:20261123T113000
 SUMMARY:Griffbereit - mehrsprachige Eltern-Kind-Gruppe von 1-3 J.
@@ -2087,7 +1869,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23_1300_pilates_in_coerde_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261123T130000
 DTEND;TZID=Europe/Berlin:20261123T140000
 SUMMARY:Pilates in Coerde
@@ -2111,7 +1893,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23_1430_offener_spieletreff_fur_senior_innen_awo_coerde_mittend
  rin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261123T143000
 DTEND;TZID=Europe/Berlin:20261123T170000
 SUMMARY:Offener Spieletreff für Senior*innen
@@ -2134,7 +1916,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23_1515_smartphone_workshop_fur_altere_menschen_coerde_sicher_o
  nline_bezahlen_stadt_munster_veranstaltungskalender@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261123T151500
 DTEND;TZID=Europe/Berlin:20261123T164500
 SUMMARY:Smartphone-Workshop für ältere Menschen | Coerde – Sicher online be
@@ -2159,7 +1941,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23_1530_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
  r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261123T153000
 DTEND;TZID=Europe/Berlin:20261123T170000
 SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
@@ -2185,7 +1967,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23_1730_pilates_in_coerde_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261123T173000
 DTEND;TZID=Europe/Berlin:20261123T183000
 SUMMARY:Pilates in Coerde
@@ -2209,7 +1991,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23_1830_pilates_in_coerde_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261123T183000
 DTEND;TZID=Europe/Berlin:20261123T193000
 SUMMARY:Pilates in Coerde
@@ -2233,7 +2015,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-23_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261123T194500
 DTEND;TZID=Europe/Berlin:20261123T211500
 SUMMARY:Gesellschaftstänze für fortgeschrittene Anfänger:innen
@@ -2259,7 +2041,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_im_s
  tadtteilburo_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261124T091500
 DTEND;TZID=Europe/Berlin:20261124T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen im Stadtteilbü
@@ -2286,7 +2068,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261124T093000
 DTEND;TZID=Europe/Berlin:20261124T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -2311,7 +2093,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24_1000_24_winterpunsch_fiesta_echtzeit_theater_aus_munster_mee
  rwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261124T100000
 DTEND;TZID=Europe/Berlin:20261124T110000
 SUMMARY:24. WINTERPUNSCH: FIESTA – echtzeit-theater aus Münster
@@ -2340,7 +2122,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_
  coerde_mittendrin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261124T110000
 DTEND;TZID=Europe/Berlin:20261124T140000
 SUMMARY:Kochprojekt „Gemeinsam am Herd – Rezepte ohne Grenzen“
@@ -2364,7 +2146,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24_1600_deutsch_fur_migrant_innen_alltagsnah_deutsch_lernen_im_
  coerde_mittendrin_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261124T160000
 DTEND;TZID=Europe/Berlin:20261124T180000
 SUMMARY:Deutsch für Migrant:innen - alltagsnah Deutsch lernen im coerde mit
@@ -2391,7 +2173,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24_1900_malen_mit_aquarell_und_acrylfarben_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261124T190000
 DTEND;TZID=Europe/Berlin:20261124T211500
 SUMMARY:Malen mit Aquarell- und Acrylfarben
@@ -2416,7 +2198,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24_1915_gesellschaftstanze_fur_paare_fur_fortgeschrittene_ii_fb
  f_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261124T191500
 DTEND;TZID=Europe/Berlin:20261124T201500
 SUMMARY:Gesellschaftstänze für Paare – für Fortgeschrittene II
@@ -2442,7 +2224,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-24_2015_gesellschaftstanze_fur_paare_fur_fortgeschrittene_i_fbf
  _friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261124T201500
 DTEND;TZID=Europe/Berlin:20261124T211500
 SUMMARY:Gesellschaftstänze für Paare – für Fortgeschrittene I
@@ -2468,7 +2250,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25_ganztag_wochentliche_offene_beratungszeit_empowerment_rassis
  muskritik_nachhaltigkeit_koo_iriba_brunnen_termine@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261125
 SUMMARY:Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik /
@@ -2488,12 +2270,12 @@ X-COERDE-SERIES-ID:ser_e30260c7dcb7
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25_0900_migrationsberatung_mbe_beratung_in_coerde_drk_munster_m
  igrationsberatung_mbe@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261125T090000
 DTEND;TZID=Europe/Berlin:20261125T150000
 SUMMARY:Migrationsberatung (MBE) - Beratung in Coerde
@@ -2509,12 +2291,12 @@ X-COERDE-SERIES-ID:ser_0a8a51903ba0
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25_1000_24_winterpunsch_fiesta_echtzeit_theater_aus_munster_mee
  rwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261125T100000
 DTEND;TZID=Europe/Berlin:20261125T110000
 SUMMARY:24. WINTERPUNSCH: FIESTA – echtzeit-theater aus Münster
@@ -2543,7 +2325,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_a
  wo_coerde_mittendrin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261125T100000
 DTEND;TZID=Europe/Berlin:20261125T120000
 SUMMARY:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615)
@@ -2562,12 +2344,12 @@ X-COERDE-SERIES-ID:ser_9cf929f9ed1c
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_frie
  densstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261125T140000
 DTEND;TZID=Europe/Berlin:20261125T170000
 SUMMARY:Sure Start Plus - Die Familienspielstunde Coerde
@@ -2587,12 +2369,36 @@ X-COERDE-SERIES-ID:ser_d1270549cbae
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:6
+X-COERDE-SERIES-COUNT:5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-25_1430_begegnungscafe_im_franziskushaus_st_franziskus_wochenin
+ fo@coerde-events
+DTSTAMP:20261112T190513Z
+DTSTART;TZID=Europe/Berlin:20261125T143000
+DTEND;TZID=Europe/Berlin:20261125T143000
+SUMMARY:Begegnungscafé im Franziskushaus
+LOCATION:Franziskushaus\, Schneidemühler Straße 23c\, Münster-Coerde\, Müns
+ ter-Coerde
+DESCRIPTION:Wöchentliches Begegnungscafé für Jung und Alt zum Austausch und
+  gemütlichen Beisammensein\, mit wechselnden Themen wie Gedächtnistraining
+ .\nVeranstalter: Kath. Kirchengemeinde St. Franziskus Münster\nQuelle: htt
+ ps://sankt-franziskus-muenster.de/wp-content/uploads/2026/11/web_46_Wochen
+ info_1107-20261115.pdf
+URL:https://sankt-franziskus-muenster.de/wp-content/uploads/2026/11/web_46_
+ Wocheninfo_1107-20261115.pdf
+CATEGORIES:Kirche / Gottesdienst / Begegnung
+STATUS:CONFIRMED
+X-COERDE-SERIES-ID:ser_213b8cbdd069
+X-COERDE-SERIES-TYPE:weekly
+X-COERDE-IS-RECURRING:ja
+X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261125T143000
 DTEND;TZID=Europe/Berlin:20261125T173000
 SUMMARY:Lernspielgruppe für Eltern und Kinder in der Kitazeit
@@ -2612,40 +2418,17 @@ X-COERDE-SERIES-ID:ser_5f1f960e59a6
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:6
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-11-25_1500_grundsicherungsberatung_caritas_im_franziskushaus_st_fr
- anziskus_wocheninfo@coerde-events
-DTSTAMP:20261111T190446Z
-DTSTART;TZID=Europe/Berlin:20261125T150000
-DTEND;TZID=Europe/Berlin:20261125T170000
-SUMMARY:Grundsicherungsberatung / Caritas im Franziskushaus
-LOCATION:Franziskushaus\, Schneidemühler Straße 23c\, Münster-Coerde\, Müns
- ter-Coerde
-DESCRIPTION:Wöchentliche Grundsicherungsberatung mittwochs im Franziskushau
- s\, um telefonische Anmeldung wird gebeten.\nVeranstalter: Kath. Kirchenge
- meinde St. Franziskus Münster\nQuelle: https://sankt-franziskus-muenster.d
- e/wp-content/uploads/2026/11/web_46_Wocheninfo_1107-20261115.pdf
-URL:https://sankt-franziskus-muenster.de/wp-content/uploads/2026/11/web_46_
- Wocheninfo_1107-20261115.pdf
-CATEGORIES:Kirche / Gottesdienst / Begegnung
-STATUS:CONFIRMED
-X-COERDE-SERIES-ID:ser_44e33163f3d4
-X-COERDE-SERIES-TYPE:weekly
-X-COERDE-IS-RECURRING:ja
-X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:3
+X-COERDE-SERIES-COUNT:5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25_1500_uberraschungsfilm_im_coerder_kino_andreas_kirchengemein
  de_startseite@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261125T150000
 DTEND;TZID=Europe/Berlin:20261125T150000
 SUMMARY:Überraschungsfilm im Coerder Kino
 LOCATION:Coerder Kino\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Filmvorführung eines Überraschungsfilms im Coerder Kino am 25. 
+DESCRIPTION:Filmvorführung mit Überraschungsauswahl im Coerder Kino am 25. 
  November um 15:00 Uhr.\nVeranstalter: Ev. Andreas-Kirchengemeinde Münster-
  Coerde\nQuelle: https://www.andreas-kirchengemeinde-muenster.de/
 URL:https://www.andreas-kirchengemeinde-muenster.de/
@@ -2656,7 +2439,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
  r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261125T154500
 DTEND;TZID=Europe/Berlin:20261125T171500
 SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
@@ -2677,12 +2460,12 @@ X-COERDE-SERIES-ID:ser_4716b3b6087b
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs (+2 Zusatztermine)
-X-COERDE-SERIES-COUNT:8
+X-COERDE-SERIES-COUNT:7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25_ganztag_heimat_remixed_musik_der_kulturen_iriba_brunnen_term
  ine@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261125T180000
 DTEND;TZID=Europe/Berlin:20261125T203000
 SUMMARY:Heimat remixed – Musik der Kulturen
@@ -2700,12 +2483,12 @@ X-COERDE-SERIES-ID:ser_d193929ff239
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-25_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261125T183000
 DTEND;TZID=Europe/Berlin:20261125T200000
 SUMMARY:Yoga An der Meerwiese
@@ -2726,12 +2509,12 @@ X-COERDE-SERIES-ID:ser_420bcc583cda
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261126T093000
 DTEND;TZID=Europe/Berlin:20261126T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -2757,7 +2540,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26_1000_24_winterpunsch_fiesta_echtzeit_theater_aus_munster_mee
  rwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261126T100000
 DTEND;TZID=Europe/Berlin:20261126T110000
 SUMMARY:24. WINTERPUNSCH: FIESTA – echtzeit-theater aus Münster
@@ -2786,7 +2569,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mitten
  drin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261126T110000
 DTEND;TZID=Europe/Berlin:20261126T130000
 SUMMARY:Offene Sprechstunde „coerde mittendrin“
@@ -2804,12 +2587,12 @@ X-COERDE-SERIES-ID:ser_d6174935c439
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, donnerstags
-X-COERDE-SERIES-COUNT:3
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26_1430_komm_wir_sprechen_deutsch_fbf_friedensstrasse_coerde@co
  erde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261126T143000
 DTEND;TZID=Europe/Berlin:20261126T160000
 SUMMARY:Komm\, wir sprechen deutsch!
@@ -2833,7 +2616,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kinde
  rn_ab_3_jahren_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261126T143000
 DTEND;TZID=Europe/Berlin:20261126T164500
 SUMMARY:Praktische Ernährungsbildung für Eltern mit ihren Kindern ab 3 Jahr
@@ -2859,7 +2642,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261126T160000
 DTEND;TZID=Europe/Berlin:20261126T170000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. An der Meerwie
@@ -2886,7 +2669,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26_1930_chorprobe_der_chorgemeinschaft_st_franziskus_st_franzis
  kus_wocheninfo@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261126T193000
 DTEND;TZID=Europe/Berlin:20261126T193000
 SUMMARY:Chorprobe der Chorgemeinschaft St. Franziskus
@@ -2904,12 +2687,12 @@ X-COERDE-SERIES-ID:ser_980f95651225
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, donnerstags
-X-COERDE-SERIES-COUNT:4
+X-COERDE-SERIES-COUNT:5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-26_1945_zumba_workout_fitness_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261126T194500
 DTEND;TZID=Europe/Berlin:20261126T204500
 SUMMARY:Zumba® Workout Fitness
@@ -2935,7 +2718,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27_0900_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261127T090000
 DTEND;TZID=Europe/Berlin:20261127T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen an der Meerwie
@@ -2961,16 +2744,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27_0900_gemeinsames_fruhstuck_im_kirchenzentrum_andreas_kirchen
  gemeinde_startseite@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261127T090000
 DTEND;TZID=Europe/Berlin:20261127T090000
 SUMMARY:Gemeinsames Frühstück im Kirchenzentrum
-LOCATION:Kirchenzentrum Andreas-Kirchengemeinde\, Münster-Coerde\, Münster-
- Coerde
-DESCRIPTION:Gemeinsames Frühstück im Kirchenzentrum der Andreas-Kirchengeme
- inde am 27. November um 9:00 Uhr.\nVeranstalter: Ev. Andreas-Kirchengemein
- de Münster-Coerde\nQuelle: https://www.andreas-kirchengemeinde-muenster.de
- /
+LOCATION:Kirchenzentrum Andreas-Kirchengemeinde Münster-Coerde\, Münster-Co
+ erde\, Münster-Coerde
+DESCRIPTION:Gemeinsames Frühstück im Kirchenzentrum am 27. November um 9:00
+  Uhr.\nVeranstalter: Ev. Andreas-Kirchengemeinde Münster-Coerde\nQuelle: h
+ ttps://www.andreas-kirchengemeinde-muenster.de/
 URL:https://www.andreas-kirchengemeinde-muenster.de/
 CATEGORIES:Kirche / Stadtteil / Begegnung
 STATUS:CONFIRMED
@@ -2983,7 +2765,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerd
  e@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261127T100000
 DTEND;TZID=Europe/Berlin:20261127T120000
 SUMMARY:Mütter-Treff Coerde
@@ -3004,15 +2786,15 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27_1500_besuch_der_telgter_krippenausstellung_st_franziskus_woc
  heninfo@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261127T150000
 DTEND;TZID=Europe/Berlin:20261127T150000
 SUMMARY:Besuch der Telgter Krippenausstellung
-LOCATION:Museum RELiGIO\, Telgte\, Museumseingang Telgte (Treffpunkt)\, Mün
- ster-Coerde
-DESCRIPTION:Führung durch die Krippenausstellung im Telgter Museum RELiGIO\
- , Treffpunkt am Museumseingang\, Kosten 10 Euro\, Anmeldung über Pfarrbüro
- s.\nVeranstalter: AK Ökumene und Kath. Kirchengemeinde St. Franziskus Müns
+LOCATION:Museum RELiGIO Telgte\, Telgte\, Treffpunkt am Museumseingang\, Mü
+ nster-Coerde
+DESCRIPTION:Führung durch die Krippenausstellung im Museum RELiGIO mit geme
+ insamer Anreise aus Coerde möglich. Kosten 10 Euro\, Anmeldung erforderlic
+ h.\nVeranstalter: AK Ökumene und Kath. Kirchengemeinde St. Franziskus Müns
  ter\nQuelle: https://sankt-franziskus-muenster.de/wp-content/uploads/2026/
  11/web_46_Wocheninfo_1107-20261115.pdf
 URL:https://sankt-franziskus-muenster.de/wp-content/uploads/2026/11/web_46_
@@ -3024,7 +2806,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27_1500_coerder_stammtisch_awo_coerde_mittendrin_manuell@coerde
  -events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261127T150000
 DTEND;TZID=Europe/Berlin:20261127T170000
 SUMMARY:Coerder Stammtisch
@@ -3046,7 +2828,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27_ganztag_gemeinsam_sichtbar_stark_madchen_aus_coerde_gsmc_iri
  ba_brunnen_termine@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261127T163000
 DTEND;TZID=Europe/Berlin:20261127T180000
 SUMMARY:Gemeinsam sichtbar & stark – Mädchen aus Coerde (GSMC)
@@ -3069,7 +2851,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-27_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mitt
  endrin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261127T170000
 DTEND;TZID=Europe/Berlin:20261127T190000
 SUMMARY:Offener Spieletreff (2. & 4. Montag im Monat)
@@ -3093,7 +2875,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28_1200_qi_gong_seminar_meditation_leitung_volker_nowak_von_der
  _way_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261128T120000
 DTEND;TZID=Europe/Berlin:20261128T190000
 SUMMARY:Qi Gong – Seminar: Meditation – Leitung: Volker Nowak-von der Way
@@ -3117,7 +2899,7 @@ X-COERDE-IS-RECURRING:nein
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-28_1500_nachhilfeangebot_awo_coerde_mittendrin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261128T150000
 DTEND;TZID=Europe/Berlin:20261128T170000
 SUMMARY:Nachhilfeangebot
@@ -3140,12 +2922,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29_1100_adventsgottesdienst_mit_dem_andreas_kindergarten_andrea
  s_kirchengemeinde_startseite@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261129T110000
 DTEND;TZID=Europe/Berlin:20261129T110000
 SUMMARY:Adventsgottesdienst mit dem Andreas-Kindergarten
-LOCATION:Andreas-Kirchengemeinde Münster-Coerde\, Münster-Coerde\, Münster-
- Coerde
+LOCATION:Andreas-Kirchengemeinde Münster-Coerde\, Münster-Coerde
 DESCRIPTION:Adventsgottesdienst mit Beteiligung des Andreas-Kindergartens a
  m letzten Sonntag im November um 11:00 Uhr.\nVeranstalter: Ev. Andreas-Kir
  chengemeinde Münster-Coerde\nQuelle: https://www.andreas-kirchengemeinde-m
@@ -3158,7 +2939,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-29_1800_cryptolike_to_the_moon_sterna_pau_aus_bochum_meerwiese_
  theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261129T180000
 DTEND;TZID=Europe/Berlin:20261129T190000
 SUMMARY:Cryptolike – To the Moon – STERNA | PAU aus Bochum
@@ -3183,7 +2964,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30_0930_yoga_fur_senior_innen_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261130T093000
 DTEND;TZID=Europe/Berlin:20261130T103000
 SUMMARY:Yoga für Senior:innen
@@ -3209,7 +2990,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30_1000_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
  r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261130T100000
 DTEND;TZID=Europe/Berlin:20261130T113000
 SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
@@ -3235,7 +3016,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30_1000_gesellige_tanze_im_franziskushaus_st_franziskus_wocheni
  nfo@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261130T100000
 DTEND;TZID=Europe/Berlin:20261130T113000
 SUMMARY:Gesellige Tänze im Franziskushaus
@@ -3253,12 +3034,12 @@ X-COERDE-SERIES-ID:ser_8dffe4d2436b
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, montags
-X-COERDE-SERIES-COUNT:4
+X-COERDE-SERIES-COUNT:3
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261130T100000
 DTEND;TZID=Europe/Berlin:20261130T113000
 SUMMARY:Griffbereit - mehrsprachige Eltern-Kind-Gruppe von 1-3 J.
@@ -3284,7 +3065,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30_1300_pilates_in_coerde_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261130T130000
 DTEND;TZID=Europe/Berlin:20261130T140000
 SUMMARY:Pilates in Coerde
@@ -3308,7 +3089,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30_1430_offener_spieletreff_fur_senior_innen_awo_coerde_mittend
  rin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261130T143000
 DTEND;TZID=Europe/Berlin:20261130T170000
 SUMMARY:Offener Spieletreff für Senior*innen
@@ -3332,7 +3113,7 @@ BEGIN:VEVENT
 UID:2026-11-30_1515_smartphone_workshop_fur_altere_menschen_coerde_nachrich
  ten_und_mediatheken_siche_stadt_munster_veranstaltungskalender@coerde-even
  ts
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261130T151500
 DTEND;TZID=Europe/Berlin:20261130T164500
 SUMMARY:Smartphone-Workshop für ältere Menschen | Coerde – Nachrichten und 
@@ -3358,7 +3139,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30_1530_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
  r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261130T153000
 DTEND;TZID=Europe/Berlin:20261130T170000
 SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
@@ -3384,7 +3165,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30_1730_pilates_in_coerde_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261130T173000
 DTEND;TZID=Europe/Berlin:20261130T183000
 SUMMARY:Pilates in Coerde
@@ -3408,7 +3189,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30_1830_pilates_in_coerde_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261130T183000
 DTEND;TZID=Europe/Berlin:20261130T193000
 SUMMARY:Pilates in Coerde
@@ -3432,7 +3213,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-11-30_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261130T194500
 DTEND;TZID=Europe/Berlin:20261130T211500
 SUMMARY:Gesellschaftstänze für fortgeschrittene Anfänger:innen
@@ -3458,7 +3239,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_im_s
  tadtteilburo_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261201T091500
 DTEND;TZID=Europe/Berlin:20261201T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen im Stadtteilbü
@@ -3485,7 +3266,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261201T093000
 DTEND;TZID=Europe/Berlin:20261201T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -3510,7 +3291,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_
  coerde_mittendrin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261201T110000
 DTEND;TZID=Europe/Berlin:20261201T140000
 SUMMARY:Kochprojekt „Gemeinsam am Herd – Rezepte ohne Grenzen“
@@ -3534,16 +3315,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01_1500_kleiderkammer_ausgabe_von_kleidung_st_franziskus_wochen
  info@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261201T150000
 DTEND;TZID=Europe/Berlin:20261201T170000
 SUMMARY:Kleiderkammer - Ausgabe von Kleidung
 LOCATION:Franziskushaus\, Schneidemühler Straße 23c\, Münster-Coerde\, Müns
  ter-Coerde
-DESCRIPTION:Ausgabe von Kleidung in der Kleiderkammer am ersten Dienstag im
-  Monat.\nVeranstalter: Kath. Kirchengemeinde St. Franziskus Münster\nQuell
- e: https://sankt-franziskus-muenster.de/wp-content/uploads/2026/11/web_46_
- Wocheninfo_1107-20261115.pdf
+DESCRIPTION:Monatliche Ausgabe von Kleidung am ersten Dienstag im Monat in 
+ der Kleiderkammer.\nVeranstalter: Kath. Kirchengemeinde St. Franziskus Mün
+ ster\nQuelle: https://sankt-franziskus-muenster.de/wp-content/uploads/2026
+ /11/web_46_Wocheninfo_1107-20261115.pdf
 URL:https://sankt-franziskus-muenster.de/wp-content/uploads/2026/11/web_46_
  Wocheninfo_1107-20261115.pdf
 CATEGORIES:Kirche / Gottesdienst / Begegnung
@@ -3557,7 +3338,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01_1600_deutsch_fur_migrant_innen_alltagsnah_deutsch_lernen_im_
  coerde_mittendrin_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261201T160000
 DTEND;TZID=Europe/Berlin:20261201T180000
 SUMMARY:Deutsch für Migrant:innen - alltagsnah Deutsch lernen im coerde mit
@@ -3584,7 +3365,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01_1900_malen_mit_aquarell_und_acrylfarben_fbf_friedensstrasse_
  coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261201T190000
 DTEND;TZID=Europe/Berlin:20261201T211500
 SUMMARY:Malen mit Aquarell- und Acrylfarben
@@ -3609,7 +3390,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01_1915_gesellschaftstanze_fur_paare_fur_fortgeschrittene_ii_fb
  f_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261201T191500
 DTEND;TZID=Europe/Berlin:20261201T201500
 SUMMARY:Gesellschaftstänze für Paare – für Fortgeschrittene II
@@ -3635,7 +3416,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-01_2015_gesellschaftstanze_fur_paare_fur_fortgeschrittene_i_fbf
  _friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261201T201500
 DTEND;TZID=Europe/Berlin:20261201T211500
 SUMMARY:Gesellschaftstänze für Paare – für Fortgeschrittene I
@@ -3661,7 +3442,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02_ganztag_wochentliche_offene_beratungszeit_empowerment_rassis
  muskritik_nachhaltigkeit_koo_iriba_brunnen_termine@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261202
 SUMMARY:Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik /
@@ -3681,12 +3462,12 @@ X-COERDE-SERIES-ID:ser_e30260c7dcb7
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02_0900_migrationsberatung_mbe_beratung_in_coerde_drk_munster_m
  igrationsberatung_mbe@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261202T090000
 DTEND;TZID=Europe/Berlin:20261202T150000
 SUMMARY:Migrationsberatung (MBE) - Beratung in Coerde
@@ -3702,12 +3483,12 @@ X-COERDE-SERIES-ID:ser_0a8a51903ba0
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_a
  wo_coerde_mittendrin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261202T100000
 DTEND;TZID=Europe/Berlin:20261202T120000
 SUMMARY:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615)
@@ -3726,12 +3507,12 @@ X-COERDE-SERIES-ID:ser_9cf929f9ed1c
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02_1000_kostenfreie_schulung_zur_app_munster_mobil_in_rumphorst
  _fahrplanauskunft_digital_meerwiese_begegnungszentrum@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261202T100000
 DTEND;TZID=Europe/Berlin:20261202T113000
 SUMMARY:Kostenfreie Schulung zur App münster:mobil in Rumphorst – Fahrplana
@@ -3758,7 +3539,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_frie
  densstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261202T140000
 DTEND;TZID=Europe/Berlin:20261202T170000
 SUMMARY:Sure Start Plus - Die Familienspielstunde Coerde
@@ -3778,12 +3559,36 @@ X-COERDE-SERIES-ID:ser_d1270549cbae
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:6
+X-COERDE-SERIES-COUNT:5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-02_1430_begegnungscafe_im_franziskushaus_st_franziskus_wochenin
+ fo@coerde-events
+DTSTAMP:20261112T190513Z
+DTSTART;TZID=Europe/Berlin:20261202T143000
+DTEND;TZID=Europe/Berlin:20261202T143000
+SUMMARY:Begegnungscafé im Franziskushaus
+LOCATION:Franziskushaus\, Schneidemühler Straße 23c\, Münster-Coerde\, Müns
+ ter-Coerde
+DESCRIPTION:Wöchentliches Begegnungscafé für Jung und Alt zum Austausch und
+  gemütlichen Beisammensein\, mit wechselnden Themen wie Gedächtnistraining
+ .\nVeranstalter: Kath. Kirchengemeinde St. Franziskus Münster\nQuelle: htt
+ ps://sankt-franziskus-muenster.de/wp-content/uploads/2026/11/web_46_Wochen
+ info_1107-20261115.pdf
+URL:https://sankt-franziskus-muenster.de/wp-content/uploads/2026/11/web_46_
+ Wocheninfo_1107-20261115.pdf
+CATEGORIES:Kirche / Gottesdienst / Begegnung
+STATUS:CONFIRMED
+X-COERDE-SERIES-ID:ser_213b8cbdd069
+X-COERDE-SERIES-TYPE:weekly
+X-COERDE-IS-RECURRING:ja
+X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261202T143000
 DTEND;TZID=Europe/Berlin:20261202T173000
 SUMMARY:Lernspielgruppe für Eltern und Kinder in der Kitazeit
@@ -3803,35 +3608,12 @@ X-COERDE-SERIES-ID:ser_5f1f960e59a6
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:6
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-02_1500_grundsicherungsberatung_caritas_im_franziskushaus_st_fr
- anziskus_wocheninfo@coerde-events
-DTSTAMP:20261111T190446Z
-DTSTART;TZID=Europe/Berlin:20261202T150000
-DTEND;TZID=Europe/Berlin:20261202T170000
-SUMMARY:Grundsicherungsberatung / Caritas im Franziskushaus
-LOCATION:Franziskushaus\, Schneidemühler Straße 23c\, Münster-Coerde\, Müns
- ter-Coerde
-DESCRIPTION:Wöchentliche Grundsicherungsberatung mittwochs im Franziskushau
- s\, um telefonische Anmeldung wird gebeten.\nVeranstalter: Kath. Kirchenge
- meinde St. Franziskus Münster\nQuelle: https://sankt-franziskus-muenster.d
- e/wp-content/uploads/2026/11/web_46_Wocheninfo_1107-20261115.pdf
-URL:https://sankt-franziskus-muenster.de/wp-content/uploads/2026/11/web_46_
- Wocheninfo_1107-20261115.pdf
-CATEGORIES:Kirche / Gottesdienst / Begegnung
-STATUS:CONFIRMED
-X-COERDE-SERIES-ID:ser_44e33163f3d4
-X-COERDE-SERIES-TYPE:weekly
-X-COERDE-IS-RECURRING:ja
-X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:3
+X-COERDE-SERIES-COUNT:5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
  r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261202T154500
 DTEND;TZID=Europe/Berlin:20261202T171500
 SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
@@ -3852,12 +3634,12 @@ X-COERDE-SERIES-ID:ser_4716b3b6087b
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs (+2 Zusatztermine)
-X-COERDE-SERIES-COUNT:8
+X-COERDE-SERIES-COUNT:7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02_ganztag_heimat_remixed_musik_der_kulturen_iriba_brunnen_term
  ine@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261202T180000
 DTEND;TZID=Europe/Berlin:20261202T203000
 SUMMARY:Heimat remixed – Musik der Kulturen
@@ -3875,12 +3657,12 @@ X-COERDE-SERIES-ID:ser_d193929ff239
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-02_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261202T183000
 DTEND;TZID=Europe/Berlin:20261202T200000
 SUMMARY:Yoga An der Meerwiese
@@ -3901,34 +3683,12 @@ X-COERDE-SERIES-ID:ser_420bcc583cda
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-02_1900_bauchtanz_fur_frauen_fbf_friedensstrasse_coerde@coerde-
- events
-DTSTAMP:20261111T190446Z
-DTSTART;TZID=Europe/Berlin:20261202T190000
-DTEND;TZID=Europe/Berlin:20261202T210000
-SUMMARY:Bauchtanz für Frauen
-LOCATION:Begegnungszentrum Meerwiese/Saal\, An der Meerwiese 25\, 48157 Mün
- ster\, Münster-Coerde
-DESCRIPTION:Bauchtanz ist ein sehr ursprünglicher Tanz mit einer jahrtausen
- dealten Tradition\, bei dem der ganze Körper zum Einsatz kommt. Frauen kön
- nen hier sowohl mit weiblich-sinnlichen als auch kraftvoll-akzentuierten B
- ewegungen ihre Mitte und Balance stärken und ihrem weiblichen Selbstbewuss
- tsein Ausdruck v\nVeranstalter: FamilienBildung Friedensstraße\nQuelle: ht
- tps://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Bauchtanz-fuer
- -Frauen/2606-6630
-URL:https://www.familienbildung-friedensstrasse.de/kurssuche/kurs/Bauchtanz
- -fuer-Frauen/2606-6630
-CATEGORIES:Bildung / Familie / Stadtteil
-STATUS:CONFIRMED
-X-COERDE-IS-RECURRING:nein
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261203T093000
 DTEND;TZID=Europe/Berlin:20261203T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -3954,7 +3714,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03_1200_polizeisprechstunde_coerde_mittendrin_awo_coerde_mitten
  drin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261203T120000
 DTEND;TZID=Europe/Berlin:20261203T130000
 SUMMARY:Polizeisprechstunde „coerde-mittendrin“
@@ -3978,7 +3738,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03_1430_komm_wir_sprechen_deutsch_fbf_friedensstrasse_coerde@co
  erde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261203T143000
 DTEND;TZID=Europe/Berlin:20261203T160000
 SUMMARY:Komm\, wir sprechen deutsch!
@@ -4002,7 +3762,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kinde
  rn_ab_3_jahren_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261203T143000
 DTEND;TZID=Europe/Berlin:20261203T164500
 SUMMARY:Praktische Ernährungsbildung für Eltern mit ihren Kindern ab 3 Jahr
@@ -4028,7 +3788,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261203T160000
 DTEND;TZID=Europe/Berlin:20261203T170000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. An der Meerwie
@@ -4055,7 +3815,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03_1930_chorprobe_der_chorgemeinschaft_st_franziskus_st_franzis
  kus_wocheninfo@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261203T193000
 DTEND;TZID=Europe/Berlin:20261203T193000
 SUMMARY:Chorprobe der Chorgemeinschaft St. Franziskus
@@ -4073,12 +3833,12 @@ X-COERDE-SERIES-ID:ser_980f95651225
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, donnerstags
-X-COERDE-SERIES-COUNT:4
+X-COERDE-SERIES-COUNT:5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-03_1945_zumba_workout_fitness_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261203T194500
 DTEND;TZID=Europe/Berlin:20261203T204500
 SUMMARY:Zumba® Workout Fitness
@@ -4104,7 +3864,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04_0900_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261204T090000
 DTEND;TZID=Europe/Berlin:20261204T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen an der Meerwie
@@ -4130,7 +3890,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04_1000_mutter_treff_coerde_initiative_chack_mutter_treff_coerd
  e@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261204T100000
 DTEND;TZID=Europe/Berlin:20261204T120000
 SUMMARY:Mütter-Treff Coerde
@@ -4151,7 +3911,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04_1000_tanzxchange_freie_tanzszene_munster_open_class_meerwies
  e_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261204T100000
 DTEND;TZID=Europe/Berlin:20261204T120000
 SUMMARY:TanzXchange – Freie Tanzszene Münster – OPEN CLASS
@@ -4176,7 +3936,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04_1500_coerder_stammtisch_awo_coerde_mittendrin_manuell@coerde
  -events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261204T150000
 DTEND;TZID=Europe/Berlin:20261204T170000
 SUMMARY:Coerder Stammtisch
@@ -4198,7 +3958,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04_ganztag_gemeinsam_sichtbar_stark_madchen_aus_coerde_gsmc_iri
  ba_brunnen_termine@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261204T163000
 DTEND;TZID=Europe/Berlin:20261204T180000
 SUMMARY:Gemeinsam sichtbar & stark – Mädchen aus Coerde (GSMC)
@@ -4221,7 +3981,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-04_1700_offener_spieletreff_2_4_montag_im_monat_awo_coerde_mitt
  endrin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261204T170000
 DTEND;TZID=Europe/Berlin:20261204T190000
 SUMMARY:Offener Spieletreff (2. & 4. Montag im Monat)
@@ -4245,7 +4005,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05_0930_gemeinsames_fruhstuck_awo_coerde_mittendrin@coerde-even
  ts
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261205T093000
 DTEND;TZID=Europe/Berlin:20261205T113000
 SUMMARY:Gemeinsames Frühstück
@@ -4268,7 +4028,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05_1000_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
  r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261205T100000
 DTEND;TZID=Europe/Berlin:20261205T121500
 SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
@@ -4294,7 +4054,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05_1500_workshop_auf_clownsentdeckung_in_dir_selbst_ein_clown_w
  orkshop_mit_clown_fidelid_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261205T150000
 DTEND;TZID=Europe/Berlin:20261205T220000
 SUMMARY:Workshop: Auf Clownsentdeckung in dir selbst – Ein Clown-Workshop m
@@ -4325,7 +4085,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05_1530_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
  r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261205T153000
 DTEND;TZID=Europe/Berlin:20261205T174500
 SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
@@ -4351,7 +4111,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-05_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
  r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261205T154500
 DTEND;TZID=Europe/Berlin:20261205T180000
 SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
@@ -4372,12 +4132,12 @@ X-COERDE-SERIES-ID:ser_4716b3b6087b
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs (+2 Zusatztermine)
-X-COERDE-SERIES-COUNT:8
+X-COERDE-SERIES-COUNT:7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06_1000_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
  r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261206T100000
 DTEND;TZID=Europe/Berlin:20261206T121500
 SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
@@ -4403,7 +4163,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06_1000_workshop_auf_clownsentdeckung_in_dir_selbst_ein_clown_w
  orkshop_mit_clown_fidelid_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261206T100000
 DTEND;TZID=Europe/Berlin:20261206T170000
 SUMMARY:Workshop: Auf Clownsentdeckung in dir selbst – Ein Clown-Workshop m
@@ -4434,12 +4194,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06_1100_adventsgottesdienst_mit_dem_hot_coerde_andreas_kircheng
  emeinde_startseite@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261206T110000
 DTEND;TZID=Europe/Berlin:20261206T110000
 SUMMARY:Adventsgottesdienst mit dem HOT Coerde
-LOCATION:Andreas-Kirchengemeinde Münster-Coerde\, Münster-Coerde\, Münster-
- Coerde
+LOCATION:Andreas-Kirchengemeinde Münster-Coerde\, Münster-Coerde
 DESCRIPTION:Adventsgottesdienst mit Beteiligung des HOT Coerde am ersten So
  nntag im Dezember um 11:00 Uhr.\nVeranstalter: Ev. Andreas-Kirchengemeinde
   Münster-Coerde\nQuelle: https://www.andreas-kirchengemeinde-muenster.de/
@@ -4451,7 +4210,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06_1500_coerder_wintersause_2026_warme_klange_zur_kalten_jahres
  zeit_kulturinitiative_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261206T150000
 DTEND;TZID=Europe/Berlin:20261206T190000
 SUMMARY:Coerder Wintersause 2026 – Warme Klänge zur kalten Jahreszeit
@@ -4473,7 +4232,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06_1530_24_winterpunsch_pendulum_mneme_kollektiv_aus_munster_me
  erwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261206T153000
 DTEND;TZID=Europe/Berlin:20261206T163000
 SUMMARY:24. WINTERPUNSCH: Pendulum – MNEME kollektiv aus Münster
@@ -4502,7 +4261,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06_1530_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
  r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261206T153000
 DTEND;TZID=Europe/Berlin:20261206T174500
 SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
@@ -4528,7 +4287,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-06_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
  r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261206T154500
 DTEND;TZID=Europe/Berlin:20261206T180000
 SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
@@ -4549,12 +4308,12 @@ X-COERDE-SERIES-ID:ser_4716b3b6087b
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs (+2 Zusatztermine)
-X-COERDE-SERIES-COUNT:8
+X-COERDE-SERIES-COUNT:7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07_0930_yoga_fur_senior_innen_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261207T093000
 DTEND;TZID=Europe/Berlin:20261207T103000
 SUMMARY:Yoga für Senior:innen
@@ -4580,7 +4339,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07_1000_24_winterpunsch_pendulum_mneme_kollektiv_aus_munster_me
  erwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261207T100000
 DTEND;TZID=Europe/Berlin:20261207T110000
 SUMMARY:24. WINTERPUNSCH: Pendulum – MNEME kollektiv aus Münster
@@ -4609,7 +4368,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07_1000_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
  r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261207T100000
 DTEND;TZID=Europe/Berlin:20261207T113000
 SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
@@ -4633,32 +4392,9 @@ X-COERDE-SERIES-LABEL:mehrere Termine (6)\, 16.11.–07.12.2026
 X-COERDE-SERIES-COUNT:6
 END:VEVENT
 BEGIN:VEVENT
-UID:2026-12-07_1000_gesellige_tanze_im_franziskushaus_st_franziskus_wocheni
- nfo@coerde-events
-DTSTAMP:20261111T190446Z
-DTSTART;TZID=Europe/Berlin:20261207T100000
-DTEND;TZID=Europe/Berlin:20261207T113000
-SUMMARY:Gesellige Tänze im Franziskushaus
-LOCATION:Franziskushaus\, Schneidemühler Straße 23c\, Münster-Coerde\, Müns
- ter-Coerde
-DESCRIPTION:Wöchentliche gesellige Tanzveranstaltung montags im Franziskush
- aus\, Leitung Erika Vosseberg.\nVeranstalter: Kath. Kirchengemeinde St. Fr
- anziskus Münster\nQuelle: https://sankt-franziskus-muenster.de/wp-content/
- uploads/2026/11/web_46_Wocheninfo_1107-20261115.pdf
-URL:https://sankt-franziskus-muenster.de/wp-content/uploads/2026/11/web_46_
- Wocheninfo_1107-20261115.pdf
-CATEGORIES:Kirche / Gottesdienst / Begegnung
-STATUS:CONFIRMED
-X-COERDE-SERIES-ID:ser_8dffe4d2436b
-X-COERDE-SERIES-TYPE:weekly
-X-COERDE-IS-RECURRING:ja
-X-COERDE-SERIES-LABEL:wöchentlich\, montags
-X-COERDE-SERIES-COUNT:4
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-12-07_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261207T100000
 DTEND;TZID=Europe/Berlin:20261207T113000
 SUMMARY:Griffbereit - mehrsprachige Eltern-Kind-Gruppe von 1-3 J.
@@ -4684,7 +4420,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07_1300_pilates_in_coerde_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261207T130000
 DTEND;TZID=Europe/Berlin:20261207T140000
 SUMMARY:Pilates in Coerde
@@ -4708,7 +4444,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07_1430_offener_spieletreff_fur_senior_innen_awo_coerde_mittend
  rin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261207T143000
 DTEND;TZID=Europe/Berlin:20261207T170000
 SUMMARY:Offener Spieletreff für Senior*innen
@@ -4729,9 +4465,32 @@ X-COERDE-SERIES-LABEL:wöchentlich\, montags
 X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-07_1500_doppelkopf_spielnachmittag_senioren_thomas_morus_st_fra
+ nziskus_wocheninfo@coerde-events
+DTSTAMP:20261112T190513Z
+DTSTART;TZID=Europe/Berlin:20261207T150000
+DTEND;TZID=Europe/Berlin:20261207T180000
+SUMMARY:Doppelkopf Spielnachmittag Senioren Thomas Morus
+LOCATION:Raum 1 der Thomas-Morus-Kirche\, Thomas-Morus-Weg 11\, Münster-Coe
+ rde\, Münster-Coerde
+DESCRIPTION:Doppelkopf Spielnachmittag für Senioren am 1. und 3. Montag im 
+ Monat\, ggf. auch am 5. Montag.\nVeranstalter: Kath. Kirchengemeinde St. F
+ ranziskus Münster\nQuelle: https://sankt-franziskus-muenster.de/wp-content
+ /uploads/2026/11/web_46_Wocheninfo_1107-20261115.pdf
+URL:https://sankt-franziskus-muenster.de/wp-content/uploads/2026/11/web_46_
+ Wocheninfo_1107-20261115.pdf
+CATEGORIES:Kirche / Gottesdienst / Begegnung
+STATUS:CONFIRMED
+X-COERDE-SERIES-ID:ser_61f98e7a6a5a
+X-COERDE-SERIES-TYPE:monthly
+X-COERDE-IS-RECURRING:ja
+X-COERDE-SERIES-LABEL:monatlich\, jeden 1. und 3. Montag
+X-COERDE-SERIES-COUNT:1
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-07_1530_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
  r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261207T153000
 DTEND;TZID=Europe/Berlin:20261207T170000
 SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
@@ -4757,7 +4516,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07_1730_pilates_in_coerde_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261207T173000
 DTEND;TZID=Europe/Berlin:20261207T183000
 SUMMARY:Pilates in Coerde
@@ -4781,7 +4540,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07_1830_pilates_in_coerde_fbf_friedensstrasse_coerde@coerde-eve
  nts
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261207T183000
 DTEND;TZID=Europe/Berlin:20261207T193000
 SUMMARY:Pilates in Coerde
@@ -4805,7 +4564,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-07_1945_gesellschaftstanze_fur_fortgeschrittene_anfanger_innen_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261207T194500
 DTEND;TZID=Europe/Berlin:20261207T211500
 SUMMARY:Gesellschaftstänze für fortgeschrittene Anfänger:innen
@@ -4831,7 +4590,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_im_s
  tadtteilburo_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261208T091500
 DTEND;TZID=Europe/Berlin:20261208T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen im Stadtteilbü
@@ -4858,7 +4617,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261208T093000
 DTEND;TZID=Europe/Berlin:20261208T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -4883,7 +4642,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08_1000_24_winterpunsch_pendulum_mneme_kollektiv_aus_munster_me
  erwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261208T100000
 DTEND;TZID=Europe/Berlin:20261208T110000
 SUMMARY:24. WINTERPUNSCH: Pendulum – MNEME kollektiv aus Münster
@@ -4912,7 +4671,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08_1100_kochprojekt_gemeinsam_am_herd_rezepte_ohne_grenzen_awo_
  coerde_mittendrin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261208T110000
 DTEND;TZID=Europe/Berlin:20261208T140000
 SUMMARY:Kochprojekt „Gemeinsam am Herd – Rezepte ohne Grenzen“
@@ -4936,7 +4695,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08_1415_weihnachtsbackerei_fur_gross_eltern_und_kinder_von_3_6_
  j_an_der_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261208T141500
 DTEND;TZID=Europe/Berlin:20261208T163000
 SUMMARY:Weihnachtsbäckerei für (Groß-)Eltern und Kinder von 3-6 J. An der M
@@ -4958,7 +4717,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08_1600_deutsch_fur_migrant_innen_alltagsnah_deutsch_lernen_im_
  coerde_mittendrin_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261208T160000
 DTEND;TZID=Europe/Berlin:20261208T180000
 SUMMARY:Deutsch für Migrant:innen - alltagsnah Deutsch lernen im coerde mit
@@ -4985,7 +4744,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-08_1755_nia_fitness_mit_groove_fbf_friedensstrasse_coerde@coerd
  e-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261208T175500
 DTEND;TZID=Europe/Berlin:20261208T185500
 SUMMARY:Nia® – Fitness mit Groove
@@ -5011,7 +4770,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09_ganztag_wochentliche_offene_beratungszeit_empowerment_rassis
  muskritik_nachhaltigkeit_koo_iriba_brunnen_termine@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261209
 SUMMARY:Wöchentliche offene Beratungszeit – Empowerment / Rassismuskritik /
@@ -5031,12 +4790,12 @@ X-COERDE-SERIES-ID:ser_e30260c7dcb7
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09_0900_migrationsberatung_mbe_beratung_in_coerde_drk_munster_m
  igrationsberatung_mbe@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261209T090000
 DTEND;TZID=Europe/Berlin:20261209T150000
 SUMMARY:Migrationsberatung (MBE) - Beratung in Coerde
@@ -5052,12 +4811,12 @@ X-COERDE-SERIES-ID:ser_0a8a51903ba0
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09_1000_24_winterpunsch_pendulum_mneme_kollektiv_aus_munster_me
  erwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261209T100000
 DTEND;TZID=Europe/Berlin:20261209T110000
 SUMMARY:24. WINTERPUNSCH: Pendulum – MNEME kollektiv aus Münster
@@ -5086,7 +4845,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09_1000_fruhstuckstreff_mit_anmeldung_unter_tel_01520_9123615_a
  wo_coerde_mittendrin@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261209T100000
 DTEND;TZID=Europe/Berlin:20261209T120000
 SUMMARY:Frühstückstreff (mit Anmeldung unter Tel.: 01520 9123615)
@@ -5105,12 +4864,12 @@ X-COERDE-SERIES-ID:ser_9cf929f9ed1c
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_frie
  densstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261209T140000
 DTEND;TZID=Europe/Berlin:20261209T170000
 SUMMARY:Sure Start Plus - Die Familienspielstunde Coerde
@@ -5130,12 +4889,36 @@ X-COERDE-SERIES-ID:ser_d1270549cbae
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:6
+X-COERDE-SERIES-COUNT:5
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09_1430_begegnungscafe_im_franziskushaus_st_franziskus_wochenin
+ fo@coerde-events
+DTSTAMP:20261112T190513Z
+DTSTART;TZID=Europe/Berlin:20261209T143000
+DTEND;TZID=Europe/Berlin:20261209T143000
+SUMMARY:Begegnungscafé im Franziskushaus
+LOCATION:Franziskushaus\, Schneidemühler Straße 23c\, Münster-Coerde\, Müns
+ ter-Coerde
+DESCRIPTION:Wöchentliches Begegnungscafé für Jung und Alt zum Austausch und
+  gemütlichen Beisammensein\, mit wechselnden Themen wie Gedächtnistraining
+ .\nVeranstalter: Kath. Kirchengemeinde St. Franziskus Münster\nQuelle: htt
+ ps://sankt-franziskus-muenster.de/wp-content/uploads/2026/11/web_46_Wochen
+ info_1107-20261115.pdf
+URL:https://sankt-franziskus-muenster.de/wp-content/uploads/2026/11/web_46_
+ Wocheninfo_1107-20261115.pdf
+CATEGORIES:Kirche / Gottesdienst / Begegnung
+STATUS:CONFIRMED
+X-COERDE-SERIES-ID:ser_213b8cbdd069
+X-COERDE-SERIES-TYPE:weekly
+X-COERDE-IS-RECURRING:ja
+X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261209T143000
 DTEND;TZID=Europe/Berlin:20261209T173000
 SUMMARY:Lernspielgruppe für Eltern und Kinder in der Kitazeit
@@ -5155,35 +4938,12 @@ X-COERDE-SERIES-ID:ser_5f1f960e59a6
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:6
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-12-09_1500_grundsicherungsberatung_caritas_im_franziskushaus_st_fr
- anziskus_wocheninfo@coerde-events
-DTSTAMP:20261111T190446Z
-DTSTART;TZID=Europe/Berlin:20261209T150000
-DTEND;TZID=Europe/Berlin:20261209T170000
-SUMMARY:Grundsicherungsberatung / Caritas im Franziskushaus
-LOCATION:Franziskushaus\, Schneidemühler Straße 23c\, Münster-Coerde\, Müns
- ter-Coerde
-DESCRIPTION:Wöchentliche Grundsicherungsberatung mittwochs im Franziskushau
- s\, um telefonische Anmeldung wird gebeten.\nVeranstalter: Kath. Kirchenge
- meinde St. Franziskus Münster\nQuelle: https://sankt-franziskus-muenster.d
- e/wp-content/uploads/2026/11/web_46_Wocheninfo_1107-20261115.pdf
-URL:https://sankt-franziskus-muenster.de/wp-content/uploads/2026/11/web_46_
- Wocheninfo_1107-20261115.pdf
-CATEGORIES:Kirche / Gottesdienst / Begegnung
-STATUS:CONFIRMED
-X-COERDE-SERIES-ID:ser_44e33163f3d4
-X-COERDE-SERIES-TYPE:weekly
-X-COERDE-IS-RECURRING:ja
-X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:3
+X-COERDE-SERIES-COUNT:5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
  r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261209T154500
 DTEND;TZID=Europe/Berlin:20261209T171500
 SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
@@ -5204,12 +4964,12 @@ X-COERDE-SERIES-ID:ser_4716b3b6087b
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs (+2 Zusatztermine)
-X-COERDE-SERIES-COUNT:8
+X-COERDE-SERIES-COUNT:7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09_ganztag_heimat_remixed_musik_der_kulturen_iriba_brunnen_term
  ine@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261209T180000
 DTEND;TZID=Europe/Berlin:20261209T203000
 SUMMARY:Heimat remixed – Musik der Kulturen
@@ -5227,12 +4987,12 @@ X-COERDE-SERIES-ID:ser_d193929ff239
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-09_1830_yoga_an_der_meerwiese_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261209T183000
 DTEND;TZID=Europe/Berlin:20261209T200000
 SUMMARY:Yoga An der Meerwiese
@@ -5253,12 +5013,12 @@ X-COERDE-SERIES-ID:ser_420bcc583cda
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:5
+X-COERDE-SERIES-COUNT:4
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261210T093000
 DTEND;TZID=Europe/Berlin:20261210T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -5282,9 +5042,32 @@ X-COERDE-SERIES-LABEL:wöchentlich\, donnerstags
 X-COERDE-SERIES-COUNT:6
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-10_1100_offene_sprechstunde_coerde_mittendrin_awo_coerde_mitten
+ drin@coerde-events
+DTSTAMP:20261112T190513Z
+DTSTART;TZID=Europe/Berlin:20261210T110000
+DTEND;TZID=Europe/Berlin:20261210T130000
+SUMMARY:Offene Sprechstunde „coerde mittendrin“
+LOCATION:AWO Coerde mittendrin\, Königsberger Straße 8\, 48157 Münster-Coer
+ de\, Münster-Coerde
+DESCRIPTION:Offene Sprechstunde „coerde mittendrin“: wöchentliches Angebot 
+ jeden Donnerstag im AWO Coerde mittendrin der AWO in Münster-Coerde.\nVera
+ nstalter: AWO Coerde mittendrin\nQuelle: https://www.awo-msl-re.de/einrich
+ tung/coerde-mittendrin?downloadFile=34b25336-4aca-11f1-bfc6-c7cf9d9a4485
+URL:https://www.awo-msl-re.de/einrichtung/coerde-mittendrin?downloadFile=34
+ b25336-4aca-11f1-bfc6-c7cf9d9a4485
+CATEGORIES:Stadtteil / Begegnung / Beratung
+STATUS:CONFIRMED
+X-COERDE-SERIES-ID:ser_d6174935c439
+X-COERDE-SERIES-TYPE:weekly
+X-COERDE-IS-RECURRING:ja
+X-COERDE-SERIES-LABEL:wöchentlich\, donnerstags
+X-COERDE-SERIES-COUNT:4
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-10_1430_komm_wir_sprechen_deutsch_fbf_friedensstrasse_coerde@co
  erde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261210T143000
 DTEND;TZID=Europe/Berlin:20261210T160000
 SUMMARY:Komm\, wir sprechen deutsch!
@@ -5308,7 +5091,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kinde
  rn_ab_3_jahren_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261210T143000
 DTEND;TZID=Europe/Berlin:20261210T164500
 SUMMARY:Praktische Ernährungsbildung für Eltern mit ihren Kindern ab 3 Jahr
@@ -5334,7 +5117,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-10_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261210T160000
 DTEND;TZID=Europe/Berlin:20261210T170000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. An der Meerwie
@@ -5359,9 +5142,32 @@ X-COERDE-SERIES-LABEL:wöchentlich\, donnerstags
 X-COERDE-SERIES-COUNT:5
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-10_1930_chorprobe_der_chorgemeinschaft_st_franziskus_st_franzis
+ kus_wocheninfo@coerde-events
+DTSTAMP:20261112T190513Z
+DTSTART;TZID=Europe/Berlin:20261210T193000
+DTEND;TZID=Europe/Berlin:20261210T193000
+SUMMARY:Chorprobe der Chorgemeinschaft St. Franziskus
+LOCATION:Franziskushaus\, Schneidemühler Straße 23c\, Münster-Coerde\, Müns
+ ter-Coerde
+DESCRIPTION:Wöchentliche Chorprobe donnerstags im Franziskushaus.\nVeransta
+ lter: Kath. Kirchengemeinde St. Franziskus Münster\nQuelle: https://sankt-
+ franziskus-muenster.de/wp-content/uploads/2026/11/web_46_Wocheninfo_1107-2
+ 0261115.pdf
+URL:https://sankt-franziskus-muenster.de/wp-content/uploads/2026/11/web_46_
+ Wocheninfo_1107-20261115.pdf
+CATEGORIES:Kirche / Gottesdienst / Begegnung
+STATUS:CONFIRMED
+X-COERDE-SERIES-ID:ser_980f95651225
+X-COERDE-SERIES-TYPE:weekly
+X-COERDE-IS-RECURRING:ja
+X-COERDE-SERIES-LABEL:wöchentlich\, donnerstags
+X-COERDE-SERIES-COUNT:5
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-10_1945_zumba_workout_fitness_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261210T194500
 DTEND;TZID=Europe/Berlin:20261210T204500
 SUMMARY:Zumba® Workout Fitness
@@ -5387,7 +5193,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-11_0900_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261211T090000
 DTEND;TZID=Europe/Berlin:20261211T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen an der Meerwie
@@ -5413,7 +5219,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13_1700_jazziges_weihnachtskonzert_mit_gedichten_und_geschichte
  n_jeanette_lewe_gesang_un_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261213T170000
 DTEND;TZID=Europe/Berlin:20261213T190000
 SUMMARY:Jazziges Weihnachtskonzert mit Gedichten und Geschichten – Jeanette
@@ -5441,7 +5247,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-13_1800_ins_offene_carola_von_seckendorff_ulrich_barenfanger_au
  s_munster_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261213T180000
 DTEND;TZID=Europe/Berlin:20261213T193000
 SUMMARY:INS OFFENE – Carola von Seckendorff & Ulrich Bärenfänger aus Münste
@@ -5467,7 +5273,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14_1000_griffbereit_mehrsprachige_eltern_kind_gruppe_von_1_3_j_
  fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261214T100000
 DTEND;TZID=Europe/Berlin:20261214T113000
 SUMMARY:Griffbereit - mehrsprachige Eltern-Kind-Gruppe von 1-3 J.
@@ -5493,7 +5299,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-14_1900_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
  r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261214T190000
 DTEND;TZID=Europe/Berlin:20261214T211500
 SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
@@ -5519,7 +5325,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15_0915_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_im_s
  tadtteilburo_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261215T091500
 DTEND;TZID=Europe/Berlin:20261215T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen im Stadtteilbü
@@ -5546,7 +5352,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261215T093000
 DTEND;TZID=Europe/Berlin:20261215T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -5571,7 +5377,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-15_1600_deutsch_fur_migrant_innen_alltagsnah_deutsch_lernen_im_
  coerde_mittendrin_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261215T160000
 DTEND;TZID=Europe/Berlin:20261215T180000
 SUMMARY:Deutsch für Migrant:innen - alltagsnah Deutsch lernen im coerde mit
@@ -5598,7 +5404,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16_1400_sure_start_plus_die_familienspielstunde_coerde_fbf_frie
  densstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261216T140000
 DTEND;TZID=Europe/Berlin:20261216T170000
 SUMMARY:Sure Start Plus - Die Familienspielstunde Coerde
@@ -5618,12 +5424,12 @@ X-COERDE-SERIES-ID:ser_d1270549cbae
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:6
+X-COERDE-SERIES-COUNT:5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16_1430_lernspielgruppe_fur_eltern_und_kinder_in_der_kitazeit_f
  bf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261216T143000
 DTEND;TZID=Europe/Berlin:20261216T173000
 SUMMARY:Lernspielgruppe für Eltern und Kinder in der Kitazeit
@@ -5643,12 +5449,12 @@ X-COERDE-SERIES-ID:ser_5f1f960e59a6
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs
-X-COERDE-SERIES-COUNT:6
+X-COERDE-SERIES-COUNT:5
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-16_1545_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
  r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261216T154500
 DTEND;TZID=Europe/Berlin:20261216T171500
 SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
@@ -5669,12 +5475,12 @@ X-COERDE-SERIES-ID:ser_4716b3b6087b
 X-COERDE-SERIES-TYPE:weekly
 X-COERDE-IS-RECURRING:ja
 X-COERDE-SERIES-LABEL:wöchentlich\, mittwochs (+2 Zusatztermine)
-X-COERDE-SERIES-COUNT:8
+X-COERDE-SERIES-COUNT:7
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17_0930_sure_start_die_babyspielstunde_coerde_fbf_friedensstras
  se_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261217T093000
 DTEND;TZID=Europe/Berlin:20261217T123000
 SUMMARY:Sure Start - Die Babyspielstunde Coerde
@@ -5700,7 +5506,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17_1000_24_winterpunsch_alice_im_wunderland_fetter_fisch_perfor
  mance_theater_aus_munster_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261217T100000
 DTEND;TZID=Europe/Berlin:20261217T110000
 SUMMARY:24. WINTERPUNSCH: Alice im Wunderland – Fetter Fisch – Performance 
@@ -5731,7 +5537,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17_1430_komm_wir_sprechen_deutsch_fbf_friedensstrasse_coerde@co
  erde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261217T143000
 DTEND;TZID=Europe/Berlin:20261217T160000
 SUMMARY:Komm\, wir sprechen deutsch!
@@ -5755,7 +5561,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17_1430_praktische_ernahrungsbildung_fur_eltern_mit_ihren_kinde
  rn_ab_3_jahren_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261217T143000
 DTEND;TZID=Europe/Berlin:20261217T164500
 SUMMARY:Praktische Ernährungsbildung für Eltern mit ihren Kindern ab 3 Jahr
@@ -5781,7 +5587,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17_1600_turnen_und_toben_fur_gross_eltern_und_kinder_1_3_j_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261217T160000
 DTEND;TZID=Europe/Berlin:20261217T170000
 SUMMARY:Turnen und Toben für (Groß-)Eltern und Kinder 1-3 J. An der Meerwie
@@ -5808,7 +5614,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-17_1945_zumba_workout_fitness_fbf_friedensstrasse_coerde@coerde
  -events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261217T194500
 DTEND;TZID=Europe/Berlin:20261217T204500
 SUMMARY:Zumba® Workout Fitness
@@ -5834,7 +5640,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18_0900_deutsch_fur_migrantinnen_alltagsnah_deutsch_lernen_an_d
  er_meerwiese_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261218T090000
 DTEND;TZID=Europe/Berlin:20261218T120000
 SUMMARY:Deutsch für Migrantinnen - alltagsnah Deutsch lernen an der Meerwie
@@ -5860,7 +5666,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18_1000_24_winterpunsch_alice_im_wunderland_fetter_fisch_perfor
  mance_theater_aus_munster_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261218T100000
 DTEND;TZID=Europe/Berlin:20261218T110000
 SUMMARY:24. WINTERPUNSCH: Alice im Wunderland – Fetter Fisch – Performance 
@@ -5891,7 +5697,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-18_1015_lesen_mit_kleinen_wesen_stadtbuecherei_coerde@coerde-ev
  ents
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261218T101500
 DTEND;TZID=Europe/Berlin:20261218T101500
 SUMMARY:Lesen mit kleinen Wesen
@@ -5916,7 +5722,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21_1000_24_winterpunsch_alice_im_wunderland_fetter_fisch_perfor
  mance_theater_aus_munster_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261221T100000
 DTEND;TZID=Europe/Berlin:20261221T110000
 SUMMARY:24. WINTERPUNSCH: Alice im Wunderland – Fetter Fisch – Performance 
@@ -5931,10 +5737,10 @@ DESCRIPTION:Ein Spiel mit der Wirklichkeit für alle ab 8 Jahren ohne Sprach
   Neugier auf die Reise. Und diese Reise ist nicht immer leicht. Mal wird A
  lice winzig klein und fühlt sich machtlos und verloren. Dann ist si...\nVe
  ranstalter: Stadt Münster Veranstaltungskalender\nQuelle: https://www.stad
- t-muenster.de/veranstaltungskalender/-/detail/3028/22064/24-winterpunsch-a
+ t-muenster.de/veranstaltungskalender/-/detail/3028/22063/24-winterpunsch-a
  lice-im-wunderland-fetter-fisch-performance-theater-aus-muenster
 URL:https://www.stadt-muenster.de/veranstaltungskalender/-/detail/3028/2206
- 4/24-winterpunsch-alice-im-wunderland-fetter-fisch-performance-theater-aus
+ 3/24-winterpunsch-alice-im-wunderland-fetter-fisch-performance-theater-aus
  -muenster
 CATEGORIES:Theater / Kultur / Tanz / Kinderkultur
 STATUS:CONFIRMED
@@ -5947,7 +5753,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2026-12-21_1900_eltern_kind_waldspielgruppe_laufalter_bis_6_j_dyckburge
  r_wald_fbf_friedensstrasse_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20261221T190000
 DTEND;TZID=Europe/Berlin:20261221T211500
 SUMMARY:Eltern-Kind-Waldspielgruppe Laufalter bis 6 J. Dyckburger Wald
@@ -5973,7 +5779,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-14_1900_3d_krimidinner_la_petite_detective_in_munster_stadt_mun
  ster_veranstaltungskalender@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270114T190000
 DTEND;TZID=Europe/Berlin:20270114T220000
 SUMMARY:3D Krimidinner - La Petite Détective in Münster!
@@ -5996,7 +5802,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-15_1900_3d_krimidinner_la_petite_detective_in_munster_stadt_mun
  ster_veranstaltungskalender@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270115T190000
 DTEND;TZID=Europe/Berlin:20270115T220000
 SUMMARY:3D Krimidinner - La Petite Détective in Münster!
@@ -6019,7 +5825,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16_1200_3d_krimidinner_la_petite_detective_in_munster_stadt_mun
  ster_veranstaltungskalender@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270116T120000
 DTEND;TZID=Europe/Berlin:20270116T150000
 SUMMARY:3D Krimidinner - La Petite Détective in Münster!
@@ -6042,7 +5848,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-16_1900_3d_krimidinner_la_petite_detective_in_munster_stadt_mun
  ster_veranstaltungskalender@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270116T190000
 DTEND;TZID=Europe/Berlin:20270116T220000
 SUMMARY:3D Krimidinner - La Petite Détective in Münster!
@@ -6065,7 +5871,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17_1530_24_winterpunsch_impro_show_fur_kinder_7wiesen_aus_munst
  er_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270117T153000
 DTEND;TZID=Europe/Berlin:20270117T163000
 SUMMARY:24. WINTERPUNSCH: Impro-Show für Kinder – 7Wiesen aus Münster
@@ -6094,7 +5900,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-17_1700_3d_krimidinner_la_petite_detective_in_munster_stadt_mun
  ster_veranstaltungskalender@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270117T170000
 DTEND;TZID=Europe/Berlin:20270117T200000
 SUMMARY:3D Krimidinner - La Petite Détective in Münster!
@@ -6117,7 +5923,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-18_1000_24_winterpunsch_impro_show_fur_kinder_7wiesen_aus_munst
  er_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270118T100000
 DTEND;TZID=Europe/Berlin:20270118T110000
 SUMMARY:24. WINTERPUNSCH: Impro-Show für Kinder – 7Wiesen aus Münster
@@ -6146,7 +5952,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-19_1000_24_winterpunsch_impro_show_fur_kinder_7wiesen_aus_munst
  er_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270119T100000
 DTEND;TZID=Europe/Berlin:20270119T110000
 SUMMARY:24. WINTERPUNSCH: Impro-Show für Kinder – 7Wiesen aus Münster
@@ -6175,7 +5981,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20_1000_24_winterpunsch_impro_show_fur_kinder_7wiesen_aus_munst
  er_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270120T100000
 DTEND;TZID=Europe/Berlin:20270120T110000
 SUMMARY:24. WINTERPUNSCH: Impro-Show für Kinder – 7Wiesen aus Münster
@@ -6204,7 +6010,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-20_1900_3d_krimidinner_la_petite_detective_in_munster_stadt_mun
  ster_veranstaltungskalender@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270120T190000
 DTEND;TZID=Europe/Berlin:20270120T220000
 SUMMARY:3D Krimidinner - La Petite Détective in Münster!
@@ -6227,7 +6033,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_
  munster_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270121T100000
 DTEND;TZID=Europe/Berlin:20270121T105000
 SUMMARY:24. WINTERPUNSCH: Ach du dickes Ei! – Theater Rosinante aus Münster
@@ -6256,7 +6062,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-21_1900_3d_krimidinner_la_petite_detective_in_munster_stadt_mun
  ster_veranstaltungskalender@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270121T190000
 DTEND;TZID=Europe/Berlin:20270121T220000
 SUMMARY:3D Krimidinner - La Petite Détective in Münster!
@@ -6279,7 +6085,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_
  munster_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270122T100000
 DTEND;TZID=Europe/Berlin:20270122T105000
 SUMMARY:24. WINTERPUNSCH: Ach du dickes Ei! – Theater Rosinante aus Münster
@@ -6308,7 +6114,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-22_1900_3d_krimidinner_la_petite_detective_in_munster_stadt_mun
  ster_veranstaltungskalender@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270122T190000
 DTEND;TZID=Europe/Berlin:20270122T220000
 SUMMARY:3D Krimidinner - La Petite Détective in Münster!
@@ -6331,7 +6137,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-23_1900_3d_krimidinner_la_petite_detective_in_munster_stadt_mun
  ster_veranstaltungskalender@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270123T190000
 DTEND;TZID=Europe/Berlin:20270123T220000
 SUMMARY:3D Krimidinner - La Petite Détective in Münster!
@@ -6354,7 +6160,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24_1530_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_
  munster_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270124T153000
 DTEND;TZID=Europe/Berlin:20270124T162000
 SUMMARY:24. WINTERPUNSCH: Ach du dickes Ei! – Theater Rosinante aus Münster
@@ -6383,7 +6189,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-24_1900_3d_krimidinner_la_petite_detective_in_munster_stadt_mun
  ster_veranstaltungskalender@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270124T190000
 DTEND;TZID=Europe/Berlin:20270124T220000
 SUMMARY:3D Krimidinner - La Petite Détective in Münster!
@@ -6406,7 +6212,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-25_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_
  munster_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270125T100000
 DTEND;TZID=Europe/Berlin:20270125T105000
 SUMMARY:24. WINTERPUNSCH: Ach du dickes Ei! – Theater Rosinante aus Münster
@@ -6435,7 +6241,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-26_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_
  munster_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270126T100000
 DTEND;TZID=Europe/Berlin:20270126T105000
 SUMMARY:24. WINTERPUNSCH: Ach du dickes Ei! – Theater Rosinante aus Münster
@@ -6464,7 +6270,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-27_1000_24_winterpunsch_ach_du_dickes_ei_theater_rosinante_aus_
  munster_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270127T100000
 DTEND;TZID=Europe/Berlin:20270127T105000
 SUMMARY:24. WINTERPUNSCH: Ach du dickes Ei! – Theater Rosinante aus Münster
@@ -6493,7 +6299,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-30_1400_werkstatt_kulturelle_bildung_moving_moments_die_kunst_d
  er_begegnung_und_bewegung_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270130T140000
 DTEND;TZID=Europe/Berlin:20270130T180000
 SUMMARY:Werkstatt „Kulturelle Bildung“ – moving.moments: Die Kunst der Bege
@@ -6524,7 +6330,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-01-31_1000_werkstatt_kulturelle_bildung_moving_moments_die_kunst_d
  er_begegnung_und_bewegung_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270131T100000
 DTEND;TZID=Europe/Berlin:20270131T140000
 SUMMARY:Werkstatt „Kulturelle Bildung“ – moving.moments: Die Kunst der Bege
@@ -6555,7 +6361,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-13_1700_zerspringding_repariertier_theater_kunstdunger_aus_munc
  hen_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270213T170000
 DTEND;TZID=Europe/Berlin:20270213T174500
 SUMMARY:ZerspringDing & ReparierTier – Theater Kunstdünger aus München
@@ -6584,7 +6390,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2027-02-16_1000_zerspringding_repariertier_theater_kunstdunger_aus_munc
  hen_meerwiese_theater@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270216T100000
 DTEND;TZID=Europe/Berlin:20270216T104500
 SUMMARY:ZerspringDing & ReparierTier – Theater Kunstdünger aus München
@@ -6612,7 +6418,7 @@ X-COERDE-SERIES-COUNT:2
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-07-03_1400_coerdinale_2027_kulturinitiative_coerde@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;TZID=Europe/Berlin:20270703T140000
 DTEND;TZID=Europe/Berlin:20270703T220000
 SUMMARY:Coerdinale 2027
@@ -6631,15 +6437,15 @@ X-COERDE-IS-RECURRING:nein
 END:VEVENT
 BEGIN:VEVENT
 UID:2027-09-18_ganztag_7_rock_am_berg_festival_rock_am_berg@coerde-events
-DTSTAMP:20261111T190446Z
+DTSTAMP:20261112T190513Z
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270918
 SUMMARY:7. Rock am Berg Festival
 LOCATION:Rieselfelder Münster\, Münster-Coerde\, Münster-Coerde
-DESCRIPTION:Das siebte Rock am Berg Festival findet am 18.09.2027 in den Ri
- eselfeldern von Münster statt. Alle Bands spielen ohne Gage\, das Festival
-  ist gemeinnützig und ehrenamtlich organisiert.\nVeranstalter: Rock am Ber
- g Münster\nQuelle: https://www.rockamberg-ms.de/
+DESCRIPTION:Das siebte Rock am Berg Festival findet in den Rieselfeldern vo
+ n Münster statt. Alle Bands spielen ohne Gage\, das Festival ist gemeinnüt
+ zig und ehrenamtlich organisiert. Für Speisen und Getränke ist gesorgt.\nV
+ eranstalter: Rock am Berg Münster\nQuelle: https://www.rockamberg-ms.de/
 URL:https://www.rockamberg-ms.de/
 CATEGORIES:Musik / Konzert / Stadtteil
 STATUS:CONFIRMED
