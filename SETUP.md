@@ -14,8 +14,8 @@
    git remote add origin https://github.com/<USER>/coerde-events.git
    git push -u origin main
    ```
-3. In README, LICENSE und docs/schema.json `<USER>` bzw. `USER` durch deinen
-   GitHub-Namen ersetzen.
+3. In README, LICENSE und docs/schema.json den GitHub-Namen `Coerdeevents`
+   durch deinen eigenen ersetzen.
 
 ## Teil B — GitHub Personal Access Token
 

@@ -1,9 +1,9 @@
 # Coerde Events – Offener Veranstaltungskalender für Münster-Coerde
 
 Ein automatisch gepflegter, offener Datensatz öffentlicher Veranstaltungen im
-Münsteraner Stadtteil **Coerde**. Die Daten werden aus rund 19 lokalen Quellen
-(Vereine, Kirchengemeinden, Bildungseinrichtungen, Stadtteilinitiativen)
-zusammengeführt, normalisiert und hier als **Open Data** bereitgestellt – ohne
+Münsteraner Stadtteil **Coerde**. Die Daten werden aus mehr als einem Dutzend lokaler
+Quellen (Vereine, Kirchengemeinden, Bildungseinrichtungen,
+Stadtteilinitiativen) zusammengeführt, normalisiert und hier als **Open Data** bereitgestellt – ohne
 Zugangsdaten, frei nutzbar, maschinenlesbar.
 
 ## Was ist das?
@@ -13,6 +13,9 @@ und für Bürgerinnen und Bürger schwer auffindbar. Dieses Projekt aggregiert s
 an einer Stelle und stellt sie in offenen Formaten zur Verfügung – als
 Datengrundlage für Kalender-Apps, Stadtteilportale, Karten und Weiterverwendung
 durch andere Projekte.
+
+Die Daten speisen unter anderem den Stadtteilkalender
+[termine.coerde.de](https://termine.coerde.de).
 
 Das Projekt ist als **Modellprojekt** angelegt: Der Ansatz ist auf jeden anderen
 Stadtteil und jede andere Kommune übertragbar. Quell-Liste austauschen, fertig.
@@ -27,18 +30,23 @@ aktualisiert.
 | [`data/events.json`](./data/events.json) | JSON | Maschinenlesbar, für Anwendungen und APIs |
 | [`data/events.csv`](./data/events.csv) | CSV | Tabellenkalkulation, einfache Weiterverarbeitung |
 | [`data/events.ics`](./data/events.ics) | iCalendar | Direkt in Kalender-Apps abonnierbar |
-| [`data/events.geojson`](./data/events.geojson) | GeoJSON | Darstellung auf Karten (sofern Koordinaten vorhanden) |
+| [`data/events.geojson`](./data/events.geojson) | GeoJSON | Darstellung auf Karten – derzeit leer, da die Quellen keine Koordinaten liefern |
 
 ### Kalender abonnieren
 
 Die `events.ics` lässt sich direkt in Google Calendar, Apple Kalender, Outlook
-oder Thunderbird abonnieren. Abo-URL (nach Veröffentlichung über GitHub anpassen):
+oder Thunderbird abonnieren. Abo-URL:
 
 ```
-https://raw.githubusercontent.com/<Coerdeevents>/coerde-events/main/data/events.ics
+https://raw.githubusercontent.com/Coerdeevents/coerde-events/main/data/events.ics
 ```
 
 ## Datenschema
+
+`events.json` enthält auf oberster Ebene die Metadaten `dataset`,
+`description`, `license`, `generated_at` (Zeitpunkt der Erzeugung) und
+`event_count` sowie die Liste `events`. Eine maschinenlesbare Fassung liegt als
+JSON Schema in [`docs/schema.json`](./docs/schema.json).
 
 Jedes Event in `events.json` folgt diesem Schema:
 
@@ -48,18 +56,19 @@ Jedes Event in `events.json` folgt diesem Schema:
 | `title` | string | Titel der Veranstaltung |
 | `start_date` | string (`YYYY-MM-DD`) | Startdatum |
 | `start_time` | string (`HH:MM`) \| null | Startuhrzeit, falls bekannt |
-| `end_date` | string (`YYYY-MM-DD`) \| null | Enddatum, nur bei mehrtägigen Terminen |
+| `end_date` | string (`YYYY-MM-DD`) | Enddatum; bei eintägigen Terminen gleich dem Startdatum |
 | `end_time` | string (`HH:MM`) \| null | Enduhrzeit, falls bekannt |
 | `location_name` | string | Veranstaltungsort (Name) |
-| `address` | string | Adresse |
-| `city` | string | Ort (i.d.R. Münster / Münster-Coerde) |
+| `address` | string | Adresse; leer, falls die Quelle keine nennt |
+| `city` | string | Ort (i.d.R. Münster-Coerde) |
 | `organizer` | string | Veranstalter |
-| `category` | string | Themen-/Kategorie-Zuordnung |
-| `short_description` | string | Neutrale Kurzbeschreibung (max. 300 Zeichen) |
+| `category` | string | Themen-/Kategorie-Zuordnung; kann leer sein |
+| `short_description` | string | Kurzbeschreibung (max. 500 Zeichen) |
 | `status` | string | `scheduled`, `cancelled`, `postponed`, `unknown` |
-| `date_precision` | string | `day` (tagesgenau), `month` (nur Monat bekannt), `unknown` |
 | `source_name` | string | Name der Originalquelle |
 | `source_url` | string | URL der Originalquelle |
+| `source_id` | string | Technische Kennung der Quelle, z. B. `stadt_munster_veranstaltungskalender` |
+| `confidence` | string | Verlässlichkeit des Eintrags zwischen 0 und 1, als Text mit Dezimalkomma (z. B. `0,9`) |
 | `last_updated` | string (ISO 8601) | Zeitpunkt der letzten Aktualisierung |
 | `series_id` | string | Serien-ID; bei allen Terminen derselben Serie gleich und über Läufe hinweg stabil. Leer = Einzeltermin |
 | `series_type` | string | `weekly`, `biweekly`, `monthly`, `block` (dicht aufeinanderfolgende Tage, z. B. Vorstellungsreihe, Ferienkurs), `irregular` oder leer |
@@ -67,9 +76,9 @@ Jedes Event in `events.json` folgt diesem Schema:
 | `series_label` | string | Lesbare Beschreibung, z. B. `wöchentlich, freitags` oder `monatlich, jeden 3. Freitag` |
 | `series_count` | number \| null | Anzahl der Termine dieser Serie im aktuellen Datensatz |
 
-Termine mit `date_precision` ungleich `day` oder `status` ungleich `scheduled`
-sind als unsicher gekennzeichnet und sollten von Anwendungen entsprechend
-behandelt werden.
+Termine mit `status` ungleich `scheduled` sollten von Anwendungen entsprechend
+behandelt werden. `events.csv` enthält dieselben Felder ohne
+`short_description`, `source_id` und `confidence`.
 
 ### Serientermine
 
