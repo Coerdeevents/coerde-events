@@ -103,8 +103,10 @@ RFC 5545 als Text maskiert (Komma als `\,`).
 
 ## Aktualisierung
 
-Die Daten werden automatisiert über einen [n8n](https://n8n.io)-Workflow gepflegt,
-der die Quellen regelmäßig abruft, normalisiert und in dieses Repository schreibt.
+Die Daten werden automatisiert über [n8n](https://n8n.io)-Workflows gepflegt,
+die die Quellen regelmäßig abrufen, normalisieren und in dieses Repository
+schreiben. Die Workflows liegen als bereinigte Exporte im Ordner
+[`workflows/`](./workflows) und lassen sich für andere Stadtteile anpassen.
 Das Feld `generated_at` in `data/events.json` nennt den Stand der letzten
 Aktualisierung.
 
@@ -123,8 +125,8 @@ Die in diesem Repository bereitgestellten **Daten** stehen unter
 Du darfst sie frei nutzen, teilen und weiterverarbeiten, solange du die Quelle
 nennst. Siehe [`LICENSE`](./LICENSE).
 
-Der **Programmcode** (sofern in diesem Repository enthalten) steht unter der
-MIT-Lizenz, siehe [`LICENSE-CODE`](./LICENSE-CODE).
+Der **Programmcode** (die n8n-Workflows im Ordner [`workflows/`](./workflows))
+steht unter der MIT-Lizenz, siehe [`LICENSE-CODE`](./LICENSE-CODE).
 
 ## Mitmachen / Kontakt
 

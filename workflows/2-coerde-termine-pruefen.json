@@ -1,0 +1,574 @@
+{
+  "name": "2. Coerde Termine prüfen",
+  "nodes": [
+    {
+      "parameters": {},
+      "id": "52daa302-9a55-4a37-bb58-de769ba322a6",
+      "name": "Manual Trigger",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        0,
+        144
+      ]
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "weeks",
+              "triggerAtDay": [
+                1,
+                2,
+                3,
+                4,
+                5
+              ],
+              "triggerAtHour": 20,
+              "triggerAtMinute": 15
+            }
+          ]
+        }
+      },
+      "id": "ee89c32c-eb4e-476f-a7ee-6097783f23e6",
+      "name": "Daily Schedule Trigger",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        0,
+        0
+      ],
+      "notes": "Optionaler spaeterer Tageslauf. Fuer Tests bleibt der Manual Trigger massgeblich."
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "value": "YOUR_GOOGLE_SHEET_ID",
+          "mode": "list",
+          "cachedResultName": "Coerde Veranstaltungen Review",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/YOUR_GOOGLE_SHEET_ID/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": 1667935995,
+          "mode": "list",
+          "cachedResultName": "events_review",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/YOUR_GOOGLE_SHEET_ID/edit#gid=1667935995"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        256,
+        144
+      ],
+      "id": "4c89d323-fddf-4afe-badd-f36cbd9666ef",
+      "name": "Read events_review",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "REPLACE_WITH_YOUR_CREDENTIAL_ID",
+          "name": "Google Sheets account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// ============================================================================\n// Node:    „Prepare Current Rows“ (Workflow „2. Coerde Termine prüfen“)\n// Stand:   06.11.2026\n//\n// Änderung gegenüber der bisherigen Fassung:\n//   Die feste Obergrenze „heute + 6 Monate“ wurde hier entfernt. Dieser Node\n//   filtert nur noch vergangene Termine und publish = nein heraus und entfernt\n//   Dubletten. Die 6-Monats-Grenze gilt ab jetzt NUR für regelmäßige\n//   Serientermine und wird im nachfolgenden Node „Serientermine kennzeichnen“\n//   angewendet – erst dort ist bekannt, welcher Termin zu einer Serie gehört.\n//   Einzeltermine, Mehrtagesveranstaltungen und Aufführungsreihen bleiben\n//   ohne Obergrenze stehen (Workflow 1 liefert höchstens 12 Monate voraus).\n// ============================================================================\n\nconst inputItems = $input.all();\n\nfunction clean(value) {\n  if (value === null || value === undefined) return '';\n  return String(value).replace(/\\s+/g, ' ').trim();\n}\n\nfunction normalizeText(value) {\n  return clean(value)\n    .toLowerCase()\n    .replace(/ß/g, 'ss')\n    .normalize('NFKD')\n    .replace(/[\\u0300-\\u036f]/g, '')\n    .replace(/[’'`´]/g, '')\n    .replace(/&/g, ' und ')\n    .replace(/[^a-z0-9äöüÄÖÜ\\s-]/gi, ' ')\n    .replace(/\\s+/g, ' ')\n    .trim();\n}\n\nfunction getField(row, names) {\n  for (const name of names) {\n    if (row[name] !== undefined && row[name] !== null && clean(row[name]) !== '') {\n      return row[name];\n    }\n  }\n\n  const rowKeys = Object.keys(row);\n  for (const name of names) {\n    const wanted = normalizeText(name);\n    const foundKey = rowKeys.find(k => normalizeText(k) === wanted);\n    if (foundKey && clean(row[foundKey]) !== '') {\n      return row[foundKey];\n    }\n  }\n\n  return '';\n}\n\nfunction normalizeUrl(value) {\n  let url = clean(value);\n\n  if (!url) return '';\n\n  if (url.startsWith('www.')) {\n    url = `https://${url}`;\n  }\n\n  if (!/^https?:\\/\\//i.test(url)) {\n    return '';\n  }\n\n  return url;\n}\n\nfunction formatIsoDate(date) {\n  return date.toISOString().slice(0, 10);\n}\n\nfunction todayIsoEuropeBerlin() {\n  const parts = new Intl.DateTimeFormat('en-CA', {\n    timeZone: 'Europe/Berlin',\n    year: 'numeric',\n    month: '2-digit',\n    day: '2-digit',\n  }).formatToParts(new Date());\n\n  const map = {};\n  for (const part of parts) {\n    map[part.type] = part.value;\n  }\n\n  return `${map.year}-${map.month}-${map.day}`;\n}\n\nfunction addMonthsIso(isoDate, months) {\n  const [year, month, day] = isoDate.split('-').map(Number);\n  const date = new Date(Date.UTC(year, month - 1, day));\n  date.setUTCMonth(date.getUTCMonth() + months);\n  return formatIsoDate(date);\n}\n\nfunction parseIsoDate(value) {\n  const text = clean(value);\n  const match = text.match(/(\\d{4})-(\\d{2})-(\\d{2})/);\n  if (!match) return null;\n  return `${match[1]}-${match[2]}-${match[3]}`;\n}\n\nfunction parseGermanDate(value) {\n  const text = clean(value);\n  const match = text.match(/(\\d{1,2})\\.(\\d{1,2})\\.(\\d{2,4})/);\n  if (!match) return null;\n\n  const day = String(match[1]).padStart(2, '0');\n  const month = String(match[2]).padStart(2, '0');\n  let year = String(match[3]);\n\n  if (year.length === 2) {\n    year = `20${year}`;\n  }\n\n  return `${year}-${month}-${day}`;\n}\n\nfunction extractDateRange(value) {\n  const text = clean(value);\n\n  const isoMatches = [...text.matchAll(/(\\d{4})-(\\d{2})-(\\d{2})/g)];\n  if (isoMatches.length > 0) {\n    return {\n      start: `${isoMatches[0][1]}-${isoMatches[0][2]}-${isoMatches[0][3]}`,\n      end: isoMatches.length > 1\n        ? `${isoMatches[1][1]}-${isoMatches[1][2]}-${isoMatches[1][3]}`\n        : null,\n    };\n  }\n\n  const germanMatches = [...text.matchAll(/(\\d{1,2})\\.(\\d{1,2})\\.(\\d{2,4})/g)];\n  if (germanMatches.length > 0) {\n    return {\n      start: parseGermanDate(germanMatches[0][0]),\n      end: germanMatches.length > 1 ? parseGermanDate(germanMatches[1][0]) : null,\n    };\n  }\n\n  return { start: null, end: null };\n}\n\nfunction parseDateFromEventId(eventId) {\n  const match = clean(eventId).match(/^(\\d{4}-\\d{2}-\\d{2})/);\n  return match ? match[1] : null;\n}\n\nfunction parseTimeFromEventId(eventId) {\n  const match = clean(eventId).match(/^\\d{4}-\\d{2}-\\d{2}[_\\s-]+(\\d{2}:\\d{2})/);\n  return match ? match[1] : null;\n}\n\nfunction parseTimes(value) {\n  const text = clean(value)\n    .replace(/[–—]/g, '-')\n    .replace(/Uhr/gi, '')\n    .replace(/\\s+/g, ' ')\n    .trim();\n\n  const matches = [...text.matchAll(/(\\d{1,2})[:.](\\d{2})/g)]\n    .map(m => `${String(m[1]).padStart(2, '0')}:${m[2]}`);\n\n  return {\n    start: matches[0] || null,\n    end: matches[1] || null,\n  };\n}\n\nfunction formatGermanDate(isoDate) {\n  if (!isoDate) return '';\n  const [year, month, day] = isoDate.split('-');\n  return `${day}.${month}.${year}`;\n}\n\nfunction makeSlug(value) {\n  return normalizeText(value)\n    .replace(/\\s+/g, '_')\n    .replace(/-+/g, '_')\n    .replace(/_+/g, '_')\n    .replace(/^_|_$/g, '')\n    .slice(0, 90);\n}\n\nconst SOURCE_DEFAULTS = [\n  {\n    match: ['kulturinitiative_coerde', 'kulturinitiative coerde', 'kultur-coerde.de'],\n    source_id: 'kulturinitiative_coerde',\n    source_name: 'Kulturinitiative Coerde',\n    url: 'https://kulturinitiative-coerde.de/',\n    venue: null,\n    address: null,\n    city: 'Münster-Coerde',\n    organizer: 'Kulturinitiative Coerde e.V.',\n    category: 'Kultur / Stadtteil / Ehrenamt',\n  },\n  {\n    match: ['meerwiese theater', 'stuecke-und-termine', 'stücke-und-termine', 'stadt-muenster.de/meerwiese/theater'],\n    source_id: 'meerwiese_theater',\n    source_name: 'Begegnungszentrum Meerwiese – Stücke und Termine',\n    url: 'https://www.stadt-muenster.de/meerwiese/theater/stuecke-und-termine',\n    venue: 'Begegnungszentrum Meerwiese',\n    address: 'An der Meerwiese 25',\n    city: '48157 Münster-Coerde',\n    organizer: null,\n    category: 'Theater / Kultur / Tanz / Kinderkultur',\n  },\n  {\n    match: ['meerwiese begegnungszentrum', 'begegnungszentrum veranstaltungen', 'stadt-muenster.de/meerwiese/begegnungszentrum'],\n    source_id: 'meerwiese_begegnungszentrum',\n    source_name: 'Begegnungszentrum Meerwiese – Veranstaltungen',\n    url: 'https://www.stadt-muenster.de/meerwiese/begegnungszentrum/veranstaltungen',\n    venue: 'Begegnungszentrum Meerwiese',\n    address: 'An der Meerwiese 25',\n    city: '48157 Münster-Coerde',\n    organizer: null,\n    category: 'Stadtteil / Begegnung / Kultur',\n  },\n  {\n    match: ['stadtbuecherei coerde', 'stadtbücherei coerde', 'buecherei/orte-und-oeffnungszeiten/coerde'],\n    source_id: 'stadtbuecherei_coerde',\n    source_name: 'Stadtbücherei Coerde',\n    url: 'https://www.stadt-muenster.de/buecherei/orte-und-oeffnungszeiten/coerde/veranstaltungen',\n    venue: 'Stadtbücherei Coerde',\n    address: null,\n    city: 'Münster-Coerde',\n    organizer: 'Stadtbücherei Münster',\n    category: 'Lesung / Bildung / Stadtteil',\n  },\n  {\n    match: ['awo_coerde_mittendrin', 'awo coerde mittendrin', 'awo-msl-re.de/einrichtung/coerde-mittendrin'],\n    source_id: 'awo_coerde_mittendrin',\n    source_name: 'AWO Coerde mittendrin',\n    url: 'https://www.awo-msl-re.de/einrichtung/coerde-mittendrin',\n    venue: 'AWO Coerde mittendrin',\n    address: 'Königsberger Straße 8',\n    city: 'Münster-Coerde',\n    organizer: null,\n    category: 'Stadtteil / Begegnung / Beratung',\n  },\n  {\n    match: ['eckels_kladde', 'eckels kladde', 'eckels-kladde.de'],\n    source_id: 'eckels_kladde',\n    source_name: 'Eckels Kladde',\n    url: 'https://www.eckels-kladde.de/collections/alle-kurse-und-events-in-munster',\n    venue: 'Eckels Kladde',\n    address: 'Coermühle 50f',\n    city: 'Münster-Coerde',\n    organizer: 'Hofgemeinschaft Haus Coerde',\n    category: 'Kultur / Musik / Stadtteil',\n  },\n  {\n    match: ['mot_treff_kotten', 'mot-treff-kotten', 'mot treff kotten'],\n    source_id: 'mot_treff_kotten',\n    source_name: 'Mot-Treff-Kotten e.V.',\n    url: 'https://www.mot-treff-kotten.de/programm',\n    venue: 'Mot-Treff-Kotten e.V.',\n    address: 'Coerder Liekweg 80',\n    city: '48157 Münster-Coerde',\n    organizer: 'Mot-Treff-Kotten e.V.',\n    category: 'Jugend / Motorsport / Stadtteil',\n  },\n  {\n    match: ['rock_am_berg', 'rock am berg', 'rockamberg-ms.de'],\n    source_id: 'rock_am_berg',\n    source_name: 'Rock am Berg',\n    url: 'https://www.rockamberg-ms.de/',\n    venue: null,\n    address: null,\n    city: 'Münster-Coerde',\n    organizer: 'Rock am Berg',\n    category: 'Musik / Konzert / Stadtteil',\n  },\n  {\n    match: ['iriba_brunnen', 'iriba-brunnen', 'iriba brunnen'],\n    source_id: 'iriba_brunnen',\n    source_name: 'Iriba-Brunnen e.V.',\n    url: 'https://www.iriba-brunnen.de/termine/',\n    venue: null,\n    address: null,\n    city: 'Münster-Coerde',\n    organizer: 'Iriba-Brunnen e.V.',\n    category: 'Stadtteil / Begegnung / Beratung',\n  },\n  {\n    match: ['coerde_engagiert', 'coerde-engagiert', 'coerde engagiert'],\n    source_id: 'coerde_engagiert',\n    source_name: 'coerde-engagiert',\n    url: 'https://www.coerde-engagiert.de/de/veranstaltungen/',\n    venue: null,\n    address: null,\n    city: 'Münster-Coerde',\n    organizer: 'coerde-engagiert',\n    category: 'Stadtteil / Engagement',\n  },\n  {\n    match: ['ev_fabi_coerde', 'ev fabi', 'ev-fabi-ms.de'],\n    source_id: 'ev_fabi_coerde',\n    source_name: 'Ev. Familienbildungsstätte Münster – Coerde',\n    url: 'https://www.ev-fabi-ms.de/programm/fabi-vor-ort/kategorie/Coerde/23',\n    venue: null,\n    address: null,\n    city: 'Münster-Coerde',\n    organizer: 'Ev. Familienbildungsstätte Münster',\n    category: 'Bildung / Familie / Stadtteil',\n  },\n  {\n    match: ['coerde_ist_bunt', 'coerde ist bunt', 'coerde-ist-bunt.de'],\n    source_id: 'coerde_ist_bunt',\n    source_name: 'Coerde ist bunt',\n    url: 'https://coerde-ist-bunt.de/termine/',\n    venue: null,\n    address: null,\n    city: 'Münster-Coerde',\n    organizer: 'Coerde ist bunt',\n    category: 'Stadtteil / Demokratie / Begegnung',\n  },\n];\n\nfunction inferSourceId(row) {\n  const explicit = clean(getField(row, ['source_id', 'sourceId', 'Source ID']));\n  if (explicit) return makeSlug(explicit);\n\n  const haystack = normalizeText([\n    getField(row, ['Quelle', 'source_name', 'sourceName']),\n    getField(row, ['URL', 'url', 'source_url', 'sourceUrl']),\n    getField(row, ['Veranstalter', 'organizer']),\n    getField(row, ['Veranstaltungsort', 'venue']),\n    getField(row, ['event_id', 'Event ID']),\n  ].join(' '));\n\n  const found = SOURCE_DEFAULTS.find(source =>\n    source.match.some(term => haystack.includes(normalizeText(term)))\n  );\n\n  return found ? found.source_id : '';\n}\n\nfunction getSourceDefaults(row, sourceId) {\n  const haystack = normalizeText([\n    sourceId,\n    getField(row, ['Quelle', 'source_name', 'sourceName']),\n    getField(row, ['URL', 'url', 'source_url', 'sourceUrl']),\n    getField(row, ['Veranstalter', 'organizer']),\n    getField(row, ['Veranstaltungsort', 'venue']),\n    getField(row, ['event_id', 'Event ID']),\n  ].join(' '));\n\n  return SOURCE_DEFAULTS.find(source =>\n    source.match.some(term => haystack.includes(normalizeText(term)))\n  ) || null;\n}\n\nfunction normalizeCategory(rawCategory, title, description, sourceId) {\n  const raw = normalizeText(rawCategory);\n  const text = normalizeText(`${title} ${description}`);\n  const sid = normalizeText(sourceId);\n\n  if (sid.includes('mot_treff_kotten')) {\n    if (text.includes('musik') || text.includes('lagerfeuer') || text.includes('dusty trails') || text.includes('bloody')) {\n      return 'Musik / Motorsport / Stadtteil';\n    }\n    if (text.includes('korso') || text.includes('ausfahrt') || text.includes('o fahrt') || text.includes('geo caching')) {\n      return 'Motorsport / Ausfahrt';\n    }\n    if (text.includes('sicherheit') || text.includes('erste hilfe') || text.includes('technik')) {\n      return 'Workshop / Sicherheit / Motorsport';\n    }\n    if (text.includes('trial')) {\n      return 'Trial / Motorsport';\n    }\n    if (text.includes('fruehstueck') || text.includes('frühstück') || text.includes('mittagessen')) {\n      return 'Verpflegung / Motorsport';\n    }\n    return 'Jugend / Motorsport / Stadtteil';\n  }\n\n  if (!raw) {\n    if (text.includes('konzert') || text.includes('musik')) return 'Musik / Konzert';\n    if (text.includes('workshop')) return 'Workshop / Kurs';\n    if (text.includes('seminar')) return 'Seminar / Bildung';\n    if (text.includes('theater')) return 'Theater / Kultur';\n    return 'Veranstaltung';\n  }\n\n  const directMappings = [\n    { keys: ['performance', 'musik', 'music', 'live musik'], value: 'Musik / Kultur' },\n    { keys: ['concert', 'konzert'], value: 'Musik / Konzert' },\n    { keys: ['workshop', 'kurs'], value: 'Workshop / Kurs' },\n    { keys: ['seminar'], value: 'Seminar / Bildung' },\n    { keys: ['civic activity', 'civic'], value: 'Stadtteil / Begegnung' },\n    { keys: ['cultural activity', 'cultural'], value: 'Kultur / Stadtteil' },\n    { keys: ['cultural festival', 'festival'], value: 'Kulturfestival / Stadtteil' },\n    { keys: ['theaterstuck', 'theaterstück', 'theatre', 'theater'], value: 'Theater / Kultur / Kinderkultur' },\n    { keys: ['dance', 'tanz'], value: 'Tanz / Kultur' },\n    { keys: ['lesung', 'vorlese'], value: 'Lesung / Kultur' },\n    { keys: ['beratung'], value: 'Stadtteil / Begegnung / Beratung' },\n    { keys: ['bildung'], value: 'Bildung / Stadtteil' },\n  ];\n\n  const found = directMappings.find(mapping =>\n    mapping.keys.some(key => raw.includes(normalizeText(key)))\n  );\n\n  if (found) return found.value;\n\n  return clean(rawCategory);\n}\n\nfunction canonicalTitle(title, description) {\n  const text = normalizeText(`${title} ${description}`);\n\n  if (\n    text.includes('vorlese cafe') &&\n    (\n      text.includes('chinesisch') ||\n      text.includes('deutsch') ||\n      text.includes('huang') ||\n      text.includes('sohnes grosse puppe') ||\n      text.includes('mai')\n    )\n  ) {\n    return 'vorlese_cafe_chinesisch_deutsch';\n  }\n\n  if (text.includes('coerdinale')) {\n    return 'coerdinale';\n  }\n\n  return normalizeText(title)\n    .replace(/\\bjeden\\b/g, '')\n    .replace(/\\bfreitag\\b/g, '')\n    .replace(/\\bsamstag\\b/g, '')\n    .replace(/\\bsonntag\\b/g, '')\n    .replace(/\\bopen class\\b/g, '')\n    .replace(/\\s+/g, ' ')\n    .trim();\n}\n\nfunction normalizeOrganizer(value) {\n  return normalizeText(value)\n    .replace(/\\bev\\b/g, '')\n    .replace(/\\be v\\b/g, '')\n    .replace(/\\bgmbh\\b/g, '')\n    .replace(/\\s+/g, ' ')\n    .trim();\n}\n\nfunction dedupeKey(row) {\n  const titleKey = canonicalTitle(row.Titel, row.Kurzbeschreibung);\n  const organizerKey = normalizeOrganizer(row.Veranstalter);\n  const venueKey = normalizeText(row.Veranstaltungsort || row.Adresse || row.Ort);\n\n  return [\n    row.date_start,\n    row.time_start || '',\n    titleKey,\n    organizerKey || venueKey,\n  ].join('|');\n}\n\nfunction hasGermanCategory(category) {\n  const value = clean(category);\n  if (!value) return false;\n  return /[äöüÄÖÜ]|\\s\\/\\s|Kultur|Stadtteil|Theater|Musik|Beratung|Bildung|Workshop|Seminar|Konzert|Lesung|Tanz|Motorsport/.test(value);\n}\n\nfunction rowScore(row) {\n  let score = 0;\n\n  if (row.URL) score += 20;\n  if (row.Quelle) score += 8;\n  if (hasGermanCategory(row.Kategorie)) score += 6;\n  if (row.Kurzbeschreibung) score += Math.min(row.Kurzbeschreibung.length / 40, 8);\n  if (row.Veranstaltungsort) score += 3;\n  if (row.Adresse) score += 2;\n  if (row.Veranstalter) score += 2;\n\n  const url = normalizeText(row.URL);\n  if (url.includes('kultur-coerde')) score += 3;\n  if (url.includes('stadt-muenster')) score += 2;\n  if (url.includes('awo-msl-re')) score += 2;\n\n  return score;\n}\n\nfunction buildNormalizedRow(row) {\n  const sourceId = inferSourceId(row);\n  const defaults = getSourceDefaults(row, sourceId);\n\n  const eventIdRaw = clean(getField(row, ['event_id', 'Event ID', 'id']));\n\n  const dateStartRaw = getField(row, ['date_start', 'dateStart', 'Date Start']);\n  const dateEndRaw = getField(row, ['date_end', 'dateEnd', 'Date End']);\n  const datumRaw = getField(row, ['Datum', 'date', 'datum']);\n\n  const dateRangeFromDatum = extractDateRange(datumRaw);\n\n  const date_start =\n    parseIsoDate(dateStartRaw) ||\n    parseGermanDate(dateStartRaw) ||\n    dateRangeFromDatum.start ||\n    parseDateFromEventId(eventIdRaw);\n\n  const date_end =\n    parseIsoDate(dateEndRaw) ||\n    parseGermanDate(dateEndRaw) ||\n    dateRangeFromDatum.end ||\n    date_start;\n\n  const timeRaw = getField(row, ['Uhrzeit', 'time', 'Time']);\n  const times = parseTimes(timeRaw);\n\n  const time_start =\n    clean(getField(row, ['time_start', 'timeStart', 'Time Start'])) ||\n    times.start ||\n    parseTimeFromEventId(eventIdRaw) ||\n    null;\n\n  const time_end =\n    clean(getField(row, ['time_end', 'timeEnd', 'Time End'])) ||\n    times.end ||\n    null;\n\n  const title = clean(getField(row, ['Titel', 'title', 'Title']));\n  const description = clean(getField(row, ['Kurzbeschreibung', 'description_short', 'descriptionShort', 'Description']));\n\n  let url =\n    normalizeUrl(getField(row, ['URL', 'url', 'source_url', 'sourceUrl'])) ||\n    (defaults ? defaults.url : '');\n\n  let sourceName =\n    clean(getField(row, ['Quelle', 'source_name', 'sourceName', 'Source Name'])) ||\n    (defaults ? defaults.source_name : '');\n\n  let venue =\n    clean(getField(row, ['Veranstaltungsort', 'venue', 'Venue'])) ||\n    (defaults && defaults.venue ? defaults.venue : '');\n\n  let address =\n    clean(getField(row, ['Adresse', 'address', 'Address'])) ||\n    (defaults && defaults.address ? defaults.address : '');\n\n  if (\n    defaults &&\n    defaults.address &&\n    address &&\n    normalizeText(defaults.address).startsWith(normalizeText(address)) &&\n    defaults.address.length > address.length\n  ) {\n    address = defaults.address;\n  }\n\n  let city =\n    clean(getField(row, ['Ort', 'city', 'City'])) ||\n    (defaults && defaults.city ? defaults.city : '');\n\n  let organizer =\n    clean(getField(row, ['Veranstalter', 'organizer', 'Organizer'])) ||\n    (defaults && defaults.organizer ? defaults.organizer : '');\n\n  let categoryRaw =\n    clean(getField(row, ['Kategorie', 'category', 'Category'])) ||\n    (defaults && defaults.category ? defaults.category : '');\n\n  const category = normalizeCategory(categoryRaw, title, description, sourceId);\n\n  let confidenceRaw = clean(getField(row, ['confidence', 'Confidence', 'Konfidenz']));\n  confidenceRaw = confidenceRaw.replace(',', '.');\n  const confidence = Number.isFinite(Number(confidenceRaw)) ? Number(confidenceRaw) : 0.9;\n\n  const notes = clean(getField(row, [\n    'Hinweise_Prüfstatus',\n    'Hinweise',\n    'extraction_notes',\n    'notes',\n  ]));\n\n  const event_id = eventIdRaw || [\n    date_start,\n    time_start || '00:00',\n    makeSlug(title),\n    sourceId || makeSlug(sourceName),\n  ].filter(Boolean).join('_');\n\n  const sort_key = `${date_start || '9999-12-31'} ${time_start || '00:00'}`;\n\n  const datum =\n    date_start && date_end && date_start !== date_end\n      ? `${formatGermanDate(date_start)}–${formatGermanDate(date_end)}`\n      : formatGermanDate(date_start);\n\n  const uhrzeit =\n    time_start && time_end\n      ? `${time_start}–${time_end}`\n      : (time_start || '');\n\n  return {\n    event_id,\n    sort_key,\n    Datum: datum,\n    Uhrzeit: uhrzeit,\n    Titel: title,\n    Veranstaltungsort: venue,\n    Adresse: address,\n    Ort: city,\n    Veranstalter: organizer,\n    Kategorie: category,\n    Kurzbeschreibung: description,\n    Quelle: sourceName,\n    URL: url,\n    confidence,\n    Hinweise_Prüfstatus: notes,\n    publish: clean(getField(row, ['publish', 'Publish'])),\n    date_start,\n    date_end,\n    time_start,\n    time_end,\n    source_id: sourceId || (defaults ? defaults.source_id : ''),\n  };\n}\n\nconst todayIso = todayIsoEuropeBerlin();\n// Keine Obergrenze mehr – siehe Kopfkommentar. Die 6-Monats-Grenze für\n// Serientermine setzt „Serientermine kennzeichnen“.\n\nconst normalizedRows = [];\n\nfor (const item of inputItems) {\n  const row = item.json || {};\n  const publishValue = normalizeText(getField(row, ['publish', 'Publish']));\n\n  if (['nein', 'no', 'false', '0', 'n'].includes(publishValue)) {\n    continue;\n  }\n\n  const normalized = buildNormalizedRow(row);\n\n  if (!normalized.Titel || !normalized.date_start) {\n    continue;\n  }\n\n  const endDate = normalized.date_end || normalized.date_start;\n\n  if (endDate < todayIso) {\n    continue;\n  }\n\n  normalizedRows.push(normalized);\n}\n\nconst deduped = new Map();\n\nfor (const row of normalizedRows) {\n  const key = dedupeKey(row);\n\n  if (!deduped.has(key)) {\n    deduped.set(key, row);\n    continue;\n  }\n\n  const existing = deduped.get(key);\n  if (rowScore(row) > rowScore(existing)) {\n    deduped.set(key, row);\n  }\n}\n\nconst outputRows = [...deduped.values()]\n  .sort((a, b) => {\n    const sortA = `${a.date_start || '9999-12-31'} ${a.time_start || '00:00'} ${normalizeText(a.Titel)}`;\n    const sortB = `${b.date_start || '9999-12-31'} ${b.time_start || '00:00'} ${normalizeText(b.Titel)}`;\n    return sortA.localeCompare(sortB, 'de');\n  })\n  .map(row => {\n    return {\n      json: {\n        event_id: row.event_id,\n        sort_key: row.sort_key,\n        Datum: row.Datum,\n        Uhrzeit: row.Uhrzeit,\n        Titel: row.Titel,\n        Veranstaltungsort: row.Veranstaltungsort,\n        Adresse: row.Adresse,\n        Ort: row.Ort,\n        Veranstalter: row.Veranstalter,\n        Kategorie: row.Kategorie,\n        Kurzbeschreibung: row.Kurzbeschreibung,\n        Quelle: row.Quelle,\n        URL: row.URL,\n        confidence: row.confidence,\n        Hinweise_Prüfstatus: row.Hinweise_Prüfstatus,\n        publish: row.publish,\n        date_start: row.date_start,\n        date_end: row.date_end,\n        time_start: row.time_start,\n        time_end: row.time_end,\n        source_id: row.source_id,\n      },\n    };\n  });\n\nreturn outputRows;"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        464,
+        144
+      ],
+      "id": "35aa112a-34f0-498b-bec3-3ce6366672b4",
+      "name": "Prepare Current Rows"
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "value": "YOUR_GOOGLE_SHEET_ID",
+          "mode": "list",
+          "cachedResultName": "Coerde Veranstaltungen Review",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/YOUR_GOOGLE_SHEET_ID/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": 1736912635,
+          "mode": "list",
+          "cachedResultName": "events_current",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/YOUR_GOOGLE_SHEET_ID/edit#gid=1736912635"
+        },
+        "columns": {
+          "mappingMode": "autoMapInputData",
+          "value": {},
+          "matchingColumns": [],
+          "schema": [
+            {
+              "id": "event_id",
+              "displayName": "event_id",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "sort_key",
+              "displayName": "sort_key",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Datum",
+              "displayName": "Datum",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Uhrzeit",
+              "displayName": "Uhrzeit",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Titel",
+              "displayName": "Titel",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Veranstaltungsort",
+              "displayName": "Veranstaltungsort",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Adresse",
+              "displayName": "Adresse",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Ort",
+              "displayName": "Ort",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Veranstalter",
+              "displayName": "Veranstalter",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Kategorie",
+              "displayName": "Kategorie",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Kurzbeschreibung",
+              "displayName": "Kurzbeschreibung",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Quelle",
+              "displayName": "Quelle",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "URL",
+              "displayName": "URL",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "confidence",
+              "displayName": "confidence",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Hinweise_Prüfstatus",
+              "displayName": "Hinweise_Prüfstatus",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "publish",
+              "displayName": "publish",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "date_start",
+              "displayName": "date_start",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "date_end",
+              "displayName": "date_end",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "time_start",
+              "displayName": "time_start",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "time_end",
+              "displayName": "time_end",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "source_id",
+              "displayName": "source_id",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "series_id",
+              "displayName": "series_id",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "series_type",
+              "displayName": "series_type",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "is_recurring",
+              "displayName": "is_recurring",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "series_label",
+              "displayName": "series_label",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "series_count",
+              "displayName": "series_count",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        1408,
+        128
+      ],
+      "id": "83e49f68-0dfa-4839-9d15-0098f7eb4556",
+      "name": "Append to events_current",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "REPLACE_WITH_YOUR_CREDENTIAL_ID",
+          "name": "Google Sheets account 2"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "clear",
+        "documentId": {
+          "__rl": true,
+          "value": "YOUR_GOOGLE_SHEET_ID",
+          "mode": "list",
+          "cachedResultName": "Coerde Veranstaltungen Review",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/YOUR_GOOGLE_SHEET_ID/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": 1736912635,
+          "mode": "list",
+          "cachedResultName": "events_current",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/YOUR_GOOGLE_SHEET_ID/edit#gid=1736912635"
+        },
+        "keepFirstRow": true
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        896,
+        272
+      ],
+      "id": "ae66b74a-f070-4af3-a672-04c249753003",
+      "name": "Clear events_current",
+      "retryOnFail": false,
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "REPLACE_WITH_YOUR_CREDENTIAL_ID",
+          "name": "Google Sheets account 2"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "const inputItems = $input.all();\n\nreturn [\n  {\n    json: {\n      clear_sheet: true,\n      source_item_count: inputItems.length,\n      cleared_at: new Date().toISOString()\n    }\n  }\n];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        704,
+        272
+      ],
+      "id": "cca14caf-9052-4cb9-98d3-3621984ef0cd",
+      "name": "Prepare Clear Once"
+    },
+    {
+      "parameters": {
+        "mode": "chooseBranch"
+      },
+      "type": "n8n-nodes-base.merge",
+      "typeVersion": 3.2,
+      "position": [
+        1104,
+        128
+      ],
+      "id": "e8b82c06-f577-4415-ab68-0c3be6b22b61",
+      "name": "Merge"
+    },
+    {
+      "parameters": {
+        "jsCode": "// ============================================================================\n// Node:    „Serientermine kennzeichnen“\n// Typ:     Code-Node, Modus „Run Once for All Items“, Sprache JavaScript\n// Ort:     Workflow „2. Coerde Termine prüfen“, direkt VOR „Append to events_current“\n//          (optional zusätzlich in Workflow 1 vor „Build GitHub OpenData Payloads“)\n//\n// Zweck:   Ergänzt jeden Termin um eine Serien-Kennzeichnung, ohne bestehende\n//          Felder zu verändern. Neue Felder (immer am Ende des Items):\n//\n//   series_id     stabile ID, für alle Termine derselben Serie identisch,\n//                 z. B. \"ser_3f9a1c07b2d4\" (\"\" = kein Serientermin)\n//   series_type   weekly | biweekly | monthly | block | irregular | \"\"\n//   is_recurring  \"ja\" bei regelmäßiger Wiederholung (weekly/biweekly/monthly),\n//                 sonst \"nein\"\n//   series_label  lesbarer Text, z. B. \"wöchentlich, freitags\",\n//                 \"monatlich, jeden 3. Freitag\", \"täglich, 26.10.–30.10.2026\"\n//   series_count  Anzahl Termine dieser Serie im aktuellen Datenbestand\n//\n// Erkennung (in dieser Reihenfolge):\n//   0. Manuelle Serien aus CONFIG.MANUAL_SERIES (Titel-Muster → fester Name)\n//   1. FaBi-Kurse: Kursnummer aus der Kurs-URL (…/kurssuche/kurs/<slug>/<kursnr>)\n//   2. Stadt Münster Veranstaltungskalender: eventInfoId aus der Detail-URL\n//      (…/veranstaltungskalender/-/detail/<eventInfoId>/<eventDateId>/…)\n//   3. Alle anderen: source_id + normalisierter Titel + Startzeit\n//   Einzeltermine werden nur dann als Serie markiert, wenn Titel/Beschreibung\n//   eine Wiederholung nennen (\"monatlich\", \"jeden ersten Donnerstag\",\n//   \"wöchentlich\", \"jeden Freitag\" …) UND Wochentag/Ordnungszahl zum Datum passen.\n//\n// Hinweise:\n//   - Läuft in der Task-Runner-Sandbox: keine URL-Klasse, kein require().\n//   - Feldnamen werden tolerant gelesen, Groß-/Kleinschreibung egal:\n//     Sheet-Spalten (Titel, URL, Kurzbeschreibung, date_start, time_start,\n//     source_id) und Open-Data-Namen (title, source_url, short_description,\n//     start_date, start_time). Geschrieben werden nur die 5 neuen Felder.\n//   - Am Ende prüft der Node, ob überhaupt Serienschlüssel gebildet wurden,\n//     und meldet sonst im Log, welche Felder fehlen.\n//\n// Zeitfenster (Stand 06.11.2026):\n//   „Prepare Current Rows“ hat keine Obergrenze mehr. Dieser Node entfernt am\n//   Ende nur Termine REGELMÄSSIGER Serien (is_recurring = \"ja\", also\n//   wöchentlich, 14-täglich, monatlich), die weiter als\n//   CONFIG.RECURRING_MAX_MONTHS in der Zukunft liegen. Einzeltermine,\n//   Mehrtagesveranstaltungen (\"block\") und unregelmäßige Reihen (\"irregular\",\n//   z. B. Theater-Aufführungen) bleiben ohne Obergrenze erhalten.\n//   Die Serien werden vorher aus ALLEN Terminen erkannt; series_count wird nach\n//   dem Kürzen neu gezählt und passt damit zu den angezeigten Terminen.\n// ============================================================================\n\nconst CONFIG = {\n  // Serientypen, die als \"regelmäßig\" gelten (is_recurring = \"ja\")\n  RECURRING_TYPES: ['weekly', 'biweekly', 'monthly'],\n  // Einzeltermine mit Wiederholungs-Hinweis im Text als Serie markieren\n  USE_TEXT_SIGNALS_FOR_SINGLES: true,\n  // \"block\": alle Abstände <= so viele Tage (Ferienkurs Mo–Fr, Vorstellungsreihe)\n  BLOCK_MAX_GAP_DAYS: 3,\n  // Kurs gilt trotz einzelner Zusatztermine als wöchentlich, wenn der häufigste\n  // Wochentag mindestens diesen Anteil der Termine stellt\n  DOMINANT_WEEKDAY_SHARE: 0.7,\n  // Werte für is_recurring (passend zum bestehenden Feld publish = \"nein\")\n  YES: 'ja',\n  NO: 'nein',\n  // true = zusätzliches Feld series_key zur Fehlersuche (nicht für die App)\n  INCLUDE_DEBUG_KEY: false,\n  // Regelmäßige Serientermine nur bis heute + so viele Monate ausgeben.\n  // null = keine Grenze. Gilt nur für is_recurring = \"ja\".\n  RECURRING_MAX_MONTHS: 6,\n  // Zeitzone für \"heute\"\n  TIMEZONE: 'Europe/Berlin',\n\n  // Manuelle Serien: für Reihen, deren Einzeltermine unterschiedliche Titel\n  // oder IDs haben und deshalb nicht automatisch zusammenfinden.\n  //   source_id: optional, nur diese Quelle\n  //   title:     regulärer Ausdruck auf den Original-Titel\n  //   name:      fester Serienname → bestimmt die series_id (nicht mehr ändern)\n  MANUAL_SERIES: [\n    // Stadt Münster: jede Workshop-Folge hat eigenen Titel + eigene eventInfoId\n    { title: /^Smartphone-Workshop für ältere Menschen\\s*\\|\\s*Coerde/i, name: 'smartphone-workshop-coerde' },\n  ],\n};\n\n// ---------------------------------------------------------------------------\n// Hilfsfunktionen: Felder lesen\n// ---------------------------------------------------------------------------\n// Liest das erste nicht-leere Feld aus der Liste. Groß-/Kleinschreibung und\n// Leerzeichen am Rand des Spaltennamens werden ignoriert (\"URL\" = \"url\").\nfunction pick(obj, keys) {\n  const lower = {};\n  for (const k of Object.keys(obj)) lower[k.trim().toLowerCase()] = obj[k];\n  for (const k of keys) {\n    const v = lower[k.toLowerCase()];\n    if (v !== undefined && v !== null && String(v).trim() !== '') return v;\n  }\n  return '';\n}\n\n// Spaltennamen im Sheet events_current/events_review (deutsch) zuerst,\n// danach die englischen Namen aus dem Open-Data-Schema\nconst getTitle = (j) => String(pick(j, ['Titel', 'title', 'name', 'summary']));\nconst getSourceId = (j) => String(pick(j, ['source_id', 'sourceId', 'source']));\nconst getUrl = (j) => String(pick(j, ['URL', 'source_url', 'event_url', 'link']));\nconst getDescription = (j) =>\n  String(pick(j, ['Kurzbeschreibung', 'short_description', 'description', 'beschreibung']));\n\n// Datum → \"YYYY-MM-DD\" (akzeptiert ISO, ISO mit Uhrzeit, DD.MM.YYYY,\n// Google-Sheets-Seriennummer)\nfunction toIsoDate(v) {\n  if (v === undefined || v === null || v === '') return '';\n  if (typeof v === 'number' && isFinite(v) && v > 20000 && v < 80000) {\n    const ms = Math.round((v - 25569) * 86400000); // Sheets-Epoche 1899-12-30\n    return new Date(ms).toISOString().slice(0, 10);\n  }\n  const s = String(v).trim();\n  let m = s.match(/^(\\d{4})-(\\d{2})-(\\d{2})/);\n  if (m) return `${m[1]}-${m[2]}-${m[3]}`;\n  m = s.match(/^(\\d{1,2})\\.(\\d{1,2})\\.(\\d{4})/);\n  if (m) return `${m[3]}-${m[2].padStart(2, '0')}-${m[1].padStart(2, '0')}`;\n  if (/^\\d{5}(\\.\\d+)?$/.test(s)) return toIsoDate(Number(s));\n  return '';\n}\n\n// Uhrzeit → \"HH:MM\" oder \"\" (ganztägig/unbekannt)\nfunction toTime(v) {\n  if (v === undefined || v === null || v === '') return '';\n  if (typeof v === 'number' && v >= 0 && v < 1) {\n    const mins = Math.round(v * 1440);\n    return `${String(Math.floor(mins / 60)).padStart(2, '0')}:${String(mins % 60).padStart(2, '0')}`;\n  }\n  const m = String(v).trim().match(/^(\\d{1,2})[:.](\\d{2})/);\n  return m ? `${m[1].padStart(2, '0')}:${m[2]}` : '';\n}\n\nconst getDate = (j) => toIsoDate(pick(j, ['date_start', 'start_date', 'startDate', 'Datum', 'date']));\nconst getTime = (j) => toTime(pick(j, ['time_start', 'start_time', 'startTime', 'Uhrzeit']));\n\n// ---------------------------------------------------------------------------\n// Hilfsfunktionen: Text, Hash, Datum\n// ---------------------------------------------------------------------------\nfunction normText(s) {\n  return String(s || '')\n    .toLowerCase()\n    .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')\n    .normalize('NFD').replace(/[\\u0300-\\u036f]/g, '')\n    .replace(/[^a-z0-9]+/g, ' ')\n    .trim();\n}\n\n// FNV-1a 32 Bit, zweimal mit unterschiedlichem Startwert → 12 Hex-Zeichen\nfunction fnv1a(str, seed) {\n  let h = seed >>> 0;\n  for (let i = 0; i < str.length; i++) {\n    h ^= str.charCodeAt(i);\n    h = Math.imul(h, 0x01000193) >>> 0;\n  }\n  return h.toString(16).padStart(8, '0');\n}\nconst makeSeriesId = (key) =>\n  'ser_' + (fnv1a(key, 0x811c9dc5) + fnv1a(key, 0x9e3779b9)).slice(0, 12);\n\nconst WD_ADVERB = ['sonntags', 'montags', 'dienstags', 'mittwochs', 'donnerstags', 'freitags', 'samstags'];\nconst WD_NOUN = ['Sonntag', 'Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag'];\nconst WD_ORDER = [1, 2, 3, 4, 5, 6, 0]; // Mo … So für die Ausgabe\n\nfunction parseIso(iso) {\n  const [y, m, d] = iso.split('-').map(Number);\n  return new Date(Date.UTC(y, m - 1, d));\n}\nconst weekday = (iso) => parseIso(iso).getUTCDay();\nconst dayDiff = (a, b) => Math.round((parseIso(b) - parseIso(a)) / 86400000);\nfunction nthOfMonth(iso) {\n  const d = parseIso(iso);\n  const day = d.getUTCDate();\n  const dim = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth() + 1, 0)).getUTCDate();\n  return { nth: Math.ceil(day / 7), isLast: day + 7 > dim };\n}\nfunction fmtDate(iso, withYear) {\n  const [y, m, d] = iso.split('-');\n  return withYear ? `${d}.${m}.${y}` : `${d}.${m}.`;\n}\nfunction joinDe(list) {\n  if (list.length <= 1) return list.join('');\n  return list.slice(0, -1).join(', ') + ' und ' + list[list.length - 1];\n}\nconst weekdaysLabel = (wds) =>\n  joinDe(WD_ORDER.filter((w) => wds.includes(w)).map((w) => WD_ADVERB[w]));\n\n// ---------------------------------------------------------------------------\n// Serien-Schlüssel\n// ---------------------------------------------------------------------------\nfunction seriesKey(j) {\n  const url = getUrl(j);\n\n  // 0) Manuelle Serien aus CONFIG.MANUAL_SERIES\n  const rawTitle = getTitle(j);\n  const srcNorm = normText(getSourceId(j));\n  for (const r of CONFIG.MANUAL_SERIES) {\n    if (r.source_id && normText(r.source_id) !== srcNorm) continue;\n    if (r.title && r.title.test(rawTitle)) return `man|${r.name}`;\n  }\n\n  // 1) FaBi / KuferWeb-Kursnummer: …/kurssuche/kurs/<slug>/<kursnr>\n  let m = url.match(/\\/kurssuche\\/kurs\\/[^\\/?#]+\\/([A-Za-z0-9][A-Za-z0-9.\\-]*)\\/?(?:[?#]|$)/i);\n  if (m) return `kurs|${(url.match(/^https?:\\/\\/([^\\/?#]+)/i) || [, ''])[1].toLowerCase()}|${m[1]}`;\n\n  // 2) Stadt Münster Veranstaltungskalender: …/detail/<eventInfoId>/<eventDateId>\n  m = url.match(/stadt-muenster\\.de\\/veranstaltungskalender\\/-\\/detail\\/(\\d+)\\/\\d+/i);\n  if (m) return `smk|${m[1]}`;\n\n  // 3) Generisch\n  const title = normText(getTitle(j));\n  if (!title) return '';\n  return `gen|${normText(getSourceId(j))}|${title}|${getTime(j) || 'ganztag'}`;\n}\n\n// ---------------------------------------------------------------------------\n// Klassifikation aus den Daten (>= 2 verschiedene Daten)\n// ---------------------------------------------------------------------------\nfunction classifySameWeekday(dates) {\n  // dates: sortiert, eindeutig, alle derselbe Wochentag, Länge >= 2\n  const diffs = dates.slice(1).map((d, i) => dayDiff(dates[i], d));\n  const minDiff = Math.min(...diffs);\n  const ords = dates.map(nthOfMonth);\n\n  if (minDiff === 7 && diffs.every((x) => x % 7 === 0)) return { type: 'weekly' };\n  if (diffs.every((x) => x === 14)) return { type: 'biweekly' };\n\n  // monatlich, eine Ordnungszahl (z. B. jeden 3. Freitag / jeden letzten Sonntag)\n  if (diffs.every((x) => x === 28 || x === 35)) {\n    if (ords.every((o) => o.nth === ords[0].nth)) return { type: 'monthly', ords: [ords[0].nth] };\n    if (ords.every((o) => o.isLast)) return { type: 'monthly', ords: ['last'] };\n  }\n  // monatlich, zwei Ordnungszahlen (z. B. 2. und 4. Montag) – erst ab 3 Terminen\n  const nthSet = [...new Set(ords.map((o) => o.nth))].sort();\n  if (dates.length >= 3 && nthSet.length === 2 && diffs.every((x) => x >= 14 && x <= 21)) {\n    return { type: 'monthly', ords: nthSet };\n  }\n  if (minDiff >= 14 && diffs.every((x) => x % 14 === 0)) return { type: 'biweekly' };\n  return { type: 'irregular' };\n}\n\nfunction classify(dates) {\n  const n = dates.length;\n  const diffs = dates.slice(1).map((d, i) => dayDiff(dates[i], d));\n  const first = dates[0];\n  const last = dates[n - 1];\n  const sameYear = first.slice(0, 4) === last.slice(0, 4);\n  const range = `${fmtDate(first, !sameYear)}–${fmtDate(last, true)}`;\n\n  // Block: dicht aufeinanderfolgende Tage\n  if (diffs.every((x) => x <= CONFIG.BLOCK_MAX_GAP_DAYS)) {\n    const daily = diffs.every((x) => x === 1);\n    return {\n      type: 'block',\n      label: daily ? `täglich, ${range}` : `an ${n} Tagen, ${range}`,\n    };\n  }\n\n  // Nach Wochentag aufteilen\n  const byWd = {};\n  for (const d of dates) (byWd[weekday(d)] = byWd[weekday(d)] || []).push(d);\n  const wds = Object.keys(byWd).map(Number);\n\n  // Kurs mit wenigen Zusatzterminen (z. B. mittwochs + ein Wald-Wochenende):\n  // dominanter Wochentag trägt das Muster, Rest wird als Zusatztermine genannt\n  const domWd = wds.reduce((a, b) => (byWd[b].length > byWd[a].length ? b : a), wds[0]);\n  const domDates = byWd[domWd];\n  if (wds.length > 1 && domDates.length >= 3 && domDates.length / n >= CONFIG.DOMINANT_WEEKDAY_SHARE) {\n    const r = classifySameWeekday(domDates);\n    const extra = n - domDates.length;\n    const extraTxt = ` (+${extra} Zusatztermin${extra === 1 ? '' : 'e'})`;\n    if (r.type === 'weekly') return { type: 'weekly', label: `wöchentlich, ${WD_ADVERB[domWd]}${extraTxt}` };\n    if (r.type === 'biweekly') return { type: 'biweekly', label: `alle 2 Wochen, ${WD_ADVERB[domWd]}${extraTxt}` };\n  }\n\n  if (wds.every((w) => byWd[w].length >= 2)) {\n    const results = wds.map((w) => classifySameWeekday(byWd[w]));\n    const t = results[0].type;\n    const sameType = results.every((r) => r.type === t);\n    if (sameType && t === 'weekly') {\n      return { type: 'weekly', label: `wöchentlich, ${weekdaysLabel(wds)}` };\n    }\n    if (sameType && t === 'biweekly') {\n      return { type: 'biweekly', label: `alle 2 Wochen, ${weekdaysLabel(wds)}` };\n    }\n    if (sameType && t === 'monthly' && wds.length === 1) {\n      const o = results[0].ords;\n      const ordTxt = o[0] === 'last' ? 'letzten' : o.map((x) => `${x}.`).join(' und ');\n      return { type: 'monthly', label: `monatlich, jeden ${ordTxt} ${WD_NOUN[wds[0]]}` };\n    }\n  }\n  return { type: 'irregular', label: `mehrere Termine (${n}), ${range}` };\n}\n\n// ---------------------------------------------------------------------------\n// Textsignale für Einzeltermine\n// ---------------------------------------------------------------------------\nconst WD_RE = '(montag|dienstag|mittwoch|donnerstag|freitag|samstag|sonntag)';\nconst ORD_RE = '(ersten|zweiten|dritten|vierten|fuenften|letzten|[1-5]\\\\.)';\nconst WD_INDEX = { sonntag: 0, montag: 1, dienstag: 2, mittwoch: 3, donnerstag: 4, freitag: 5, samstag: 6 };\nconst ORD_INDEX = { ersten: 1, zweiten: 2, dritten: 3, vierten: 4, fuenften: 5, letzten: 'last' };\nconst ordVal = (s) => (ORD_INDEX[s] !== undefined ? ORD_INDEX[s] : Number(String(s).replace('.', '')));\n\n// Umlaute vereinheitlichen, Satzzeichen wie \"2.\" erhalten\nconst searchText = (j) =>\n  `${getTitle(j)} ${getDescription(j)}`\n    .toLowerCase()\n    .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')\n    .replace(/\\s+/g, ' ');\n\n// Monatsmuster mit Ordnungszahl. Gilt nur als Wiederholung bei\n// \"jeden/jedem ersten Donnerstag\" oder \"… Donnerstag im Monat / des Monats\".\n// \"am ersten Sonntag im November\" ist ein Einzeltermin und zählt nicht.\nconst RE_ORD_JEDEN = new RegExp(\n  `(?:jeden|jedem)\\\\s+${ORD_RE}\\\\s*(?:(?:und|&|u\\\\.)\\\\s*${ORD_RE}\\\\s*)?${WD_RE}`\n);\nconst RE_ORD_IM_MONAT = new RegExp(\n  `${ORD_RE}\\\\s*(?:(?:und|&|u\\\\.)\\\\s*${ORD_RE}\\\\s*)?${WD_RE}\\\\s+(?:im|des|eines|jedes)\\\\s+monats?\\\\b`\n);\nconst RE_JEDEN_WD = new RegExp(`\\\\bjeden\\\\s+${WD_RE}`);\n\n// Wochentage, die der Text ausdrücklich als Wiederholung nennt (für Plausibilitätsprüfung)\nfunction textWeekdays(j) {\n  const txt = searchText(j);\n  const found = new Set();\n  for (const re of [RE_ORD_JEDEN, RE_ORD_IM_MONAT]) {\n    const m = txt.match(re);\n    if (m) found.add(WD_INDEX[m[3]]);\n  }\n  const m = txt.match(RE_JEDEN_WD);\n  if (m) found.add(WD_INDEX[m[1]]);\n  return [...found];\n}\n\nfunction textSignal(j, iso) {\n  const txt = searchText(j);\n  const wdOfDate = weekday(iso);\n  const pos = nthOfMonth(iso);\n\n  // monatlich mit Ordnungszahl\n  let m = txt.match(RE_ORD_JEDEN) || txt.match(RE_ORD_IM_MONAT);\n  if (m) {\n    const o1 = ordVal(m[1]);\n    const o2 = m[2] ? ordVal(m[2]) : null;\n    const wd = WD_INDEX[m[3]];\n    const fits = (o) => (o === 'last' ? pos.isLast : o === pos.nth);\n    if (wd === wdOfDate && (fits(o1) || (o2 !== null && fits(o2)))) {\n      const ordTxt = [o1, o2]\n        .filter((o) => o !== null)\n        .map((o) => (o === 'last' ? 'letzten' : `${o}.`))\n        .join(' und ');\n      return { type: 'monthly', label: `monatlich, jeden ${ordTxt} ${WD_NOUN[wd]}` };\n    }\n    return null; // Text nennt ein Muster, das nicht zum Datum passt → nicht raten\n  }\n\n  if (/\\bmonatlich|\\bjeden monat\\b|\\beinmal im monat\\b/.test(txt)) {\n    return { type: 'monthly', label: 'monatlich' };\n  }\n\n  if (/14-taegig|vierzehntaegig|zweiwoechentlich|alle (zwei|2) wochen/.test(txt)) {\n    return { type: 'biweekly', label: `alle 2 Wochen, ${WD_ADVERB[wdOfDate]}` };\n  }\n\n  // wöchentlich: \"jeden Freitag\" / \"wöchentlich\"\n  m = txt.match(RE_JEDEN_WD);\n  if (m) {\n    return WD_INDEX[m[1]] === wdOfDate\n      ? { type: 'weekly', label: `wöchentlich, ${WD_ADVERB[wdOfDate]}` }\n      : null;\n  }\n  if (/\\bwoechentlich|\\bjede woche\\b/.test(txt)) {\n    return { type: 'weekly', label: `wöchentlich, ${WD_ADVERB[wdOfDate]}` };\n  }\n  return null;\n}\n\n// ---------------------------------------------------------------------------\n// Hauptlogik\n// ---------------------------------------------------------------------------\nconst items = $input.all();\n\n// 1) Gruppen bilden\nconst groups = new Map(); // key → { dates:Set, first:Index }\nconst keys = items.map((item, i) => {\n  const j = item.json || {};\n  const iso = getDate(j);\n  const key = iso ? seriesKey(j) : '';\n  if (key) {\n    if (!groups.has(key)) groups.set(key, { dates: new Set(), first: i });\n    groups.get(key).dates.add(iso);\n  }\n  return key;\n});\n\n// 2) Gruppen klassifizieren + Plausibilität Text vs. Termine prüfen\nconst info = new Map(); // key → { series_id, series_type, label, count }\nconst warnings = [];\nfor (const [key, g] of groups) {\n  const dates = [...g.dates].sort();\n  if (dates.length >= 2) {\n    const c = classify(dates);\n    info.set(key, {\n      series_id: makeSeriesId(key),\n      series_type: c.type,\n      series_label: c.label,\n      series_count: dates.length,\n    });\n    const named = textWeekdays(items[g.first].json || {});\n    const actual = new Set(dates.map(weekday));\n    if (named.some((w) => !actual.has(w))) {\n      warnings.push(\n        `${getTitle(items[g.first].json)} (${getSourceId(items[g.first].json)}): ` +\n          `Text nennt ${named.map((w) => WD_NOUN[w]).join('/')}, Termine liegen ${weekdaysLabel([...actual])}`\n      );\n    }\n  }\n}\n\n// 3) Felder anhängen\nconst stats = {};\nconst out = items.map((item, i) => {\n  const j = item.json || {};\n  const key = keys[i];\n  let s = key ? info.get(key) : undefined;\n\n  if (!s && key && CONFIG.USE_TEXT_SIGNALS_FOR_SINGLES) {\n    const sig = textSignal(j, getDate(j));\n    if (sig) {\n      s = { series_id: makeSeriesId(key), series_type: sig.type, series_label: sig.label, series_count: 1 };\n    }\n  }\n\n  const fields = s\n    ? {\n        series_id: s.series_id,\n        series_type: s.series_type,\n        is_recurring: CONFIG.RECURRING_TYPES.includes(s.series_type) ? CONFIG.YES : CONFIG.NO,\n        series_label: s.series_label,\n        series_count: s.series_count,\n      }\n    : { series_id: '', series_type: '', is_recurring: CONFIG.NO, series_label: '', series_count: '' };\n\n  if (CONFIG.INCLUDE_DEBUG_KEY) fields.series_key = key;\n  stats[fields.series_type || 'einzel'] = (stats[fields.series_type || 'einzel'] || 0) + 1;\n\n  return { json: { ...j, ...fields }, pairedItem: { item: i } };\n});\n\nconsole.log('Serientermine kennzeichnen – Verteilung:', JSON.stringify(stats));\n\n// 4) Regelmäßige Serien auf CONFIG.RECURRING_MAX_MONTHS begrenzen\nfunction todayIsoInZone(timeZone) {\n  const parts = new Intl.DateTimeFormat('en-CA', {\n    timeZone,\n    year: 'numeric',\n    month: '2-digit',\n    day: '2-digit',\n  }).formatToParts(new Date());\n  const map = {};\n  for (const p of parts) map[p.type] = p.value;\n  return `${map.year}-${map.month}-${map.day}`;\n}\n\nfunction addMonthsToIso(iso, months) {\n  const [y, m, d] = iso.split('-').map(Number);\n  const date = new Date(Date.UTC(y, m - 1, d));\n  date.setUTCMonth(date.getUTCMonth() + months);\n  return date.toISOString().slice(0, 10);\n}\n\nlet result = out;\nif (CONFIG.RECURRING_MAX_MONTHS !== null && CONFIG.RECURRING_MAX_MONTHS !== undefined) {\n  const limitIso = addMonthsToIso(todayIsoInZone(CONFIG.TIMEZONE), CONFIG.RECURRING_MAX_MONTHS);\n  const dropped = {};\n  result = out.filter((o) => {\n    const j = o.json;\n    if (j.is_recurring !== CONFIG.YES) return true;\n    const iso = getDate(j);\n    if (!iso || iso <= limitIso) return true;\n    dropped[j.series_id] = (dropped[j.series_id] || 0) + 1;\n    return false;\n  });\n\n  // series_count an die verbleibenden Termine anpassen (verschiedene Daten je Serie)\n  const keptDates = new Map();\n  for (const o of result) {\n    const sid = o.json.series_id;\n    if (!sid) continue;\n    if (!keptDates.has(sid)) keptDates.set(sid, new Set());\n    keptDates.get(sid).add(getDate(o.json));\n  }\n  for (const o of result) {\n    const sid = o.json.series_id;\n    if (sid && typeof o.json.series_count === 'number' && dropped[sid]) {\n      o.json.series_count = keptDates.get(sid).size;\n    }\n  }\n\n  const droppedTotal = Object.values(dropped).reduce((a, b) => a + b, 0);\n  console.log(\n    `Serientermine kennzeichnen – Grenze für regelmäßige Serien: ${limitIso}. ` +\n      `Entfernt: ${droppedTotal} Termine aus ${Object.keys(dropped).length} Serien. Ausgegeben: ${result.length} von ${out.length}.`\n  );\n}\n\n// Selbstprüfung: wurden überhaupt Schlüssel gebildet? Wenn nicht, passen die\n// Feldnamen nicht – dann die tatsächlich vorhandenen Spalten ins Log schreiben.\nconst keyed = keys.filter((k) => k).length;\nif (items.length && keyed === 0) {\n  const sample = items[0].json || {};\n  console.log(\n    'Serientermine kennzeichnen – WARNUNG: kein Termin auswertbar. ' +\n      `Datum gefunden: ${getDate(sample) || 'nein'}, Titel gefunden: ${getTitle(sample) ? 'ja' : 'nein'}, ` +\n      `URL gefunden: ${getUrl(sample) ? 'ja' : 'nein'}. Vorhandene Felder: ${Object.keys(sample).join(', ')}`\n  );\n}\nif (warnings.length) console.log('Serientermine kennzeichnen – Text passt nicht zu den Terminen:\\n' + warnings.join('\\n'));\nreturn result;"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1248,
+        128
+      ],
+      "id": "2537baec-c44b-4dc5-82d6-7a1011eaf838",
+      "name": "Serientermine kennzeichnen"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Manual Trigger": {
+      "main": [
+        [
+          {
+            "node": "Read events_review",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read events_review": {
+      "main": [
+        [
+          {
+            "node": "Prepare Current Rows",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Prepare Current Rows": {
+      "main": [
+        [
+          {
+            "node": "Prepare Clear Once",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Merge",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Clear events_current": {
+      "main": [
+        [
+          {
+            "node": "Merge",
+            "type": "main",
+            "index": 1
+          }
+        ]
+      ]
+    },
+    "Daily Schedule Trigger": {
+      "main": [
+        [
+          {
+            "node": "Read events_review",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Prepare Clear Once": {
+      "main": [
+        [
+          {
+            "node": "Clear events_current",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Merge": {
+      "main": [
+        [
+          {
+            "node": "Serientermine kennzeichnen",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Serientermine kennzeichnen": {
+      "main": [
+        [
+          {
+            "node": "Append to events_current",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "availableInMCP": false,
+    "timeSavedMode": "fixed",
+    "callerPolicy": "workflowsFromSameOwner"
+  },
+  "nodeGroups": [],
+  "tags": []
+}
